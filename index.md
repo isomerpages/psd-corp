@@ -8,20 +8,19 @@ notification: "Maintenance announcement: "
 sections:
   - hero:
       title: Public Service Division
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      subtitle: We are the heart of Public Service
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Challenge Online
+          description: Read for ideas and inspiration!
+          url: https://www.psd.gov.sg/challenge
+        - title: Heart of Public Service
+          description: The people and institutions that make us
+          url: https://www.psd.gov.sg/heartofpublicservice
+        - title: ServiceSG
+          description: Citizens' first-stop for govt services
+          url: https://www.psd.gov.sg/transformation/servicesg
   - infobar:
       title: Infobar title
       subtitle: Subtitle
