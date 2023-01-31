@@ -21,6 +21,7 @@ sections:
         - title: ServiceSG
           description: Citizens' first-stop for govt services
           url: https://www.psd.gov.sg/transformation/servicesg
+      background: /images/isomerhero-darkmode-10s.gif
   - infobar:
       title: Infobar title
       subtitle: Subtitle
