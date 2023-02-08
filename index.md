@@ -9,8 +9,6 @@ sections:
   - hero:
       title: Public Service Division
       subtitle: We are the heart of Public Service
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Challenge Online
           description: Read for ideas and inspiration!
