@@ -20,12 +20,6 @@ sections:
           description: Citizens' first-stop for govt services
           url: https://www.psd.gov.sg/transformation/servicesg
       background: /images/isomerhero-darkmode-10s.gif
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - resources:
       subtitle: Press Room
 ---
