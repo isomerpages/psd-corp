@@ -51,4 +51,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d27it2eint85za.amplifyapp.com
 prod: https://master.d27it2eint85za.amplifyapp.com
-resources_name: speeches
+resources_name: press-room
