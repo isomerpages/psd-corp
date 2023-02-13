@@ -1,7 +1,10 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Public Service Division
+description: The Public Service Division nurtures, guides and supports the
+  health, well-being and performance of public officers. We steward One Trusted
+  Public Service to deliver excellent public service and enable effective
+  government.
 image: /images/isomer-logo.svg
 permalink: /
 notification: "Maintenance announcement: "
@@ -23,3 +26,4 @@ sections:
   - resources:
       subtitle: Press Room
 ---
+
