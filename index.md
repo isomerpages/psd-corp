@@ -17,7 +17,7 @@ sections:
           description: Read for ideas and inspiration!
           url: https://www.psd.gov.sg/challenge
         - title: Heart of Public Service
-          description: The people and institutions that make us
+          description: Read more about the people and institutions that make us
           url: https://www.psd.gov.sg/heartofpublicservice
         - title: ServiceSG
           description: Citizens' first-stop for govt services
@@ -26,4 +26,3 @@ sections:
   - resources:
       subtitle: Press Room
 ---
-
