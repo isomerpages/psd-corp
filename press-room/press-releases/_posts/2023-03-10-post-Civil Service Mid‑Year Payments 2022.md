@@ -6,8 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-**<p align=centre>Civil servants to receive 0.35-month mid-year bonus;   
-Junior grade officers get an additional one-time payment of $200 or $400. </p>**
+**Civil servants to receive 0.35-month mid-year bonus;   
+Junior grade officers get an additional one-time payment of $200 or $400.**
 
 **_In close consultation with the public sector unions, the Government has decided on the mid-year payment of 0.35 month for all civil servants. Civil servants in grades equivalent to MX13(I) and MX14 will receive an additional one-time payment of $200, while those in grades equivalent to MX15 and MX16, and those in the Operations Support Scheme (OSS) Grades III to V will receive a higher one-time payment of $400. This mid-year payment takes into consideration that Singapore’s GDP growth in 2022 is likely to come in at the lower half of the forecast range of 3.0% to 5.0%. The Government deeply appreciates the hard work and contribution of all public officers._**  
   
