@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Oral Reply to Parliamentary Question on one-time wage adjustment for civil servants **  
+**Oral Reply to Parliamentary Question on one-time wage adjustment for civil servants**  
 
 **Parliamentary Sitting: 28 Nov 2022**  
   
