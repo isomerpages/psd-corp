@@ -7,3 +7,56 @@ layout: post
 description: ""
 image: ""
 ---
+**Parliamentary Sitting: 14 April 2014**
+
+Ms Tan Su Shan: To ask the Prime Minister what more can be done to revamp the public service machinery, particularly those targeting the same outcomes, so that various Government organisations do not work in silos but are encouraged to share resources and work together for better efficiency and co-ordinated outcomes.  
+  
+  
+**Written Reply by Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security, Minister in charge of the Civil Service and Minister for Home Affairs:**
+
+    The Public Service and the various agencies recognise that issues are increasingly complex and inter-related, requiring multiple agencies to work together. Whole-of-government and interagency coordination is achieved at three levels: strategy, organisation and operations.
+
+**Strategy and joint outcomes**
+
+2.    The Government has established strategic outcomes at the whole-of-government level. These include:
+
+a.   A nation of opportunity;  
+b.   A society that cares for its people;  
+c.   A liveable and endearing home;  
+d.   A safe, secure and influential Singapore;  
+e.   A cohesive and resilient community; and  
+f.     A high-performance and trusted government.
+
+These strategic outcomes serve as unifying objectives that our agencies work to achieve together. For example, “A Nation of Opportunity” covers issues ranging from giving opportunities to every child, creating good jobs and sustaining income growth for Singaporeans. These whole-of-government strategic outcomes facilitate interagency coordination, resource allocation, and performance management.
+
+3.    Funding and manpower resources are allocated according to these priorities to achieve these shared outcomes. Agencies are evaluated not just on achieving their agency’s mandate, but also by how they contribute to these shared outcomes.
+
+4.    The Singapore Public Sector Outcomes Report (SPOR) takes stock of how Singapore has fared in key areas of national interest. This allows Singaporeans to see how well our agencies are doing in achieving our whole-of-government strategic outcomes.
+
+**Organisational structures**
+
+5.    When needed, we have restructured organisations to better meet the needs of Singaporeans and to achieve our whole-of-government objectives. The new Early Childhood Development Agency (ECDA) was inaugurated last year to integrate all agencies setting policies and implementing programmes for early childhood care and education. In 2012, the government also restructured the responsibilities of two ministries to establish the Ministry of Culture, Community and Youth (MCCY), in order to sharpen focus on social and community issues.
+
+6.    There are also inter-agency committees and platforms to deal with issues that span several agencies. These include the National Productivity and Continuing Education Council (NPCEC), the Ministerial Committee on Ageing (MCA), the National Population Committee, and the Security Policy Review Committee.
+
+**Operations**
+
+7.    To provide better service to citizens, government agencies have adopted the No Wrong Door (NWD) and the First Responder Protocol (FRP). NWD channels feedback and service requests from a member of the public quickly to the appropriate agency. The FRP requires a “first responder agency” to quickly resolve interagency requests and issues, even while back-end policy and operational issues are sorted out between relevant agencies. These protocols help ensure that feedback and service requests from the public are addressed quickly.
+
+8.    ICT platforms and services such as SingPass, OneInBox and the Online Business Licensing System, enable agencies to streamline and coordinate services at the back-end, while providing a better integrated experience for citizens and businesses at the front-end.
+
+**Culture of Collaboration**
+
+9.    Ultimately, the Public Service needs a culture of collaboration and officers who work together to achieve joint outcomes.
+
+10.    The Civil Service College (CSC) conducts leadership development programmes which bring together about 1,800 officers a year from different agencies to develop a broader understanding of common outcomes, foster _esprit de corps_, strengthen networks within the public service, and provide opportunities to discuss interagency policies and operational issues.
+
+11.    A key component of an officer’s appraisal is how well the officer works and collaborates with other agencies. This sends a clear signal that the Public Service values officer’s contributions to whole-of-government outcomes.
+
+12.    As part of leadership development, selected officers are also rotated across different ministries and agencies to help them build broader whole-of-government perspectives and networks.
+
+13.    Best Practice Awards for Interagency Collaboration are awarded annually as part of the Excellence in Public Service Awards (ExPSA). In 2014 the Agri-Food & Veterinary Authority (AVA) was conferred this award for partnering agencies to address public feedback on animal-related issues.
+
+**Conclusion**
+
+14.    Singapore continues to confront new and more complex issues which require the Public Service to work more closely across different agencies and new domains, as well as with our people and private sector partners. The Public Service is committed to a continued improvement of its structures, processes and culture of collaboration to achieve collective outcomes. We welcome any specific ideas about areas where the government can be more coordinated.
