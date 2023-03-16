@@ -11,7 +11,7 @@ image: ""
   
 **Mr Dennis Tan Lip Fong**: To ask the Prime Minister in light of the merging of career tracks for graduate and non-graduate civil servants (a) whether different educational qualifications affect compensation, starting pay, training, career progression and exposure for individuals at the same grade; (b) whether civil servants who are recipients of Government or statutory board scholarships have compensation, starting pay, training, career progression and exposure that are different from other civil servants; and (c) how does the Current Estimated Potential model take educational attainment into account.   
   
-**Oral Reply by Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security and Minister in charge of the Civil Service****:**  
+**Oral Reply by Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security and Minister in charge of the Civil Service:**
   
 The objective of merging the career tracks for graduates and non-graduates is to equalise opportunities for career progression and development.   
   
