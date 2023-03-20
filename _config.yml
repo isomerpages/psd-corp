@@ -3,14 +3,14 @@ url: https://www.psd.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#004169"
-  secondary-color: "#ca0733"
+  secondary-color: "#ffffff"
   media-colors:
     - title: media-color-one
-      color: "#1f7459"
+      color: "#2c68fb"
     - title: media-color-two
-      color: "#f0764f"
+      color: "#2254c9"
     - title: media-color-three
-      color: "#ffc347"
+      color: "#183c90"
     - title: media-color-four
       color: "#00838f"
     - title: media-color-five
