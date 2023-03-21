@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  mission-vision-and-values:
     output: true
     order:
       - folder-page.md
