@@ -1,5 +1,5 @@
 collections:
-  mission-vision-and-values:
+  about-psd:
     output: true
     order:
       - folder-page.md
