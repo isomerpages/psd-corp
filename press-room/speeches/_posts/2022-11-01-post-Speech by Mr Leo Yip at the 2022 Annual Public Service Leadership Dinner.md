@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 Deputy Prime Minister Lawrence Wong,  
 Minister Chan Chun Sing,  
 Chairman and Members of the Public Service Commission,  
