@@ -2,5 +2,5 @@ collections:
   about-psd:
     output: true
     order:
-      - Organisational Structure.md
       - Mission, Vision and Values.md
+      - Organisational Structure.md
