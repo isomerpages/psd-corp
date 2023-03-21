@@ -3,5 +3,3 @@ collections:
     output: true
     order:
       - Mission, Vision and Values.md
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
