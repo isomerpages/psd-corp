@@ -7,7 +7,8 @@ layout: post
 description: ""
 image: ""
 ---
-**KEYNOTE ADDRESS BY MINISTER FOR EDUCATION AND MINISTER-IN-CHARGE OF THE PUBLIC SERVICE, MR CHAN CHUN SING AT THE PUBLIC SERVICE COMMISSION SCHOLARSHIPS AWARD CEREMONY**
+**Keynote Address by Minister for Education and Minister-in-charge of the Public Service, Mr Chan Chun Sing at the Public Service Commission Scholarships Award Ceremony**
+
 
 **_The Public Service – Shaping Singapore’s Future in Challenging Times_**
 
