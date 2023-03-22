@@ -9,8 +9,6 @@ image: ""
 ---
 **Speech by Mr Desmond Lee, Minister for Social and Family Development and Second Minister for National Development, at the Public Sector Transformation Awards Reception 2020**
 
-**8 JANUARY 2020, GARDENS BY THE BAY**
-
 Head of Civil Service  
 DSes  
 Colleagues  
