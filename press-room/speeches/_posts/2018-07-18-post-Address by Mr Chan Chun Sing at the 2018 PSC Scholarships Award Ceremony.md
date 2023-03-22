@@ -8,8 +8,6 @@ image: ""
 ---
 **Address by Mr Chan Chun Sing, Minister-in-charge of the Public Service, at the 2018 PSC Scholarships Award Ceremony**
 
-**18 JULY 2018, GRAND COPTHORNE WATERFRONT HOTEL, SINGAPORE**
-
 Chairman and Members of Public Service Commission.   
   
 Recipients, Families, Teachers, Principals, Friends and Colleagues.   
