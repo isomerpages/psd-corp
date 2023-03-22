@@ -8,8 +8,6 @@ image: ""
 ---
 **Speech by Mr Chan Chun Sing, Minister for Trade and Industry and Minister-in-charge of the Public Service at Committee of Supply 2019**
 
-**28 FEBRUARY 2019**
-
 _“Our Public Service – The Pride of Singapore and Singaporeans”_
 
 Mr Chairman Sir,   
