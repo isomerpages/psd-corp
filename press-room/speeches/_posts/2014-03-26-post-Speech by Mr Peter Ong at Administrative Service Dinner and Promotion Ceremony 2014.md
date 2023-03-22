@@ -7,13 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-Checked against delivery
-
-**SPEECH BY MR PETER ONG  
-HEAD, CIVIL SERVICE  
-ADMINISTRATIVE SERVICE DINNER AND PROMOTION CEREMONY  
-26 MARCH 2014**
+**Speech by Mr Peter Ong, Head Civil Service, at Administrative Service Dinner and Promotion Ceremony**
 
 Deputy Prime Minister Teo Chee Hean  
 Deputy Prime Minister Tharman Shanmugaratnam  
@@ -21,7 +15,7 @@ Minister Ng Eng Hen
 Chairman & Members of the Public Service Commission  
 Ladies and Gentlemen
 
-Good evening and welcome to the 26th Administrative Service Dinner and Promotion Ceremony.
+1\.Good evening and welcome to the 26th Administrative Service Dinner and Promotion Ceremony.
 
 2\. We are honoured and privileged to have DPM Tharman Shanmugaratnam as our Guest-of-Honour tonight.
 
