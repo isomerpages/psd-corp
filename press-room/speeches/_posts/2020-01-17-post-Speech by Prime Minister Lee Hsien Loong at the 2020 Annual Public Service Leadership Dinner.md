@@ -8,10 +8,7 @@ description: ""
 image: ""
 ---
 **Speech by Prime Minister Lee Hsien Loong at the 2020 Annual Public Service Leadership Dinner**
-
-**17 JANUARY 2020, SHANGRI-LA HOTEL**
-
-  
+ 
 1\. Chairman and Members of the Public Service Commission, Head, Civil Service, distinguished guests, ladies and gentlemen, a very good evening to all of you.  
   
 2\. I am delighted to join you this evening for the Annual, in fact the first, Public Service Leadership Dinner. It is the first time we are bringing together both the Administrative Service as well as the Public Service Leadership Programme, the PSLP. Collectively, you represent the leadership of the public sector. Tonight, I wish to speak on two related themes. First, building a deeper and more diverse public service leadership corps, to cope with our changing operating environment; and second, how the public service should work with the political leadership to deliver good government for Singapore.  
