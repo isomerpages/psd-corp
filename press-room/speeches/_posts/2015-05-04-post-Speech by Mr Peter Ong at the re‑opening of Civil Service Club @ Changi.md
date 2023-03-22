@@ -6,10 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-SPEECH BY HEAD OF CIVIL SERVICE, MR PETER ONG  
-AT THE RE-OPENING OF CIVIL SERVICE CLUB @ CHANGI,  
-4 MAY 2015, 4.30PM
+**Speech by Head, Civil Service, Mr Peter Ong at the re-opening of Civil Service Club @ Changi**
 
 President Tony Tan Keng Yam  
 Deputy Prime Minister Teo Chee Hean  
