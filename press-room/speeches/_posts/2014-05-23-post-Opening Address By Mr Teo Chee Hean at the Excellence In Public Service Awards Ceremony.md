@@ -9,8 +9,6 @@ image: ""
 ---
 **Opening Address By Deputy Prime Minister Teo Chee Hean, Minister in charge of the Civil Service at the Excellence In Public Service Awards Ceremony**
 
-**FRIDAY, 23 MAY 2014, 4.10 PM, FLOWER FIELD HALL, GARDENS BY THE BAY**
-
 **“Working Together to Serve Singaporeans Better”**
 
 Head of Civil Service,  
@@ -18,7 +16,7 @@ Distinguished Guests,
 Colleagues,  
 Ladies and Gentlemen,
 
-Good Afternoon to all of you. 
+1\. Good Afternoon to all of you. 
 
 2\. I am very happy to join you at this year’s Excellence in Public Service Awards Ceremony at this beautiful location here at Gardens by the Bay.
 
