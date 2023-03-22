@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Speech By Minister Ong Ye Kung, Minister for Education (Higher Education and Skills) and Second Minister for Defence at the 2017 Administrative Service Dinner
+**Speech By Minister Ong Ye Kung, Minister for Education (Higher Education and Skills) and Second Minister for Defence at the 2017 Administrative Service Dinner**
 
 
 **Principles of Public Service Innovation**
