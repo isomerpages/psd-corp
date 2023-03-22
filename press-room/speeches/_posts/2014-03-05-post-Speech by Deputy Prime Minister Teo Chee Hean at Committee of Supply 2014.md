@@ -6,14 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Checked against delivery**
-
-**SPEECH BY DEPUTY PRIME MINISTER TEO CHEE HEAN AND MINISTER IN CHARGE OF THE CIVIL SERVICE**
-
-**PUBLIC SERVICE DIVISION (PRIME MINISTER’S OFFICE)**
-
-**COMMITTEE OF SUPPLY 2014**
-**5 MARCH 2014**
+**Speech by Deputy Prime Minister Teo Chee Hean at Committee of Supply 2014**
 
 1\. Madam Chairperson, I thank Mr Seng Han Thong and Mr Ang Hin Kee for their interest in, and support for, the Public Service. 
 
