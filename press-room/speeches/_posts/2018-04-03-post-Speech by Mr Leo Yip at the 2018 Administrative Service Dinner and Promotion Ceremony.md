@@ -9,7 +9,6 @@ image: ""
 ---
 **Speech by Mr Leo Yip, Head, Civil Service at the 2018 Administrative Service Dinner and Promotion Ceremony**
 
-**3 APRIL 2018, PARKROYAL ON BEACH ROAD**
 
 Deputy Prime Minister Teo Chee Hean,  
 Ministers,  
