@@ -17,7 +17,7 @@ Chairman & Members of the Public Service Commission
 Distinguished Guests  
 Ladies and Gentlemen
 
-Good evening and welcome to the 25th Administrative Service Dinner and Promotion Ceremony.
+1\. Good evening and welcome to the 25th Administrative Service Dinner and Promotion Ceremony.
 
 2\. Every year, we come together as a Community to reconnect with one another; reflect on our purpose, roles, and values in the Public Service; rejoice at the accomplishments of those amongst us; and renew our commitment to serve Singapore and Singaporeans.
 
