@@ -9,8 +9,6 @@ image: ""
 ---
 **Speech by Deputy Prime Minister Teo Chee Hean and Minister in charge of the Civil Service, at the Public Service Awards Ceremony**
 
-**15 OCTOBER 2015, SUNTEC SINGAPORE CONVENTION AND EXHIBITION CENTRE**
-
   
 Friends and colleagues,
 
