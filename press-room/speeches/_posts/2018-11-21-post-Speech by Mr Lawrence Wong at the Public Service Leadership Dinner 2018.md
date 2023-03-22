@@ -8,7 +8,6 @@ image: ""
 ---
 **Speech by Mr Lawrence Wong, Minister for National Development and Second Minister for Finance at the Public Service Leadership Dinner 2018**
 
-**21 NOVEMBER 2018, RESORTS WORLD SENTOSA CONVENTION CENTRE**
 
 DPM Tharman,  
 Minister Chan Chun Sing,  
