@@ -9,7 +9,6 @@ image: ""
 ---
 **Opening Address by Deputy Prime Minister Teo Chee Hean, Minister in charge of the Civil Service at the Excellence in Public Service Awards Ceremony 2013**
 
-**29 MAY 2013 ORCHARD HOTEL GRAND BALLROOM**
 
 Head of Civil Service  
 Distinguished Guests  
