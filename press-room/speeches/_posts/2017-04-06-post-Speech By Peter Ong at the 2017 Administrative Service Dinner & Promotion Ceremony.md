@@ -9,8 +9,6 @@ image: ""
 ---
 **Speech By Head, Civil Service, Mr Peter Ong at the 2017 Administrative Service Dinner & Promotion Ceremony**
 
-**6 APRIL 2017, GRAND COPTHORNE WATERFRONT HOTEL**
-
 **“A Belief In Boldness”**
 
 DPM Teo Chee Hean, DPM Tharman Shanmugaratnam  
