@@ -7,9 +7,9 @@ layout: post
 description: ""
 image: ""
 ---
-**SPEECH BY PRIME MINISTER LEE HSIEN LOONG   
-AT THE 2020 ANNUAL PUBLIC SERVICE LEADERSHIP DINNER   
-17 JANUARY 2020, SHANGRI-LA HOTEL**
+**Speech by Prime Minister Lee Hsien Loong at the 2020 Annual Public Service Leadership Dinner**
+
+**17 JANUARY 2020, SHANGRI-LA HOTEL**
 
   
 1\. Chairman and Members of the Public Service Commission, Head, Civil Service, distinguished guests, ladies and gentlemen, a very good evening to all of you.  
