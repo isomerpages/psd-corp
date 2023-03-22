@@ -9,7 +9,6 @@ image: ""
 ---
 **Speech by Mr Heng Swee Keat, Minister for Finance at the 2018 Administrative Service Dinner and Promotion Ceremony**
 
-**3 APRIL 2018, PARKROYAL ON BEACH ROAD**
 
 _Striving for the Whole, a Connection, and a Virtuous Circle_
 
