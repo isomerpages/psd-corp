@@ -6,9 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
 **SPEECH BY MR LEO YIP, HEAD, CIVIL SERVICE  AT THE PUBLIC SERVICE LEADERSHIP DINNER  
-21 NOVEMBER 2018, RESORTS WORLD SENTOSA CONVENTION CENTRE** 
 
 Deputy Prime Minister Tharman Shanmugaratnam,  
 Ministers Chan Chun Sing and Lawrence Wong,  
