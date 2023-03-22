@@ -14,7 +14,7 @@ image: ""
 **“FORGING CONSENSUS WITH OUR PEOPLE, BUILDING NATIONAL UNITY”**
 
 **Your Excellency Minister Zhao Leji, Minister of the Organisation Department of the Communist Party of China Central Committee**  
-&nbsp;  
+
 **Excellencies**  
   
 **Colleagues**  
