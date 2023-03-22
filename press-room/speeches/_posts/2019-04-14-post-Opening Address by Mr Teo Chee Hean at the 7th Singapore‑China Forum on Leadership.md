@@ -22,7 +22,6 @@ Colleagues
 Ladies and Gentlemen  
   
   
-  
 1\. Good afternoon. First of all, I would like to thank Minister Chen, Shaanxi Party Secretary Hu Heping, and our Chinese friends for hosting the 7th Singapore-China Forum on Leadership.  Thank you for the warm and gracious hospitality extended to me and my delegation.  
   
 2\. I would also like to thank the China Executive Leadership Academy in Yan’an (CELAY) for hosting the Forum. I first visited CELAY in 2010, when I had an engaging discussion with some 200 cadres. Four years ago, I visited the China Executive Leadership Academy in Jinggangshan for the 5th Leadership Forum. We had a good discussion on how to strengthen national unity and forge consensus with our people. Two years ago, we had the 6th Forum in Singapore, where I welcomed Minister Zhao Leji. I also visited the China Executive Leadership Academy in Pudong in 2009, and the Central Party School in Beijing in 2001.  
