@@ -9,8 +9,6 @@ image: ""
 ---
 **Speech by Mr Chan Chun Sing, Minister-in-charge of the Public Service, at the Public Sector Transformation Awards Reception 2019**
 
-**19 JULY 2019, GARDENS BY THE BAY**
-
 1\. Very good afternoon to all of you. First, before I start, just a correction for the organisers. Today, I am not your Guest-of-Honour. We are here to honour you. You are our Guests-of-Honour. So please give yourselves a round of applause. We are here to honour you, because you have done great work for the Public Service. And in turn, your work is to honour fellow Singaporeans.
 
 2\. Today, all of you are the shining lights of the Public Service. You are invited here, because you have done well for your respective agencies. And in turn, you have contributed a part to making the Public Service a better, stronger, and more efficient one. And because we have been able to do that, we ensure that Singapore maintains our relevance, and that Singapore can continue to be a shining red dot. Many people have asked me - how do we keep the Singapore Public Service to be one of the best, if not the best, in the world? What must we have inside our DNA in order for us to do what we want?  
