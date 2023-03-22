@@ -6,15 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-**Checked against delivery**
-
-**SPEECH BY DEPUTY PRIME MINISTER TEO CHEE HEAN AND MINISTER IN CHARGE OF THE CIVIL SERVICE**  
-  
-**PUBLIC SERVICE DIVISION(PRIME MINISTER'S OFFICE)**  
-  
-**COMMITTEE OF SUPPLY 2013  
-7 MARCH 2013**
+**Speech by Deputy Prime Minister Teo Chee Hean at Committee of Supply 2013**
 
 **Preamble**
 
