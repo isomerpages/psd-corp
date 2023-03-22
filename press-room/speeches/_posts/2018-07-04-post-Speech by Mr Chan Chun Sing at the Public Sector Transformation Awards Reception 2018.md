@@ -9,7 +9,6 @@ image: ""
 ---
 **Speech by Mr Chan Chun Sing, Minister-in-charge of the Public Service, at the Public Sector Transformation Awards Reception 2018**
 
-**4 JULY 2018, RESORTS WORLD SENTOSA**
 
 1\. Today, I am not your Guest-of-Honour. All of you are the Guests-of-Honour, because we are here not to honour me, but all of you, especially those who are receiving awards. Thank you very much for your service to the nation, but most importantly, thank you for showing the way to achieve the breakthroughs for the Public Service, both big and small, in order for all Singaporeans to have a better life.  
   
