@@ -8,8 +8,6 @@ image: ""
 ---
 **Speech by Mr Tharman Shanmugaratnam, Deputy Prime Minister and Coordinating Minister for Economic and Social Policies, at the Public Service Leadership Dinner**
 
-**27TH OCTOBER 2015, 7:50PM, AT ORCHARD HOTEL**
-
 DPM Teo Chee Hean,  
 Chairman and Members of the Public Service Commission,  
 Head of Civil Service,  
