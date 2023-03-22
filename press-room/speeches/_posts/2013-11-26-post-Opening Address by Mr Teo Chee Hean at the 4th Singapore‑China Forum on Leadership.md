@@ -9,8 +9,6 @@ image: ""
 ---
 **Opening Address by Deputy Prime Minister Teo Chee Hean at the Fourth Singapore-China Forum on Leadership**
 
-**26 NOVEMBER 2013, 10AM**
-
 Your Excellency Minister Zhào Lèjì (???)  
 Distinguished Guests and Colleagues  
 Ladies and Gentlemen  
