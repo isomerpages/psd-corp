@@ -6,10 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-**SPEECH BY MR PETER ONG, HEAD CIVIL SERVICE**  
-**EGOV EXCELLENCE AWARDS (EGEA) 2013 CEREMONY** 
-**30 APRIL 2013 MBC AUDITORIUM**
+**Speech by Mr Peter Ong, Head Civil Service, at the Inaugural eGov Excellence Awards 2013 (eGEA)**
 
 Mr Steve Lee, Chief Information Officer, Changi Airport Group  
 Distinguished Guests  
