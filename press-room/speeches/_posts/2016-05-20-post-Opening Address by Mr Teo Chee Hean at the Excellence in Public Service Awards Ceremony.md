@@ -9,8 +9,6 @@ image: ""
 ---
 **Opening Address by Mr Teo Chee Hean, Deputy Prime Minister and Minister in charge of the Civil Service at the Excellence in Public Service Awards Ceremony**
 
-**ON FRIDAY, 20 MAY 2016  
-FLOWER FIELD HALL, GARDENS BY THE BAY**
 
 **_Partnering Closely, Widely and Deeply – to Create Our Future Together_**
 
