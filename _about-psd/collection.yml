@@ -2,7 +2,7 @@ collections:
   about-psd:
     output: true
     order:
-      - Achievements.md
       - Mission, Vision and Values.md
       - Organisational Structure.md
       - Service Commitment.md
+      - Achievements.md
