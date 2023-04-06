@@ -1,0 +1,4 @@
+collections:
+  join-psd:
+    output: true
+    order: []
