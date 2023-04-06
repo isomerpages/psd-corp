@@ -2,6 +2,6 @@ collections:
   about-psd:
     output: true
     order:
-      - Service Commitment.md
       - Mission, Vision and Values.md
       - Organisational Structure.md
+      - Service Commitment.md
