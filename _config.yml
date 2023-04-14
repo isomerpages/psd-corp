@@ -1,6 +1,6 @@
 title: Public Service Division
 url: https://www.psd.gov.sg
-favicon: /images/PSD_logo-01.png
+favicon: /images/psd_logo.jpg
 colors:
   primary-color: "#004169"
   secondary-color: "#c90733"
@@ -60,3 +60,4 @@ is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
