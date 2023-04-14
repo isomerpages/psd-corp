@@ -5,9 +5,9 @@ description: The Public Service Division nurtures, guides and supports the
   health, well-being and performance of public officers. We steward One Trusted
   Public Service to deliver excellent public service and enable effective
   government.
-image: /images/PSD_logo-01.png
+image: /images/isomerhero-darkmode-10s.gif
 permalink: /
-notification: "Maintenance announcement: "
+notification: "Maintenance announcement:"
 sections:
   - hero:
       title: Public Service Division
@@ -26,4 +26,3 @@ sections:
   - resources:
       subtitle: Press Room
 ---
-
