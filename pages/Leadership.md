@@ -8,7 +8,7 @@ description: Strengthening leadership abilities, behaviours and values at all
 
 In the Public Service,&nbsp;leadership is not about positions or titles. Public Service leaders are driven by a passion to serve Singapore and Singaporeans, and are dedicated to serve the people they lead. They lead by example and demonstrate the values of Integrity, Service and Excellence through their actions. As the global environment is increasingly complex, we need leaders who can provide Whole-of-Government perspectives and resolve systems-level tensions, as well as leaders with deep expertise in a range of areas to address more complex policy, operational and service delivery challenges.
 
-<div> <div style="position:relative;padding-top:56.25%;"> <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" align="center" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/SwK4OIYlPKc"></iframe> </div> </div>
+<div> <div style="position:relative;padding-top:56.25%;"> <iframe src="https://www.youtube.com/embed/SwK4OIYlPKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" align="center" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe> </div> </div>
 
 **Attracting and recruiting leaders**
 
@@ -22,7 +22,7 @@ We oversee the development of officers in the Administrative Service and Public 
 
 We provide platforms that enable the leadership to connect, align and share perspectives. Among government agencies, we promote the exchange of best practices in talent development.
 
-# LEADERSHIP PROGRAMMES
+# Leadership Programmes
 
 **Administrative Service**
 
@@ -31,3 +31,35 @@ The Administrative Service aims to develop leaders with whole-of-government pers
 **Public Service Leadership Programme (PSLP)**
 
 PSLP is a talent development programme that develops talented and capable individuals for key leadership positions within the Public Service.
+
+
+
+
+<style>
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 40%;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+}
+</style>
+
+
+
+<div class="card">
+  <img src="img_avatar.png" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>John Doe</b></h4> 
+    <p>Architect &amp; Engineer</p> 
+  </div>
+</div>
+
+
+ 
