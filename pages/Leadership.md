@@ -51,17 +51,18 @@ PSLP is a talent development programme that develops talented and capable indivi
   padding: 2px 16px;
 }
 </style>
-<p></p><div class="card">
+<br><br> 
+
+<div class="card">
   <a href="https://www.psd.gov.sg/challenge/people/cuppa/leadership-is-not-about-commanding-people-but-winning-their-hearts"><img src="https://www.psd.gov.sg/images/default-source/challenge-library/Article-Image/cuppa22f59a97bf9f668da9107ff0000351172.jpg" style="width:100%"></a>
   <div class="container">
-		<p> <b> Leadership Is Not About Commanding People, But Winning Their Hearts </b></p>
+		<strong> Leadership Is Not About Commanding People, But Winning Their Hearts</strong>
   </div>
-	</div><p></p>
-	<p>
-</p><div class="card">
-  <a href="https://www.psd.gov.sg/challenge/people/cuppa/leadership-is-not-about-commanding-people-but-winning-their-hearts"><img src="https://www.psd.gov.sg/images/default-source/challenge-library/Article-Image/cuppa22f59a97bf9f668da9107ff0000351172.jpg" style="width:100%"></a>
+	</div>
+<br><br>
+<div class="card">
+  <a href="https://www.psd.gov.sg/challenge/people/profile/the-core-of-leadership"><img src="https://www.psd.gov.sg/images/default-source/challenge-library/Article-Image/sdc00188173733f22f6eceb9b0ff0000fcc945.jpg" style="width:100%"></a>
   <div class="container">
-		<p> <b> Leadership Is Not About Commanding People, But Winning Their Hearts </b></p>
+	<strong>The Core of Leadership </strong>
   </div>
 	</div><p></p>
-	
