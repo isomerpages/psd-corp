@@ -62,3 +62,10 @@ PSLP is a talent development programme that develops talented and capable indivi
     <p style="font-size:9px;"><b>Leadership Is Not About Commanding People, But Winning Their Hearts</b></p>
   </div>
 </div>
+<br>
+<div class="card">
+  <img src="https://www.psd.gov.sg/images/default-source/challenge-library/Article-Image/cuppa22f59a97bf9f668da9107ff0000351172.jpg" alt="Avatar" style="width:100%">
+  <div class="container">
+    <p style="font-size:9px;"><b>Leadership Is Not About Commanding People, But Winning Their Hearts</b></p>
+  </div>
+</div>
