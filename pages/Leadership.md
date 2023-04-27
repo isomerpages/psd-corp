@@ -8,7 +8,7 @@ In the Public Service,&nbsp;leadership is not about positions or titles. Public 
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/SwK4OIYlPKc" height="100%" width="100%"></iframe>
 
-**Attracting&nbsp;and recruiting leaders**
+**Attracting and recruiting leaders**
 
 We identify, develop and manage the pipeline of multi-sectoral and sectoral/specialist public sector leaders.
 
