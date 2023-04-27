@@ -23,3 +23,11 @@ We oversee the development of officers in the Administrative Service and Public 
 We provide platforms that enable the leadership to connect, align and share perspectives. Among government agencies, we promote the exchange of best practices in talent development.
 
 LEADERSHIP PROGRAMMES
+
+Administrative Service
+
+The Administrative Service aims to develop leaders with whole-of-government perspectives and capabilities, to formulate and implement policies that will improve the lives of Singaporeans.
+
+Public Service Leadership Programme (PSLP)
+
+PSLP is a talent development programme that develops talented and capable individuals for key leadership positions within the Public Service.
