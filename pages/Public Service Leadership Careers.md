@@ -55,4 +55,44 @@ As you progress in your career, you will participate in milestone training progr
 
 As an&nbsp;Administrative Officer, you could be posted to private sector companies to better understand businesses and markets, or to the various statutory boards and government-linked Companies. You could work in other non-Civil Service organizations such as international organisations, and non-profit organisations, or even abroad. Subject to performance, you may also be appointed as directors on the boards of government-linked companies and statutory boards.
 
-![PSLC range of learning experiences]()
+![range of learning experiences chart](/images/pslc-range-of-learning-experiences.jpg)
+
+**Mid-Career Leaders Track (MCLT)**
+===================================
+
+The Public Service values the experiences of mid-career entrants outside of the Public Service and is interested to groom talents with the heart to serve. The Public Service will be introducing the “Mid-Career Leaders Track” - a central gateway for mid-career entrants with the potential and aspiration to serve in Public Service leadership.
+
+**Key Features of MCLT:**
+
+Central gateway for mid-career entrants to apply for Leadership Programmes in the Public Service**
+
+- Candidates may be considered for the&nbsp;**PSLP Sectoral Phase (SP)**&nbsp;or the&nbsp;**Administrative Service (AS)**, where they would be supported in deepening their competencies either within a sector (PSLP SP) or across 2-3 sectors (AS).
+- Candidates can apply without needing to choose to join the AS/PSLP or any specific government agencies. Successful candidates will be placed onto the appropriate leadership programme, where their past work experiences will be taken into account when curating relevant postings / developmental opportunities, based on the assessed calibre, readiness and seniority.  
+- The AS aims to develop leaders with whole-of-government perspectives and capabilities, to formulate and implement policies that will improve the lives of Singaporeans. The career path of the AS can be found here.&nbsp;&nbsp;  
+- The PSLP aims to develop sectoral leaders for key leadership positions within the Public Service.&nbsp; There are 2 phases in this talent development programme.&nbsp; You will go through structured rotations during the General Phase to explore and gain experience in at least two different sectors of the Public Service, while at the Sectoral Phase, you will focus your development within a sector, building deeper competencies and networks.&nbsp;
+
+**Structured job placement and onboarding support to support mid-career officers transition to the Public Service**
+
+- For their first one or two postings, officers on the MCLT will select from a list of curated jobs that provides developmental exposure while having adjacencies to their previous work experience. This allows officers to leverage their expertise and experiences in making substantive contributions, while supporting their learning and transition into the Public Service. Officers can look forward to a meaningful career journey across a variety of postings such as job roles in policy-operations as well as stakeholder mobilisation and engagement, which will tap on officers’ knowledge, skills and perspectives.
+- A tailored onboarding experience with structured and personalised onboarding process to support officers’ transition on the MCLT. This is especially for working professions without any prior experience working in the Public Service.
+
+Find out more or&nbsp;[apply to the MCLT](https://go.gov.sg/apply-pslc),&nbsp;or read&nbsp;[FAQs about the Public Service Leadership Programme](https://www.psd.gov.sg/faq/public-service-leadership-programme).
+
+  
+**Who We Are Looking For**
+
+<table cellpadding="10" cellspacing="0" border="1" align="center" width="100%"> <tbody> <tr> <td><p><strong>An ideal candidate will be one who:&nbsp;</strong></p><ul style="margin-left: 80px;"><li>Believes in and demonstrates the Public Service Values of Integrity, Service, Excellence.</li><li>Has the passion to serve and a commitment towards building a better Singapore and to improve the lives of current and future generations of Singaporeans.</li><li>Demonstrates strong leadership qualities, interpersonal skills and cognitive thinking capacities. More senior candidates should have a strong track record in demonstrating these key areas through past work experiences.</li><li>Is a Singapore citizen.</li></ul></td> </tr></tbody></table>
+
+**How to Apply**
+
+We accept applications for the Public Service Leadership Careers all year round.&nbsp;  
+  
+If you are still studying and wish to start work in the Public Service after graduation, you may apply for the&nbsp;[PSLP](https://go.gov.sg/apply-pslp)&nbsp;starting from 3 semesters before your graduation, i.e. in the 2nd semester of your 3rd year of study.&nbsp;  
+  
+If you wish to pursue your postgraduate studies after graduation, you should apply directly for a&nbsp;[PSC Master’s Scholarship](https://www.psc.gov.sg/Scholarships/public-sector-scholarships/browse-by-scholarship/public-service-commission-psc-masters-scholarship-PSC)&nbsp;through the&nbsp;[PSC webpage](http://www.psc.gov.sg/), instead of the above.  
+  
+If you are a working professional, you may indicate your career preferences when applying for the&nbsp;[Public Service Leadership Careers](https://go.gov.sg/apply-pslc). We will subsequently work with you to determine the programme phase / leadership development track (e.g. PSLP General, PSLP Sectoral or Administrative Service) that would be most suitable for you.  
+  
+You may apply for the Public Service Leadership Careers at&nbsp;[Careers@Gov](https://go.gov.sg/apply-pslc). You can get updates on your application status through the Careers@Gov portal.  
+  
+For further queries, please email&nbsp;[psl@psd.gov.sg](mailto:psl@psd.gov.sg)
