@@ -60,6 +60,3 @@ PSLP is a talent development programme that develops talented and capable indivi
     <p>Architect &amp; Engineer</p> 
   </div>
 </div>
-
-
- 
