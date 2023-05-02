@@ -35,34 +35,3 @@ PSLP is a talent development programme that develops talented and capable indivi
 
 
 
-# Leadership in Action
-
-<style>
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  width: 40%;
-}
-
-.card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-}
-
-.container {
-  padding: 2px 16px;
-}
-</style>
-<br><br> 
-
-<div class="card">
-  <a href="https://www.psd.gov.sg/challenge/people/cuppa/leadership-is-not-about-commanding-people-but-winning-their-hearts"><img src="https://www.psd.gov.sg/images/default-source/challenge-library/Article-Image/cuppa22f59a97bf9f668da9107ff0000351172.jpg" style="width:100%"></a>
-  <div class="container">
-		<strong> Leadership Is Not About Commanding People, But Winning Their Hearts</strong>
-  </div>
-	</div>
-<br><br>
-<div class="card">
-  <a href="https://www.psd.gov.sg/challenge/people/profile/the-core-of-leadership"><img src="https://www.psd.gov.sg/images/default-source/challenge-library/Article-Image/sdc00188173733f22f6eceb9b0ff0000fcc945.jpg" style="width:100%"></a>
-  <div class="container">
-	<strong>The Core of Leadership </strong>
-  </div>
-	</div><p></p>
