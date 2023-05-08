@@ -31,4 +31,5 @@ sections:
       button: Find out more
       url: /leadership
       alt: Image alt text
+      image: /images/home_whatwedo_leadership_thumbnail.png
 ---
