@@ -25,4 +25,10 @@ sections:
       background: /images/isomerhero-darkmode-10s.gif
   - resources:
       subtitle: Press Room
+  - infopic:
+      title: Leadership
+      description: Strengthening leadership abilities, behaviours and values at all levels
+      button: Find out more
+      url: /leadership
+      alt: Image alt text
 ---
