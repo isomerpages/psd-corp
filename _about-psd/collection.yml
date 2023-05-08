@@ -2,6 +2,7 @@ collections:
   about-psd:
     output: true
     order:
+      - The PSD Experience.md
       - Mission, Vision and Values.md
       - Organisational Structure.md
       - Achievements.md
