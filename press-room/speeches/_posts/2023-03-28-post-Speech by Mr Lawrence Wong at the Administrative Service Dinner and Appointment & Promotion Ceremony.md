@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Speech by Mr Lawrence Wong, Deputy Prime Minister and Minister for Finance, at the Administrative Service Dinner and Appointment & Promotion Ceremony**
+***Speech by Mr Lawrence Wong, Deputy Prime Minister and Minister for Finance, at the Administrative Service Dinner and Appointment & Promotion Ceremony***
 
 Cabinet colleagues,  
 Chairman and Members of the Public Service Commission,  
