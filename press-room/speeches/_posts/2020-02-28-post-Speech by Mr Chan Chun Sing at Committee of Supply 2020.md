@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+**Speech by Mr Chan Chun Sing, Minister for Trade and Industry and Minister-in-charge of the Public Service at Committee of Supply 2020**
+
 **“Transforming the Public Service for the Future”**
 
 1\. Mr Chairman, Sir, I will deliver my reply in half the time that I was supposed to.  
