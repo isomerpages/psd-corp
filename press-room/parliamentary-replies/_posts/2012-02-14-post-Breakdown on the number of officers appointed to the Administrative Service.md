@@ -6,11 +6,13 @@ layout: post
 description: ""
 image: ""
 ---
+##### Written Reply to Parliamentary Questions on the breakdown on the number of officers appointed to the Administrative Service
+
 **Parliamentary Sitting: 14 February 2012**
 
 Mr Pritam Singh: To ask the Prime Minister (a) if he will give a breakdown of the number of Civil Service officers who were transferred from the various MX schemes of service to the Administrative Service from 2000 onwards; (b) how old were these civil servants when they were transferred to the Administrative Service; (c) how many Permanent Secretaries and CEOs of statutory boards today entered the Civil Service as MX officers; and (d) what is the percentage of Permanent Secretaries and CEOs of statutory boards today who were not originally from the Administrative Service.
 
-**Written Reply (for the Prime Minister) by Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security, Minister in charge of the Civil Service and Minister for Home Affairs:**
+**Written Reply (for the Prime Minister) by Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security, Minister in charge of the Civil Service&nbsp;and Minister for Home Affairs:**
 
 <u>Appointment to the Administrative Service</u>
 
@@ -31,4 +33,4 @@ There are currently 22 Permanent Secretaries in Ministries and 54 statutory boar
 Of the Permanent Secretaries and statutory board CEOs who are AOs, 22 (i.e. about half) were selected to join the Administrative Service later in their careers.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-`1` The remaining 13 cases mainly comprise direct appointments in 2002 and 2003 due to the transition to the MAP, and direct appointment from the private sector.
+`1`&nbsp;The remaining 13 cases mainly comprise direct appointments in 2002 and 2003 due to the transition to the MAP, and direct appointment from the private sector.
