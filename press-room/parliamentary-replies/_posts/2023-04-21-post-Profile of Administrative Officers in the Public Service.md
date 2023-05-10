@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+##### Written Reply to Parliamentary Question on profile of Administrative Officers in the Public Service
+
 **Parliamentary Sitting: 21 Apr 2023**  
   
 **Mr Leon Perera:** To ask the Prime Minister of the officers in the Administrative Service as at end-2022 (a) what percentage of them are (i) state scholarship recipients versus non-scholars (ii) mid-career entrants from the public sector and (iii) mid-career entrants from outside the public sector; and (b) how has this breakdown changed from ten years ago.  
