@@ -67,3 +67,8 @@ The Community Chest SHARE Programme Awards recognises is a yearly event for Comm
 #### PS21 ExCEL Awards
 
 The PS21 ExCEL Awards recognises innovations and staff suggestions which have added value to and enhanced the delivery of public goods and services to the Singapore population. PSD clinched the Creative Effort (Merit) Award for promoting Work Improvement Teams (WITS) and Staff Suggestion Scheme (SSS).
+
+<details>
+	<summary><strong>Section title</strong></summary>
+      <p>Here is the content!</p>
+</details>
