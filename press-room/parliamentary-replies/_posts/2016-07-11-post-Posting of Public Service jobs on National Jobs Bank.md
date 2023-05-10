@@ -6,6 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+##### Written Reply to Parliamentary Question on posting of Public Service jobs on National Jobs Bank
 
 **Parliamentary Sitting: 11 July 2016**
 
