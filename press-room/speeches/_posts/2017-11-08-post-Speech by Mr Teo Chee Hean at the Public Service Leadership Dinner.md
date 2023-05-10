@@ -6,9 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
-**Speech by Mr Teo Chee Hean, Deputy Prime Minister and Coordinating Minister for National Security at the Public Service Leadership Dinner on 8th November 2017, Shangri-La Hotel**
+<div style="text-align:center"><strong>
+	SPEECH BY MR TEO CHEE HEAN, DEPUTY PRIME MINISTER AND COORDINATING MINISTER FOR NATIONAL SECURITY AT THE PUBLIC SERVICE LEADERSHIP DINNER ON 8TH NOVEMBER 2017, SHANGRI-LA HOTEL</strong>
+  
 
-_“Professionalism and Taking Pride in Public Service”_
+_“Professionalism and Taking Pride in Public Service”_</div>
 
 Chairman and Members of the Public Service Commission,  
 Head of Civil Service,  
