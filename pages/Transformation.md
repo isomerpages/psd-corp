@@ -13,7 +13,7 @@ Hence, the Public Service has stepped up transformation efforts to build a futur
 
 
 ## FUTURE OF WORK
-<br>
+
 <div> <div style="position:relative;padding-top:56.25%;"> <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" align="center" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FPSDSingapore%2Fvideos%2F2855979601345220%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe> </div> </div>
 
 ### Improving service delivery
@@ -25,7 +25,7 @@ We continue to redesign and integrate services to be more citizen-centric. One e
 We continue to partner with citizens, businesses and non-government organisations to improve our policy-making and work together towards a better Singapore. For example, the Emerging Strong Conversations provided a platform for citizens to share their experiences and aspirations for Singapore in the midst of the pandemic. Citizens contributed their energies, expertise and experience, leading to several Alliances for Action that are rallying Singaporeans to action.
 
 ## FUTURE WORKFORCE
-<br>
+
 <div> <div style="position:relative;padding-top:56.25%;"> <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" align="center" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FPSDSingapore%2Fvideos%2F1263730064020082%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe> </div> </div>
 
 
@@ -34,7 +34,7 @@ We continue to partner with citizens, businesses and non-government organisation
 We believe that the growth and development of our public officers is important. We will continue to ramp up training for public officers and offer varied experiential opportunities within and outside of the public sector. We will help our officers to learn, reskill and adapt to changes, and prepare them for the future.
 
 ## FUTURE WORKPLACE
-<br>
+
 <div> <div style="position:relative;padding-top:56.25%;"> <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" align="center" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FPSDSingapore%2Fvideos%2F316041212918863%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe> </div> </div>
 
 
