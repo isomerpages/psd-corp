@@ -7,6 +7,8 @@ layout: post
 description: ""
 image: ""
 ---
+##### Oral Reply to Parliamentary Question on the review of the diminished impact of the Pioneer Generation Package for low-income elderly pensioners
+
 **Parliamentary Sitting: 9 September 2014**
 
 Mr Seah Kian Peng: To ask the Prime Minister whether a review of the diminished impact of the Pioneer Generation Package for low-income elderly pensioners is being undertaken.
