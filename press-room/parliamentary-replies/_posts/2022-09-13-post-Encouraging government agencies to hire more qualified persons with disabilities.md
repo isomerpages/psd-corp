@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Written Reply to Parliamentary Question on encouraging government agencies to hire more qualified persons with disabilities**  
+##### Written Reply to Parliamentary Question on encouraging government agencies to hire more qualified persons with disabilities  
 
 **Parliamentary Sitting: 13 Sep 2022**  
   
