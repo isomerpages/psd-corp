@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Written Reply to Parliamentary Question on the take-up rate of childcare sick leave by public servants each year in the past five years**
+##### Written Reply to Parliamentary Question on the take-up rate of childcare sick leave by public servants each year in the past five years
 
 **Parliamentary Sitting: 5 April 2021**  
   
