@@ -7,9 +7,11 @@ layout: post
 description: ""
 image: ""
 ---
-**Speech by Deputy Prime Minister Teo Chee Hean, Coordinating Minister for National Security, at the Public Service Engineering Conference 2018**
+<div style="text-align:center"><strong>
+SPEECH BY MR TEO CHEE HEAN, DEPUTY PRIME MINISTER AND COORDINATING MINISTER FOR NATIONAL SECURITY AT THE PUBLIC SERVICE ENGINEERING CONFERENCE <br>
+24 JULY 2018, RESORTS WORLD SENTOSA CONVENTION CENTRE 
 
-**“Creating Engineering Solutions for Singapore Together”**  
+“Creating Engineering Solutions for Singapore Together”</strong></div>
 
 Minister Chan Chun Sing, Minister-in-charge of the Public Service,  
 Permanent Secretaries,&nbsp;  
