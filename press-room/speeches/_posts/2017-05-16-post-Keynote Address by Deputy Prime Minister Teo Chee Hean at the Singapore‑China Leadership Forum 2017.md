@@ -7,10 +7,12 @@ layout: post
 description: ""
 image: ""
 ---
-**Keynote Address by Deputy Prime Minister Teo Chee Hean, Coordinating Minister for National Security, at the Singapore-China Leadership Forum 2017**
+<div style="text-align:center"><strong>
+KEYNOTE ADDRESS BY MR TEO CHEE HEAN, DEPUTY PRIME MINISTER AND COORDINATING MINISTER FOR NATIONAL SECURITY, AT THE SIXTH SINGAPORE-CHINA FORUM ON LEADERSHIP, 16 MAY 2017, 1400 HRS AT SHANGRI-LA HOTEL, SINGAPORE<br>
 
-**“Building an Innovative Future Together”  
-自我创新，共创未来**
+“Building an Innovative Future Together”<br>
+自我创新，共创未来
+	</strong></div>
 
 Your Excellency Minister Zhao Leji （赵乐际）,  
 Minister of the Organisation Department of the Communist Party of China Central Committee,  
