@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-**Oral Reply to Parliamentary Question on attrition in the Public Service**
+##### Oral Reply to Parliamentary Question on attrition in the Public Service
 
 **Parliamentary Sitting: 15 February 2022**  
   
