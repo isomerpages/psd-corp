@@ -6,11 +6,15 @@ layout: post
 description: ""
 image: ""
 ---
-**Speech by Deputy Prime Minister Teo Chee Hean, Coordinating Minister for National Security and Minister in Charge of the Civil Service at Committee of Supply 2018**
+<div style="text-align:center"><strong>
 
-**COMMITTEE OF SUPPLY 2018, 1 MARCH 2018**
+SPEECH BY MR TEO CHEE HEAN, DEPUTY PRIME MINISTER AND COORDINATING MINISTER FOR NATIONAL SECURITY AND MINISTER IN CHARGE OF THE CIVIL SERVICE, <br>
+	COMMITTEE OF SUPPLY 2018, 1 MARCH 2018 </strong>
 
-_“A Caring, Competent and Trusted Public Service For the Future of Singapore”_
+*“A Caring, Competent and Trusted Public Service <br>
+For the Future of Singapore”*
+	
+</div>
 
 Thank you Chairman, Sir.&nbsp;  
   
@@ -34,11 +38,11 @@ Thank you Chairman, Sir.&nbsp;
   
 8\. First, the Committee reaffirmed that the current salary framework laid out in the 2012 White Paper is a simple and effective salary framework for political appointment holders and MPs, and remains true to the three key principles which this House had arrived at a consensus on in 2012. In fact, this consensus on the principles included members of the Opposition. And these three principles are:&nbsp;  
   
-a) <u>One</u>, salaries must be competitive so that people of the right calibre are not deterred from stepping forward to lead the country;  
+<p style="text-indent: 40px"> a) <u>One</u>, salaries must be competitive so that people of the right calibre are not deterred from stepping forward to lead the country;</p> 
   
-b) <u>Two</u>, the ethos of political service entails making sacrifices and hence there should be a discount in the pay formula; and&nbsp;  
+<p style="text-indent: 40px">b) <u>Two</u>, the ethos of political service entails making sacrifices and hence there should be a discount in the pay formula; and </p>
   
-c) <u>Three</u>, there should be a “clean wage” with no hidden perks.&nbsp;&nbsp;  
+<p style="text-indent: 40px"> c) <u>Three</u>, there should be a “clean wage” with no hidden perks. </p>
   
 The salaries should be linked to the individual performance of political appointment holders, and the socio-economic progress of Singapore Citizens.  
   
@@ -50,11 +54,12 @@ The salaries should be linked to the individual performance of political appoint
   
 12\. However, the Committee has also recommended a few adjustments:&nbsp;  
   
-a) <u>One</u>, to adjust political salaries annually in line with annual benchmark movements. On this, the Committee noted that the benchmark has increased by 9% since 2011, or a compounded growth rate of 1.5 % per year over this period, but there has been no adjustment made to political salaries over the period;&nbsp; &nbsp;&nbsp;  
+<p style="text-indent: 40px">a) <u>One</u>, to adjust political salaries annually in line with annual benchmark movements. On this, the Committee noted that the benchmark has increased by 9% since 2011, or a compounded growth rate of 1.5 % per year over this period, but there has been no adjustment made to political salaries over the period;</p>
   
-b) <u>Two</u>, to review the ranges for the National Bonus indicators to take into consideration changing economic conditions and national outlook; and  
+<p style="text-indent: 40px">b) <u>Two</u>, to review the ranges for the National Bonus indicators to take into consideration changing economic conditions and national outlook; and</p>
   
-c) <u>Three</u>, to adjust the allowance for NCMPs from 15% of the allowance for elected MPs to 20% to recognise that NCMPs have full voting rights in Parliament from April 2017.  
+<p style="text-indent: 40px"> c) <u>Three</u>, to adjust the allowance for NCMPs from 15% of the allowance for elected MPs to 20% to recognise that NCMPs have full voting rights in Parliament from April 2017.</p>
+	
 <u>Government’s Decision to Maintain Current Salary Structure and Level</u>  
   
 13\. As I had stated earlier, the Prime Minister has written to the Committee to thank the Committee for its work and its well-considered recommendations. However, the Government has decided not to make any changes, and to maintain the current salary structure and level.&nbsp;  
