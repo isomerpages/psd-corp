@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-**Written Reply to Parliamentary Question on measures to support mental wellness of public officers** 
+##### Written Reply to Parliamentary Question on measures to support mental wellness of public officers 
 
 **Parliamentary Sitting: 29 Nov 2022**  
   
