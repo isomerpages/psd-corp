@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-**Written Reply to Parliamentary Question on Hiring for PMET-Level Job Vacancies in the Public Sector**  
+##### Written Reply to Parliamentary Question on Hiring for PMET-Level Job Vacancies in the Public Sector  
 
 **Parliamentary Sitting: 4 January 2021**  
   
