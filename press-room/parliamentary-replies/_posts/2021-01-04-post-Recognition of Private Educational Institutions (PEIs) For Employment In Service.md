@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Written Reply to Parliamentary Question on Recognition of Private Educational Institutions (PEIs) For Employment In Service**
+##### Written Reply to Parliamentary Question on Recognition of Private Educational Institutions (PEIs) For Employment In Service
 
 **Parliamentary Sitting: 4 January 2021**  
   
