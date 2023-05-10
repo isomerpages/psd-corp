@@ -6,6 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+##### Oral Reply to Parliamentary Question on ex-offenders hired in the Civil Service
 
 **Parliamentary Sitting: 2 March 2017**  
   
