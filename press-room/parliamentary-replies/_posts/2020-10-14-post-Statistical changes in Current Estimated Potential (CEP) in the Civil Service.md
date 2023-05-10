@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Written Reply to Parliamentary Question on statistical changes in Current Estimated Potential (CEP) in the Civil Service**
+##### Written Reply to Parliamentary Question on statistical changes in Current Estimated Potential (CEP) in the Civil Service
 
 **Parliamentary Sitting: 14 October 2020**  
   
