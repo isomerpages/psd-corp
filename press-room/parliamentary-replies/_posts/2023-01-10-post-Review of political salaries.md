@@ -6,6 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+##### Written Reply to Parliamentary Question on review of political salaries
 
 **Parliamentary Sitting: 10 Jan 2023**  
   
