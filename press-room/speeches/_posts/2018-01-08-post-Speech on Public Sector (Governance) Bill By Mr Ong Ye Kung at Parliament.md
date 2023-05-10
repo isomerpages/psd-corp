@@ -6,7 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-**Speech on Public Sector (Governance) Bill By Mr Ong Ye Kung, Minister For Education (Higher Education And Skills) And Second Minister For Defence, at Parliament**
+<div style="text-align:center"><strong>
+SPEECH ON PUBLIC SECTOR (GOVERNANCE) BILL BY MR ONG YE KUNG, MINISTER FOR EDUCATION (HIGHER EDUCATION AND SKILLS) AND SECOND MINISTER FOR DEFENCE, AT PARLIAMENT </strong></div>
 
 1\. Mr Speaker, I beg to move, that the Bill be now read a second time.
 
@@ -24,13 +25,13 @@ image: ""
 
 7\. Because of the considerable time span during which different statutory boards were established, the key governance requirements in the Acts of our statutory boards are not even. The central agencies, which are the Public Service Division and Ministry of Finance, together with the Smart Nation and Digital Government Office and Ministry of Communications and Information, recently did a comprehensive stock-take of all these Acts. This Bill will reduce and minimize this unevenness, with a view to institutionalize a clearer and consistent governance framework for statutory boards. It will therefore achieve three main objectives:
 
-a. First, standardise key governance requirements amongst statutory boards.
+<p style="margin-left: 40px">a. First, standardise key governance requirements amongst statutory boards.</p>
 
-b. Second, make explicit requirements for Statutory Boards to comply with key corporate policies in HR, finance, office administration, and IT. They are already doing so by abiding the Government Instruction Manuals or IMs, but we should provide for formal legislative backing.
+<p style="margin-left: 40px">b. Second, make explicit requirements for Statutory Boards to comply with key corporate policies in HR, finance, office administration, and IT. They are already doing so by abiding the Government Instruction Manuals or IMs, but we should provide for formal legislative backing.</p>
 
-c. Third, improve the data sharing scheme. I am specifically addressing this governance policy because it is a more recent requirement.
+<p style="margin-left: 40px">c. Third, improve the data sharing scheme. I am specifically addressing this governance policy because it is a more recent requirement.</p>
 
-d. And fourthly, finally, this Bill also makes related amendments to five Acts.
+<p style="margin-left: 40px">d. And fourthly, finally, this Bill also makes related amendments to five Acts.</p>
 
 8\. Let me go through each area in turn.
 
@@ -41,21 +42,21 @@ d. And fourthly, finally, this Bill also makes related amendments to five Acts.
   
 10\. This Bill pulls together and standardizes four main areas of governance that are already present in most statutory board Acts.
 
-a. <u>One</u>, the power for the responsible Minister to give directions to statutory boards on the performance of their functions, with which they must comply. Divisions 1 and 3 in Part 2 reflect this.
+<p style="margin-left: 40px">a. <u>One</u>, the power for the responsible Minister to give directions to statutory boards on the performance of their functions, with which they must comply. Divisions 1 and 3 in Part 2 reflect this.</p>
 
-These directions must be consistent with written laws, and cannot influence any statutorily independent or quasi-judicial functions of the statutory boards. To ensure impartiality of Public Service, the Bill specifies that directions must not be given to achieve specific outcomes or to make employment decisions regarding a particular person or persons.
+<p style="margin-left: 40px">These directions must be consistent with written laws, and cannot influence any statutorily independent or quasi-judicial functions of the statutory boards. To ensure impartiality of Public Service, the Bill specifies that directions must not be given to achieve specific outcomes or to make employment decisions regarding a particular person or persons.</p>
 
-b. <u>Two</u>, personnel matters regarding the role, appointment, removal, promotion and discipline of the CEs of statutory boards, which are reflected in Division 1 of Part 3.
+<p style="margin-left: 40px">b. <u>Two</u>, personnel matters regarding the role, appointment, removal, promotion and discipline of the CEs of statutory boards, which are reflected in Division 1 of Part 3.</p>
 
-This Division first clarifies that other than proper administration and management of the functions of the statutory boards in line with Ministerial directions, the CE also has to collaborate with the wider Public Service to deliver public value. This is important because, as our challenges become more complex, they cannot be solved by one agency alone. This change clarifies that agencies can go beyond a narrow interpretation of the functions described in their Acts to also support and seek support from other agencies, which they are already encouraged to do so to achieve Whole-of-Government objectives today.
+<p style="margin-left: 40px">This Division first clarifies that other than proper administration and management of the functions of the statutory boards in line with Ministerial directions, the CE also has to collaborate with the wider Public Service to deliver public value. This is important because, as our challenges become more complex, they cannot be solved by one agency alone. This change clarifies that agencies can go beyond a narrow interpretation of the functions described in their Acts to also support and seek support from other agencies, which they are already encouraged to do so to achieve Whole-of-Government objectives today.</p>
 
-The Bill also standardises the role of the Minister to approve the appointment and removal of CEs, subject to the concurrence of the Public Service Commission or PSC. Hence it is a three key system – the Board of Directors of the Statutory Boards appoint the CE, the Minister approves, and PSC concurs.1 In cases where the President’s concurrence is also required, such as the Fifth Schedule Statutory Boards, it is a four key system.2
+<p style="margin-left: 40px">The Bill also standardises the role of the Minister to approve the appointment and removal of CEs, subject to the concurrence of the Public Service Commission or PSC. Hence it is a three key system – the Board of Directors of the Statutory Boards appoint the CE, the Minister approves, and PSC concurs.<sup>1</sup> In cases where the President’s concurrence is also required, such as the Fifth Schedule Statutory Boards, it is a four key system.<sup>2</sup></p>
 
-c. <u>Three</u>, the requirement for statutory board Governing Board members to disclose conflicts of interest, as reflected in Division 1 of Part 4. This Part defines the circumstances under which a member of the Governing Board is deemed to be interested in a matter, and also the standard of disclosure.
+<p style="margin-left: 40px"> c. <u>Three</u>, the requirement for statutory board Governing Board members to disclose conflicts of interest, as reflected in Division 1 of Part 4. This Part defines the circumstances under which a member of the Governing Board is deemed to be interested in a matter, and also the standard of disclosure.</p>
 
-These provisions are consistent with corporate governance practices adopted by the private sector, and are already in the recently-passed statutory board Acts such as the SkillsFuture Singapore Agency Act, the Government Technology Agency Act, and the recently amended Town Councils Act.
+<p style="margin-left: 40px">These provisions are consistent with corporate governance practices adopted by the private sector, and are already in the recently-passed statutory board Acts such as the SkillsFuture Singapore Agency Act, the Government Technology Agency Act, and the recently amended Town Councils Act.</p>
 
-d. <u>Four</u>, finance-related requirements relating to the preparation and adoption of budget estimates, the keeping of proper accounts, audit requirements and the presentation of the audited financial statements and annual reports to Parliament. These provisions are basic requirements to ensure proper internal controls and governance over finance administration.
+<p style="margin-left: 40px">d. <u>Four</u>, finance-related requirements relating to the preparation and adoption of budget estimates, the keeping of proper accounts, audit requirements and the presentation of the audited financial statements and annual reports to Parliament. These provisions are basic requirements to ensure proper internal controls and governance over finance administration.</p><p>
 
 <u>**Second, formalise today’s administrative requirements to comply with key central policies**</u>
 
@@ -67,19 +68,13 @@ d. <u>Four</u>, finance-related requirements relating to the preparation and ado
 
 14\. To guide the setting of central policy directives, the Bill stipulates that the relevant Ministers are only empowered to give central directions for the following purposes:
 
-a. Upholding and promoting the values of the Singapore public sector;
-
-b. Securing economies or efficiencies for the Singapore public sector;
-
-c. Improving the efficiency or effectiveness of policies and programmes;
-
-d. Ensuring business continuity in case of emergencies;
-
-e. Ensuring accountable and prudent stewardship of Singapore public sector finances and resources;
-
-f. Managing risks to the financial position of the Government; and
-
-g. Supporting a whole-of-government approach in the discharge of the statutory boards’ functions.
+</p><p style="margin-left: 40px">a. Upholding and promoting the values of the Singapore public sector; <br>
+b. Securing economies or efficiencies for the Singapore public sector; <br>
+c. Improving the efficiency or effectiveness of policies and programmes; <br>
+d. Ensuring business continuity in case of emergencies;<br>
+e. Ensuring accountable and prudent stewardship of Singapore public sector finances and resources;<br>
+f. Managing risks to the financial position of the Government; and<br>
+g. Supporting a whole-of-government approach in the discharge of the statutory boards’ functions.</p>
 
 15\. Central directions by the relevant Ministers must likewise be consistent with written laws. Directions cannot affect the performance of any statutorily independent or quasi-judicial functions of any Singapore public sector agency, including the Judiciary. This would mean, for instance, that the directions cannot undermine the independence of the Judiciary guaranteed by the Constitution. The courts will continue to exercise their judicial function independently, unimpeded by any ministerial directions, and court orders will have to be obeyed notwithstanding any requirement contained in a direction. Directions cannot be given to achieve specific outcomes or to make employment decisions regarding a particular person or persons.
 
@@ -115,15 +110,15 @@ g. Supporting a whole-of-government approach in the discharge of the statutory b
 
 29\. Finally, the Bill makes related amendments to five Acts:
 
-a. <u>One</u>, an amendment to the Interpretation Act, to set out the longstanding practice where subsidiary legislation made by a statutory board is signed by the chairperson. This clarifies that the chairperson’s signature is sufficient to indicate that a statutory board has passed that legislation in resolution without further need for all board members to sign the legislation.3
+<p style="margin-left: 40px"> a. <u>One</u>, One, an amendment to the Interpretation Act, to set out the longstanding practice where subsidiary legislation made by a statutory board is signed by the chairperson. This clarifies that the chairperson’s signature is sufficient to indicate that a statutory board has passed that legislation in resolution without further need for all board members to sign the legislation.<sup>3</sup></p>
 
-The amendment also clarifies that where a statutory board is permitted by any written law to delegate the performance of its functions or the exercise of its powers, this does not apply to the power to make subsidiary legislation.
+<p style="margin-left: 40px">The amendment also clarifies that where a statutory board is permitted by any written law to delegate the performance of its functions or the exercise of its powers, this does not apply to the power to make subsidiary legislation.</p>
 
-b. <u>Two</u>, amendments to the Fire Safety Act and Police Force Act to remove references to the divisional status of public officers. This reflects the policy since January 2017 to stop grouping officers by divisional status, to better emphasise skills and performance in the management of officers. This is in line with the national SkillsFuture movement.
+<p style="margin-left: 40px"> b. <u>Two</u>, amendments to the Fire Safety Act and Police Force Act to remove references to the divisional status of public officers. This reflects the policy since January 2017 to stop grouping officers by divisional status, to better emphasise skills and performance in the management of officers. This is in line with the national SkillsFuture movement. </p>
 
-c. <u>Three</u>, an amendment to the Government Contracts Act to allow statutory board employees on secondment to the Government to execute binding contracts on behalf of Government. This will improve the efficiency of our work processes, and be fairer to the officer too.
+<p style="margin-left: 40px"> c. <u>Three</u>, an amendment to the Government Contracts Act to allow statutory board employees on secondment to the Government to execute binding contracts on behalf of Government. This will improve the efficiency of our work processes, and be fairer to the officer too. </p>
 
-d. <u>Four</u>, amendments to the Public Service Commission and Legal Service Commission Act. Let me provide some background. Article 21 of the Constitution states that the President must, in exercising her statutory functions, act in accordance with the advice of the Cabinet, except as provided by the Constitution. However, the text of two sections of the PSC &amp; LSC Act is inconsistent with this because it states that the President can exercise her discretion to permit the communication, publication and disclosure of information relating to the Commissions’ work, which should not otherwise be disclosed. This inconsistency exists because the PSC &amp; LSC Act was enacted in 1956 before the Constitution was enacted in 1963. Article 162 of the Constitution requires any law pre-dating the Constitution to be brought into alignment with the Constitution. Hence, we are taking this opportunity to amend the PSC &amp; LSC Act to remove the phrase “acting in his discretion” from two sections of the Act. This will not affect the President’s powers, and we have consulted the President’s office before proposing to streamline our statutes.
+<p style="margin-left: 40px"> d. <u>Four</u>, amendments to the Public Service Commission and Legal Service Commission Act. Let me provide some background. Article 21 of the Constitution states that the President must, in exercising her statutory functions, act in accordance with the advice of the Cabinet, except as provided by the Constitution. However, the text of two sections of the PSC &amp; LSC Act is inconsistent with this because it states that the President can exercise her discretion to permit the communication, publication and disclosure of information relating to the Commissions’ work, which should not otherwise be disclosed. This inconsistency exists because the PSC &amp; LSC Act was enacted in 1956 before the Constitution was enacted in 1963. Article 162 of the Constitution requires any law pre-dating the Constitution to be brought into alignment with the Constitution. Hence, we are taking this opportunity to amend the PSC &amp; LSC Act to remove the phrase “acting in his discretion” from two sections of the Act. This will not affect the President’s powers, and we have consulted the President’s office before proposing to streamline our statutes. </p>
 
 **Closing Remarks**
 
@@ -133,8 +128,8 @@ d. <u>Four</u>, amendments to the Public Service Commission and Legal Service Co
 
 * * *
 
-1 Article 110 of the Constitution states: “Subject to the provisions of this Constitution, it shall be the duty of the Public Service Commission to appoint, confirm, emplace on the permanent or pensionable establishment, promote, transfer, dismiss and exercise disciplinary control over public officers.”
+<sup> 1 </sup> Article 110 of the Constitution states: “Subject to the provisions of this Constitution, it shall be the duty of the Public Service Commission to appoint, confirm, emplace on the permanent or pensionable establishment, promote, transfer, dismiss and exercise disciplinary control over public officers.” 
 
-2 This would be for the Fifth Schedule SBs i.e. CPFB, HDB, JTC and MAS (although MAS is excluded from the Bill).
+<sup>2 </sup> This would be for the Fifth Schedule SBs i.e. CPFB, HDB, JTC and MAS (although MAS is excluded from the Bill).
 
-3 AGC has advised that this approach is consistent with how the Rules Committee makes Rules of Court.
+<sup> 3 </sup> AGC has advised that this approach is consistent with how the Rules Committee makes Rules of Court.
