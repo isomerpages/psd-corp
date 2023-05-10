@@ -6,6 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+##### Written Reply to Parliamentary Question on compensation for retrenched daily-rated civil servants
 
 **Parliamentary Sitting: 21 November 2011**
 
