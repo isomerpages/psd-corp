@@ -6,14 +6,15 @@ layout: post
 description: ""
 image: ""
 ---
+##### Written Reply to Parliamentary Question on flexible work schemes in the Civil Service
 
 **Parliamentary Sitting: 10 January 2011**
 
-Mdm  Halimah  Yacob: To ask the Prime Minister (a) whether he will provide an  update  on  the  flexible  work  schemes available in the Civil Service; and (b) how these have benefitted employees to cope better with their work-life balance.
+Mdm  Halimah  Yacob: To ask the Prime Minister (a) whether he will provide an  update on the flexible  work schemes available in the Civil Service; and (b) how these have benefitted employees to cope better with their work-life balance.
 
 **Written Reply (for the Prime Minister) by Mr Teo Chee Hean, Deputy Prime Minister, Minister in charge of the Civil Service and Minister for Defence:**
 
-Today’s multi-generational workforce has varying and unique work-life needs.  In cognizance of this, the Civil Service has a broad range of policies and programmes to support a culture of flexibility in working arrangements. These include the flexi-time policy, which allows officers to vary the start and end times of their work hours, contingent on the completion of 42 hours of work a week. Most of our agencies have also introduced telecommuting, leveraging on technology to enable our officers to work off-site. 
+Today’s multi-generational workforce has varying and unique work-life needs. In cognizance of this, the Civil Service has a broad range of policies and programmes to support a culture of flexibility in working arrangements. These include the flexi-time policy, which allows officers to vary the start and end times of their work hours, contingent on the completion of 42 hours of work a week. Most of our agencies have also introduced telecommuting, leveraging on technology to enable our officers to work off-site. 
 
 We also have a part-time employment scheme where officers can opt for an 11 to 36 hour work-week with pro-rated salaries and benefits. The number of part-time officers has substantially increased over the years, from 388 in 2007 to 813 in 2010.
 
