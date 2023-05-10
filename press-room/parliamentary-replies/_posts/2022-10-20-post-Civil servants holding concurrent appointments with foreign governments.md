@@ -6,7 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-**Written Reply to Parliamentary Question on civil servants holding concurrent appointments with foreign governments**  
+##### Written Reply to Parliamentary Question on civil servants holding concurrent appointments with foreign governments
+
 **Parliamentary Sitting: 20 Oct 2022**  
   
 **Ms Hazel Poa:** To ask the Prime Minister (a) whether civil servants are allowed to hold concurrent appointments with foreign governments; (b) if so, under what circumstances will they be allowed to do so; (c) how many are currently holding such concurrent appointments and with which foreign governments; and (d) what measures are in place to prevent these civil servants from being targets of influence operations.  
