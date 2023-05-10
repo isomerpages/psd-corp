@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Written Reply to Parliamentary Question on annual declaration of non-indebtedness by public service employees and limits on unsecured loans**
+##### Written Reply to Parliamentary Question on annual declaration of non-indebtedness by public service employees and limits on unsecured loans
 
 **Parliamentary Sitting: 13 September 2021**  
   
