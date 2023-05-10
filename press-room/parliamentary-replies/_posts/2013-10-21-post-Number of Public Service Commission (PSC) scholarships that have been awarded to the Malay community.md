@@ -7,6 +7,8 @@ layout: post
 description: ""
 image: ""
 ---
+##### Written Reply to Parliamentary Question on the number of Public Service Commission (PSC) scholarships that have been awarded to the Malay community
+
 **Parliamentary Sitting: 21 October 2013**
 
 Mr Muhamad Faisal Abdul Manap: To ask the Prime Minister (a) how many Public Service Commission (PSC) scholarships have been awarded to the Malay community annually in the past 10 years; (b) what is the breakdown of the various disciplines pursued; and (c) where have these scholars been deployed upon their graduation.  
