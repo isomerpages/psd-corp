@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-**Oral Reply to Parliamentary Question on salary components of Ministers and Prime Minister**
+##### Oral Reply to Parliamentary Question on salary components of Ministers and Prime Minister
   
 **Parliamentary Sitting: 1 October 2018**  
   
