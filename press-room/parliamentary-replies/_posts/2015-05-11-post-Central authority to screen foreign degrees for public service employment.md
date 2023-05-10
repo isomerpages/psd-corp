@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+##### Written Reply to Parliamentary Question on central authority to screen foreign degrees for public service employment
+
 **Parliamentary Sitting: 11 May 2015**  
   
 **Mr Png Eng Huat**: To ask the Prime Minister whether the Public Service Division will consider setting up a central authority to screen foreign degrees for public service employment purposes in light of the proliferation of degree programmes and degrees of varying qualities offered in the education industry.  
