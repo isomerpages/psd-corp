@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Written Reply to Parliamentary Question on plans to permanently implement flexible work arrangements for public sector** 
+##### Written Reply to Parliamentary Question on plans to permanently implement flexible work arrangements for public sector 
 
 **Parliamentary Sitting: 4 July 2022**  
   
