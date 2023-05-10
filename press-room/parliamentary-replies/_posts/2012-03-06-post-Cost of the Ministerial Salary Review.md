@@ -6,6 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+##### Written Reply to Parliamentary Question on cost of the Ministerial Salary Review
 
 **Parliamentary Sitting: 6 March 2012**
 
