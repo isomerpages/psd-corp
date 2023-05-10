@@ -6,6 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+##### Written Reply to Parliamentary Question on wearing of hijab by staff in uniformed services
 
 **Parliamentary Sitting: 21 January 2014**
 
