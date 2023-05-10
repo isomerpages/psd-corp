@@ -7,11 +7,18 @@ layout: post
 description: ""
 image: ""
 ---
-**Opening Address by Deputy Prime Minister Teo Chee Hean at the Fifth Singapore-China Forum on Leadership**
+<div style="text-align:center"><strong>
 
+OPENING ADDRESS BY MR TEO CHEE HEAN, DEPUTY PRIME MINISTER AND MINISTER IN CHARGE OF THE CIVIL SERVICE, <br>
 
-**“FORGING CONSENSUS WITH OUR PEOPLE, BUILDING NATIONAL UNITY”**
+AT THE FIFTH CHINA-SINGAPORE FORUM ON LEADERSHIP,<br>
 
+10 APRIL 2015, AT THE CHINA EXECUTIVE LEADERSHIP ACADEMY JINGGANGSHAN, JIANGXI<br>
+
+“FORGING CONSENSUS WITH OUR PEOPLE, BUILDING NATIONAL UNITY”
+
+</strong></div>
+	
 **Your Excellency Minister Zhao Leji, Minister of the Organisation Department of the Communist Party of China Central Committee**  
 
 **Excellencies**  
