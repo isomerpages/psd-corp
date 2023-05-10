@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+##### Written Reply to Parliamentary Question on budget allocation for mental health of civil servants
+
 **Parliamentary Sitting: 20 Mar 2023**  
   
 **Dr Shahira Abdullah:** To ask the Prime Minister (a) whether the Government allocates mental health budgets for the welfare of civil servants; and (b) if so, what are the allocated budgets for the past three years.  
