@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-**Written Reply to Parliamentary Question on review of salary structure in the Civil Service**  
+##### Written Reply to Parliamentary Question on review of salary structure in the Civil Service  
   
 **Parliamentary Sitting: 19 November 2018**  
   
