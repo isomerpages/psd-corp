@@ -7,6 +7,8 @@ layout: post
 description: ""
 image: ""
 ---
+##### Oral Reply to Parliamentary Question on re-employment benefits and employment opportunities for people with disabilities
+
 **Parliamentary Sitting: 8 October 2014**
 
 Ms Chia Yong Yong: To ask the Prime Minister (a) in respect of public sector employees (including those from restructured hospitals) from middle-management downwards who have reached retirement age but are selected to be re-employed on a contract-basis, what safety nets are in place to protect such employees from diminution of their existing employment benefits solely on account of such re-employment; and (b) in what ways does the public sector intend to lead the private sector by example in promoting employment opportunities for people with disabilities.
