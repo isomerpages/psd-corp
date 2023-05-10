@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+##### Written Reply to Parliamentary Question on PR pensioners statistics and government's efforts to encourage citizenships
+
 **Parliamentary Sitting: 9 July 2014**  
   
 Mr Png Eng Huat: To ask the Prime Minister (a) as of 2014, what is the number of permanent resident pensioners; and (b) what have been the Government's efforts to encourage these pensioners to take up citizenship.
