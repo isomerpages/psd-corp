@@ -6,6 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+##### Written Reply to Parliamentary Question on flexible work arrangements in the Public Service
 
 **Parliamentary Sitting: 10 Oct 2016**  
   
