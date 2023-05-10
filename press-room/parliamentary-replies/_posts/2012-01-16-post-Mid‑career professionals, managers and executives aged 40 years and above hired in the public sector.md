@@ -7,6 +7,8 @@ layout: post
 description: ""
 image: ""
 ---
+Written Reply to Parliamentary Question on mid-career professionals, managers and executives aged 40 years and above hired in the public sector
+
 **Parliamentary Sitting: 16 January 2012**
 
 Mr Patrick Tay Teck Guan: To ask the Prime Minister how many mid-career Professionals, Managers and Executives aged 40 years and above have Ministries and Statutory Boards recruited as permanent full-time staff annually from 2006 to 2011.
