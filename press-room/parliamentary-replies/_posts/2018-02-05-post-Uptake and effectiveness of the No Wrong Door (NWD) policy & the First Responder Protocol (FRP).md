@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Written Reply to Parliamentary Question on the uptake and effectiveness of the No Wrong Door (NWD) policy & the First Responder Protocol (FRP)** 
+##### Written Reply to Parliamentary Question on the uptake and effectiveness of the No Wrong Door (NWD) policy & the First Responder Protocol (FRP)
   
 **Parliamentary Sitting: 5 February 2018**  
   
