@@ -37,7 +37,7 @@ AT THE FIFTH CHINA-SINGAPORE FORUM ON LEADERSHIP,<br>
     
 4\. Since 2009, we have held four successful Leadership Forums, on various aspects of leadership development of mutual interest, drawing from each country’s experiences and insights. Close to 50,000 officials from China have visited Singapore on study visits and programmes, while a growing number of Singapore officials have done the same in China. Let us build upon this foundation, and strengthen the bonds of friendship between the leaders and the peoples of both countries.
     
-5\.  <u>Third</u>, Singapore celebrates 50 years of independence this year. A younger generation of Singaporeans is re-discovering the fundamentals upon which the peace and security, stability and progress of our country is built. These fundamentals now have to be applied to the current and future challenges that Singapore faces. The theme for this year’s Forum, “Forging Consensus With Our People, Building National Unity” is particularly relevant for Singapore as we recall how Mr Lee Kuan Yew and his multi-racial Cabinet worked hard to bring together a diverse population to build a cohesive and harmonious society.&nbsp;
+5\. <u>Third</u>, Singapore celebrates 50 years of independence this year. A younger generation of Singaporeans is re-discovering the fundamentals upon which the peace and security, stability and progress of our country is built. These fundamentals now have to be applied to the current and future challenges that Singapore faces. The theme for this year’s Forum, “Forging Consensus With Our People, Building National Unity” is particularly relevant for Singapore as we recall how Mr Lee Kuan Yew and his multi-racial Cabinet worked hard to bring together a diverse population to build a cohesive and harmonious society.&nbsp;
     
 **Building a Nation**
     
@@ -49,7 +49,7 @@ AT THE FIFTH CHINA-SINGAPORE FORUM ON LEADERSHIP,<br>
     
 9\. Children of different races and family backgrounds now study together in national schools. We use English as the common language, but through our bilingual policy, every Singaporean, and each community, maintains strong links to its language, cultural identity, values and roots. This has enabled all Singaporeans to communicate with one another – within each community and with Singaporeans of other races too.
     
-10.  We fostered a sense of belonging and gave everyone a long-term stake in Singapore, through our public housing programme. Every Singaporean male does National Service, and pledges to defend Singapore. Our society is built on integrity, fairness and social justice, based on rule of law, meritocracy, and incorruptibility. People succeed through hard work and ability, regardless of family background or race.&nbsp;&nbsp;
+10\. We fostered a sense of belonging and gave everyone a long-term stake in Singapore, through our public housing programme. Every Singaporean male does National Service, and pledges to defend Singapore. Our society is built on integrity, fairness and social justice, based on rule of law, meritocracy, and incorruptibility. People succeed through hard work and ability, regardless of family background or race.&nbsp;&nbsp;
     
 11\. Each of these policies and programmes, when it was implemented, was transformational and potentially controversial. Forging national consensus on why they were needed and their implementation was therefore also very important.&nbsp;
     
