@@ -6,6 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+##### Written Reply to Parliamentary Question on rules for public officers on visiting gaming places
 
 **Parliamentary Sitting Date: 22 November 2010**
 
