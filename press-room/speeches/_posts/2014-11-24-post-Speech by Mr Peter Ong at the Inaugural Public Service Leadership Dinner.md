@@ -6,10 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
-**SPEECH BY MR PETER ONG,&nbsp;  
-HEAD, CIVIL SERVICE&nbsp;  
-AT THE INAUGURAL PUBLIC SERVICE LEADERSHIP DINNER  
-24 NOVEMBER 2014 AT ORCHARD HOTEL**
+<div style="text-align:center"><strong>
+SPEECH BY MR PETER ONG,<br>
+HEAD, CIVIL SERVICE<br>
+AT THE INAUGURAL PUBLIC SERVICE LEADERSHIP DINNER <br>
+24 NOVEMBER 2014 AT ORCHARD HOTEL
+	</strong></div>
 
 Deputy Prime Minister Teo Chee Hean  
 Mr Eddie Teo, Chairman, and  
