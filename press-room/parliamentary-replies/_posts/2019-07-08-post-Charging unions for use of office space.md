@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-**Written Reply to Parliamentary Question on charging unions for use of office space**  
+##### Written Reply to Parliamentary Question on charging unions for use of office space  
   
 **Parliamentary Sitting: 8 July 2019**  
   
