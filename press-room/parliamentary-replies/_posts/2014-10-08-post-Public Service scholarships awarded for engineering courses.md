@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+##### Written Reply to Parliamentary Question on Public Service scholarships awarded for engineering courses
+
 **Parliamentary Sitting: 8 October 2014**
 
 Er Dr Lee Bee Wah: To ask the Prime Minister given that since 2006 no President Scholar has applied to major in engineering (a) whether this trend is of concern to the Government; (b) what are the reasons for the apparent lack of interest among top scholars to study engineering; (c) whether there will be any action taken to rectify this situation; and (d) whether this trend will result in a shortage of engineers.
