@@ -6,11 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
-**Written Reply to Parliamentary Question on Remuneration Disclosure for Statutory Boards and Government-linked Firms**  
+##### Written Reply to Parliamentary Question on Remuneration Disclosure for Statutory Boards and Government-linked Firms  
 
 **Parliamentary Sitting: 3 Oct 2022**  
   
-**Mr Chua Kheng Wee Louis:** To ask the Prime Minister considering the Singapore Exchange Regulation and Corporate Governance Advisory Committee's recommendations for remuneration disclosure of directors and CEOs to be made mandatory (a) whether the Ministry will consider mandating remuneration disclosures for statutory boards and Government companies such as entities listed in the Fifth Schedule of the Constitution; and (b) if not, why not.  
+**Mr Chua Kheng Wee Louis:**&nbsp;To ask the Prime Minister considering the Singapore Exchange Regulation and Corporate Governance Advisory Committee's recommendations for remuneration disclosure of directors and CEOs to be made mandatory (a) whether the Ministry will consider mandating remuneration disclosures for statutory boards and Government companies such as entities listed in the Fifth Schedule of the Constitution; and (b) if not, why not.  
   
 **Written Reply by Mr Chan Chun Sing, Minister for Education and Minister-in-charge of the Public Service.**  
   
@@ -18,7 +18,7 @@ The Corporate Governance Advisory Committee (CGAC) has recommended that SGX cons
   
 <u>Statutory Boards</u>
   
-2 Statutory Boards are set up by the government and are governed by the Public Sector (Governance) Act. The remuneration of Statutory Board CEO and officers are subject to oversight of the supervising Ministry as well as the Public Service Division.   
+2 Statutory Boards are set up by the government and are governed by the Public Sector (Governance) Act. The remuneration of Statutory Board CEO and officers are subject to oversight of the supervising Ministry as well as the Public Service Division.&nbsp;  
   
 3 Board Directors who serve on Statutory Boards receive an annual allowance commensurate with the size and complexity of the organization. The allowance quanta are centrally determined by the Public Service Division.  
   
