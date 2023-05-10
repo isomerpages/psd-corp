@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Written Reply to Parliamentary Question on ratio for annual total compensation of top earners versus lowest earners for Civil Service**  
+##### Written Reply to Parliamentary Question on ratio for annual total compensation of top earners versus lowest earners for Civil Service  
 
 **Parliamentary Sitting: 20 Oct 2022**  
   
