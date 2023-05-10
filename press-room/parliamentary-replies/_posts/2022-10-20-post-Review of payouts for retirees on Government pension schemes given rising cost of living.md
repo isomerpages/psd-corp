@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Written Reply to Parliamentary Question on review of payouts for retirees on Government pension schemes given rising cost of living**
+##### Written Reply to Parliamentary Question on review of payouts for retirees on Government pension schemes given rising cost of living  
 
 **Parliamentary Sitting: 20 Oct 2022**  
   
