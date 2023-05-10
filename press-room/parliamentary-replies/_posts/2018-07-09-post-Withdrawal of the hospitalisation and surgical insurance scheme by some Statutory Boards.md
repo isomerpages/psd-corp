@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Written Reply to Parliamentary Question on the withdrawal of the hospitalisation and surgical insurance scheme by some Statutory Boards** 
+##### Written Reply to Parliamentary Question on the withdrawal of the hospitalisation and surgical insurance scheme by some Statutory Boards 
   
 **Parliamentary Sitting: 9 July 2018** 
   
