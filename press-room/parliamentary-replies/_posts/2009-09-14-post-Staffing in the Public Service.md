@@ -12,7 +12,7 @@ image: ""
 
 Ms Ellen Lee Geck Hoon: To ask the Prime Minister (a) what is being done to ensure sufficient staffing and spread of duties in Public Service departments, including statutory boards and restructured hospitals, that have a high concentration of female employees in order to address staff shortages when these females go on 16-week maternity leave, whether taken all at once or in tranches; and (b) how will the Government recognise the contribution of staff who help to cover the duties of these female employees since by doing so they are also contributing to Government’s efforts to promote/encourage procreation.
 
-**Oral Reply (for the Prime Minister) by** **Mr Teo Chee Hean, Deputy Prime Minister, Minister in charge of the Civil Service, and Minister for Defence:**
+**Oral Reply (for the Prime Minister) by Mr Teo Chee Hean, Deputy Prime Minister, Minister in charge of the Civil Service, and Minister for Defence:**
 
 Public sector agencies, like any organisation, would need to actively manage staffing issues when their officers are away for long periods of time.  This involves early planning and discussions between the officer and the organisation so that the organisation has sufficient time to make alternative staffing arrangements.
 
