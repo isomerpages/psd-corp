@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Written Reply to Parliamentary Question on flexible work arrangements for civil servants who are unable to work from home**
+##### Written Reply to Parliamentary Question on flexible work arrangements for civil servants who are unable to work from home
 
 **Parliamentary Sitting: 14 February 2022**  
   
