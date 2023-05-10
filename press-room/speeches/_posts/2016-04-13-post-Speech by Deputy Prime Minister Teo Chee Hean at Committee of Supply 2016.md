@@ -6,7 +6,13 @@ layout: post
 description: ""
 image: ""
 ---
-**Speech by Deputy Prime Minister Teo Chee Hean at Committee of Supply 2016**
+<div style="text-align:center"><strong>
+SPEECH BY DEPUTY PRIME MINISTER TEO CHEE HEAN AND <br>
+MINISTER IN CHARGE OF THE CIVIL SERVICE<br>
+PUBLIC SERVICE DIVISION (PRIME MINISTER’S OFFICE)<br>
+COMMITTEE OF SUPPLY 2016<br>
+13 APRIL 2016 
+	</strong></div>
 
 1\. Thank you Madam Chairperson. First I would like to thank Members for their interest in and strong support for the Public Service.&nbsp;  
   
