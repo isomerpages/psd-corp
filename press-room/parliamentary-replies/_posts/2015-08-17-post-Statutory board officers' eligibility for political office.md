@@ -6,7 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
+##### Written Reply to Parliamentary Question on statutory board officers' eligibility for political office
+
 **Parliamentary Sitting: 17 August 2015**  
+
 **Mr Gerald Giam Yean Song**: To ask the Prime Minister whether full-time employees of statutory boards are considered to be holders of a whole time office in the service of the Government and be disqualified from being Members of Parliament (MP) or being nominated for candidacy for election as an MP.  
   
 **Written Reply by Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security, Minister in charge of the Civil Service and Minister for Home Affairs:**
