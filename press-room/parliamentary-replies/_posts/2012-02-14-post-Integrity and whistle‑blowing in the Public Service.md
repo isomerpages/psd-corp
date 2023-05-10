@@ -6,6 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+##### Oral Reply to Parliamentary Questions on integrity and whistle-blowing in the Public Service
 
 **Parliamentary Sitting: 14 February 2012**
 
@@ -13,7 +14,7 @@ Ms Tin Pei Ling: To ask the Prime Minister what measures have the Government tak
 
 Mr Pritam Singh: To ask the Prime Minister in light of investigations into senior SCDF and CNB officers (a) whether the Government will conduct a comprehensive review of the feedback mechanisms currently in place in the Civil Service; and (b) whether the Government will consider whistleblower/whistleblower protection legislation and the institution of a national ombudsman to act as layers of deterrence against wayward civil servants.
 
-**Oral Reply (for the Prime Minister) by Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security, Minister in charge of the Civil Service and Minister for Home Affairs:**
+**Oral Reply (for the Prime Minister) by Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security, Minister in charge of the Civil Service&nbsp;and Minister for Home Affairs:**
 
 <u>Maintaining High Standard of Conduct</u>
 
@@ -51,11 +52,11 @@ Even when there are insufficient grounds to proceed against an officer under the
 
 The powers of the Public Service Commission are also provided for in the Constitution, with other details of the civil service disciplinary procedures set out in regulations like The Public Service (Disciplinary Proceedings) Regulations. Under the policy, all reporting will be treated with utmost confidentiality and every effort will be made not to reveal the identity of the officer, to the extent feasible and permissible under law. If an officer has sufficient grounds to feel that he is being treated unfairly as a result of a report that he has made, he may submit a complaint to his Permanent Secretary. Therefore there are already provisions for the protection of officers who make such reports.
 
-I should add that we must also be careful to encourage responsible reporting and discourage malicious or frivolous allegations. Those who make reports are expected to identify themselves. If a report is made in bad faith or for personal gain, disciplinary action may be taken against the officer making the false report.    
+I should add that we must also be careful to encourage responsible reporting and discourage malicious or frivolous allegations. Those who make reports are expected to identify themselves. If a report is made in bad faith or for personal gain, disciplinary action may be taken against the officer making the false report.&nbsp;&nbsp;&nbsp;&nbsp;
 
 <u>Conclusion</u>
 
-The measures I have outlined deter officers from misconduct and reduce the opportunity for corruption. However, even in the best of systems, no one can guarantee that corruption can be entirely eradicated and that there will never be cases of misconduct, as there will always be human failing. To sum up, there are multiple channels for raising irregularities.  Independent bodies like the Public Service Commission (PSC), Auditor-General’s Office (AGO) and CPIB are involved in the process.
+The measures I have outlined deter officers from misconduct and reduce the opportunity for corruption. However, even in the best of systems, no one can guarantee that corruption can be entirely eradicated and that there will never be cases of misconduct, as there will always be human failing. To sum up, there are multiple channels for raising irregularities.&nbsp; Independent bodies like the Public Service Commission (PSC), Auditor-General’s Office (AGO) and CPIB are involved in the process.
 
 The recent cases demonstrate that there are strict rules, reporting procedures, and legal and disciplinary processes in place to maintain the integrity of the Public Service and the proper conduct of public officers.
 
