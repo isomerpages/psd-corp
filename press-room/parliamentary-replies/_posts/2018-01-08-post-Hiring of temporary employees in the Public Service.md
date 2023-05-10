@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-**Written Reply to Parliamentary Question on hiring of temporary employees in the Public Service** 
+##### Written Reply to Parliamentary Question on hiring of temporary employees in the Public Service
  
 **Parliamentary Sitting: 8 January 2018** 
   
