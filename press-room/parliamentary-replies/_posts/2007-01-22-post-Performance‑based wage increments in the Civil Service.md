@@ -6,6 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+##### Oral Reply to Parliamentary Question on performance-based wage increments in the Civil Service
 
 **Parliamentary Sitting Date: 22 January 2007:**
 
