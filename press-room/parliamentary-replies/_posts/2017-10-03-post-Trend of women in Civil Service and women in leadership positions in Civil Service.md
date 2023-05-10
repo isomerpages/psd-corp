@@ -7,6 +7,8 @@ layout: post
 description: ""
 image: ""
 ---
+##### Written Reply to Parliamentary Question on the trend women in Civil Service and women in leadership positions in Civil Service
+
 **Parliamentary Sitting: 3 October 2017**  
   
 **Er Dr Lee Bee Wah**: To ask the Prime Minister (a) what is the breakdown in percentage terms of civil servants in each gender currently; (b) of these, what is the percentage of women holding leadership positions; and (c) what is the trend of women joining the Civil Service.  
