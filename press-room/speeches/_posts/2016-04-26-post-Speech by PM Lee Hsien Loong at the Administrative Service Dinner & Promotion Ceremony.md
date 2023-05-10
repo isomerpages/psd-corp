@@ -15,7 +15,7 @@ Head of Civil Service Mr Peter Ong
 Distinguished Guests  
 Ladies and Gentlemen  
   
-1\.I am very happy to attend the Administrative Service Promotion Ceremony and Dinner again. I was supposed to come last year, but then I had my prostate operation and put it off. So this year, I have had one more year to think about my speech.  
+1\. I am very happy to attend the Administrative Service Promotion Ceremony and Dinner again. I was supposed to come last year, but then I had my prostate operation and put it off. So this year, I have had one more year to think about my speech.  
   
 **Benny Lim**
 
