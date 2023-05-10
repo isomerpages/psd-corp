@@ -6,7 +6,13 @@ layout: post
 description: ""
 image: ""
 ---
-**Speech by Mr Peter Ong, Head Civil Service, at the Inaugural eGov Excellence Awards 2013 (eGEA)**
+<div style="text-align:center"><strong>
+SPEECH BY MR PETER ONG, HEAD CIVIL SERVICE <br>
+EGOV EXCELLENCE AWARDS (EGEA) 2013 CEREMONY <br>
+																								
+
+30 APRIL 2013 MBC AUDITORIUM
+</strong></div>
 
 Mr Steve Lee, Chief Information Officer, Changi Airport Group  
 Distinguished Guests  
@@ -44,7 +50,7 @@ Friends and Colleagues
   
 12\. Let me elaborate on how we can work together on each of these aspects to support a high performance Government.  
   
-**Leveraging on Technology to Drive Innovation & Productivity**  
+**Leveraging on Technology to Drive Innovation &amp; Productivity**  
   
 13\. We live in exciting times. Increasing smart phones and the widespread use of applications and social media have revolutionalised the way we interact, and brought about unprecedented levels of communication and sharing. Technological breakthroughs in areas such as Big Data have also opened up boundless opportunities for us.  
   
