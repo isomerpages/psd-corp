@@ -6,10 +6,16 @@ layout: post
 description: ""
 image: ""
 ---
-**Speech By Deputy Prime Minister Teo Chee Hean at Commitee of Supply 2017**
+<div style="text-align:center"><strong>
+SPEECH BY DEPUTY PRIME MINISTER TEO CHEE HEAN <br> AND <br> 
+MINISTER IN CHARGE OF THE CIVIL SERVICE <br>
+PUBLIC SERVICE DIVISION (PRIME MINISTER’S OFFICE) <br>
+COMMITTEE OF SUPPLY 2017 <br>
+2 MARCH 2017 <br>
 
-**“A Well-Coordinated, Technology-Enabled, and&nbsp;  
-Future-Ready Public Service”**
+“A Well-Coordinated, Technology-Enabled, and 
+Future-Ready Public Service”
+	</strong></div>
 
 Thank you Madam Chairperson.  
   
