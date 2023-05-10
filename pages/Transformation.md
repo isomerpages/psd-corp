@@ -3,7 +3,7 @@ title: Transformation
 permalink: /transformation/
 description: ""
 ---
-# STEPPING UP  TRANSFORMATION
+# Stepping Up Transformation
 **Building capabilities at individual, team and organisational levels for a future-ready Public Service**
 
 The speed of change around the world is accelerating. The Public Service faces an ageing population and shrinking workforce, fiscal constraints, rising citizen expectations, and technological disruption.  
@@ -12,11 +12,11 @@ Hence, the Public Service has stepped up transformation efforts to build a futur
 
 
 
-# **FUTURE OF WORK**
-<div style="position:relative;padding-top:56.25%;"><iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="314" width="560" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FPSDSingapore%2Fvideos%2F2855979601345220%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe> </div> 
+## FUTURE OF WORK
+<br>
+<div> <div style="position:relative;padding-top:56.25%;"> <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" align="center" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FPSDSingapore%2Fvideos%2F2855979601345220%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe> </div> </div>
 
-
-<h3>Improving service delivery</h3>
+### Improving service delivery
 
 We continue to redesign and integrate services to be more citizen-centric. One example is LifeSG, a personalised, citizen-centred and life-stage based platform for citizens to access all government digital services. The ServiceSG Centre (formerly Public Service Centre) at Our Tampines Hub also brings together key services from across multiple Government agencies under one roof for more seamless and personalised service experience for Singaporeans. Read more about&nbsp;[ServiceSG](https://www.psd.gov.sg/transformation/servicesg).
 
