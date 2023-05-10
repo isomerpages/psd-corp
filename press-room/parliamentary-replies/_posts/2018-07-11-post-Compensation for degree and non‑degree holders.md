@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-**Written Reply to Parliamentary Question on the compensation for degree and non-degree holders** 
+##### Written Reply to Parliamentary Question on the compensation for degree and non-degree holders 
   
 **Parliamentary Sitting: 11 July 2018** 
   
