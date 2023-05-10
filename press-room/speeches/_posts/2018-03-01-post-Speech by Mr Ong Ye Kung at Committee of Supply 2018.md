@@ -6,8 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-**Speech by Mr Ong Ye Kung, Minister for Education (Higher Education and Skills) and Second Minister for Defence at Committee of Supply 2018**
-
+<div style="text-align:center"><strong>SPEECH BY MR ONG YE KUNG, MINISTER FOR EDUCATION (HIGHER EDUCATION AND SKILLS) AND SECOND MINISTER FOR DEFENCE,<br>
+	
+COMMITTEE OF SUPPLY 2018, 1 MARCH 2018</strong></div>
 
 1\. Mr Chairman, every industry is undergoing transformation and disruption. The Public Service and its 145,000 employees are no exception.&nbsp;  
   
