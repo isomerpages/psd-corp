@@ -13,7 +13,7 @@ image: ""
 Ms Tan Su Shan: To ask the Prime Minister what more can be done to revamp the public service machinery, particularly those targeting the same outcomes, so that various Government organisations do not work in silos but are encouraged to share resources and work together for better efficiency and co-ordinated outcomes.  
   
   
-**Written Reply&nbsp;by Mr&nbsp;Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security, Minister in charge of the Civil Service&nbsp;and Minister for Home Affairs:**
+**Written Reply by Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security, Minister in charge of the Civil Service and Minister for Home Affairs:**
 
 The Public Service and the various agencies recognise that issues are increasingly complex and inter-related, requiring multiple agencies to work together. Whole-of-government and interagency coordination is achieved at three levels: strategy, organisation and operations.
 
