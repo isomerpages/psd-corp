@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+##### Written Reply to Parliamentary Question on renumeration of Judges under the Judges Renumeration Act 1994
+
 **Parliamentary Sitting: 10 Jan 2023**  
   
 **Ms Hazel Poa:** To ask the Prime Minister (a) what are the fixed and variable non-pensionable pay components, allowances, and benefits accorded to Supreme Court Judges under the Judges' Remuneration Act 1994; (b) what are the rates at which the retirement and death gratuities are accrued for these judges; and (c) whether the remuneration of judges is benchmarked against that of political office holders.  
