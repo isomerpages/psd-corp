@@ -7,6 +7,8 @@ layout: post
 description: ""
 image: ""
 ---
+##### Oral Reply to Parliamentary Question on causes for low take-up rates for childcare and paternity leave amongst eligible public officers
+
 **Parliamentary Sitting: 9 September 2014**
 
 Mr Seah Kian Peng: To ask the Prime Minister given that amongst all eligible public officers, only 72% used the 6-day childcare leave, 48% used the 2-day extended childcare leave and 78% used their paternity leave, what are the underlying causes for these relatively low take-up rates.
