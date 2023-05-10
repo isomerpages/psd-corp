@@ -13,7 +13,8 @@ Hence, the Public Service has stepped up transformation efforts to build a futur
 
 
 # **FUTURE OF WORK**
-<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="314" width="560" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FPSDSingapore%2Fvideos%2F2855979601345220%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
+<div> <div style="position:relative;padding-top:56.25%;"><iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="314" width="560" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FPSDSingapore%2Fvideos%2F2855979601345220%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe> </div> </div>
+
 
 <h3>Improving service delivery</h3>
 
