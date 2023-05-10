@@ -8,7 +8,6 @@ description: ""
 image: ""
 ---
 <div style="text-align:center"><strong>
-
 OPENING ADDRESS BY MR TEO CHEE HEAN, DEPUTY PRIME MINISTER AND MINISTER IN CHARGE OF THE CIVIL SERVICE, <br>
 
 AT THE FIFTH CHINA-SINGAPORE FORUM ON LEADERSHIP,<br>
