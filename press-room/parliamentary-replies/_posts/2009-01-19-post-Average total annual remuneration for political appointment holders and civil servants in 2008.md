@@ -7,6 +7,8 @@ layout: post
 description: ""
 image: ""
 ---
+##### Oral Reply to Parliamentary Question on average total annual remuneration for political appointment holders and civil servants in 2008
+
 **Parliamentary Sitting Date: 19 January 2009**
 
 Mr Siew Kum Hong: To ask the Prime Minister (a) what was the average total annual remuneration for the year of 2008 (inclusive of all bonuses) for political appointment holders and civil servants whose remuneration is pegged to (i) MR4 benchmark and (ii) SR9 benchmark; and (b) what was the average amount of performance bonus paid to each of these groups, in terms of the number of months of salary and also in terms of the absolute monetary figure.
