@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-**Oral Reply to Parliamentary Question on update on performance of ServiceSG Centres**
+##### Oral Reply to Parliamentary Question on update on performance of ServiceSG Centres
 
 **Parliamentary Sitting: 29 Nov 2022**  
   
