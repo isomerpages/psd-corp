@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-**Oral Reply to Parliamentary Question on Employment of the Differently-Abled**
+##### Oral Reply to Parliamentary Question on Employment of the Differently-Abled
   
 **Parliamentary Sitting: 6 March 2019**
   
