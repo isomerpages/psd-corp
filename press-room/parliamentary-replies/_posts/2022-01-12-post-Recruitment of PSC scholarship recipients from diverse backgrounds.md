@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Written Reply to Parliamentary Question on recruitment of PSC scholarship recipients from diverse backgrounds** 
+##### Written Reply to Parliamentary Question on recruitment of PSC scholarship recipients from diverse backgrounds 
 
 **Parliamentary Sitting: 12 January 2022**  
   
