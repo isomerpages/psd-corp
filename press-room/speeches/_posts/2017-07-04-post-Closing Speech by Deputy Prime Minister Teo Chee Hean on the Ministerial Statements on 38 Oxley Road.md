@@ -7,9 +7,11 @@ layout: post
 description: ""
 image: ""
 ---
-**Closing Speech by Deputy Prime Minister Teo Chee Hean, Coordinating Minister for National Security on the Ministerial Statements on 38 Oxley Road**
+<div style="text-align:center"><strong>
+TRANSCRIPT OF CLOSING SPEECH BY MR TEO CHEE HEAN, DEPUTY PRIME MINISTER AND COORDINATING MINISTER FOR NATIONAL SECURITY ON 4 JULY 2017 FOR PARLIAMENT DEBATE ON THE MINISTERIAL STATEMENTS ON NO. 38 OXLEY ROAD
+	</strong></div>
 
-Thank you Madam Speaker,&nbsp;
+Thank you Madam Speaker,
 
 1\. We have had two days of debate on this matter. Members from both sides of the House and our Nominated Members of Parliament have asked probing questions as they should. I would like to thank the members who have spoken for their views and questions. More than 30 members have spoken.&nbsp;
 
