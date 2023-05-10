@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-**Written Reply to Parliamentary Question on retired and re-employed civil service employees**  
+##### Written Reply to Parliamentary Question on retired and re-employed civil service employees  
   
 **Parliamentary Sitting: 10 September 2018**
   
