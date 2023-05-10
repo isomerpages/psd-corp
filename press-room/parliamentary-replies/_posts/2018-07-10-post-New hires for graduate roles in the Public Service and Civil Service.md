@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Written Reply to Parliamentary Question on new hires for graduate roles in the Public Service and Civil Service** 
+##### Written Reply to Parliamentary Question on new hires for graduate roles in the Public Service and Civil Service 
   
 **Parliamentary Sitting: 10 July 2018**  
   
