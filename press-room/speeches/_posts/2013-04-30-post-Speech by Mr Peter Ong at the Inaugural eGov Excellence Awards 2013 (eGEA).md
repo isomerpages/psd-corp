@@ -9,7 +9,6 @@ image: ""
 <div style="text-align:center"><strong>
 SPEECH BY MR PETER ONG, HEAD CIVIL SERVICE <br>
 EGOV EXCELLENCE AWARDS (EGEA) 2013 CEREMONY <br>
-																								
 
 30 APRIL 2013 MBC AUDITORIUM
 </strong></div>
