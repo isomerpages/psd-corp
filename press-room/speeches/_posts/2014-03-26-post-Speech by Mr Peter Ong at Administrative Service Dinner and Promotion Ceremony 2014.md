@@ -7,8 +7,13 @@ layout: post
 description: ""
 image: ""
 ---
-**Speech by Mr Peter Ong, Head Civil Service, at Administrative Service Dinner and Promotion Ceremony**
-
+<div style="text-align:center"><strong>
+SPEECH BY MR PETER ONG<br>
+HEAD, CIVIL SERVICE<br>
+ADMINISTRATIVE SERVICE DINNER AND PROMOTION CEREMONY<br>
+26 MARCH 2014
+	</strong></div>
+	
 Deputy Prime Minister Teo Chee Hean  
 Deputy Prime Minister Tharman Shanmugaratnam  
 Minister Ng Eng Hen  
