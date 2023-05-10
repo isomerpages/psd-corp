@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Written Reply to Parliamentary Question on ensuring proper governance in a hybrid working environment**  
+##### Written Reply to Parliamentary Question on ensuring proper governance in a hybrid working environment  
 
 **Parliamentary Sitting: 14 February 2022**  
   
