@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Written Reply to Parliamentary Question on employees hired as individual contractors by the public sector**
+##### Written Reply to Parliamentary Question on employees hired as individual contractors by the public sector
   
 **Parliamentary Sitting: 10 September 2018**
   
