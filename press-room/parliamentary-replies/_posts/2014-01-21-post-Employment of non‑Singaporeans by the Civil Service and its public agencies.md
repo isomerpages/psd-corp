@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+##### Written Reply to Parliamentary Question on employment of non-Singaporeans by the Civil Service and its public agencies
+
 **Parliamentary Sitting: 21 January 2014**
 
 **Mrs Lina Chiam:** To ask the Prime Minister (a) whether there are non-Singaporean citizens being employed by the Civil Service and public agencies under the Ministries of Trade and Industry, National Development, Finance and Manpower; (b) if so, why are non-Singaporeans employed to manage and shape policies affecting Singaporeans; and (c) whether policy formulation roles in all state bodies can be restricted to Singapore citizens only.
