@@ -6,11 +6,14 @@ layout: post
 description: ""
 image: ""
 ---
-**Address by Mr Chan Chun Sing, Minister-in-charge of the Public Service, at the 2018 PSC Scholarships Award Ceremony**
+<div style="text-align: center"><strong>
+ADDRESS BY MR CHAN CHUN SING, MINISTER-IN-CHARGE OF THE PUBLIC SERVICE AT THE 2018 PSC SCHOLARSHIPS AWARD CEREMONY <br>
+18 JULY 2018, GRAND COPTHORNE WATERFRONT HOTEL, SINGAPORE
+	</strong></div>
 
-Chairman and Members of Public Service Commission.&nbsp;  
+Chairman and Members of Public Service Commission.
   
-Recipients, Families, Teachers, Principals, Friends and Colleagues.&nbsp;  
+Recipients, Families, Teachers, Principals, Friends and Colleagues.
   
 Let me first start today’s sharing by thanking Mr Eddie Teo, who has served Singapore for almost five decades.  
   
