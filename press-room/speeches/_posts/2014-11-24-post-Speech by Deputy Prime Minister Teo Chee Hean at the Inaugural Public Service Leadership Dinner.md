@@ -7,11 +7,15 @@ layout: post
 description: ""
 image: ""
 ---
-**Speech by Deputy Prime Minister Teo Chee Hean, Minister in charge of the Civil Service at the Inaugural Public Service Leadership Dinner**
-
-&nbsp;**24 NOVEMBER 2014 AT ORCHARD HOTEL**
- 
+<div style="text-align:center"><strong>
+	
+SPEECH BY MR TEO CHEE HEAN, <br>
+DEPUTY PRIME MINISTER, COORDINATING MINISTER FOR NATIONAL SECURITY, MINISTER FOR HOME AFFAIRS AND MINISTER IN CHARGE OF THE CIVIL SERVICE <br>
+AT THE INAUGURAL PUBLIC SERVICE LEADERSHIP DINNER <br>
+24 NOVEMBER 2014 AT ORCHARD HOTEL</strong>
+	
  _“Building a Stronger Public Leadership Corps for the Future – Combining the Strengths Of Specialists And Generalists”_
+	</div>
 
 Chairman and Members of the Public Service Commission  
 Head of Civil Service  
