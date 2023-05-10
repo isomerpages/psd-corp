@@ -6,6 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+##### Oral Reply to Parliamentary Question on outsourcing of Government functions
 
 **Parliamentary Sitting: 10 Jan 2023**  
   
