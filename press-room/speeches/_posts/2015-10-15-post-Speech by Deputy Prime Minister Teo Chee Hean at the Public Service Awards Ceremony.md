@@ -7,8 +7,11 @@ layout: post
 description: ""
 image: ""
 ---
-**Speech by Deputy Prime Minister Teo Chee Hean and Minister in charge of the Civil Service, at the Public Service Awards Ceremony**
+<div style="text-align:center"><strong>
+KEYNOTE ADDRESS BY DEPUTY PRIME MINISTER TEO CHEE HEAN, COORDINATING MINISTER FOR NATIONAL SECURITY, MINISTER IN CHARGE OF THE CIVIL SERVICE<br>
 
+AT THE PUBLIC SERVICE AWARDS CEREMONY ON 15 OCTOBER 2015, SUNTEC SINGAPORE CONVENTION AND EXHIBITION CENTRE
+</strong></div>
   
 Friends and colleagues,
 
