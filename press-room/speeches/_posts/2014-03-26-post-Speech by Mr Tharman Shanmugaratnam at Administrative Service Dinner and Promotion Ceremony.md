@@ -7,15 +7,19 @@ layout: post
 description: ""
 image: ""
 ---
-**Speech by Mr Tharman Shanmugaratnam, Deputy Prime Minister and Minister for Finance, at Administrative Service Dinner and Promotion Ceremony**
+<div style="text-align: center"><strong>
+SPEECH BY MR THARMAN SHANMUGARATNAM, 
+DEPUTY PRIME MINISTER AND MINISTER FOR FINANCE <br>
+ADMINISTRATIVE SERVICE DINNER AND PROMOTION CEREMONY <br>
+26 MARCH 2014
+	</strong></div>
 
 DPM Teo Chee Hean and my other Cabinet colleagues  
 Chairman and Members of the Public Service Commission  
 Head of Civil Service  
 Ladies and Gentlemen
 
-**  
-Introduction**
+**Introduction**
 
 1\. I would first like to congratulate the officers who have been promoted, and those who have been appointed into the Administrative Service.
 
