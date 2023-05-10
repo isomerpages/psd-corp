@@ -19,7 +19,7 @@ Mr Zaqy Mohamad: To ask the Prime Minister how does the Government plan to addre
 Mr Yee Jenn Jong: To ask the Prime Minister (a) since the implementation of the internal disclosure policy in the Civil Service in February 2011, how many reports have been received including those from organs of state and statutory boards; and (b) what percentage of these reports are serious enough to warrant formal investigations.  
   
   
-**Oral Reply by Mr&nbsp;Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security, Minister in charge of the Civil Service&nbsp;and Minister for Home Affairs:**
+**Oral Reply by Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security, Minister in charge of the Civil Service and Minister for Home Affairs:**
   
 1.&nbsp;&nbsp;&nbsp;&nbsp;Madam Speaker, may I have your permission to take the first four questions together?  
   
