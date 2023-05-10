@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Written Reply to Parliamentary Question on retired senior SAF Officers holding senior positions in public sector organisations**
+##### Written Reply to Parliamentary Question on retired senior SAF Officers holding senior positions in public sector organisations
 
 **Parliamentary Sitting: 4 October 2021**  
   
