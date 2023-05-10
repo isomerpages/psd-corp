@@ -6,12 +6,13 @@ layout: post
 description: ""
 image: ""
 ---
+##### Written Reply to Parliamentary Question on term contracts in the Civil Service
 
 **Parliamentary Sitting: 16 January 2012**
 
 Mr Zainal Sapari: To ask the Prime Minister from 2007 to 2010 (a) what is the percentage of Government employees who are employed on term contracts of between one to three years; (b) what percentage of these employees have been offered permanent posts in the civil service when their contracts ended; and (c) what are the reasons for not offering permanent posts to employees upon their contract expiry.
 
-**Written Reply (for the Prime Minister) by** **Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security, Minister in charge of the Civil Service and Minister for Home Affairs:**
+**Written Reply (for the Prime Minister) by Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security, Minister in charge of the Civil Service and Minister for Home Affairs:**
 
 The intent of the contract framework is to allow Ministries the flexibility to recruit officers to undertake specific projects over a specific period or as a means to assess the officer’s suitability for the job.  Currently, Ministries can appoint officers either on permanent tenure subject to a probation period, or on contract.
 
