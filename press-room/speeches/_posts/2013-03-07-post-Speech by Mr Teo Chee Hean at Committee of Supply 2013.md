@@ -6,12 +6,16 @@ layout: post
 description: ""
 image: ""
 ---
-<p style="text-align:center"> <strong> SPEECH BY DEPUTY PRIME MINISTER TEO CHEE HEAN AND MINISTER IN CHARGE OF THE CIVIL SERVICE </strong></p>
-  
-<p style="text-align:center"> <strong>PUBLIC SERVICE DIVISION (PRIME MINISTER'S OFFICE)</strong></p>
-  
-<p style="text-align:center"> <strong>COMMITTEE OF SUPPLY 2013</strong></p>
-<p style="text-align:center"> <strong>7 MARCH 2013</strong></p>
+<div style="text-align:center"><strong>
+	
+SPEECH BY DEPUTY PRIME MINISTER TEO CHEE HEAN AND MINISTER IN CHARGE OF THE CIVIL SERVICE
+	
+PUBLIC SERVICE DIVISION (PRIME MINISTER'S OFFICE)
+	
+COMMITTEE OF SUPPLY 2013
+	
+7 MARCH 2013
+</strong></div>
 
 **Preamble**
 
