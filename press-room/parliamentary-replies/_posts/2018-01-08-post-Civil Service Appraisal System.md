@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-**Written Reply to Parliamentary Question on the Civil Service Appraisal System**  
+##### Written Reply to Parliamentary Question on the Civil Service Appraisal System
   
 **Parliamentary Sitting: 8 January 2018**  
   
