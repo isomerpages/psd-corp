@@ -10,8 +10,7 @@ image: ""
 
 **Parliamentary Sitting Date: 1 March 2006**
 
-
-Mr Steve Chia Kiah Hong: To ask the Prime Minister and Minister for Finance, in the spirit of greater transparency and public accountability (a) whether Ministers who hold multiple portfolios also receive multiple salaries; (b) whether he will state the monetary compensation for each Cabinet Minister for FY 2005 in bracket ranges of $250,000; and (c) how this salary compensation compares with the last disclosed figures in 2000. 
+Mr Steve Chia Kiah Hong: To ask the Prime Minister and Minister for Finance, in the spirit of greater transparency and public accountability (a) whether Ministers who hold multiple portfolios also receive multiple salaries; (b) whether he will state the monetary compensation for each Cabinet Minister for FY 2005 in bracket ranges of $250,000; and (c) how this salary compensation compares with the last disclosed figures in 2000 
 
 **Written Reply (for the Prime Minister) by Mr Teo Chee Hean, Minister in charge of the Civil Service and Minister for Defence:**
 
