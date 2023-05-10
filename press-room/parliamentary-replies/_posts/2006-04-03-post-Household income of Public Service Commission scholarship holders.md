@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+##### Written Reply to Parliamentary Question on household income of Public Service Commission scholarship holders
+
 **Parliamentary Sitting Date: 3 April 2006**
 
 Dr Tan Sze Wee: To ask the Prime Minister and Minister for Finance (a) what is the mean household income for Public Service Commission (PSC) scholars who had their undergraduate education funded by the PSC, compared with the national average from 2003 to 2005; (b) if the PSC can provide information on the percentage of scholars who come from families that live in private housing; and (c) how does this percentage compare to the national average.
