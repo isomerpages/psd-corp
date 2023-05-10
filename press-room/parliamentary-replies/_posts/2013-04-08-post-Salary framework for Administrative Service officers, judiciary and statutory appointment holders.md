@@ -7,6 +7,8 @@ layout: post
 description: ""
 image: ""
 ---
+##### Oral Reply to Parliamentary Question on the salary framework for Administrative Service officers, judiciary and statutory appointment holders
+
 **Parliamentary Sitting : 8 April 2013**
 
 Mr Baey Yam Keng: To ask the Prime Minister whether the Public Service Division has completed its review of the salaries of Administrative Service officers, the judiciary and statutory appointment holders and, if so, whether highlights of the changes can be shared.
