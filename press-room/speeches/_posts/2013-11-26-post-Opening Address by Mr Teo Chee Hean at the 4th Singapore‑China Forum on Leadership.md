@@ -7,7 +7,12 @@ layout: post
 description: ""
 image: ""
 ---
-**Opening Address by Deputy Prime Minister Teo Chee Hean at the Fourth Singapore-China Forum on Leadership**
+<div style="text-align:center"><strong>
+OPENING ADDRESS BY DEPUTY PRIME MINISTER TEO CHEE HEAN<br>
+
+FOURTH SINGAPORE-CHINA FORUM ON LEADERSHIP<br>
+26 NOVEMBER 2013, 10AM
+	</strong></div>
 
 Your Excellency Minister Zhào Lèjì (???)  
 Distinguished Guests and Colleagues  
@@ -23,14 +28,14 @@ Ladies and Gentlemen
   
 **Sino-Singapore Bilateral Relationship**  
 
-4\. Singapore and China share a long-standing and deep relationship. There are frequent interactions between our leaders, officials and businessmen and people-to-people exchanges between students and visitors.   
+4\. Singapore and China share a long-standing and deep relationship. There are frequent interactions between our leaders, officials and businessmen and people-to-people exchanges between students and visitors.&nbsp;  
   
-5\. At the government level, we share a close working relationship across a wide range of areas, with both the central and regional levels in China. Last month, I co-chaired the 10th Singapore-China Joint Council for Bilateral Cooperation with Vice Premier Zhang Gaoli, and we reached agreements on how China and Singapore could strengthen cooperation in economic transformation, financial services, inclusive and sustainable development, as well as promoting cultural and people-to-people exchanges.    
+5\. At the government level, we share a close working relationship across a wide range of areas, with both the central and regional levels in China. Last month, I co-chaired the 10th&nbsp;Singapore-China Joint Council for Bilateral Cooperation with Vice Premier Zhang Gaoli, and we reached agreements on how China and Singapore could strengthen cooperation in economic transformation, financial services, inclusive and sustainable development, as well as promoting cultural and people-to-people exchanges.&nbsp;&nbsp;  
   
   
 **Sharing Experiences, Learning from Each Other**
 
-6\. There are many areas where officials from Singapore and China learn from each other. More than 7,600 Chinese officials have participated in various programmes in Singapore in the last 18 months alone, bringing the total to more than 45,600 since 1996.  Under the Framework Agreement on exchange programmes, we work with the Central Organisation Department to arrange customised programmes relevant to China’s development priorities. There are six such study visits to Singapore by middle and senior-level Chinese officials from the central government and the provinces each year.  We have also run customised programmes with the China Executive Leadership Academy, Pudong. The Lee Kuan Yew School of Public Policy and the National University of Singapore Business School has a Chinese-language Masters in Public Administration and Management; and the Nanyang Technological University has a programme for senior Chinese officials that is commonly referred to as the Mayor’s Programme (???).  
+6\. There are many areas where officials from Singapore and China learn from each other. More than 7,600 Chinese officials have participated in various programmes in Singapore in the last 18 months alone, bringing the total to more than 45,600 since 1996.&nbsp; Under the Framework Agreement on exchange programmes, we work with the Central Organisation Department to arrange customised programmes relevant to China’s development priorities. There are six such study visits to Singapore by middle and senior-level Chinese officials from the central government and the provinces each year.&nbsp; We have also run customised programmes with the China Executive Leadership Academy, Pudong. The Lee Kuan Yew School of Public Policy and the National University of Singapore Business School has a Chinese-language Masters in Public Administration and Management; and the Nanyang Technological University has a programme for senior Chinese officials that is commonly referred to as the Mayor’s Programme (???).  
   
 7\. In recent years, many more Singapore officials are also visiting China to better understand China’s development, and learn from China’s experience. Many Singapore Government scholarship holders now choose to undertake degrees at Beida or Tsinghua Universities. A growing number of senior officials have also been awarded fellowships to conduct research projects concerning China or Singapore-China relations. We look forward to continuing and expanding these exchanges. They strengthen mutual understanding and personal ties between the future leaders of both our countries, and allow them to share ideas on how to tackle common challenges and seize emerging opportunities together.  
   
@@ -52,9 +57,9 @@ Ladies and Gentlemen
 
 13\. The theme of this year’s Forum – “Fostering Integrity in Government” – is very relevant.  
   
-14\. The concept of integrity goes beyond the integrity of individual officers, to the integrity of our institutions and processes, and also requires fostering integrity among citizens, and integrity as a social norm.  In the broad sense, integrity is the cornerstone for building trust between the Government and citizens.  
+14\. The concept of integrity goes beyond the integrity of individual officers, to the integrity of our institutions and processes, and also requires fostering integrity among citizens, and integrity as a social norm.&nbsp; In the broad sense, integrity is the cornerstone for building trust between the Government and citizens.  
   
-15\. Let me touch on each of these areas briefly.    
+15\. Let me touch on each of these areas briefly. &nbsp;  
   
 16\. We have always sought to attract, develop and retain capable people, based on merit, in political service and the Public Service. The Public Service pays competitive salaries, to ensure that public officers are adequately compensated, and we get our fair share of capable people to join the Public Service. But it is not just academic capabilities or paper qualifications that we are looking for. We also want public officers with the right values, with a heart to serve the people; officers who get satisfaction from serving their fellow citizens and seeing the lives of their fellow citizens become better.  
   
@@ -64,7 +69,7 @@ Ladies and Gentlemen
   
 19\. Beyond the government, society also has a part to play. Singaporeans expect public officers to be fair and impartial, and not to show favours to anyone for personal gain, or because of kinship or friendship. Singaporeans would consider it wrong to try to obtain special favours from government officials or agencies. Indeed, Singaporeans and public officers would be outraged if they were asked for a bribe, or were offered one.  
   
-20\. Together, these various components have helped Singapore to foster integrity in government. The key principles were laid down by our founding fathers. On the whole, we have done well, but where there have been lapses, the individuals who have done wrong have been dealt with firmly but fairly, either in the courts, or through disciplinary actions. Where processes have been inadequate, we have tightened them. We know that this is an endless task that requires continuing effort and commitment of every public officer, with the leadership setting the example.   
+20\. Together, these various components have helped Singapore to foster integrity in government. The key principles were laid down by our founding fathers. On the whole, we have done well, but where there have been lapses, the individuals who have done wrong have been dealt with firmly but fairly, either in the courts, or through disciplinary actions. Where processes have been inadequate, we have tightened them. We know that this is an endless task that requires continuing effort and commitment of every public officer, with the leadership setting the example.&nbsp;  
   
 21\. Mr Chan Chun Sing, Minister for Social and Family Development, will speak more about what we have done in recent years, to foster integrity in government and strengthen the trust between the Government and citizens.
 
