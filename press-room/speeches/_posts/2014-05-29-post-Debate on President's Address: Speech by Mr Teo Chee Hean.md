@@ -6,7 +6,13 @@ layout: post
 description: ""
 image: ""
 ---
-**Debate on President's Address: Speech by Deputy Prime Minister and Minister in charge of the Civil Service, Mr Teo Chee Hean**
+<div style="text-align:center"><strong>
+SPEECH BY DEPUTY PRIME MINISTER AND MINISTER IN CHARGE OF THE CIVIL SERVICE, MR TEO CHEE HEAN<br>
+
+DEBATE ON PRESIDENT'S ADDRESS<br>
+	
+29 MAY 2014
+	</strong></div>
 
 **29 MAY 2014**
 
