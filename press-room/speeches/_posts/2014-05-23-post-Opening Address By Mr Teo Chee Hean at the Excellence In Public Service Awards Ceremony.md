@@ -7,9 +7,14 @@ layout: post
 description: ""
 image: ""
 ---
-**Opening Address By Deputy Prime Minister Teo Chee Hean, Minister in charge of the Civil Service at the Excellence In Public Service Awards Ceremony**
+<div style="text-align:center"><strong>
+OPENING ADDRESS BY DEPUTY PRIME MINISTER TEO CHEE HEAN, MINISTER IN CHARGE OF THE CIVIL SERVICE AT THE EXCELLENCE IN PUBLIC SERVICE AWARDS CEREMONY<br>
 
-**“Working Together to Serve Singaporeans Better”**
+FRIDAY, 23 MAY 2014, 4.10 PM, FLOWER FIELD HALL, GARDENS BY THE BAY<br>
+
+“Working Together to Serve Singaporeans Better”
+	
+</strong></div>
 
 Head of Civil Service,  
 Distinguished Guests,  
