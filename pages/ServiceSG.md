@@ -87,10 +87,10 @@ input:checked + label + .accordion-content {
 	</div>
 	</div>
 
-# OUR PARTNERING AGENCIES
+## OUR PARTNERING AGENCIES
 ![](/images/ServiceSG/servicesg-website-partnering-agencies.png)
 
-# VISIT US
+## VISIT US
 ### **ServiceSG Centres**
 
 Our friendly ServiceSG staff are ready to guide you through the services you need. You can walk into any of the ServiceSG locations below for help – there is no need to make an appointment beforehand. If your enquiry or transaction is more complex, we can help you make an in-person or video conferencing appointment with the agencies.
@@ -152,7 +152,7 @@ Closed on Public Holidays
 	</div>
 	</div>
 
-# ABOUT SERVICESG
+## ABOUT SERVICESG
 ![](/images/ServiceSG/servicesg-logo.png)
 **Our Vision**: To know, and serve our citizens with heart, as One Public Service
 
