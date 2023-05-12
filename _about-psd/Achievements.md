@@ -55,6 +55,7 @@ input:checked + label + .accordion-content {
 <br>This award recognises Deputy Secretary (Transformation) Teoh Zsin Woon for her efforts in promoting the growth and development of officers within the Public Service.<br><br><strong>Distinguished Service Award 2020</strong>
 <br>NTUC May Day Award 2020 This award recognises Permanent Secretary Loh Khum Yean for his efforts in advancing tripartism and supporting our workforce.</p></div>
 
+<div>
 <input id="title2" type="checkbox"><label for="title2">Digital Services Awards</label>
 <div class="accordion-content">
 <p>Digital Services Award is an annual award event organised by GovTech that aims to recognise Singapore Government agencies for their outstanding achievement and commitment to maintaining excellent digital service standards for members of the public.<br><br>In 2022, PSD has been awarded the Best Functionality (Medium agency), which recognises agencies who scored highest overall score for Informational Services in the areas of Search Engine Optimisation, Accessibility and Page Load Time.</p></div>
@@ -97,3 +98,4 @@ input:checked + label + .accordion-content {
 	<div class="accordion-content">
 		<p>The PS21 ExCEL Awards recognises innovations and staff suggestions which have added value to and enhanced the delivery of public goods and services to the Singapore population. PSD clinched the Creative Effort (Merit) Award for promoting Work Improvement Teams (WITS) and Staff Suggestion Scheme (SSS).</p>
 	</div>
+</div>
