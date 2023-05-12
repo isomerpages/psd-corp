@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Speech by Mr Chan Chun Sing, Minister for Trade and Industry and Minister-in-charge of the Public Service at Committee of Supply 2021**
+##### Speech by Mr Chan Chun Sing, Minister for Trade and Industry and Minister-in-charge of the Public Service at Committee of Supply 2021
 
 Mr Speaker Sir, 
 
