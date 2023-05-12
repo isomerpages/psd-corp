@@ -7,9 +7,9 @@ layout: post
 description: ""
 image: ""
 ---
-**Speech by Mr Leo Yip, Head, Civil Service at the 2019 Administrative Service Dinner and Promotion Ceremony**
-
-**16 APRIL 2019**
+<div style="text-align:center"><strong>
+	SPEECH BY MR LEO YIP, HEAD, CIVIL SERVICE AT THE 2019 ADMINISTRATIVE SERVICE DINNER AND PROMOTION CEREMONY <br>
+	16 APRIL 2019 </strong></div>
 
 Deputy Prime Minister Teo Chee Hean,  
 Ministers,  
@@ -18,7 +18,7 @@ Distinguished Guests,
 Colleagues and Friends,&nbsp;  
 Ladies and Gentlemen,  
   
-1\. A very good evening to all of you.  
+A very good evening to all of you.  
   
 2\. Let me begin by thanking all my Administrative Service colleagues here this evening for your public service and contributions to Singapore. Thank you for the good work that you have been doing and that you will continue to do.&nbsp;  
   
