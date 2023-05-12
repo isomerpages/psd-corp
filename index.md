@@ -7,7 +7,7 @@ description: The Public Service Division nurtures, guides and supports the
   government.
 image: /images/isomerhero-darkmode-10s.gif
 permalink: /
-notification: "Maintenance announcement:"
+notification: ""
 sections:
   - hero:
       title: Public Service Division
@@ -16,9 +16,6 @@ sections:
         - title: Challenge Online
           description: Read for ideas and inspiration!
           url: https://psdchallenge.psd.gov.sg/challenge
-        - title: Heart of Public Service
-          description: Read more about the people and institutions that make us
-          url: https://www.psd.gov.sg/heartofpublicservice
         - title: ServiceSG
           description: Citizens' first-stop for govt services
           url: /servicesg
