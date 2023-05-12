@@ -7,11 +7,9 @@ description: ""
 image: ""
 ---
 <div style="text-align:center"><strong>
-
 SPEECH BY MR LEO YIP, HEAD, CIVIL SERVICE <br>
 AT THE 2020 ANNUAL PUBLIC SERVICE LEADERSHIP DINNER <br>
-17 JANUARY 2020, SHANGRI-LA HOTEL SINGAPORE
-	</strong></div>
+17 JANUARY 2020, SHANGRI-LA HOTEL SINGAPORE </strong></div>
 
   
 Prime Minister Lee Hsien Loong  
