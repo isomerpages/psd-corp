@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Keynote Address by Mr Chan Chun Sing, Minister for Education and Minister-in-charge of the Public Service at the 2021 PSC Scholarships Award Ceremony**
+##### Keynote Address by Mr Chan Chun Sing, Minister for Education and Minister-in-charge of the Public Service at the 2021 PSC Scholarships Award Ceremony
 
 1\. A very good afternoon to all of you, Chairman and members of the Public Service Commission, parents, teachers, principals, and recipients. 1 A very good afternoon to all of you, Chairman and members of the Public Service Commission, parents, teachers, principals, and recipients. 
 
