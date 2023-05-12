@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-***Speech by Mr Leo Yip, Head, Civil Service, at the Administrative Service Dinner and Appointment & Promotion Ceremony***
+##### Speech by Mr Leo Yip, Head, Civil Service, at the Administrative Service Dinner and Appointment & Promotion Ceremony
 
 
 Deputy Prime Minister Lawrence Wong,   
