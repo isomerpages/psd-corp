@@ -12,7 +12,7 @@ image: ""
 
 Mr Speaker Sir  
   
-1\. Let me first thank the various Members for your useful suggestions and concern for the Public Service.&nbsp;**I would also like to thank all my public officers for the hard work that they have done over the last two years, in particular.**&nbsp;I am sure Members of the House will agree with me that over the last two years, the Public Service has really pulled together to do three things concurrently and to do three things well.  
+1\. Let me first thank the various Members for your useful suggestions and concern for the Public Service. **I would also like to thank all my public officers for the hard work that they have done over the last two years, in particular.**&nbsp;I am sure Members of the House will agree with me that over the last two years, the Public Service has really pulled together to do three things concurrently and to do three things well.  
   
 2\. **First, to maintain current operations to make sure that all our services to our people and our country continue to run smoothly amidst the crisis.**&nbsp;  
   
