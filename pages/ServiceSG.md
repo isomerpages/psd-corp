@@ -92,6 +92,7 @@ input:checked + label + .accordion-content {
 
 ## VISIT US
 ### **ServiceSG Centres**
+![](/images/ServiceSG/servicesg-website-servicesgcentre.jpeg)
 
 Our friendly ServiceSG staff are ready to guide you through the services you need. You can walk into any of the ServiceSG locations below for help – there is no need to make an appointment beforehand. If your enquiry or transaction is more complex, we can help you make an in-person or video conferencing appointment with the agencies.
 
@@ -117,6 +118,7 @@ Closed on Public Holidays
 
 ### **ServiceSG@CCs**
 
+![](/images/ServiceSG/servicesg-website-servicesgcc.jpeg)
 ServiceSG@CCs, a collaboration with People’s Association, are located within Community Clubs and offer a more focused range of services.
 
 <u>Opening Hours</u><br>
