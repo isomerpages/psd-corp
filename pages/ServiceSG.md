@@ -111,3 +111,10 @@ Heartbeat@Bedok
 11 Bedok North Street 1  
 Singapore 469662
 
+# ABOUT SERVICESG
+![](/images/servicesg-logo.png)
+**Our Vision**: To know, and serve our citizens with heart, as One Public Service
+
+ServiceSG is a department under the Public Service Division, Prime Minister’s Office. We seek to integrate the delivery of services across public agencies, to serve citizens better, and in a more citizen centric manner.
+
+ServiceSG also builds deeper service delivery capabilities within the Public Service to raise overall service standards.
