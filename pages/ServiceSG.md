@@ -87,10 +87,10 @@ input:checked + label + .accordion-content {
 	</div>
 	</div>
 
-## OUR PARTNERING AGENCIES
+## **OUR PARTNERING AGENCIES**
 ![](/images/ServiceSG/servicesg-website-partnering-agencies.png)
 
-## VISIT US
+## **VISIT US**
 ### **ServiceSG Centres**
 ![](/images/ServiceSG/servicesg-website-servicesgcentre.jpeg)
 
@@ -154,7 +154,7 @@ Closed on Public Holidays
 	</div>
 	</div>
 
-## ABOUT SERVICESG
+## **ABOUT SERVICESG**
 ![](/images/ServiceSG/servicesg-logo.png)
 **Our Vision**: To know, and serve our citizens with heart, as One Public Service
 
