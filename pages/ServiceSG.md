@@ -4,11 +4,11 @@ permalink: /servicesg/
 description: ServiceSG is a first-stop service concierge that helps citizens
   access relevant government services across multiple agencies.
 ---
-![](/images/servicesg-website-title-image.png)
+![](/images/ServiceSG/servicesg-website-title-image.png)
 
 ##### Visit ServiceSG for advice on government services that are relevant to your needs. Find out how ServiceSG can help you, whether you are a senior, a working adult or simply need support.
 
-![](/images/servicesg-website-personas.png)
+![](/images/ServiceSG/servicesg-website-personas.png)
 
 ### **For Seniors**
 
@@ -45,7 +45,7 @@ Balancing work and life can be challenging. Let ServiceSG make life easier by he
 3.  Get career and skills guidance from our onsite Career and Skills Ambassadors
 
 # OUR PARTNERING AGENCIES
-![](/images/servicesg-website-partnering-agencies.png)
+![](/images/ServiceSG/servicesg-website-partnering-agencies.png)
 
 # VISIT US
 ### **ServiceSG Centres**
@@ -112,7 +112,7 @@ Heartbeat@Bedok
 Singapore 469662
 
 # ABOUT SERVICESG
-![](/images/servicesg-logo.png)
+![](/images/ServiceSG/servicesg-logo.png)
 **Our Vision**: To know, and serve our citizens with heart, as One Public Service
 
 ServiceSG is a department under the Public Service Division, Prime Minister’s Office. We seek to integrate the delivery of services across public agencies, to serve citizens better, and in a more citizen centric manner.
