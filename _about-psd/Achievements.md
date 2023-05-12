@@ -68,7 +68,63 @@ The Community Chest SHARE Programme Awards recognises is a yearly event for Comm
 
 The PS21 ExCEL Awards recognises innovations and staff suggestions which have added value to and enhanced the delivery of public goods and services to the Singapore population. PSD clinched the Creative Effort (Merit) Award for promoting Work Improvement Teams (WITS) and Staff Suggestion Scheme (SSS).
 
-<details>
-	<summary><strong>Section title</strong></summary>
-      <p>Here is the content!</p>
-</details>
+
+
+
+
+
+<style>
+
+input {
+	display: none;
+}
+label {
+	display: block;
+	padding: 8px 22px;
+	margin: 0 0 5px 0;
+	cursor: pointor;
+	background: #F0F4F6;
+	border-radius: 3px;
+	color: #484848;
+	transition: ease .5s;
+	font-size: 1.5em;
+}
+
+label:hover {
+	background: #4a96b0;
+	color: #FFF;
+}
+
+.accordion-content {
+	/* background: #E2E5F6; */
+	padding: 10px 0px 30px 30px;
+	/* border: 1px solid #484848; */
+	margin: 0 0 1px 0;
+	border-radius: 3px;
+}
+
+input + label + .accordion-content {
+	display: none;
+}
+
+input:checked + label + .accordion-content {
+	display: none;
+}
+
+input:checked + label + .accordion-content {
+	display: block;
+}
+
+</style>
+
+<div>
+	<input id="title1" type="checkbox"><label for="title1">Transformation Across All Sectors</label>
+	<div class="accordion-content">
+		<p>To mitigate climate change, we need to transform the way we use energy. We are pushing for our industries to be among the best-in-class globally in terms of energy efficiency, developing super low energy buildings, promoting the use of public transport and encouraging households to conserve energy.</p>
+		<p>We are also developing ways for the transport and industry sectors to competitively transit away from fossil fuels. We plan to have all vehicles running on cleaner energy by 2040, and are funding research to develop decarbonisation technologies in partnership with industry.</p>
+	</div>
+	<input id="title2" type="checkbox"><label for="title2">Four Supply Switches</label>
+	<div class="accordion-content">
+		<p>Harnessing the four supply switches of natural gas, solar, regional power grids, and low-carbon alternatives, together with more efficient use of energy, will allow us to overcome our energy challenges and achieve energy supply that is sustainable, affordable, and reliable.</p>
+	</div>
+</div>
