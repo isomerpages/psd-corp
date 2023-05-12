@@ -57,52 +57,35 @@ input:checked + label + .accordion-content {
 
 <div><input id="title2" type="checkbox"><label for="title2">For Seniors</label>
 	<div class="accordion-content">
-		<p>Digital Services Award is an annual award event organised by GovTech that aims to recognise Singapore Government agencies for their outstanding achievement and commitment to maintaining excellent digital service standards for members of the public.</p>
-<p>In 2022, PSD has been awarded the Best Functionality (Medium agency), which recognises agencies who scored highest overall score for Informational Services in the areas of Search Engine Optimisation, Accessibility and Page Load Time.</p>
+		<p>Visit ServiceSG to get help with multiple government digital services, all in one location! Not sure how to access online services? ServiceSG can help!<br>
+		</p><h4 style="color:#004169;">Popular services that others like you are using:</h4>
+<ol>
+	<li>Re-register your NRIC or renew your passport</li>
+	<li>Set up or reset your SingPass password</li>
+	<li>Check your Central Provident Fund (CPF) balance and statement</li>
+		</ol><p></p>
 	</div>
-	<input id="title3" type="checkbox"><label for="title3">The HRM Awards</label>
-	<div class="accordion-content">
-		<p>The HRM Awards by HRM Asia rewards and celebrates ‘Great HR’. In 2015, Ms Yong Ying-I, Permanent Secretary, Public Service Division, Prime Minister’s Office received the Champion of HR award - an award that recognises individuals who are champions of change in their organisations with a strong track record in supporting and driving HR strategies and initiatives from the top. PSD clinched the award for Best Mature and Re-Employment Practices and received Special Recognitions for STJobs Award for Best Employer Branding and Best HR Team.</p>
+	<input id="title3" type="checkbox"><label for="title3">For Those Who Need Support</label>
+		<div class="accordion-content">
+		<p>If you have financial needs and are unsure about the support available to you, visit us to find out more.</p>
+		<p></p><h4 style="color:#004169;">Popular services that others like you are using:</h4>
+<ol>
+	<li>Apply for ComCare and get the financial support you need</li>
+	<li>Apply for the Housing Development Board’s (HDB) Public Rental Scheme to receive housing assistance</li>
+	<li>Renew your CHAS cards so you can continue to enjoy subsidies on medical and dental care</li>
+		</ol><p></p>
 	</div>
-	<input id="title4" type="checkbox"><label for="title4">Singapore HR Excellence Awards</label>
-	<div class="accordion-content">
-		<p>PSD clinched two awards - a Silver in Excellence in HR Social Media, and Silver in Excellence in Employer Branding from a strong pool of finalists which included Singtel, DBS Bank, IPG Mediabrands and Deloitte&amp;Touche LLP. The awards, by Human Resources Magazine, bring together industry leaders to celebrate excellence in the HR profession.</p>
+	<input id="title4" type="checkbox"><label for="title4">For Working Adults</label>
+		<div class="accordion-content">
+		<p>Balancing work and life can be challenging. Let ServiceSG make life easier by helping you with your Government transactions.</p>
+		<p></p><h4 style="color:#004169;">Popular services that others like you are using:</h4>
+<ol>
+	<li>File your personal income tax</li>
+	<li>Manage and service your HDB housing loan</li>
+	<li>Get career and skills guidance from our onsite Career and Skills Ambassadors</li>
+		</ol><p></p>
 	</div>
 	</div>
-
-### **For Seniors**
-
-Visit ServiceSG to get help with multiple government digital services, all in one location! Not sure how to access online services? ServiceSG can help!
-
-##### **Popular services that others like you are using:**
-
-1.  Re-register your NRIC or renew your passport
-2.  Set up or reset your SingPass password
-3.  Check your Central Provident Fund (CPF) balance and statement
-
-<hr>
-
-### **For Those Who Need Support**
-
-If you have financial needs and are unsure about the support available to you, visit us to find out more.
-
-##### **Popular services that others like you are using:**
-
-1.  Apply for ComCare and get the financial support you need
-2.  Apply for the Housing Development Board’s (HDB) Public Rental Scheme to receive housing assistance
-3.  Renew your CHAS cards so you can continue to enjoy subsidies on medical and dental care
-
-<hr>
-
-### **For Working Adults**
-
-Balancing work and life can be challenging. Let ServiceSG make life easier by helping you with your Government transactions.
-
-##### **Popular services that others like you are using:**
-
-1.  File your personal income tax
-2.  Manage and service your HDB housing loan
-3.  Get career and skills guidance from our onsite Career and Skills Ambassadors
 
 # OUR PARTNERING AGENCIES
 ![](/images/ServiceSG/servicesg-website-partnering-agencies.png)
