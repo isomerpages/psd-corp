@@ -91,7 +91,7 @@ label {
 }
 
 label:hover {
-	background: #4a96b0;
+	background: #004169;
 	color: #FFF;
 }
 
@@ -117,14 +117,21 @@ input:checked + label + .accordion-content {
 
 </style>
 
+
+![](/images/achievements_ntuc-may-day-award.jpg)
+
 <div>
-	<input id="title1" type="checkbox"><label for="title1">Transformation Across All Sectors</label>
+	<input id="title1" type="checkbox"><label for="title1">NTUC May Day Awards</label>
 	<div class="accordion-content">
-		<p>To mitigate climate change, we need to transform the way we use energy. We are pushing for our industries to be among the best-in-class globally in terms of energy efficiency, developing super low energy buildings, promoting the use of public transport and encouraging households to conserve energy.</p>
-		<p>We are also developing ways for the transport and industry sectors to competitively transit away from fossil fuels. We plan to have all vehicles running on cleaner energy by 2040, and are funding research to develop decarbonisation technologies in partnership with industry.</p>
+		<p><strong>Meritorious Service Award 2021</strong>
+<br>This award recognises Deputy Secretary (Transformation) Teoh Zsin Woon for her efforts in promoting the growth and development of officers within the Public Service.</p>
+
+<p><strong>Distinguished Service Award 2020</strong>
+<br>NTUC May Day Award 2020 This award recognises Permanent Secretary Loh Khum Yean for his efforts in advancing tripartism and supporting our workforce.</p>
 	</div>
-	<input id="title2" type="checkbox"><label for="title2">Four Supply Switches</label>
+<input id="title2" type="checkbox"><label for="title2">Four Supply Switches</label>
 	<div class="accordion-content">
 		<p>Harnessing the four supply switches of natural gas, solar, regional power grids, and low-carbon alternatives, together with more efficient use of energy, will allow us to overcome our energy challenges and achieve energy supply that is sustainable, affordable, and reliable.</p>
 	</div>
+	
 </div>
