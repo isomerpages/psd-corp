@@ -6,9 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-***Speech by Mr Chan Chun Sing, Minister for Trade and Industry and Minister-in-charge of the Public Service at Committee of Supply 2020***
+##### Speech by Mr Chan Chun Sing, Minister for Trade and Industry and Minister-in-charge of the Public Service at Committee of Supply 2020 <br>
 
-**“Transforming the Public Service for the Future”**
+<div style="text-align:center"><strong>“Transforming the Public Service for the Future”</strong></div>
 
 1\. Mr Chairman, Sir, I will deliver my reply in half the time that I was supposed to.  
   
@@ -40,15 +40,15 @@ image: ""
   
 15\. One of the things that we will also change is to more regularly rotate Public Service officers across different domains and even within the same domain. Across different domains, I have mentioned, in that four domain areas – policymaking, operations, communications and mobilisations and international or beyond Public Service exposure.  
   
-16\. The second thing that we want to is to make sure that they have the ability to rotate more even within the same domain and this will address one of the points that Dr Teo Ho Pin mentioned. How do we make sure that we check our own blind spots even if we are doing the same job? For example, in regulatory matters, by being able to go to different agencies and see how different regulatory ideas are applied, will allow our public officers to be much more responsive, much more agile.   
+16\. The second thing that we want to is to make sure that they have the ability to rotate more even within the same domain and this will address one of the points that Dr Teo Ho Pin mentioned. How do we make sure that we check our own blind spots even if we are doing the same job? For example, in regulatory matters, by being able to go to different agencies and see how different regulatory ideas are applied, will allow our public officers to be much more responsive, much more agile.&nbsp;  
   
-17\. The third thing that we can expect our public officers to do is this. If we have a 50-year career for the Public Service officer, we must make sure that they have the training that can allow them to have lifelong employability, as Mr Patrick has also mentioned. And this will require us to structure their training such that every few years, there will be a booster jab in their skills. When we ask our Public Service officers to be agile, it cannot be at the age of 40s or 50s. It must be done systematically, from age 20 and above.   
+17\. The third thing that we can expect our public officers to do is this. If we have a 50-year career for the Public Service officer, we must make sure that they have the training that can allow them to have lifelong employability, as Mr Patrick has also mentioned. And this will require us to structure their training such that every few years, there will be a booster jab in their skills. When we ask our Public Service officers to be agile, it cannot be at the age of 40s or 50s. It must be done systematically, from age 20 and above.&nbsp;  
   
-18\. Next, we will also challenge our Public Service officers, especially those in leadership positions to go beyond the Public Service, that they will have regular stints beyond the Public Service to expose themselves to the challenges that the private sector and the people sector have. But at the same time, to also bring back good ideas that the public sector may not yet have that are now in the private sector of the people sector or, for that matter, also even in the international organisations.   
+18\. Next, we will also challenge our Public Service officers, especially those in leadership positions to go beyond the Public Service, that they will have regular stints beyond the Public Service to expose themselves to the challenges that the private sector and the people sector have. But at the same time, to also bring back good ideas that the public sector may not yet have that are now in the private sector of the people sector or, for that matter, also even in the international organisations.&nbsp;  
   
-19\. The Public Service Division will make sure that we organise ourselves to systematically rotate our officers within the Service, across domains and beyond the Service.   
+19\. The Public Service Division will make sure that we organise ourselves to systematically rotate our officers within the Service, across domains and beyond the Service.&nbsp;  
   
-20\. Next, we will also make sure that there is greater porosity in the Public Service, from the way we recruit people, beyond just academic qualifications, to the way we develop people and post people throughout the entire lifespan that they are here.   
+20\. Next, we will also make sure that there is greater porosity in the Public Service, from the way we recruit people, beyond just academic qualifications, to the way we develop people and post people throughout the entire lifespan that they are here.&nbsp;  
   
 21\. Having dealt with all the changes that we can expect from the Public Service, I must reiterate one point. While the methods can change, the technology can change, the values of the Public Service will not change. The values of service excellence and integrity will never change in the Public Service. Service beyond self. The interests of the country and our people must always come before the interests of the individual officers. The pursuit of excellence is not just for today but always being able to anticipate the challenges of tomorrow, put in place systems and processes before the challenges even arise.  
   
