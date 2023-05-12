@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Speech by Mr Leo Yip, Head, Civil Service, at the 2022 Administrative Service Appointment and Promotion Ceremony**
+##### Speech by Mr Leo Yip, Head, Civil Service, at the 2022 Administrative Service Appointment and Promotion Ceremony
 
 Prime Minister Lee Hsien Loong,  
 Ministers,  
