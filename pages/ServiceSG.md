@@ -101,19 +101,21 @@ Visit our ServiceSG Centres:<br>
 Mon - Sun: 9am to 6pm  
 Closed on Public Holidays
 
-##### **North-East**
+<div><input id="title5" type="checkbox"><label for="title5">ServiceSG Centre One Punggol</label>
+	<div class="accordion-content">
+	#01-01
+<br>1 Punggol Drive  
+<br>Singapore 828629
+	</div>
+	<input id="title6" type="checkbox"><label for="title6">ServiceSG Centre Our Tampines Hub</label>
+	<div class="accordion-content">
+	#01-21
+<br>1 Tampines Walk  
+<br>Singapore 528523
+	</div>
+	</div>
 
-**ServiceSG Centre One Punggol** <br>
-#01-01  
-1 Punggol Drive  
-Singapore 828629
 
-##### **East**
-
-**ServiceSG Centre Our Tampines Hub**<br>
-#01-21  
-1 Tampines Walk  
-Singapore 528523
 
 ### **ServiceSG@CCs**
 
