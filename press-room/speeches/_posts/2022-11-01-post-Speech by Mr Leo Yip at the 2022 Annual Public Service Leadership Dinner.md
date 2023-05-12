@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Speech by Mr Leo Yip, Head, Civil Service at the 2022 Annual Public Service Leadership Dinner**
+##### Speech by Mr Leo Yip, Head, Civil Service at the 2022 Annual Public Service Leadership Dinner
 
 Deputy Prime Minister Lawrence Wong,  
 Minister Chan Chun Sing,  
@@ -42,11 +42,12 @@ Ladies and Gentlemen,
   
 12\. Through the years, our Public Service has devoted significant attention to leadership development. Selecting, developing, and deploying leaders is a key leadership priority and your leaders spend a lot of time and effort on these. We also regularly review our approach to leadership development to stay relevant. We conducted three major reviews on leadership development over the past two decades – in 1999, 2011, and 2019. These have resulted in some significant shifts, some of which DPM Wong touched on just now.&nbsp;
 
-a) In 2013, we established the Public Service Leadership Programme (PSLP) to strengthen sectoral leadership development. This is a significant milestone.&nbsp;  
-  
-b) We have begun sending more officers on our talent programmes, referring to the Administrative Service and the PSLP, out to gain a different experience in the private and the people sectors. For example, this year, we have 15 officers who are out for attachments with companies like CapitaLand, ShopBack, and Shell, and some of these attachments stretch up to two years. Overall, about 15% of AOs and PSLP (Sectoral) officers have chalked up external experiences.&nbsp;  
-  
-c) We also want our officers to develop a wider range of competencies and job experiences within the service. Again, a point that DPM Wong touched on just now. Thus, PSD now works closely with officers on our talent programmes to more actively plan their postings to develop that range of competencies and experiences, from policy to operations, to implementation, stakeholder engagement, and also to develop whole-of-government perspectives.&nbsp;
+<p style="margin-left:30px">
+a) In 2013, we established the Public Service Leadership Programme (PSLP) to strengthen sectoral leadership development. This is a significant milestone.&nbsp;</p> 
+<p style="margin-left:30px"> 
+b) We have begun sending more officers on our talent programmes, referring to the Administrative Service and the PSLP, out to gain a different experience in the private and the people sectors. For example, this year, we have 15 officers who are out for attachments with companies like CapitaLand, ShopBack, and Shell, and some of these attachments stretch up to two years. Overall, about 15% of AOs and PSLP (Sectoral) officers have chalked up external experiences.&nbsp;</p>
+<p style="margin-left:30px">  
+c) We also want our officers to develop a wider range of competencies and job experiences within the service. Again, a point that DPM Wong touched on just now. Thus, PSD now works closely with officers on our talent programmes to more actively plan their postings to develop that range of competencies and experiences, from policy to operations, to implementation, stakeholder engagement, and also to develop whole-of-government perspectives.&nbsp;</p>
 
 13\. Such a systematic approach to leadership development has indeed been a key strength of our Public Service. But, all strengths need to be built upon from time to time.&nbsp;  
   
@@ -61,10 +62,11 @@ c) We also want our officers to develop a wider range of competencies and job ex
 16\. In conjunction with this, we developed our own framework of leadership competencies that are tailored to what leaders in our Public Service need to do. The framework also alerts leaders not just on what competencies they need to build and exercise, but also to what are the red flag behaviours that reduce our leadership effectiveness. An example of a red flag is the tendency to kick the can down the road or the tendency to push up decisions and avoid making them. These competencies are tiered according to the different levels of leadership that we have to exercise, so there is a level for PSs, DSs, CEOs, Directors, and Middle Managers.&nbsp;  
   
 17\. In particular, I want to highlight two dualities in our leadership competency framework. Dualities are dual, two, competencies that need to be exercised at the same time. These dualities actually highlight quite starkly the complex and challenging responsibilities of leaders in the Public Service:&nbsp;
+<p style="margin-left:30px">
+a) The&nbsp;first&nbsp;duality is that of “managing our unit” and at the same time “managing external stakeholders”. We must be leaders who can manage our own units and teams effectively, but at the same time to work with other partners in other agencies to achieve cross-agency and whole-of-government objectives.</p>
 
-a) The&nbsp;first&nbsp;duality is that of “managing our unit” and at the same time “managing external stakeholders”. We must be leaders who can manage our own units and teams effectively, but at the same time to work with other partners in other agencies to achieve cross-agency and whole-of-government objectives.  
-  
-b) The&nbsp;second&nbsp;duality is “delivering for today” and at the same time building and “innovating for tomorrow”.&nbsp;
+<p style="margin-left:30px"> 
+b) The&nbsp;second&nbsp;duality is “delivering for today” and at the same time building and “innovating for tomorrow”.&nbsp;</p>
 
 18\. We will systematically use the Leadership Competency Framework to develop and to assess leaders.&nbsp;  
   
