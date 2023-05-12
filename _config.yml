@@ -3,7 +3,7 @@ url: https://www.psd.gov.sg
 favicon: /images/psd_logo.jpg
 colors:
   primary-color: "#004169"
-  secondary-color: "#c90733"
+  secondary-color: "#0e2354"
   media-colors:
     - title: media-color-one
       color: "#2c68fb"
