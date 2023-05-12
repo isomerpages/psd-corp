@@ -9,7 +9,7 @@ image: ""
 ---
 <div style="text-align:center"><strong>
 SPEECH BY MR CHAN CHUN SING, MINISTER-IN-CHARGE OF THE PUBLIC SERVICE, AT THE 2019 ADMINISTRATIVE SERVICE DINNER AND PROMOTION CEREMONY <br>
-	16 APRIL 2019 </strong></div>
+16 APRIL 2019 </strong></div>
 
 Good Evening  
   
