@@ -50,23 +50,18 @@ input:checked + label + .accordion-content {
 
 ![](/images/achievements_ntuc-may-day-award.jpg)
 
-<div style="text-align:center;font-size:150%;"><strong style="color:#004169;">NTUC May Day Awards</strong></div>
-	<div class="accordion-content">
-		<p><strong>Meritorious Service Award 2021</strong>
-<br>This award recognises Deputy Secretary (Transformation) Teoh Zsin Woon for her efforts in promoting the growth and development of officers within the Public Service.</p>
-<p><strong>Distinguished Service Award 2020</strong>
-<br>NTUC May Day Award 2020 This award recognises Permanent Secretary Loh Khum Yean for his efforts in advancing tripartism and supporting our workforce.</p>
-	</div>
+<div style="text-align:center;font-size:150%;"><strong style="color:#004169;">NTUC May Day Awards</strong></div><div>
+		<p class="accordion-content"><strong>Meritorious Service Award 2021</strong>
+<br>This award recognises Deputy Secretary (Transformation) Teoh Zsin Woon for her efforts in promoting the growth and development of officers within the Public Service.<br><br><strong>Distinguished Service Award 2020</strong>
+<br>NTUC May Day Award 2020 This award recognises Permanent Secretary Loh Khum Yean for his efforts in advancing tripartism and supporting our workforce.</p></div>
 <input id="title2" type="checkbox"><label for="title2">Digital Services Awards</label>
 	<div class="accordion-content">
 		<p>Digital Services Award is an annual award event organised by GovTech that aims to recognise Singapore Government agencies for their outstanding achievement and commitment to maintaining excellent digital service standards for members of the public.</p>
-<p>In 2022, PSD has been awarded the Best Functionality (Medium agency), which recognises agencies who scored highest overall score for Informational Services in the areas of Search Engine Optimisation, Accessibility and Page Load Time.</p>
-	</div>
-	<input id="title3" type="checkbox"><label for="title3">The HRM Awards</label>
+<p>In 2022, PSD has been awarded the Best Functionality (Medium agency), which recognises agencies who scored highest overall score for Informational Services in the areas of Search Engine Optimisation, Accessibility and Page Load Time.</p></div>
+<input id="title3" type="checkbox"><label for="title3">The HRM Awards</label>
 	<div class="accordion-content">
-		<p>The HRM Awards by HRM Asia rewards and celebrates ‘Great HR’. In 2015, Ms Yong Ying-I, Permanent Secretary, Public Service Division, Prime Minister’s Office received the Champion of HR award - an award that recognises individuals who are champions of change in their organisations with a strong track record in supporting and driving HR strategies and initiatives from the top. PSD clinched the award for Best Mature and Re-Employment Practices and received Special Recognitions for STJobs Award for Best Employer Branding and Best HR Team.</p>
-	</div>
-	<input id="title4" type="checkbox"><label for="title4">Singapore HR Excellence Awards</label>
+		<p>The HRM Awards by HRM Asia rewards and celebrates ‘Great HR’. In 2015, Ms Yong Ying-I, Permanent Secretary, Public Service Division, Prime Minister’s Office received the Champion of HR award - an award that recognises individuals who are champions of change in their organisations with a strong track record in supporting and driving HR strategies and initiatives from the top. PSD clinched the award for Best Mature and Re-Employment Practices and received Special Recognitions for STJobs Award for Best Employer Branding and Best HR Team.</p></div>
+<input id="title4" type="checkbox"><label for="title4">Singapore HR Excellence Awards</label>
 	<div class="accordion-content">
 		<p>PSD clinched two awards - a Silver in Excellence in HR Social Media, and Silver in Excellence in Employer Branding from a strong pool of finalists which included Singtel, DBS Bank, IPG Mediabrands and Deloitte&amp;Touche LLP. The awards, by Human Resources Magazine, bring together industry leaders to celebrate excellence in the HR profession.</p>
 	</div>
