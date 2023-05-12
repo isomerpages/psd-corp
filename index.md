@@ -15,13 +15,13 @@ sections:
       key_highlights:
         - title: Challenge Online
           description: Read for ideas and inspiration!
-          url: https://www.psd.gov.sg/challenge
+          url: https://psdchallenge.psd.gov.sg/challenge
         - title: Heart of Public Service
           description: Read more about the people and institutions that make us
           url: https://www.psd.gov.sg/heartofpublicservice
         - title: ServiceSG
           description: Citizens' first-stop for govt services
-          url: https://www.psd.gov.sg/transformation/servicesg
+          url: /servicesg
       background: /images/isomerhero-darkmode-10s.gif
   - resources:
       subtitle: Press Room
