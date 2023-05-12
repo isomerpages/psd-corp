@@ -6,9 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-***Speech by Mr Chan Chun Sing, Minister for Education and Minister-in-charge of the Public Service, at the 2022 One Public Service Observance Ceremony***
+##### Speech by Mr Chan Chun Sing, Minister for Education and Minister-in-charge of the Public Service, at the 2022 One Public Service Observance Ceremony <br>
 
-**Public Service Culture –&nbsp;<u>A</u>gility,&nbsp;<u>C</u>ollaboration and&nbsp;<u>T</u>ransformation Through Lifelong Learning (ACT)**
+<div style="text-align:center"><strong> Public Service Culture –&nbsp;<u>A</u>gility,&nbsp;<u>C</u>ollaboration and&nbsp;<u>T</u>ransformation Through Lifelong Learning (ACT)</strong></div>
 
 Head, Civil Service  
 Fellow Public Officers  
@@ -18,22 +18,25 @@ Fellow Public Officers
 2\. This simple act of gathering in person again did not come by easy. Public officers have put in endless hours of hard work over the last two years doing two very difficult things simultaneously. One, managing the current crisis and operations. Two, preparing ourselves, our people, and our country for tomorrow. Without your tireless hard work, tenacity, and resilience, Singapore will not be here today. Singaporeans will not be able to enjoy the simple things in life today. So thank you very much for all your hard work.&nbsp;&nbsp;  
   
 3\. We are entering a new phase in our nation's development. And our starting assumption cannot be that the next 50 years will be the same as the last 50 years.&nbsp;
+<p style="text-indent:30px">
+a. Externally, the geopolitical order is facing significant disruption and uncertainties. The international system of law has been fundamentally disrupted, and poses existential questions for small states like us.&nbsp;</p>
+<p style="text-indent:30px">  
+b. The global economy and markets are also facing fundamental change. We are seeing shifts in global supply chains and reordering of the global economic order. It is no longer a given that the global economic order can be underpinned by the same system of rules and clear dispute mechanisms. After decades of low inflation and interest rates, countries everywhere are facing elevated levels of inflation, rising interest rates, and the risk of recession.</p>
+<p style="text-indent:30px">  
+c. Other complex challenges are also afoot. The climate crisis is becoming more urgent with extreme weather patterns becoming a norm across countries. With globalisation, global public health risks like COVID-19 are also becoming more common and have the potential to fundamentally disrupt our lives.</p>
 
-a. Externally, the geopolitical order is facing significant disruption and uncertainties. The international system of law has been fundamentally disrupted, and poses existential questions for small states like us.&nbsp;  
-  
-b. The global economy and markets are also facing fundamental change. We are seeing shifts in global supply chains and reordering of the global economic order. It is no longer a given that the global economic order can be underpinned by the same system of rules and clear dispute mechanisms. After decades of low inflation and interest rates, countries everywhere are facing elevated levels of inflation, rising interest rates, and the risk of recession.  
-  
-c. Other complex challenges are also afoot. The climate crisis is becoming more urgent with extreme weather patterns becoming a norm across countries. With globalisation, global public health risks like COVID-19 are also becoming more common and have the potential to fundamentally disrupt our lives.  
-  
-d. Domestically, our demographics are also shifting with the ageing of our baby boomers and becoming more complex with people living longer. But therein also lies opportunities. Job patterns are shifting, and aspirations of our younger generations are also changing.&nbsp;
+<p style="text-indent:30px"> 
+d. Domestically, our demographics are also shifting with the ageing of our baby boomers and becoming more complex with people living longer. But therein also lies opportunities. Job patterns are shifting, and aspirations of our younger generations are also changing.&nbsp;</p>
 
 4\. The Public Service plays an important role to steer Singapore as we head into this new era filled with uncertainties, disruptions, and complexities. To meet the challenges ahead, we must look beyond our structures and processes. We must focus, more fundamentally, on the culture of our Public Service. There are positive aspects of our culture that we must retain, and other aspects that we need to keep evolving and improving. Today, I will share three aspects of this – Agility, Collaboration, and Lifelong Learning.&nbsp;
 
-a. **Uncertainties Require&nbsp;<u>Agility</u>**&nbsp;– In an era of greater uncertainties and change, no single structure and organisation can cater for all scenarios. We need to be agile in organisation and mindset to tackle challenges.  
-  
-b. **Complexities Require&nbsp;<u>Collaboration</u>**&nbsp;– In an era where challenges are becoming more complex, no amount of individual capability is sufficient. No organisation will have all the skillsets and tools to overcome complex challenges. We need collaborative, multipronged approaches to tackle these multifaceted challenges.&nbsp;  
-  
-c. **Disruptions Require&nbsp;<u>Lifelong Learning</u>**&nbsp;– In an era of constant change and disruptions, no amount of prior learning will be enough to prepare individuals and organisations for the challenges. We spend the first 15 years preparing our students for the next 50 years of their lives. Our measure of success is not how well they do in the first 15 years, but how well they will do in the next 50 years, and beyond. Likewise in the Public Service, no amount of upfront preparation will be enough to help us overcome the challenges in the next 50 years. It will require us to be agile, to collaborate, and more importantly, to keep learning.&nbsp;&nbsp;
+<p style="text-indent:30px">
+	a. <strong>Uncertainties Require <u>Agility</u></strong> – In an era of greater uncertainties and change, no single structure and organisation can cater for all scenarios. We need to be agile in organisation and mindset to tackle challenges.  </p>
+<p style="text-indent:30px"> 
+	b. <strong>Complexities Require <u>Collaboration</u></strong> -  In an era where challenges are becoming more complex, no amount of individual capability is sufficient. No organisation will have all the skillsets and tools to overcome complex challenges. We need collaborative, multipronged approaches to tackle these multifaceted challenges.&nbsp; </p> 
+<p style="text-indent:30px">  
+	
+c. <strong>Disruptions Require <u>Lifelong Learning</u></strong>-  In an era of constant change and disruptions, no amount of prior learning will be enough to prepare individuals and organisations for the challenges. We spend the first 15 years preparing our students for the next 50 years of their lives. Our measure of success is not how well they do in the first 15 years, but how well they will do in the next 50 years, and beyond. Likewise in the Public Service, no amount of upfront preparation will be enough to help us overcome the challenges in the next 50 years. It will require us to be agile, to collaborate, and more importantly, to keep learning.&nbsp;&nbsp;</p>
 
 **Culture of&nbsp;<u>Agility</u>**  
   
