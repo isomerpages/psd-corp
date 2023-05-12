@@ -10,6 +10,66 @@ description: ServiceSG is a first-stop service concierge that helps citizens
 
 ![](/images/ServiceSG/servicesg-website-personas.png)
 
+<style>
+
+input {
+	display: none;
+}
+label {
+	display: block;
+	padding: 8px 22px;
+	margin: 0 0 5px 0;
+	cursor: pointor;
+	background: #F0F4F6;
+	border-radius: 3px;
+	color: #484848;
+	transition: ease .5s;
+	font-size: 1.5em;
+}
+
+label:hover {
+	background: #004169;
+	color: #FFF;
+}
+
+.accordion-content {
+	/* background: #E2E5F6; */
+	padding: 10px 0px 30px 30px;
+	/* border: 1px solid #484848; */
+	margin: 0 0 1px 0;
+	border-radius: 3px;
+}
+
+input + label + .accordion-content {
+	display: none;
+}
+
+input:checked + label + .accordion-content {
+	display: none;
+}
+
+input:checked + label + .accordion-content {
+	display: block;
+}
+
+</style>
+
+
+<div><input id="title2" type="checkbox"><label for="title2">For Seniors</label>
+	<div class="accordion-content">
+		<p>Digital Services Award is an annual award event organised by GovTech that aims to recognise Singapore Government agencies for their outstanding achievement and commitment to maintaining excellent digital service standards for members of the public.</p>
+<p>In 2022, PSD has been awarded the Best Functionality (Medium agency), which recognises agencies who scored highest overall score for Informational Services in the areas of Search Engine Optimisation, Accessibility and Page Load Time.</p>
+	</div>
+	<input id="title3" type="checkbox"><label for="title3">The HRM Awards</label>
+	<div class="accordion-content">
+		<p>The HRM Awards by HRM Asia rewards and celebrates ‘Great HR’. In 2015, Ms Yong Ying-I, Permanent Secretary, Public Service Division, Prime Minister’s Office received the Champion of HR award - an award that recognises individuals who are champions of change in their organisations with a strong track record in supporting and driving HR strategies and initiatives from the top. PSD clinched the award for Best Mature and Re-Employment Practices and received Special Recognitions for STJobs Award for Best Employer Branding and Best HR Team.</p>
+	</div>
+	<input id="title4" type="checkbox"><label for="title4">Singapore HR Excellence Awards</label>
+	<div class="accordion-content">
+		<p>PSD clinched two awards - a Silver in Excellence in HR Social Media, and Silver in Excellence in Employer Branding from a strong pool of finalists which included Singtel, DBS Bank, IPG Mediabrands and Deloitte&amp;Touche LLP. The awards, by Human Resources Magazine, bring together industry leaders to celebrate excellence in the HR profession.</p>
+	</div>
+	</div>
+
 ### **For Seniors**
 
 Visit ServiceSG to get help with multiple government digital services, all in one location! Not sure how to access online services? ServiceSG can help!
