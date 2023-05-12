@@ -95,8 +95,6 @@ input:checked + label + .accordion-content {
 
 Our friendly ServiceSG staff are ready to guide you through the services you need. You can walk into any of the ServiceSG locations below for help – there is no need to make an appointment beforehand. If your enquiry or transaction is more complex, we can help you make an in-person or video conferencing appointment with the agencies.
 
-Visit our ServiceSG Centres:<br>
-
 <u>Opening Hours</u><br>
 Mon - Sun: 9am to 6pm  
 Closed on Public Holidays
@@ -121,40 +119,38 @@ Closed on Public Holidays
 
 ServiceSG@CCs, a collaboration with People’s Association, are located within Community Clubs and offer a more focused range of services.
 
-Visit our ServiceSG@CCs:
-
 <u>Opening Hours</u><br>
 Mon - Sun: 10am to 6pm  
 Closed on Public Holidays
 
-##### **West**
-
-**ServiceSG@The Frontier Community Club** <br> 
-The Frontier Community Place  
-#01-01  
-60 Jurong West Central 3  
-Singapore 648346
-
-**ServiceSG@Keat Hong Community Club** <br>
-#01-01  
-2 Choa Chu Kang Loop  
-Singapore 689687
-
-##### **North**
-
-**ServiceSG@Nee Soon Central Community Club** <br> 
-Northpoint City (Near Berth B8 in Yishun Bus Interchange)  
-#01-201  
-1 North Point Drive  
-Singapore 768019
-
-##### **East**
-
-**ServiceSG@Kampong Chai Chee Community Club**<br> 
-Heartbeat@Bedok  
-#01-31  
-11 Bedok North Street 1  
-Singapore 469662
+<div><input id="title7" type="checkbox"><label for="title7">ServiceSG@The Frontier Community Club</label>
+	<div class="accordion-content">
+	The Frontier Community Place
+	<br> #01-01
+	<br> 60 Jurong West Central 3
+	<br> Singapore 648346
+	</div>
+	<input id="title8" type="checkbox"><label for="title8">ServiceSG@Keat Hong Community Club</label>
+	<div class="accordion-content">
+	#01-01
+	<br> 2 Choa Chu Kang Loop
+	<br> Singapore 689687
+	</div>
+	<input id="title9" type="checkbox"><label for="title9">ServiceSG@Nee Soon Central Community Club</label>
+	<div class="accordion-content">
+	Northpoint City (Near Berth B8 in Yishun Bus Interchange)  
+	<br> #01-201  
+	<br> 1 North Point Drive  
+	<br> Singapore 768019
+	</div>
+	<input id="title10" type="checkbox"><label for="title10">ServiceSG@Kampong Chai Chee Community Club</label>
+	<div class="accordion-content">
+	Heartbeat@Bedok  
+	<br> #01-31  
+	<br> 11 Bedok North Street 1  
+	<br> Singapore 469662
+	</div>
+	</div>
 
 # ABOUT SERVICESG
 ![](/images/ServiceSG/servicesg-logo.png)
