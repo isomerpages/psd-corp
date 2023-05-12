@@ -139,13 +139,13 @@ There are challenges associated with an ageing population. But there are also op
 <p style="text-indent: 30px"> - To develop open and integrated regional trade architectures like the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) and Regional Comprehensive Economic Partnership (RCEP).</p>
   
 39\. Even though we are small, we try to play a constructive role where possible. Some examples:
-<div style="text-indent: 30px"> - In 1978, hosting Mr Deng Xiaoping for his first official visit to Singapore to explore ideas for China’s opening up</div>
-<div style="text-indent: 30px"> - In 1993, we hosted the Wang-Ku summit </div>
-<div style="text-indent: 30px"> - Supporting entry of China into the WTO system in 2001</div> 
-<div style="text-indent: 30px"> - In 2006, we hosted the International Monetary Fund and World Bank meetings</div>
-<div style="text-indent: 30px"> - In 2015, we hosted the Xi-Ma meeting </div>
-<div style="text-indent: 30px"> - Last year, we hosted the first Trump-Kim Summit in Singapore.</div>
-<div style="text-indent: 30px"> - Last year, the UN General Assembly passed a resolution to adopt the UN Convention on International Settlement Agreements Resulting from Mediation, which will be signed in Singapore later this year.</div>
+<p style="text-indent: 30px"> - In 1978, hosting Mr Deng Xiaoping for his first official visit to Singapore to explore ideas for China’s opening up</p>
+<p style="text-indent: 30px"> - In 1993, we hosted the Wang-Ku summit </p>
+<p style="text-indent: 30px"> - Supporting entry of China into the WTO system in 2001</p> 
+<p style="text-indent: 30px"> - In 2006, we hosted the International Monetary Fund and World Bank meetings</p>
+<p style="text-indent: 30px"> - In 2015, we hosted the Xi-Ma meeting </p>
+<p style="text-indent: 30px"> - Last year, we hosted the first Trump-Kim Summit in Singapore.</p>
+<p style="text-indent: 30px"> - Last year, the UN General Assembly passed a resolution to adopt the UN Convention on International Settlement Agreements Resulting from Mediation, which will be signed in Singapore later this year.</p>
   
 40\. We will continue to do these and more, and what is right within our means.  
   
