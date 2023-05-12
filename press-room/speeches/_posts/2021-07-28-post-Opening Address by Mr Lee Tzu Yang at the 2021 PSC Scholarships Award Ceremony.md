@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Opening Address by Mr Lee Tzu Yang, Chairman of the Public Service Commission, at the 2021 PSC Scholarships Award Ceremony**
+##### Opening Address by Mr Lee Tzu Yang, Chairman of the Public Service Commission, at the 2021 PSC Scholarships Award Ceremony
 
 1\. Good afternoon.  
 Mr Chan Chun Sing, Minister of Education and Minister-in-charge of the Public Service  
