@@ -21,19 +21,19 @@ Fellow Public Officers,
 5\. But I want to pay special tribute to two specific groups of public officers. The first group are those who have fought, and continue to fight COVID: The healthcare professionals; the officers managing the foreign worker dorms; the engineers who develop new apps and scientists working furiously to develop COVID test kits; the officers in various Ministries who rolled out support schemes for citizens and businesses, the officers in charge of Singapore’s supply chain, who scour the world to secure our supplies of food and essential items.
 
 6\. The second group are those who kept our country going and growing away from the fight to overcome COVID:
-<div style="margin-left:30px">
-a. Our officers in the security agencies who keep watch and ensure our safety and security amidst volatile geopolitics;  
-	
-b. Our officers in the economic, foreign affairs and transport ministries who are working hard to find new economic opportunities for Singapore;  
-	
-c. Our engineers who keep thinking and building our smart city of the future;  
-	
-d.&nbsp;Our colleagues in the social sector who keep our people together amidst the growing diversity of our society;&nbsp;  
-	
-e. Our teachers and officers in the education sector, who continue to inspire and educate our young in new ways;&nbsp;  
-	
+<p style="margin-left:30px">
+a. Our officers in the security agencies who keep watch and ensure our safety and security amidst volatile geopolitics;</p> 
+<p style="margin-left:30px">
+b. Our officers in the economic, foreign affairs and transport ministries who are working hard to find new economic opportunities for Singapore;</p> 
+<p style="margin-left:30px">
+c. Our engineers who keep thinking and building our smart city of the future;</p>  
+<p style="margin-left:30px">	
+d.&nbsp;Our colleagues in the social sector who keep our people together amidst the growing diversity of our society;&nbsp;</p>
+<p style="margin-left:30px">	
+e. Our teachers and officers in the education sector, who continue to inspire and educate our young in new ways;&nbsp; </p> 
+<p style="margin-left:30px">	
 f. And many more who work quietly but effectively away from the COVID spotlight.
-</div>
+</p>
 
 7\. Why do I highlight both groups of officers? The answer is simply this - Let all of us remember that even as we fight the current battles, we have never, and we must never, stop working on the longer-term survival and success of Singapore. This is, and this will always be, the Singapore Public Service Way.
 
@@ -43,15 +43,15 @@ f. And many more who work quietly but effectively away from the COVID spotlight.
 
 9\. Our priorities will be:
 
-<div style="margin-left:30px">
-a. To help the displaced workers acquire new skills and find new jobs; <br>
-
-b. To help businesses to develop new products, services and capture new markets;&nbsp;  
-	
-c. Reconnect with the world progressively, safely and sustainably;&nbsp;  
-	
+<p style="margin-left:30px">
+a. To help the displaced workers acquire new skills and find new jobs; </p>
+<p style="margin-left:30px">
+b. To help businesses to develop new products, services and capture new markets;&nbsp;</p>
+<p style="margin-left:30px">
+c. Reconnect with the world progressively, safely and sustainably;&nbsp;</p>
+<p style="margin-left:30px">
 d. Diversify our supply chains and markets to mitigate any recurrence of disruption to our supply chains and markets.
-</div>
+</p>
 
 10\. Even as we tackle the fallout of COVID, we must keep our eyes on the wider challenges and opportunities. The geopolitical tensions amongst the big powers will have serious and long-term consequences on Singapore’s position as a global node for business. However, there is also an opportunity for us to distinguish ourselves: as a trusted safe harbour for talent, ideas and investments, with coherent long-term policies; and as a united people, recognising our diverse history and aspirations. On the other hand, digitalisation and industry 4.0 will open up new ways for us to connect, compete and cooperate with the world. The competition, especially for our PMETs, will be more intense. Anyone from across the world can compete with us for jobs, even without being physically in Singapore. But opportunities for us will also no longer be constrained by our size or location. It can truly allow a city-state like us to leverage the world as our hinterland and market. Our domestic social make-up and aspirations will become more diverse. It is also an opportunity for us to strengthen the social fabric of our nation. So long as we remember that we always have more in common than differences.
 
