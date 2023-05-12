@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Speech by Mr Chan Chun Sing, Minister-in-charge of the Public Service, at the 2021 One Public Service Observance Ceremony**
+##### Speech by Mr Chan Chun Sing, Minister-in-charge of the Public Service, at the 2021 One Public Service Observance Ceremony
 
 Fellow Public Officers,  
   
