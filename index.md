@@ -10,8 +10,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Public Service Division
-      subtitle: We are the heart of Public Service
+      title: We are the heart of Public Service
+      subtitle: People are our greatest assets. We develop the people and the culture
+        in the service to serve citizens as one united public service.
       key_highlights:
         - title: Challenge Online
           description: Read for ideas and inspiration!
