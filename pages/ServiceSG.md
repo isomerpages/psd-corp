@@ -24,7 +24,7 @@ label {
 	border-radius: 3px;
 	color: #484848;
 	transition: ease .5s;
-	font-size: 1.5em;
+	font-size: 1em;
 }
 
 label:hover {
@@ -59,7 +59,7 @@ input:checked + label + .accordion-content {
 	<div class="accordion-content">
 		<p>Visit ServiceSG to get help with multiple government digital services, all in one location! Not sure how to access online services? ServiceSG can help!<br>
 		</p><h4 style="color:#004169;">Popular services that others like you are using:</h4>
-<ol>
+<ol style="font-size:90%">
 	<li>Re-register your NRIC or renew your passport</li>
 	<li>Set up or reset your SingPass password</li>
 	<li>Check your Central Provident Fund (CPF) balance and statement</li>
@@ -69,7 +69,7 @@ input:checked + label + .accordion-content {
 		<div class="accordion-content">
 		<p>If you have financial needs and are unsure about the support available to you, visit us to find out more.</p>
 		<p></p><h4 style="color:#004169;">Popular services that others like you are using:</h4>
-<ol>
+<ol style="font-size:90%">
 	<li>Apply for ComCare and get the financial support you need</li>
 	<li>Apply for the Housing Development Board’s (HDB) Public Rental Scheme to receive housing assistance</li>
 	<li>Renew your CHAS cards so you can continue to enjoy subsidies on medical and dental care</li>
@@ -79,7 +79,7 @@ input:checked + label + .accordion-content {
 		<div class="accordion-content">
 		<p>Balancing work and life can be challenging. Let ServiceSG make life easier by helping you with your Government transactions.</p>
 		<p></p><h4 style="color:#004169;">Popular services that others like you are using:</h4>
-<ol>
+<ol style="font-size:90%">
 	<li>File your personal income tax</li>
 	<li>Manage and service your HDB housing loan</li>
 	<li>Get career and skills guidance from our onsite Career and Skills Ambassadors</li>
