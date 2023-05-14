@@ -49,13 +49,13 @@ input:checked + label + .accordion-content {
 
 <img src="/images/psd40_final.png" style="width:250px">
 
-<p></p><div style="text-align:center"><strong style="color:#004169;">In 2023, the Public Service Division celebrates our 40th anniversary. Since our inception, our work has been guided by our mission of building a first-class Public Service, so that we can contribute to building a successful and vibrant Singapore.</strong></div><p></p>
+<div style="text-align:center">In 2023, the Public Service Division celebrates our 40th anniversary. Since our inception, our work has been guided by our mission of building a first-class Public Service, so that we can contribute to building a successful and vibrant Singapore.</div>
 
-	
+## **Our History**
 <div>
-<input id="title2" type="checkbox"><label for="title2">Digital Services Awards</label>
+<input id="title2" type="checkbox"><label for="title2">Our Early Years</label>
 <div class="accordion-content">
-<p>Digital Services Award is an annual award event organised by GovTech that aims to recognise Singapore Government agencies for their outstanding achievement and commitment to maintaining excellent digital service standards for members of the public.<br><br>In 2022, PSD has been awarded the Best Functionality (Medium agency), which recognises agencies who scored highest overall score for Informational Services in the areas of Search Engine Optimisation, Accessibility and Page Load Time.</p></div>
+<p><table><tbody><tr><td width="100px"><p>&nbsp;1983</p></td><td><p>The Public Service Division (PSD) was founded as a unit under Ministry of Finance (MOF) on 3 January, handling personnel matters for the Civil Service. The late Mr Sim Kee Boon was appointed as Permanent Secretary, Finance and PSD. Our first office was in the Central Provident Fund Building.<br><br></p></td></tr><tr><td><p>&nbsp;1984</p></td><td><p>The Social Development Unit was formed in PSD to promote marriages among couples with tertiary education. <br><br>The late Dr Andrew Chew became Permanent Secretary, Finance and Public Service.<br><br></p></td></tr><tr><td><p>&nbsp;1987</p></td><td><p>PSD moved to &nbsp;Temasek Tower (then the Treasury) in the financial district of Shenton Way.<br><br></p></td></tr><tr><td><p>&nbsp;1990</p></td><td><p>Mr Lee Hsien Loong, then Minister for Trade and Industry was appointed Deputy Prime Minister for economic and civil service matters.<br><br></p></td></tr><tr><td><p>&nbsp;1993</p></td><td><p>The Civil Service College was established to develop programmes in policy, governance and leadership development for senior officers.<br><br></p></td></tr><tr><td><p>&nbsp;1994</p></td><td><p>PSD was transferred from the Ministry Of Finance to the Prime Minister’s Office. <br><br>The Public Service Commission Secretariat was integrated with PSD.<br> <br>Mr Lim Siong Guan became Permanent Secretary, Prime Minister’s Office.<br></p><br></td></tr></tbody></table></p></div>
 <input id="title3" type="checkbox"><label for="title3">The HRM Awards</label>
 	<div class="accordion-content">
 		<p>The HRM Awards by HRM Asia rewards and celebrates ‘Great HR’. In 2015, Ms Yong Ying-I, Permanent Secretary, Public Service Division, Prime Minister’s Office received the Champion of HR award - an award that recognises individuals who are champions of change in their organisations with a strong track record in supporting and driving HR strategies and initiatives from the top. PSD clinched the award for Best Mature and Re-Employment Practices and received Special Recognitions for STJobs Award for Best Employer Branding and Best HR Team.</p></div>
@@ -67,32 +67,5 @@ input:checked + label + .accordion-content {
 	<div class="accordion-content">
 		<p>The Work-Life Excellence Award, conferred by the Tripartite Committee on Work-Life Strategy, celebrates our achievements in the area of work-life. The Work-Life Achiever Award recognises employers who appreciate the business value in responding to employees’ work-life needs; ensure that the senior management, direct supervisors and employees have a long-term commitment to the company’s work-life strategy; and implement work-life strategies effectively.</p>
 	</div>
-	<input id="title6" type="checkbox"><label for="title6">Public Service Award for Organisational Excellence</label>
-	<div class="accordion-content">
-		<p>The Public Service Award for Organisational Excellence (PS Award) is the premier organisational excellence award for public agencies. The Award recognises public agencies' achievement of organisational excellence (OE) standards.</p>
-	</div>
-	<input id="title7" type="checkbox"><label for="title7">Singapore HEALTH Award (Platinum)</label>
-	<div class="accordion-content">
-		<p>The Singapore HEALTH (Helping Employees Achieve Life-Time Health) Award is presented by the Healthy Promotion Board to give national recognition to organizations with commendable Workplace Health programmes. The Platinum Award is awarded to organisations that have achieved at least two Gold Awards consecutively and have demonstrated tangible benefits from their WHP programme.</p>
-	</div>
-	<input id="title8" type="checkbox"><label for="title8">President's Certificate of Commendation</label>
-	<div class="accordion-content">
-		<p>The PSD Resort Management Section received the President's Certificate of Commendation for its contribution in combating and containing SARS outbreak.</p>
-	</div>
-	<input id="title9" type="checkbox"><label for="title9">CAPAM Innovation Award</label>
-	<div class="accordion-content">
-		<p>The CAPAM International Innovations Awards (IIA) celebrate the spirit of innovation in the public service by recognizing organisations that have made significant contributions to improving governance and services in the public sector. PSD received the Innovation Award for The Enterprise Challenge (TEC) - a fund set up for innovative proposals that have the potential to create new value or significant improvements to the delivery of public service of Singapore.</p>
-	</div>
-	<input id="title10" type="checkbox"><label for="title10">The Enterprise Challenge (TEC) Awards</label>
-	<div class="accordion-content">
-		<p>The Enterprise Challenge (TEC) Awards recognises innovative proposals that have the potential to create new value or significant improvements to the delivery of public service of Singapore. The Civil Service College (CSC) clinched the Enterprise Challenge Shield which is given to the most outstanding team whose project has been implemented and has created the most “value-add” to the Public Service. The Public Service Division (PSD) clinched in the Innovation Incubator Award which honours agencies which have undertaken initiatives to provide a conducive environment for innovation, as well as to support their staff in developing innovative proposals.</p>
-	</div>
-	<input id="title11" type="checkbox"><label for="title11">Community Chest SHARE Programme (Silver)</label>
-	<div class="accordion-content">
-		<p>The Community Chest SHARE Programme Awards recognises is a yearly event for Community Chest to thank and pay tribute to its corporate partners and organisations for their support. Public Service Commission Secretariat received the Silver Award for its contribution to the SHARE Programme.</p>
-	</div>
-	<input id="title12" type="checkbox"><label for="title12">PS21 ExCEL Awards</label>
-	<div class="accordion-content">
-		<p>The PS21 ExCEL Awards recognises innovations and staff suggestions which have added value to and enhanced the delivery of public goods and services to the Singapore population. PSD clinched the Creative Effort (Merit) Award for promoting Work Improvement Teams (WITS) and Staff Suggestion Scheme (SSS).</p>
-	</div>
+	
 </div>
