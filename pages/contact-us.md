@@ -2,31 +2,27 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Public Service Division
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 100 High Street
+      - The Treasury
+      - Singapore 179434
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        time: 9am - 5pm
+        description: Closed on Saturdays, Sundays and Public Holidays
+    maps_link: https://www.onemap.gov.sg/v2/?lat=1.29086311648985&lng=103.849639606454
+    title: Location
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: 1 800 227 7270
+      - email: psd_qsm@psd.gov.sg
+      - other: ""
+    title: " Quality Service Manager"
+  - content:
+      - phone: ""
+      - email: tan_yiwen@psd.gov.sg
+      - other: Ms Tan Yiwen
+    title: For media queries
 ---

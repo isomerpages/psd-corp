@@ -1,32 +1,26 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Public Service Division
+description: The Public Service Division nurtures, guides and supports the
+  health, well-being and performance of public officers. We steward One Trusted
+  Public Service to deliver excellent public service and enable effective
+  government.
+image: /images/isomerhero-darkmode-10s.gif
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: We are the heart of Public Service
+      subtitle: People are our greatest assets. We develop the people and the culture
+        in the service to serve citizens as one united public service.
+      key_highlights:
+        - title: Challenge Online
+          description: Read for ideas and inspiration!
+          url: https://psdchallenge.psd.gov.sg/challenge
+        - title: ServiceSG
+          description: Citizens' first-stop for govt services
+          url: /servicesg
+      background: /images/isomerhero-darkmode-10s.gif
+  - resources:
+      subtitle: Press Room
 ---
-

@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/PSD_logo-01.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Leadership
+    url: /leadership
+  - title: Transformation
+    url: /transformation/
+  - title: Work Practices
+    url: /work-practices/
+  - title: Developing Careers
+    url: /developing-careers/
+  - title: About Psd
+    collection: about-psd
