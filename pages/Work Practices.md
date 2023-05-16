@@ -3,7 +3,7 @@ title: Work Practices
 permalink: /work-practices/
 description: ""
 ---
-# LEADING THE WAY IN HR PRACTICES
+# Leading the way in HR practices
 
 As the central HR agency, we lead the way in HR practices. We keep up-to-date with emerging trends and work practices to ensure our HR practices remain relevant and are able to meet the current and future needs of the organisation and our officers.  
   
