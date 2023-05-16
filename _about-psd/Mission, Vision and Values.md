@@ -3,7 +3,7 @@ title: Mission, Vision and Values
 permalink: /about-psd/mission-vision-values/
 description: ""
 ---
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/X_XBqH25A8Q" height="315" width="560"></iframe>
+<div> <div style="position:relative;padding-top:56.25%;"> <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" align="center" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/X_XBqH25A8Q"></iframe> </div> </div>
 
 <h4>To deliver excellent public services and enable effective government.</h4>
 
