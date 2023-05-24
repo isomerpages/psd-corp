@@ -3,7 +3,7 @@ title: The PSD Experience
 permalink: /about-psd/experience/
 description: ""
 ---
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/r5oCXnQQsxQ" height="315" width="560"></iframe>
+<div> <div style="position:relative;padding-top:56.25%;"> <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" align="center" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/r5oCXnQQsxQ"></iframe> </div> </div>
 
 #### PSDians are part of a community that learns together and cares for one another.
 
