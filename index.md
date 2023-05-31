@@ -16,7 +16,7 @@ sections:
       key_highlights:
         - title: Challenge Online
           description: Read for ideas and inspiration!
-          url: https://psdchallenge.psd.gov.sg/challenge
+          url: https://psdchallenge.psd.gov.sg
         - title: ServiceSG
           description: Citizens' first-stop for govt services
           url: /servicesg
