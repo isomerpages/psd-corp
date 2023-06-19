@@ -88,7 +88,7 @@ input:checked + label + .accordion-content {
 	</div>
 
 ## **OUR PARTNERING AGENCIES**
-![](/images/ServiceSG/servicesg-website-partnering-agencies.png)
+![](/images/ServiceSG/servicesg_partneragencies_june2023.png)
 
 ## **VISIT US**
 ### **ServiceSG Centres**
