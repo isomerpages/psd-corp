@@ -22,5 +22,5 @@ sections:
           url: /servicesg
       background: /images/isomerhero-darkmode-10s.gif
   - resources:
-      subtitle: Press Room
+      subtitle: Newsroom
 ---
