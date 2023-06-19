@@ -10,3 +10,5 @@ links:
     url: /developing-careers/
   - title: About Public Service Division
     collection: about-public-service-division
+  - title: Newsroom
+    resource_room: true
