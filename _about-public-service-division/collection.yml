@@ -1,5 +1,5 @@
 collections:
-  about-psd:
+  about-public-service-division:
     output: true
     order:
       - Mission, Vision and Values.md
