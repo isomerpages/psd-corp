@@ -19,7 +19,7 @@ sections:
           url: https://psdchallenge.psd.gov.sg
         - title: ServiceSG
           description: Citizens' first-stop for govt services
-          url: /servicesg
+          url: /servicesg/
       background: /images/isomerhero-darkmode-10s.gif
   - resources:
       subtitle: Newsroom
