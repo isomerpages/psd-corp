@@ -125,6 +125,12 @@ ServiceSG@CCs, a collaboration with People’s Association, are located within C
 Mon - Sun: 10am to 6pm  
 Closed on Public Holidays
 
+<div><input id="title7" type="checkbox"><label for="title7">ServiceSG@Bukit Canberra</label>
+	<div class="accordion-content">
+	#01-62
+	<br> 21 Canberra Link
+	<br> Singapore 756973
+	</div>
 <div><input id="title7" type="checkbox"><label for="title7">ServiceSG@The Frontier Community Club</label>
 	<div class="accordion-content">
 	The Frontier Community Place
@@ -160,4 +166,4 @@ Closed on Public Holidays
 
 ServiceSG is a department under the Public Service Division, Prime Minister’s Office. We seek to integrate the delivery of services across public agencies, to serve citizens better, and in a more citizen centric manner.
 
-ServiceSG also builds deeper service delivery capabilities within the Public Service to raise overall service standards.
+ServiceSG also builds deeper service delivery capabilities within the Public Service to raise overall service standards.</div>
