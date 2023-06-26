@@ -151,7 +151,7 @@ Closed on Public Holidays
 	<br> 1 North Point Drive  
 	<br> Singapore 768019
 	</div>
-	<input type="checkbox" id="title11><label for=">ServiceSG@Kampong Chai Chee Community Club
+<input type="checkbox" id="title11"><label for="title11">ServiceSG@Kampong Chai Chee Community Club</label>
 	<div class="accordion-content">
 	Heartbeat@Bedok  
 	<br> #01-31  
