@@ -55,7 +55,7 @@ input:checked + label + .accordion-content {
 </style>
 
 
-<div><input id="title2" type="checkbox"><label for="title2">For Seniors</label>
+<div><input type="checkbox" id="title2"><label for="title2">For Seniors</label>
 	<div class="accordion-content">
 		<p>Visit ServiceSG to get help with multiple government digital services, all in one location! Not sure how to access online services? ServiceSG can help!<br>
 		</p><h4 style="color:#004169;">Popular services that others like you are using:</h4>
@@ -65,7 +65,7 @@ input:checked + label + .accordion-content {
 	<li>Check your Central Provident Fund (CPF) balance and statement</li>
 		</ol><p></p>
 	</div>
-	<input id="title3" type="checkbox"><label for="title3">For Those Who Need Support</label>
+	<input type="checkbox" id="title3"><label for="title3">For Those Who Need Support</label>
 		<div class="accordion-content">
 		<p>If you have financial needs and are unsure about the support available to you, visit us to find out more.</p>
 		<p></p><h4 style="color:#004169;">Popular services that others like you are using:</h4>
@@ -75,7 +75,7 @@ input:checked + label + .accordion-content {
 	<li>Renew your CHAS cards so you can continue to enjoy subsidies on medical and dental care</li>
 		</ol><p></p>
 	</div>
-	<input id="title4" type="checkbox"><label for="title4">For Working Adults</label>
+	<input type="checkbox" id="title4"><label for="title4">For Working Adults</label>
 		<div class="accordion-content">
 		<p>Balancing work and life can be challenging. Let ServiceSG make life easier by helping you with your Government transactions.</p>
 		<p></p><h4 style="color:#004169;">Popular services that others like you are using:</h4>
@@ -100,13 +100,13 @@ Our friendly ServiceSG staff are ready to guide you through the services you nee
 Mon - Sun: 9am to 6pm  
 Closed on Public Holidays
 
-<div><input id="title5" type="checkbox"><label for="title5">ServiceSG Centre One Punggol</label>
+<div><input type="checkbox" id="title5"><label for="title5">ServiceSG Centre One Punggol</label>
 	<div class="accordion-content">
 	#01-01
 <br>1 Punggol Drive  
 <br>Singapore 828629
 	</div>
-	<input id="title6" type="checkbox"><label for="title6">ServiceSG Centre Our Tampines Hub</label>
+	<input type="checkbox" id="title6"><label for="title6">ServiceSG Centre Our Tampines Hub</label>
 	<div class="accordion-content">
 	#01-21
 <br>1 Tampines Walk  
@@ -125,33 +125,33 @@ ServiceSG@CCs, a collaboration with People’s Association, are located within C
 Mon - Sun: 10am to 6pm  
 Closed on Public Holidays
 
-<div><input id="title7" type="checkbox"><label for="title7">ServiceSG@Bukit Canberra</label>
+<div><input type="checkbox" id="title7"><label for="title7">ServiceSG@Bukit Canberra</label>
 	<div class="accordion-content">
 	#01-62
 	<br> 21 Canberra Link
 	<br> Singapore 756973
 	</div>
-<input id="title7" type="checkbox"><label for="title7">ServiceSG@The Frontier Community Club</label>
+<input type="checkbox" id="title8"><label for="title8">ServiceSG@The Frontier Community Club</label>
 	<div class="accordion-content">
 	The Frontier Community Place
 	<br> #01-01
 	<br> 60 Jurong West Central 3
 	<br> Singapore 648346
 	</div>
-	<input id="title8" type="checkbox"><label for="title8">ServiceSG@Keat Hong Community Club</label>
+	<input type="checkbox" id="title9"><label for="title9">ServiceSG@Keat Hong Community Club</label>
 	<div class="accordion-content">
 	#01-01
 	<br> 2 Choa Chu Kang Loop
 	<br> Singapore 689687
 	</div>
-	<input id="title9" type="checkbox"><label for="title9">ServiceSG@Nee Soon Central Community Club</label>
+	<input type="checkbox" id="title10"><label for="title10">ServiceSG@Nee Soon Central Community Club</label>
 	<div class="accordion-content">
 	Northpoint City (Near Berth B8 in Yishun Bus Interchange)  
 	<br> #01-201  
 	<br> 1 North Point Drive  
 	<br> Singapore 768019
 	</div>
-	<input id="title10" type="checkbox"><label for="title10">ServiceSG@Kampong Chai Chee Community Club</label>
+	<input type="checkbox" id="title11><label for=">ServiceSG@Kampong Chai Chee Community Club
 	<div class="accordion-content">
 	Heartbeat@Bedok  
 	<br> #01-31  
