@@ -127,7 +127,8 @@ Closed on Public Holidays
 
 <div><input type="checkbox" id="title7"><label for="title7">ServiceSG@Bukit Canberra</label>
 	<div class="accordion-content">
-	#01-62
+Bukit Canberra Integrated Sports &amp; Community Hub
+	<br>#01-62
 	<br> 21 Canberra Link
 	<br> Singapore 756973
 	</div>
