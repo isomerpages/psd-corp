@@ -18,7 +18,7 @@ Hence, the Public Service has stepped up transformation efforts to build a futur
 
 #### Improving service delivery
 
-We continue to redesign and integrate services to be more citizen-centric. One example is LifeSG, a personalised, citizen-centred and life-stage based platform for citizens to access all government digital services. The ServiceSG Centre (formerly Public Service Centre) at Our Tampines Hub also brings together key services from across multiple Government agencies under one roof for more seamless and personalised service experience for Singaporeans. Read more about&nbsp;[ServiceSG](https://www.psd.gov.sg/transformation/servicesg).
+We continue to redesign and integrate services to be more citizen-centric. One example is LifeSG, a personalised, citizen-centred and life-stage based platform for citizens to access all government digital services. The ServiceSG Centre (formerly Public Service Centre) at Our Tampines Hub also brings together key services from across multiple Government agencies under one roof for more seamless and personalised service experience for Singaporeans. Read more about&nbsp;[ServiceSG](https://www.psd.gov.sg/servicesg).
 
 #### Working with citizens closely
 
