@@ -23,5 +23,3 @@ image: ""
 <u>Mr Chng Kai Fong</u>
 
 4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr Chng Kai Fong, 44, has held various appointments in the then-Ministry of Information, Communications and the Arts, Ministry of Home Affairs, Civil Service College, Ministry of Trade and Industry and Communications Group, Prime Minister’s Office. He also served a two-year stint at Shell Eastern Petroleum Pte Ltd. He was appointed as Principal Private Secretary to the Prime Minister in 2014 and subsequently as Managing Director of the Economic Development Board in 2017. In 2021, he was concurrently appointed as Second Permanent Secretary in MCI and SNDGG as well as Second Permanent Secretary (Cybersecurity), PMO. In May 2023, he was re-designated as Permanent Secretary (Development) in MCI and SNDGG, and Permanent Secretary (Development) (Cybersecurity), PMO.
-
-
