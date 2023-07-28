@@ -1,6 +1,6 @@
 ---
 title: Permanent Secretary Appointments – 17 February 2023
-permalink: /press-room/press-releases/press-room/press-releases/
+permalink: /newsroom/media-releases/permanent-secretary-appointments-17-february-2023/
 date: 2023-02-17
 layout: post
 description: ""

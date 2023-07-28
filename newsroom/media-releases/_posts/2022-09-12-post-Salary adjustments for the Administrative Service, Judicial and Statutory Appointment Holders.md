@@ -1,7 +1,7 @@
 ---
 title: Salary adjustments for the Administrative Service, Judicial and Statutory
   Appointment Holders
-permalink: /press-room/press-releases/
+permalink: /newsroom/media-releases/salary-adjustments-for-admin-service-judicial-statutory-appointment-holders/
 date: 2022-09-12
 layout: post
 description: ""

@@ -1,12 +1,11 @@
 ---
 title: Civil Service Mid‑Year Payments 2022
-permalink: /press-room/press-releases/civil-service-mid-year-payments-2022/
+permalink: /newsroom/media-releases/civil-service-mid-year-payments-2022/
 date: 2022-06-20
 layout: post
 description: ""
 image: ""
 ---
-
 **Civil servants to receive 0.35-month mid-year bonus;   
 Junior grade officers get an additional one-time payment of $200 or $400.**
 

@@ -1,13 +1,11 @@
 ---
 title: Civil Service Year End Payments 2022
-permalink: /press-room/press-releases/civil-service-year-end-payments-2022/
+permalink: /newsroom/media-releases/civil-service-year-end-payments-2022/
 date: 2022-11-24
 layout: post
 description: ""
 image: ""
 ---
-
-
 **Civil servants to receive 1.1-month year-end bonus   
 Junior grade officers get an additional one-time payment of $700**  
 _**This follows close consultation with public sector unions**_
