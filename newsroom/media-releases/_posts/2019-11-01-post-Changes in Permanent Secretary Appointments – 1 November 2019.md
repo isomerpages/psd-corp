@@ -1,6 +1,6 @@
 ---
 title: Changes in Permanent Secretary Appointments – 1 November 2019
-permalink: /press-room/press-releases/changes-in-permanent-secretary-appointments-1-november-2019/
+permalink: /newsroom/media-releases/changes-in-permanent-secretary-appointments-1-november-2019/
 date: 2019-11-01
 layout: post
 description: ""
@@ -8,26 +8,26 @@ image: ""
 ---
 **New Permanent Secretary Appointment**  
   
-Mr Stanley Loh Ka Leung will be appointed Second Permanent Secretary (Foreign Affairs) and concurrently Second Permanent Secretary (Social and Family Development) and Second Permanent Secretary (Prime Minister’s Office)(Special Duties), with effect from 18 November 2019.   
+Mr Stanley Loh Ka Leung will be appointed Second Permanent Secretary (Foreign Affairs) and concurrently Second Permanent Secretary (Social and Family Development) and Second Permanent Secretary (Prime Minister’s Office)(Special Duties), with effect from 18 November 2019.&nbsp;  
   
 **Changes in Permanent Secretary Appointments**  
   
-The following changes in Permanent Secretary appointments will take effect from 2 December 2019:   
+The following changes in Permanent Secretary appointments will take effect from 2 December 2019:&nbsp;  
   
-Mr Chan Yeng Kit will relinquish his appointment as Permanent Secretary (Defence) and be appointed Permanent Secretary (Health).   
+Mr Chan Yeng Kit will relinquish his appointment as Permanent Secretary (Defence) and be appointed Permanent Secretary (Health).&nbsp;  
   
-Mr Chan Heng Kee will relinquish his appointment as Permanent Secretary (Health) and be appointed Permanent Secretary (Defence).   
+Mr Chan Heng Kee will relinquish his appointment as Permanent Secretary (Health) and be appointed Permanent Secretary (Defence).&nbsp;  
   
-Mr Ng How Yue will relinquish his appointment as Permanent Secretary (Law). For his current concurrent appointment at the Ministry of Health (MOH), he will be re-designated Permanent Secretary (Health Development) and be full-time at the MOH to give greater focus to ageing issues, in addition to public health and health promotion.   
+Mr Ng How Yue will relinquish his appointment as Permanent Secretary (Law). For his current concurrent appointment at the Ministry of Health (MOH), he will be re-designated Permanent Secretary (Health Development) and be full-time at the MOH to give greater focus to ageing issues, in addition to public health and health promotion.&nbsp;  
   
-Mr Loh Khum Yean, Permanent Secretary (Public Service Division), will be concurrently appointed as Permanent Secretary (Law).   
+Mr Loh Khum Yean, Permanent Secretary (Public Service Division), will be concurrently appointed as Permanent Secretary (Law).&nbsp;  
   
   
-**Background**   
+**Background**&nbsp;  
 
 <u>Mr Stanley Loh Ka Leung (罗 家 良) </u>
   
-Mr Stanley Loh, 48, has served in various appointments in the Ministry of Foreign Affairs (MFA). Between 1997 and 2000, he served as First Secretary and later Counsellor in the Singapore High Commission to Malaysia. In 2000, he was appointed as Deputy Chief of Mission of the Singapore Embassy in the United States of America.  In 2004, Mr Loh was appointed Press Secretary to then Prime Minister and later Senior Minister Goh Chok Tong, and concurrently Director (Special Duties) in the Ministry of Information, Communications and the Arts.  In 2005, he was concurrently appointed as Director of the Middle East Directorate in MFA. He was Singapore’s Trade Representative in Taipei from 2007 to 2011, before taking up appointment as Deputy Secretary (International) in MFA between 2011 and 2012. Mr Loh has been Singapore’s Ambassador to the People’s Republic of China since March 2012.  
+Mr Stanley Loh, 48, has served in various appointments in the Ministry of Foreign Affairs (MFA). Between 1997 and 2000, he served as First Secretary and later Counsellor in the Singapore High Commission to Malaysia. In 2000, he was appointed as Deputy Chief of Mission of the Singapore Embassy in the United States of America.&nbsp; In 2004, Mr Loh was appointed Press Secretary to then Prime Minister and later Senior Minister Goh Chok Tong, and concurrently Director (Special Duties) in the Ministry of Information, Communications and the Arts.&nbsp; In 2005, he was concurrently appointed as Director of the Middle East Directorate in MFA. He was Singapore’s Trade Representative in Taipei from 2007 to 2011, before taking up appointment as Deputy Secretary (International) in MFA between 2011 and 2012. Mr Loh has been Singapore’s Ambassador to the People’s Republic of China since March 2012.  
   
   
 <u>Mr Chan Yeng Kit (陈 英 杰)</u>

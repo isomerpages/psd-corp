@@ -1,12 +1,12 @@
 ---
 title: Permanent Secretary Retirements and Appointment – 1 June 2018
-permalink: /press-room/press-releases/permanent-secretary-retirements-and-appointment-1-june-2018/
+permalink: /newsroom/media-releases/permanent-secretary-retirements-and-appointment-1-june-2018/
 date: 2018-06-01
 layout: post
 description: ""
 image: ""
 ---
-Ms Yeoh Chee Yan, Permanent Secretary of the Ministry of Culture, Community and Youth (MCCY), will retire on 1 July 2018, after 33 years of distinguished service in the Singapore Public Service. Ms Tan Gee Keow, Deputy Secretary, Strategy Group, Prime Minister’s Office (PMO) will be appointed Permanent Secretary of MCCY on the same date.   
+Ms Yeoh Chee Yan, Permanent Secretary of the Ministry of Culture, Community and Youth (MCCY), will retire on 1 July 2018, after 33 years of distinguished service in the Singapore Public Service. Ms Tan Gee Keow, Deputy Secretary, Strategy Group, Prime Minister’s Office (PMO) will be appointed Permanent Secretary of MCCY on the same date.&nbsp;  
   
 Mr Neo Kian Hong, Permanent Secretary (Defence Development) of the Ministry of Defence, will retire on 1 August 2018, after 35 years of distinguished service in the Singapore Armed Forces and Administrative  
 Service.  
@@ -20,11 +20,11 @@ Thanking Ms Yeoh and Mr Neo, Minister-in-charge of the Public Service, Mr Chan C
   
 Ms Yeoh Chee Yan, 58, began her public service career in 1985, and served in various appointments across several ministries.  
   
-In 1999 she was appointed Deputy Secretary, Ministry of Community Development where she played a key role in reviewing social policy issues including the introduction of new pro family measures.   
+In 1999 she was appointed Deputy Secretary, Ministry of Community Development where she played a key role in reviewing social policy issues including the introduction of new pro family measures.&nbsp;  
   
 In 2004, Ms Yeoh was appointed Deputy Secretary (Development) of the Public Service Division and concurrently Chief Executive Officer (CEO)/Dean, Civil Service College. At PSD, she strengthened scenario and strategic planning capabilities across the public service and managed the “Public Service for the 21st Century” programme. As CEO of the Civil Service College, she refocused the College on milestone programmes for leadership development, enhanced international relations and delivered new programmes to strengthen capability development in the public sector.  
   
-Ms Yeoh was appointed Deputy Secretary (Policy), Ministry of Defence in 2006, where she oversaw defence policy, defence relations and information management.   
+Ms Yeoh was appointed Deputy Secretary (Policy), Ministry of Defence in 2006, where she oversaw defence policy, defence relations and information management.&nbsp;  
   
 In 2008, she was appointed Second Permanent Secretary, Ministry of Education and was later re-designated Permanent Secretary (Education Development). Her key contributions at MOE included strengthening the leadership succession pipeline and talent development for the Education Service. In addition, Ms Yeoh also initiated the establishment of the Academy of Singapore Teachers to drive professional and teaching excellence in the Education Service as well as the English Language Institute of Singapore, to raise English Language proficiency in schools. She also played a key role in the Primary Education Review and Implementation committee, which introduced measures to support a more holistic education and moved all primary schools to single session.  
   

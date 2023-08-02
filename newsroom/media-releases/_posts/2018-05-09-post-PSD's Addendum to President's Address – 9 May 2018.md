@@ -1,18 +1,18 @@
 ---
 title: PSD's Addendum to President's Address – 9 May 2018
-permalink: /press-releases/psd-s-addendum-to-president-s-address-9-may-2018/
+permalink: /newsroom/media-releases/psds-addendum-to-presidents-address-9-may-2018/
 date: 2018-05-09
 layout: post
 description: ""
 image: ""
 ---
-**Prime Minister’s Office   
+**Prime Minister’s Office&nbsp;  
 (Public Service Division)** 
   
 **Addendum to the President’s Address**
   
 **Mr Chan Chun Sing  
-Minister for Trade & Industry and Minister-in-charge of the Public Service**
+Minister for Trade &amp; Industry and Minister-in-charge of the Public Service**
   
 <u>**Our Aspirations**</u>  
   
