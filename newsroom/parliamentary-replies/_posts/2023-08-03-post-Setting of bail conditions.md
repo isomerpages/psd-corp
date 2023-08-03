@@ -35,4 +35,4 @@ c.&nbsp;&nbsp;&nbsp;&nbsp; the duration and expected date of departure and retur
 <p style="margin-left: 50px;">a.&nbsp;&nbsp;&nbsp;&nbsp; The person furnishes a complete itinerary of his travel, including where he would be staying and his contact number while overseas, before departing Singapore; and<br>
 b.&nbsp;&nbsp;&nbsp;&nbsp; The person remains contactable by the Investigation Officer when he is overseas.</p>
 
-The number of persons on bail who are granted permission to leave Singapore is not specifically tracked. It is not uncommon for persons on bail to apply for permission to leave Singapore, and for permission to be granted if the law enforcement agency or the Court is satisfied that the per
+The number of persons on bail who are granted permission to leave Singapore is not specifically tracked. It is not uncommon for persons on bail to apply for permission to leave Singapore, and for permission to be granted if the law enforcement agency or the Court is satisfied that the person will return to Singapore.
