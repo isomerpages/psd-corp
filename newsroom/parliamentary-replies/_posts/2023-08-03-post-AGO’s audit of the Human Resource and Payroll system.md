@@ -19,4 +19,3 @@ image: ""
 2\.         In response to AGO’s findings, PSD has taken immediate actions to reduce the rights of these accounts in terms of system access. PSD has checked through and ascertained that there was no unauthorised access to the system and no compromise of system data. There is no basis to suspect foul play. In addition, PSD also extended checks on other system accounts to ensure there were no unauthorised access or activities.
 
 3\.         We have issued the vendor a stern warning for all the lapses uncovered within this audit.
-
