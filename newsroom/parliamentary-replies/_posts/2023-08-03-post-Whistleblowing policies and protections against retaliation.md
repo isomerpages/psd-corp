@@ -15,4 +15,3 @@ image: ""
 **Written Reply by Mr Chan Chun Sing, Minister for Education and Minister-in-charge of the Public Service:**
 
 1\.         I have addressed this Question in my response at the [2 August 2023 Parliamentary Sitting](https://www.psd.gov.sg/newsroom/parliamentary-replies/cpib-case-and-public-service-code-of-conduct/).
-
