@@ -1,12 +1,11 @@
 ---
 title: MG(NS) Ng Chee Khern to be Permanent Secretary (Defence Development)
-permalink: /press-room/press-releases/
+permalink: /newsroom/media-releases/mg-ns-ng-chee-khern-to-be-permanent-secretary-defence-development/
 date: 2014-04-02
 layout: post
 description: ""
 image: ""
 ---
-
 Date: 2 April 2014
 
 **MG(NS) Ng Chee Khern to be Permanent Secretary (Defence Development)**

@@ -1,6 +1,6 @@
 ---
-title: Permanent Secretary Appointment
-permalink: /press-room/press-releases/permanent-secretary-appointment/
+title: Permanent Secretary Appointment (20 March 2017)
+permalink: /press-room/press-releases/permanent-secretary-appointment-20-mar-2017/
 date: 2017-03-20
 layout: post
 description: ""
@@ -8,7 +8,7 @@ image: ""
 ---
 Mr Ng Chee Khern will be appointed as Permanent Secretary (Smart Nation and Digital Government), Prime Minister’s Office (PMO) on 1 May 2017, to lead the new Smart Nation and Digital Government Group in PMO to be formed on 1 May 2017. He will continue concurrently as Permanent Secretary (Defence Development).  
   
-Mr Ng will also retain his appointment as Chairman of the Government Technology Agency (GovTech) Board, which will oversee GovTech's operations and guide GovTech's efforts in supporting Smart Nation and digital government.   
+Mr Ng will also retain his appointment as Chairman of the Government Technology Agency (GovTech) Board, which will oversee GovTech's operations and guide GovTech's efforts in supporting Smart Nation and digital government.&nbsp;  
   
 <u>**Background**</u>
 

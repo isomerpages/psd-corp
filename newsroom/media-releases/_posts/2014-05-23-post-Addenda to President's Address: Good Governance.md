@@ -1,26 +1,24 @@
 ---
 title: "Addenda to President's Address: Good Governance"
-permalink: /press-room/press-releases/addenda-to-presidents-address-good-governance/
+permalink: /newsroom/media-releases/addenda-to-presidents-address-good-governance/
 date: 2014-05-23
 layout: post
 description: ""
 image: ""
 ---
-
-
 **ADDENDA TO PRESIDENT’S ADDRESS: GOOD GOVERNANCE**
 
-1    Good governance in Singapore has always been a key pillar of our success. We will continue to uphold good governance, building on our strong foundations of responsible and sustainable financial management, a fair and consistent system of rules and laws, and a first-class public service.
+1&nbsp;&nbsp;&nbsp;&nbsp;Good governance in Singapore has always been a key pillar of our success. We will continue to uphold good governance, building on our strong foundations of responsible and sustainable financial management, a fair and consistent system of rules and laws, and a first-class public service.
 
-2    As the government increases social spending, making every dollar count will become more important than ever. We must also ensure that we can afford these social programmes over the long term. Drawing on Net Investment Returns Contribution to supplement our annual budget will help. But we must also build up other revenue streams to meet higher spending needs. We will do so in a way that keeps our economy dynamic, and maintains a fair and progressive system of taxes and benefits.
+2&nbsp;&nbsp;&nbsp;&nbsp;As the government increases social spending, making every dollar count will become more important than ever. We must also ensure that we can afford these social programmes over the long term. Drawing on Net Investment Returns Contribution to supplement our annual budget will help. But we must also build up other revenue streams to meet higher spending needs. We will do so in a way that keeps our economy dynamic, and maintains a fair and progressive system of taxes and benefits.
 
-3    We will continue to build a public service that is better at serving the public. Officers involved in policymaking functions will be given more ground and operational exposure. Immersion in day-to-day issues concerning Singaporeans will give them a better feel for the impact of policies, and help them to build better and more practical solutions. Over time, we will nurture in public officers a greater appreciation for the diverse needs of Singaporeans, and preserve the status of the public service as a first-class institution.
+3&nbsp;&nbsp;&nbsp;&nbsp;We will continue to build a public service that is better at serving the public. Officers involved in policymaking functions will be given more ground and operational exposure. Immersion in day-to-day issues concerning Singaporeans will give them a better feel for the impact of policies, and help them to build better and more practical solutions. Over time, we will nurture in public officers a greater appreciation for the diverse needs of Singaporeans, and preserve the status of the public service as a first-class institution.
 
-4    Our rules and laws will evolve in response to our changing environment. For example, we need to update laws governing financial services, to protect the financial well-being of the population. We will require foreign banks important to the domestic market to incorporate their retail banking businesses locally to give better protection to depositors. We will also introduce a web aggregator to allow Singaporeans to compare life insurance products, and give Singaporeans the option to purchase basic insurance products directly from insurers more cheaply. We will review the interest rates and fees charged by licensed moneylenders, and establish a moneylenders’ credit bureau and a universal loan quantum cap, to protect vulnerable borrowers.
+4&nbsp;&nbsp;&nbsp;&nbsp;Our rules and laws will evolve in response to our changing environment. For example, we need to update laws governing financial services, to protect the financial well-being of the population. We will require foreign banks important to the domestic market to incorporate their retail banking businesses locally to give better protection to depositors. We will also introduce a web aggregator to allow Singaporeans to compare life insurance products, and give Singaporeans the option to purchase basic insurance products directly from insurers more cheaply. We will review the interest rates and fees charged by licensed moneylenders, and establish a moneylenders’ credit bureau and a universal loan quantum cap, to protect vulnerable borrowers.
 
-5    Good governance is crucial in keeping Singapore a conducive place to live, work and play. It will enable us to embark on the next stage of nation- building with confidence, and to build a better Singapore for the next generation.
+5&nbsp;&nbsp;&nbsp;&nbsp;Good governance is crucial in keeping Singapore a conducive place to live, work and play. It will enable us to embark on the next stage of nation- building with confidence, and to build a better Singapore for the next generation.
 
-6    The details of specific initiatives by MCI, MOF, MinLaw and PMO (MAS, PSD) are highlighted in the Annex.
+6&nbsp;&nbsp;&nbsp;&nbsp;The details of specific initiatives by MCI, MOF, MinLaw and PMO (MAS, PSD) are highlighted in the&nbsp;Annex.
 
 <u>**ANNEX**</u>
 
@@ -30,7 +28,7 @@ image: ""
     *   Review the Media Market Competition Code, including its anti-siphoning provisions.
     *   Ensure content classification standards are continually aligned with community values and expectations, and expand co-regulation into more areas such as film and arts entertainment.
     *   Amend the Broadcasting Act to provide a single legislative framework for converged media services.
-    *   Work with community to promote information literacy, media literacy and safe & responsible online behaviour.
+    *   Work with community to promote information literacy, media literacy and safe &amp; responsible online behaviour.
 
 *   Improve public communication and engagement:
     *   Enhance public engagement through REACH by exploring new ways of interacting with Singaporeans. For example, REACH has initiated an open concept booth, known as the “Listening Point”, in public areas to provide information and obtain public feedback on national issues.

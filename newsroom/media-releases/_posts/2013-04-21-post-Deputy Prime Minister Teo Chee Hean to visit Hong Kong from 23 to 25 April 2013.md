@@ -1,12 +1,11 @@
 ---
 title: Deputy Prime Minister Teo Chee Hean to visit Hong Kong from 23 to 25 April 2013
-permalink: /press-room/press-releases/permalink/
+permalink: /newsroom/media-releases/permalink/dpm-teo-chee-hean-to-visit-hong-kong-23-25-april-2013/
 date: 2013-04-21
 layout: post
 description: ""
 image: ""
 ---
-
 Date: 21 April 2013
 
 **DEPUTY PRIME MINISTER TEO CHEE HEAN TO VISIT HONG KONG FROM 23 to 25 APRIL**

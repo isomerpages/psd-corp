@@ -1,12 +1,11 @@
 ---
 title: Deputy Prime Minister Teo Chee Hean meets Hong Kong leaders
-permalink: /press-room/press-releases/permalink/
+permalink: /newsroom/media-releases/dpm-teo-chee-hean-meets-hong-kong-leaders/
 date: 2013-04-25
 layout: post
 description: ""
 image: ""
 ---
-
 Date: 25 April 2013
 
 **DEPUTY PRIME MINISTER TEO CHEE HEAN MEETS HONG KONG LEADERS**

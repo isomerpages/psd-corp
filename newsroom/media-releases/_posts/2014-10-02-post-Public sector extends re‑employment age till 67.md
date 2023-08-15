@@ -1,13 +1,11 @@
 ---
 title: Public sector extends re‑employment age till 67
-permalink: /press-room/press-releases/public-sector-extends-re-employment-age-till-67-1/
+permalink: /newsroom/media-releases/public-sector-extends-re-employment-age-till-67-1/
 date: 2014-10-02
 layout: post
 description: ""
 image: ""
 ---
-
-
 Date: 2 October 2014
 
 **Public sector extends re-employment age till 67**

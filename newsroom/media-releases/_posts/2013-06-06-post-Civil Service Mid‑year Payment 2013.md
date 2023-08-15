@@ -1,20 +1,18 @@
 ---
 title: Civil Service Mid‑year Payment 2013
-permalink: /press-room/press-releases/civil-service-mid-year-payment-2013/
+permalink: /newsroom/media-releases/civil-service-mid-year-payment-2013/
 date: 2013-06-06
 layout: post
 description: ""
 image: ""
 ---
-
-
 Date: 6 June 2013
 
-**Civil Service Mid-year Payments** 
+**Civil Service Mid-year Payments**&nbsp;
 
 **_Mid-Year Annual Variable Component of 0.4-month for all civil servants_**
 
-**_In addition:_** 
+**_In addition:_**&nbsp;
 **_Division IV officers to receive a wage increase of $70 per month, and Division III officers to receive a wage increase of $40 per month, over and above their annual increments in 2013._**
 
 The Singapore economy grew by 0.2% in the first quarter of 2013, compared to 3.3% in the previous quarter. The Ministry of Trade and Industry forecasts GDP growth of 1% to 3% for 2013. The global economy is expected to improve gradually this year with modest growth in the US and moderate growth in Asia supported by healthy domestic demand, although the Eurozone is expected to remain in recession. Risks to the global growth outlook remain, such as a potential flare-up of the Eurozone debt crisis and fiscal uncertainties in the US. The overall unemployment rate in Singapore remained low at 1.9% in Mar 2013.  
@@ -25,7 +23,7 @@ The Government also supports the National Wages Council’s (NWC) recommendation
   
 Division IV civil servants will receive an additional wage increase of $70 per month. This will benefit around 3,600 Division IV civil servants. Division III civil servants will receive an additional wage increase of $40 per month. This will benefit around 5,600 Division III civil servants. The Civil Service’s NWC adjustments for all Division IV and III civil servants will benefit more than 9,200 civil servants.  
   
-The Public Service Division and the Amalgamated Union of Public Employees will continue to work closely to review the salaries of lower-wage workers in the Civil Service, taking into consideration the need to upgrade the value of the jobs and provide for meaningful career progression. This signals the Government’s continued commitment to help raise the salaries of lower-wage civil servants.    
+The Public Service Division and the Amalgamated Union of Public Employees will continue to work closely to review the salaries of lower-wage workers in the Civil Service, taking into consideration the need to upgrade the value of the jobs and provide for meaningful career progression. This signals the Government’s continued commitment to help raise the salaries of lower-wage civil servants.&nbsp;&nbsp;  
   
 The mid-year AVC and the built-in wage increase for Division IV and III civil servants will be paid in July 2013. Illustrations of the revisions can be found in the worked examples below.  
   

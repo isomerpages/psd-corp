@@ -1,12 +1,11 @@
 ---
 title: Mr Neo Kian Hong to be Permanent Secretary (Education Development)
-permalink: /press-room/press-releases/
+permalink: /newsroom/media-releases/mr-neo-kian-hong-to-be-permanent-secretary-education-development/
 date: 2013-06-03
 layout: post
 description: ""
 image: ""
 ---
-
 Date: 3 June 2013
 
 **Mr Neo Kian Hong to be Permanent Secretary (Education Development)**

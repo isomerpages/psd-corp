@@ -1,13 +1,12 @@
 ---
 title: Singapore and Australia Public Service Leaders exchange views at annual
   Roundtable
-permalink: /press-room/press-releases/
+permalink: /newsroom/media-releases/singapore-australia-public-service-leaders-exchange-views-annual-roundtable/
 date: 2014-09-24
 layout: post
 description: ""
 image: ""
 ---
-
 Date: 24 September 2014
 
 **Singapore and Australia Public Service Leaders exchange views at annual Roundtable**

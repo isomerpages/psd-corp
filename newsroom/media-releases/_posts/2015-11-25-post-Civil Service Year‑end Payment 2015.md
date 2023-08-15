@@ -1,12 +1,11 @@
 ---
 title: Civil Service Year‑end Payment 2015
-permalink: /press-room/press-releases/press-release-civil-service-year-end-payment-2015/
+permalink: /newsroom/media-releases/civil-service-year-end-payment-2015/
 date: 2015-11-25
 layout: post
 description: ""
 image: ""
 ---
-
 **Civil Service Year-End Payment**
 
 **_Civil servants to get year-end AVC of 0.65 month. Low-wage officers to get minimum year-end AVC of $1,100._**

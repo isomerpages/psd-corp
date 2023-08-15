@@ -1,13 +1,12 @@
 ---
 title: Second Permanent Secretary (Trade & Industry) Chee Hong Tat leaves the
   Civil Service
-permalink: /press-room/press-releases/
+permalink: /newsroom/media-releases/second-perm-sec-trade-industry-chee-hong-tat-leaves-the-civil-service/
 date: 2015-08-04
 layout: post
 description: ""
 image: ""
 ---
-
 Date: 4 August 2015
 
 **Second Permanent Secretary (Trade & Industry) Chee Hong Tat leaves the Civil Service** 

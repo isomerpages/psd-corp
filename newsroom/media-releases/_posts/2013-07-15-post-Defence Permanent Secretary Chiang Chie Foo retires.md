@@ -1,13 +1,11 @@
 ---
 title: Defence Permanent Secretary Chiang Chie Foo retires
-permalink: /press-room/press-releases/defence-permanent-secretary-chiang-chie-foo-retires/
+permalink: /newsroom/media-releases/defence-permanent-secretary-chiang-chie-foo-retires/
 date: 2013-07-15
 layout: post
 description: ""
 image: ""
 ---
-
-
 **DEFENCE PERMANENT SECRETARY CHIANG CHIE FOO RETIRES**
 
     Mr Chiang Chie Foo, 56, Permanent Secretary (Defence), will retire from the Administrative Service on 1 September 2013 after 32 years of distinguished service in the public sector. Post retirement, Mr Chiang will continue to contribute to the public sector as Chairman, Central Provident Fund Board.

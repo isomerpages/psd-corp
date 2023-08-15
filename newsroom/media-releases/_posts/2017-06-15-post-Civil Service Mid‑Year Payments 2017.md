@@ -1,16 +1,16 @@
 ---
 title: Civil Service Mid‑Year Payments 2017
-permalink: /press-room/press-releases/civil-service-mid-year-payments-2017/
+permalink: /newsroom/media-releases/civil-service-mid-year-payments-2017/
 date: 2017-06-15
 layout: post
 description: ""
 image: ""
 ---
-**Civil Service Mid-Year Payments** 
+**Civil Service Mid-Year Payments**&nbsp;
 
 **Mid-Year Annual Variable Component of 0.5 month.**  
 
-**In addition:   
+**In addition:&nbsp;  
 Lower-wage civil servants to receive a built-in wage increase of up to $20 in monthly salary, over and above their annual increment in 2017.**
 
 The Singapore economy grew by 2.7% in the first quarter of 2017 and is expected to grow by 1.0% to 3.0% for the full year1. Labour demand is expected to remain uneven across sectors in 2017. Total employment growth has moderated, while the unemployment rate has trended upwards and redundancies are expected in some sectors as the economy restructures.
@@ -25,9 +25,9 @@ The Government will decide on the year-end AVC payment for civil servants after 
 
 * * *
 
-\[1\] This is based on MTI’s press release “MTI maintains 2017 GDP growth forecast at 1.0 to 3.0 per cent”, issued on 25 May 2017. 
+\[1\]&nbsp;This is based on MTI’s press release “MTI maintains 2017 GDP growth forecast at 1.0 to 3.0 per cent”, issued on 25 May 2017.&nbsp;
 
-\[2\] While $15 and $20 are lower than NWC’s recommendation of $45 to $60 for those earning up to $1,200, all civil servants already earn above $1,200.**Factsheet**
+\[2\]&nbsp;While $15 and $20 are lower than NWC’s recommendation of $45 to $60 for those earning up to $1,200, all civil servants already earn above $1,200.**Factsheet**
 
 **Worked Example:**
 

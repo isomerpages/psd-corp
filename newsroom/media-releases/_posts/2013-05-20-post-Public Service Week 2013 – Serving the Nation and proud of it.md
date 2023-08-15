@@ -1,12 +1,11 @@
 ---
 title: Public Service Week 2013 – Serving the Nation and proud of it
-permalink: /press-room/press-releases/permalink/
+permalink: /newsroom/media-releases/public-service-week-2013-serving-the-nation-and-proud-of-it/
 date: 2013-05-20
 layout: post
 description: ""
 image: ""
 ---
-
 Date: 20 May 2013
 
 **Public Service Week 2013  
@@ -29,7 +28,7 @@ The annual Excellence in Public Service Awards Ceremony will be held on 29 May w
 
 **Public Service Week Message from Deputy Prime Minister Teo Chee Hean,**
 **Minister in charge of the Civil Service,**
-**Coordinating Minister for National Security & Minister for Home Affairs**
+**Coordinating Minister for National Security &amp; Minister for Home Affairs**
 
 <u>**Our Purpose**</u>
 
@@ -66,10 +65,10 @@ Thank you
 
 **PUBLIC SERVICE PLEDGE**  
   
-We, members of the Singapore Public Service,   
-pledge to serve our nation and our people,   
+We, members of the Singapore Public Service,&nbsp;  
+pledge to serve our nation and our people,&nbsp;  
 to build a peaceful, progressive and vibrant society.  
   
 To this cause, we shall always carry out our duties  
-guided by the values of integrity, service and excellence,   
+guided by the values of integrity, service and excellence,&nbsp;  
 to be a first class Public Service, worthy of Singapore.

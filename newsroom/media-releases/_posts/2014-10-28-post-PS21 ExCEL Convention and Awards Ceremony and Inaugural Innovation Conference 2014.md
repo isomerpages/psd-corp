@@ -1,13 +1,12 @@
 ---
 title: PS21 ExCEL Convention and Awards Ceremony and Inaugural Innovation
   Conference 2014
-permalink: /press-room/press-releases/
+permalink: /newsroom/media-releases/ps21-excel-convention-awards-ceremony-inaugural-innovation-conference-2014/
 date: 2014-10-28
 layout: post
 description: ""
 image: ""
 ---
-
 Date: 28 October 2014
 
 **PS21 ExCEL Convention and Awards Ceremony and Inaugural Innovation Conference 2014**
@@ -16,7 +15,7 @@ Date: 28 October 2014
 
 The Singapore Public Service will kick off this year’s PS21 ExCEL (Excellence through Continuous Enterprise and Learning) Convention with a three-day exhibition from 28 to 30 October 2014. The annual PS21 ExCEL Awards Ceremony and an Innovation Conference will be held on 29 and 30 October 2014 respectively.
 
-This year’s theme, _Today’s Ideas, Tomorrow’s Pride_, points to the importance of innovation in our daily efforts to create a better tomorrow for Singapore.
+This year’s theme,&nbsp;_Today’s Ideas, Tomorrow’s Pride_, points to the importance of innovation in our daily efforts to create a better tomorrow for Singapore.
 
 The three-day exhibition comprises 62 projects from across the entire Public Service. As part of the lead-up to the Convention, public officers will also participate in 55 Learning Journeys and sharing sessions hosted by various public and private sector agencies to understand the innovation practices in these organisations.
 

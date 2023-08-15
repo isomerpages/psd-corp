@@ -1,13 +1,11 @@
 ---
 title: Civil Service Mid‑year Payments 2015
-permalink: /press-room/press-releases/civil-service-mid-year-payments-2015/
+permalink: /newsroom/media-releases/civil-service-mid-year-payments-2015/
 date: 2015-06-17
 layout: post
 description: ""
 image: ""
 ---
-
-
 **Civil Service Mid-year Payments** 
 
 **Mid-year Annual Variable Component of 0.5 month and a special one-off SG50 payment of $500 for all civil servants**

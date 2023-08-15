@@ -4,7 +4,7 @@ date: 2011-10-09
 layout: file
 description: ""
 image: ""
-file_url: /files/press-release
+file_url: /files/press-release---students-answer-challenge-to-keep-singapore-exceptional.pdf
 ---
 students-answer-challenge-to-keep-singapore-exceptional.pdf
 ---

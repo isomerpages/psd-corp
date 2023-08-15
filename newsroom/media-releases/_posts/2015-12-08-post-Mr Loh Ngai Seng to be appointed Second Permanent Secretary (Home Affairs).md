@@ -1,12 +1,11 @@
 ---
 title: Mr Loh Ngai Seng to be appointed Second Permanent Secretary (Home Affairs)
-permalink: /press-room/press-releases/mr-loh-ngai-seng-to-be-appointed-second-permanent-secretary-home-affairs/
+permalink: /newsroom/media-releases/mr-loh-ngai-seng-to-be-appointed-second-permanent-secretary-home-affairs/
 date: 2015-12-08
 layout: post
 description: ""
 image: ""
 ---
-
 **Mr Loh Ngai Seng to be appointed Second Permanent Secretary (Home Affairs)**
 
 Mr Loh Ngai Seng (卢毅成), 44, Director, Internal Security Department, Ministry of Home Affairs will be appointed concurrently as Second Permanent Secretary, Ministry of Home Affairs on 1 January 2016. He will work with Permanent Secretary (Home Affairs) to support the priorities of the Ministry and drive major initiatives being undertaken. Mr Loh will retain his current position as the Director, Internal Security Department till 31 March 2016.

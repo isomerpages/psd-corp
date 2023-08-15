@@ -1,27 +1,26 @@
 ---
-title: Press Release – Permanent Secretary Appointments
-permalink: /press-room/press-releases/permanent-secretary-appointments-2/
+title: Permanent Secretary Appointments (3 November 2014)
+permalink: /newsroom/media-releases/permanent-secretary-appointments-3-nov-2014/
 date: 2014-11-03
 layout: post
 description: ""
 image: ""
 ---
-
 Date: 3 November 2014
 
 **Changes in Permanent Secretary Appointments**
 
 The following appointments will take effect on 1 December 2014:
 
-a)     Mr Leo Yip, Chairman, Economic Development Board, will be appointed as Permanent Secretary (Home Affairs);
+a) &nbsp; &nbsp; Mr Leo Yip, Chairman, Economic Development Board, will be appointed as Permanent Secretary (Home Affairs);
 
-b)    Mr Tan Tee How, Permanent Secretary (Home Affairs), will be appointed as Commissioner of Inland Revenue and Chief Executive Officer of the Inland Revenue Authority of Singapore. He replaces Dr Tan Kim Siew who will be stepping down on the completion of his term of appointment;
+b)&nbsp; &nbsp; Mr Tan Tee How, Permanent Secretary (Home Affairs), will be appointed as Commissioner of Inland Revenue and Chief Executive Officer of the Inland Revenue Authority of Singapore. He replaces Dr Tan Kim Siew who will be stepping down on the completion of his term of appointment;
 
-c)    Mr Ng How Yue, Second Permanent Secretary (Trade & Industry), will be appointed as Permanent Secretary (Law);
+c) &nbsp; &nbsp;Mr Ng How Yue, Second Permanent Secretary (Trade &amp; Industry), will be appointed as Permanent Secretary (Law);
 
-d)     Dr Beh Swan Gin, Permanent Secretary (Law), will be appointed as Chairman, Economic Development Board; and
+d) &nbsp; &nbsp; Dr Beh Swan Gin, Permanent Secretary (Law), will be appointed as Chairman, Economic Development Board; and
 
-e)     Mr Chee Hong Tat, Chief Executive, Energy Market Authority, will be appointed as Second Permanent Secretary (Trade & Industry).
+e) &nbsp; &nbsp; Mr Chee Hong Tat, Chief Executive, Energy Market Authority, will be appointed as Second Permanent Secretary (Trade &amp; Industry).
 
 <u>**Background Information**</u>
 
@@ -37,7 +36,7 @@ Mr Tan Tee How, 55, has held various appointments in the early part of his caree
 
 Mr Ng How Yue, 44, has held various appointments in his career, including Director-General of Singapore Customs in 2003, and Deputy Secretary (Trade) in the Ministry of Trade and Industry in 2007.
 
-Mr Ng was appointed Principal Private Secretary to the Prime Minister in 2008. He has been Second Permanent Secretary (Trade & Industry) since 2011.
+Mr Ng was appointed Principal Private Secretary to the Prime Minister in 2008. He has been Second Permanent Secretary (Trade &amp; Industry) since 2011.
 
 **Dr Beh Swan Gin**
 

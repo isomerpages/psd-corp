@@ -1,13 +1,11 @@
 ---
 title: Measures to strengthen integrity in the Public Service
-permalink: /press-room/press-releases/measures-to-strengthen-integrity-in-the-public-service/
+permalink: /newsroom/media-releases/measures-to-strengthen-integrity-in-the-public-service/
 date: 2013-09-30
 layout: post
 description: ""
 image: ""
 ---
-
-
 Date: 30 September 2013
 
 **Measures to strengthen integrity in the Public Service**
@@ -32,11 +30,11 @@ PSD has reminded agencies to help officers who may be in financial distress as i
 
 Even as we provide help to those in need, we will not hesitate to carry out disciplinary actions against an officer once a case is made against him. In doing so, we will ensure that the proper process is followed and that mitigating factors, if any, are taken into account.
 
-Mandatory job rotation and block leave 
+Mandatory job rotation and block leave&nbsp;
 
 As part of the review, PSD also took the opportunity to look into strengthening measures to reduce the risk of fraud and corruption. Currently, some agencies with positions with high risk of corruption already practise job rotation. Some agencies also impose block leave as a fraud prevention and deterrence measure.
 
-From 1 Jan 2014, job rotation and block leave will be enforced for officers holding positions which are more susceptible to being suborned and exploited if the incumbent were to remain in the same job for too long. Depending on the nature of their work, these officers will be subject to either one or both measures. Under the new rules, these officers should not serve in the posts for more than five years. Some of these officers whose work is more transactional in nature will also be subject to block leave of at least five consecutive working days per calendar year.  Mandatory block leave is also practised in the private sector.
+From 1 Jan 2014, job rotation and block leave will be enforced for officers holding positions which are more susceptible to being suborned and exploited if the incumbent were to remain in the same job for too long. Depending on the nature of their work, these officers will be subject to either one or both measures. Under the new rules, these officers should not serve in the posts for more than five years. Some of these officers whose work is more transactional in nature will also be subject to block leave of at least five consecutive working days per calendar year. &nbsp;Mandatory block leave is also practised in the private sector.
 
 Background on the Code of Conduct
 

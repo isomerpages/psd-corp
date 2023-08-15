@@ -1,13 +1,11 @@
 ---
 title: Civil Service Year‑end Payment 2012
-permalink: /press-room/press-releases/civil-service-year-end-payment-2012/
+permalink: /newsroom/media-releases/civil-service-year-end-payment-2012/
 date: 2012-11-22
 layout: post
 description: ""
 image: ""
 ---
-
-
 Date: 22 November 2012
 
 **CIVIL SERVICE YEAR-END PAYMENTS**

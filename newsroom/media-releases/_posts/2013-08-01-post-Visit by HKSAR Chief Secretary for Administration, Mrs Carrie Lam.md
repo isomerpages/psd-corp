@@ -1,12 +1,11 @@
 ---
 title: Visit by HKSAR Chief Secretary for Administration, Mrs Carrie Lam
-permalink: /press-room/press-releases/permalink/
+permalink: /newsroom/media-releases/visit-by-hksar-chief-secretary-for-administration-mrs-carrie-lam/
 date: 2013-08-01
 layout: post
 description: ""
 image: ""
 ---
-
 Date: 02 August 2013
 
 **VISIT BY HKSAR CHIEF SECRETARY FOR ADMINISTRATION, MRS CARRIE LAM**

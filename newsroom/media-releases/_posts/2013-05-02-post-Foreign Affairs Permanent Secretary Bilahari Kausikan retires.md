@@ -1,12 +1,11 @@
 ---
 title: Foreign Affairs Permanent Secretary Bilahari Kausikan retires
-permalink: /press-room/press-releases/
+permalink: /newsroom/media-releases/foreign-affairs-permanent-secretary-bilahari-kausikan-retires/
 date: 2013-05-02
 layout: post
 description: ""
 image: ""
 ---
-
 Date: 2 May 2013
 
 **Foreign Affairs Permanent Secretary Bilahari Kausikan retires**

@@ -1,6 +1,6 @@
 ---
 title: Permanent Secretary Appointment – 2 May 2018
-permalink: /press-room/press-releases/permanent-secretary-appointment-2-may-2018/
+permalink: /newsroom/media-releases/permanent-secretary-appointment-2-may-2018/
 date: 2018-05-02
 layout: post
 description: ""
@@ -18,4 +18,4 @@ Mr Lee, 50, joined the Monetary Authority of Singapore (MAS) in 1992. He held va
   
 <u>**Mr Png Cheong Boon (方章文)**</u>  
   
-Mr Png, an EDB-Glaxo scholar, joined the Economic Development Board (EDB) in 1993. Mr Png held various appointments in EDB, including over six years in EDB’s operations in the United States. His last appointment in EDB was Regional Director for Central United States based in Chicago. Mr Png was Deputy Chief Executive, SPRING Singapore from 2003 to 2008, and Chief Executive, SPRING Singapore from 2008 to 2013.  He was Chief Executive Officer, Jurong Town Corporation from 2013 till his appointment as Second Permanent Secretary (Trade and Industry) in June 2017.
+Mr Png, an EDB-Glaxo scholar, joined the Economic Development Board (EDB) in 1993. Mr Png held various appointments in EDB, including over six years in EDB’s operations in the United States. His last appointment in EDB was Regional Director for Central United States based in Chicago. Mr Png was Deputy Chief Executive, SPRING Singapore from 2003 to 2008, and Chief Executive, SPRING Singapore from 2008 to 2013.&nbsp; He was Chief Executive Officer, Jurong Town Corporation from 2013 till his appointment as Second Permanent Secretary (Trade and Industry) in June 2017.

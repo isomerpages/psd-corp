@@ -1,6 +1,6 @@
 ---
 title: PSD's Addendum to President's Address – 9 May 2018
-permalink: /newsroom/media-releases/psds-addendum-to-presidents-address-9-may-2018/
+permalink: /newsroom/media-releases/psd-addendum-to-presidents-address-9-may-2018/
 date: 2018-05-09
 layout: post
 description: ""

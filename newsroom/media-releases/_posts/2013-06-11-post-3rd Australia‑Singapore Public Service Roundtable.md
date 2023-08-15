@@ -1,20 +1,18 @@
 ---
 title: 3rd Australia‑Singapore Public Service Roundtable
-permalink: /press-room/press-releases/3rd-australia-singapore-public-service-roundtable/
+permalink: /newsroom/media-releases/3rd-australia-singapore-public-service-roundtable/
 date: 2013-06-11
 layout: post
 description: ""
 image: ""
 ---
-
-
 Date: 11 June 2013
 
 **SINGAPORE PLAYED HOST TO AUSTRALIAN PUBLIC SERVICE LEADERS**
 
 Singapore hosted the 3rd Australia-Singapore Public Service Roundtable from 10 to 11 June 2013.  
   
-The nine-member Australian delegation was led by Dr Ian Watt, Secretary of the Department of the Prime Minister and Cabinet. Other delegates included the Australian High Commissioner in Singapore, Public Service Commissioner, five Secretaries and an Associate Secretary. Their visit was hosted by Mr Peter Ong, Head of the Singapore Civil Service and a delegation of eight Permanent Secretaries and one Chief Executive.  
+The nine-member Australian delegation was led by Dr Ian Watt, Secretary of the Department of the Prime Minister and Cabinet. Other delegates included the Australian High Commissioner in Singapore, Public Service Commissioner,&nbsp;five Secretaries and an Associate Secretary. Their visit was hosted by Mr Peter Ong, Head of the Singapore Civil Service and a delegation of eight Permanent Secretaries and one Chief Executive.  
   
 The Roundtable is a key platform for Public Sector Leaders of both countries to exchange perspectives and insights on developments in their respective services, and deepen the relationship between the Civil Services of both countries. “My colleagues and I had a fruitful meeting with our counterparts at the Australia-Singapore Public Service Roundtable, where we exchanged views on public sector topics. It’s our pleasure to play host again. This is an excellent platform for mutual learning and discussion on common interests, even as we explore areas for future collaboration,” said Mr Ong.  
   

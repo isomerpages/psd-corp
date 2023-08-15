@@ -1,12 +1,11 @@
 ---
 title: "Public Policy Challenge 2013: Students become policymakers for a day"
-permalink: /press-room/press-releases/
+permalink: /newsroom/media-releases/public-policy-challenge-2013-students-become-policymakers-for-a-day/
 date: 2013-08-04
 layout: post
 description: ""
 image: ""
 ---
-
 Date: 04 August 2013
 
 **Students become policymakers for a day  

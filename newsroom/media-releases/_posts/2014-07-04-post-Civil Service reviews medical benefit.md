@@ -1,13 +1,11 @@
 ---
 title: Civil Service reviews medical benefit
-permalink: /press-room/press-releases/civil-service-reviews-medical-benefit/
+permalink: /newsroom/media-releases/civil-service-reviews-medical-benefit/
 date: 2014-07-04
 layout: post
 description: ""
 image: ""
 ---
-
-
 **Civil Service reviews medical benefits**
 
 <table border="1" style="font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; box-sizing: border-box; vertical-align: top; caret-color: rgb(63, 63, 63); color: rgb(63, 63, 63); font-family: &quot;DM Sans&quot;, sans-serif; font-size: 18px;"><tbody style="box-sizing: border-box; vertical-align: top;"><tr style="box-sizing: border-box; vertical-align: top;"><td style="box-sizing: border-box; vertical-align: top; width: 616px; text-align: justify;"><strong style="box-sizing: border-box; vertical-align: top;"><em style="box-sizing: border-box; vertical-align: top;"><br style="box-sizing: border-box; vertical-align: top;">From January 2015, civil servants on MSO scheme to get 2% additional Medisave contribution, with low-wage officers getting at least $50 a month&nbsp;<br style="box-sizing: border-box; vertical-align: top;"><br style="box-sizing: border-box; vertical-align: top;"></em></strong></td></tr></tbody></table>
@@ -18,7 +16,7 @@ From January 2015, officers on the MSO scheme will get 2% of their monthly salar
 
 Currently, officers on the MSO scheme, introduced in 1994, do not get direct inpatient medical benefits from their civil service employer (i.e. the Government). Instead they receive an additional 1% of their monthly salary (capped at $70 per month), on top of their normal Medisave contribution.
 
-The January 2015 increase will raise the civil service employer’s additional contribution from 1% of the monthly salary to 2%. This contribution goes into their Medisave account and can be used to buy MediShield or portable Medisave-approved insurance plans to cover their inpatient needs. Almost all the officers on the MSO scheme now buy such MediShield or Medisave approved insurance plans. 
+The January 2015 increase will raise the civil service employer’s additional contribution from 1% of the monthly salary to 2%. This contribution goes into their Medisave account and can be used to buy MediShield or portable Medisave-approved insurance plans to cover their inpatient needs. Almost all the officers on the MSO scheme now buy such MediShield or Medisave approved insurance plans.&nbsp;
 
 In reviewing the MSO scheme, special consideration has been given for the low- wage officers. In support of the National Wages Council’s recommendation to boost low-wage employees’ ability to pay for MediShield Life premiums, these officers will receive more help. Civil servants earning $2,500\[2\] and below, will receive a minimum additional Medisave contribution of $50 a month (or about $750\[3\] a year). This is effectively more than 2% additional Medisave contributions. Please see attached factsheet for a worked example to illustrate what an officer earning $1,600 will get.
 
@@ -39,7 +37,7 @@ PSD will be writing to pensioners with the details by October 2014.
 **  
 Eligibility for Pioneer Generation Package and MediShield Life Subsidies**
 
-All Singaporeans who meet the Pioneer Generation criteria, including retired civil servants, will be eligible for the Pioneer Generation Package, for life. They will also be eligible for MediShield Life subsidies already announced by MOH. 
+All Singaporeans who meet the Pioneer Generation criteria, including retired civil servants, will be eligible for the Pioneer Generation Package, for life. They will also be eligible for MediShield Life subsidies already announced by MOH.&nbsp;
 
 \[1\] This will be on top of the 1% increase in statutory Medisave contributions for all employees in 2015, already announced at Budget 2014.  
 \[2\] The $2,500 is the salary ceiling for workmen coverage under the Employment Act.  

@@ -1,6 +1,6 @@
 ---
 title: Permanent Secretary Neo Kian Hong to Retire from the Administrative Service
-permalink: /press-room/press-releases/
+permalink: /newsroom/media-releases/permanent-secretary-neo-kian-hong-to-retire-from-the-administrative-service/
 date: 2018-04-18
 layout: post
 description: ""

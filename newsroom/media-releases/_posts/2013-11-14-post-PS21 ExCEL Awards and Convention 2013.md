@@ -1,13 +1,11 @@
 ---
 title: PS21 ExCEL Awards and Convention 2013
-permalink: /press-room/press-releases/ps21-excel-awards-and-convention-2013/
+permalink: /newsroom/media-releases/ps21-excel-awards-and-convention-2013/
 date: 2013-11-14
 layout: post
 description: ""
 image: ""
 ---
-
-
 Date: 14 November 2013
 
 **Innovation Excellence in the Singapore Public Service** 

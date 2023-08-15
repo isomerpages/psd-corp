@@ -1,7 +1,7 @@
 ---
 title: DPM Teo Chee Hean's note to public officers – Working Together as One
   Public Service, for Singapore
-permalink: /press-room/press-releases/
+permalink: /newsroom/media-releases/dpm-teo-chee-hean-note-working-together-as-one-public-service-for-singapore/
 date: 2015-03-31
 layout: post
 description: ""

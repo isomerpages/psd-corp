@@ -1,13 +1,11 @@
 ---
 title: Civil Service Year‑end Payments 2013
-permalink: /press-room/press-releases/civil-service-year-end-payments-2013/
+permalink: /newsroom/media-releases/civil-service-year-end-payments-2013/
 date: 2013-11-21
 layout: post
 description: ""
 image: ""
 ---
-
-
 **Civil Service Year-end Payments**
 
 **_Civil Servants to get year-end AVC of 1.1 months with lower-wage officers getting at least $1,600_**

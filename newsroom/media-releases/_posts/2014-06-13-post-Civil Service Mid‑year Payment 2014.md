@@ -1,13 +1,11 @@
 ---
 title: Civil Service Mid‑year Payment 2014
-permalink: /press-room/press-releases/civil-service-mid-year-payment-2014/
+permalink: /newsroom/media-releases/civil-service-mid-year-payment-2014/
 date: 2014-06-13
 layout: post
 description: ""
 image: ""
 ---
-
-
 **Civil Service Mid-year Payments**
 
 **Mid-Year Annual Variable Component of 0.5-month for all civil servants**

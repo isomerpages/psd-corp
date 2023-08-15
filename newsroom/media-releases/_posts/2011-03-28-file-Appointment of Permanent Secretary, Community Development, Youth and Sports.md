@@ -4,7 +4,7 @@ date: 2011-03-28
 layout: file
 description: ""
 image: ""
-file_url: /files/press-release
+file_url: /files/press-release---appointment-of-permanent-secretary-community-development-youth-and-sports.pdf
 ---
 appointment-of-permanent-secretary-community-development-youth-and-sports.pdf
 ---

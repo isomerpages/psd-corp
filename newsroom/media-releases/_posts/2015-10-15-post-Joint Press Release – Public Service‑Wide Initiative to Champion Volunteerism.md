@@ -1,6 +1,6 @@
 ---
 title: Joint Press Release – Public Service‑Wide Initiative to Champion Volunteerism
-permalink: /press-room/press-releases/permalink/
+permalink: /newsroom/media-releases/public-service-wide-initiative-to-champion-volunteerism/
 date: 2015-10-15
 layout: post
 description: ""

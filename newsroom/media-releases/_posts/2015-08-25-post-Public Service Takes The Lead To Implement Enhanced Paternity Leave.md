@@ -1,12 +1,11 @@
 ---
 title: Public Service Takes The Lead To Implement Enhanced Paternity Leave
-permalink: /press-room/press-releases/
+permalink: /newsroom/media-releases/public-service-takes-the-lead-to-implement-enhanced-paternity-leave/
 date: 2015-08-25
 layout: post
 description: ""
 image: ""
 ---
-
 **Public Service takes the lead to implement enhanced paternity leave** 
 
 The Public Service supports national efforts to strengthen the family-friendly environment in Singapore. Recognising the father’s role in caring for and raising children, the Public Service, with a workforce of 141,000, will take the lead in implementing the enhanced paternity leave announced by the Prime Minister at the National Day Rally 2015.  
