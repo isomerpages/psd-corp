@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Visit by Mr Teo Chee Hean, Deputy Prime Minister and Coordinating Minister for National Security, to Yan’an, Shaanxi Province, The People’s Republic of China 14**
+**Visit by Mr Teo Chee Hean, Deputy Prime Minister and Coordinating Minister for National Security, to Yan’an, Shaanxi Province, The People’s Republic of China**
 <p style="text-indent:25px;">
 Deputy Prime Minister and Coordinating Minister for National Security Teo Chee Hean visited Yan’an, Shaanxi Province, the People’s Republic of China on 14 April 2019, as the last leg of his trip to China.&nbsp; He co-chaired the 7th Singapore-China Forum on Leadership with Member of the Political Bureau of the Communist Party of China (CPC) and CPC Central Committee Organisation Department (COD) Minister Chen Xi. Minister (Trade &amp; Industry) and Minister-in-charge of the Public Service Chan Chun Sing is the Singapore Deputy Co-Chair.  
 </p><p style="text-indent:25px;">
@@ -21,9 +21,10 @@ The forum will continue tomorrow, 15 April 2019. Minister Fu, SMS Janil Puthuche
 </p><p style="text-indent:25px;">
 First held in 2009, the Forum on Leadership is a strategic platform for political leaders and senior officials of Singapore and China to discuss and exchange experiences on common challenges related to leadership development.&nbsp; Besides Minister Chan, DPM Teo is accompanied by Minister (Culture, Community and Youth) Grace Fu; Senior Minister of State (Transport) (Communications and Information) Janil Puthucheary; Senior Minister of State (Law) (Health) Edwin Tong; Senior Parliamentary Secretary (Home Affairs) (National Development) Sun Xueling; Senior Parliamentary Secretary (Foreign Affairs) (Trade &amp; Industry) Tan Wu Meng; as well as senior officials from various Ministries and agencies.
 
-* * *
+</p><hr>
 
-\[1\] DPM’s speech can be accessed via [https://www.psd.gov.sg/press-room/speeches/opening-address-by-mr-teo-chee-hean--deputy-prime-minister-and-coordinating-minister-for-national-security--at-the-7th-singapore-china-forum-on-leadership  
-](https://www.psd.gov.sg/press-room/speeches/opening-address-by-mr-teo-chee-hean--deputy-prime-minister-and-coordinating-minister-for-national-security--at-the-7th-singapore-china-forum-on-leadership)\[2\] Min Chan’s speech can be accessed via [https://www.psd.gov.sg/press-room/speeches/keynote-speech-by-mr-chan-chun-sing--minister-for-trade-and-industry-and-minister-in-charge-of-the-public-service--at-the-7th-singapore-china-forum-on-leadership](https://www.psd.gov.sg/press-room/speeches/keynote-speech-by-mr-chan-chun-sing--minister-for-trade-and-industry-and-minister-in-charge-of-the-public-service--at-the-7th-singapore-china-forum-on-leadership)
+\[1\] Read [DPM Teo Chee Hean's full speech](https://www.psd.gov.sg/press-room/speeches/opening-address-by-mr-teo-chee-hean--deputy-prime-minister-and-coordinating-minister-for-national-security--at-the-7th-singapore-china-forum-on-leadership)
+<br>
+\[2\] Read [Min Chan Chun Sing's full speech](https://www.psd.gov.sg/press-room/speeches/min-chan-chun-sing-7th-singapore-china-forum-on-leadership/)
 
-**</p>
+<p></p>
