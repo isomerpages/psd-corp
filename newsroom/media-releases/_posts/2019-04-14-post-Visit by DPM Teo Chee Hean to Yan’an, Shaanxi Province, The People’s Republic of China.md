@@ -28,3 +28,9 @@ First held in 2009, the Forum on Leadership is a strategic platform for politica
 \[2\] Read [Min Chan Chun Sing's full speech](https://www.psd.gov.sg/press-room/speeches/min-chan-chun-sing-7th-singapore-china-forum-on-leadership/)
 
 <p></p>
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Opening Ceremony of the 7th Forum on Leadership, attended by senior officials from both countries, was held at the China Executive Leadership Academy in Yan’an (CELAY).&nbsp; The theme of this year’s Forum is “Addressing Our Peoples’ Aspirations for Better Lives”. DPM Teo and Minister Chen Xi delivered the opening addresses, and Minister Chan and Secretary of the CPC Shaanxi Provincial Committee Hu Heping delivered the keynote addresses.  
+  
+2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DPM Teo shared with the audience Singapore’s framework on breaking new ground in policy making, harnessing our peoples’ energies and ideas for collective outcomes, and developing our future generations to create a better future1.&nbsp; Minister Chan spoke on how Singapore was developing capable and resilient people, developing cohesive and caring communities, making long-term plans for the future, and being a confident and constructive member of the international community2.
