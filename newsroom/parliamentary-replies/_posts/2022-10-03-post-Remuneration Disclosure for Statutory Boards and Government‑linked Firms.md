@@ -1,6 +1,6 @@
 ---
 title: Remuneration Disclosure for Statutory Boards and Government‑linked Firms
-permalink: /press-room/parliamentary-replies/permalink/
+permalink: /newsroom/pq-replies/remuneration-disclosure-for-statutory-boards-and-government-linked-firms/
 date: 2022-10-03
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Part‑time Employment Scheme in the Civil Service
-permalink: /press-room/parliamentary-replies/part-time-employment-in-the-civil-service/
+permalink: /newsroom/pq-replies/part-time-employment-in-the-civil-service/
 date: 2007-10-23
 layout: post
 description: ""

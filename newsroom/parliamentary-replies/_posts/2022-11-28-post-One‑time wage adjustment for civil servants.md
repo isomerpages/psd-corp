@@ -1,6 +1,6 @@
 ---
 title: One‑time wage adjustment for civil servants
-permalink: /press-room/parliamentary-replies/one-time-wage-adjustment-for-civil-servants/
+permalink: /newsroom/pq-replies/one-time-wage-adjustment-for-civil-servants/
 date: 2022-11-28
 layout: post
 description: ""

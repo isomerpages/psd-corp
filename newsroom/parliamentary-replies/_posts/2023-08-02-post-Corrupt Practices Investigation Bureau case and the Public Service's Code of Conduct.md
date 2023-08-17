@@ -1,7 +1,7 @@
 ---
 title: Corrupt Practices Investigation Bureau case and the Public Service's Code
   of Conduct
-permalink: /newsroom/parliamentary-replies/cpib-case-and-public-service-code-of-conduct/
+permalink: /newsroom/pq-replies/cpib-case-and-public-service-code-of-conduct/
 date: 2023-08-02
 layout: post
 description: ""
@@ -78,5 +78,3 @@ image: ""
 33.          Political office holders adopt a similar spirit and principles in their official activities. There are specific rules spelt out in the Annex of the Code of Conduct for Ministers on the acceptance of gifts and services. In general, all gifts should be refused and returned to the donor without delay. If the return of the gift is impractical, the gift must be handed over to the political office holder’s ministry to be dealt with in accordance with official guidelines. If political office holders want to retain a gift, they have to pay the Government for it at the valuation price. Otherwise, the gifts have to be surrendered to the Government.
 
 34.          Mr Speaker, Sir, I have come to the end of my response. May I suggest that the House seek clarifications in three segments. The first segment is on our principles of governance and Ministers’ conduct. The second segment can address the technical issues relating to the CPIB investigation. The third segment can address questions relating to the Public Service. Should the queries be sufficiently addressed, it may not be necessary for Members to pose identical PQs for future sittings.
-
-

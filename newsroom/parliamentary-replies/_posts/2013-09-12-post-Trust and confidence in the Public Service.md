@@ -1,6 +1,6 @@
 ---
 title: Trust and confidence in the Public Service
-permalink: /press-room/parliamentary-replies/trust-and-confidence-in-the-public-service/
+permalink: /newsroom/pq-replies/trust-and-confidence-in-the-public-service/
 date: 2013-09-12
 layout: post
 description: ""

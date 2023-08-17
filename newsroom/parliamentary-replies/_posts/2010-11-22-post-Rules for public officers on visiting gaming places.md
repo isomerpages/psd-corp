@@ -1,6 +1,6 @@
 ---
 title: Rules for public officers on visiting gaming places
-permalink: /press-room/parliamentary-replies/rules-for-public-officers-on-visiting-gaming-places/
+permalink: /newsroom/pq-replies/rules-for-public-officers-on-visiting-gaming-places/
 date: 2010-11-22
 layout: post
 description: ""

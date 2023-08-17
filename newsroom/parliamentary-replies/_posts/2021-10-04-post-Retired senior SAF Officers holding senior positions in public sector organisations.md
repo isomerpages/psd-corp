@@ -1,7 +1,7 @@
 ---
 title: Retired senior SAF Officers holding senior positions in public sector
   organisations
-permalink: /press-room/parliamentary-replies/permalink/
+permalink: /newsroom/pq-replies/retired-senior-saf-officers-holding-senior-positions-in-public-sector-org/
 date: 2021-10-04
 layout: post
 description: ""

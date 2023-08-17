@@ -1,6 +1,6 @@
 ---
 title: Posting of Public Service jobs on National Jobs Bank
-permalink: /press-room/parliamentary-replies/posting-of-public-service-jobs-on-national-jobs-bank/
+permalink: /newsroom/pq-replies/posting-of-public-service-jobs-on-national-jobs-bank/
 date: 2016-07-11
 layout: post
 description: ""

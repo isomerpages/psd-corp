@@ -1,6 +1,6 @@
 ---
 title: Government scholars employed by the Civil Service
-permalink: /press-room/parliamentary-replies/government-scholars-employed-by-the-civil-service/
+permalink: /newsroom/pq-replies/government-scholars-employed-by-the-civil-service/
 date: 2007-02-28
 layout: post
 description: ""

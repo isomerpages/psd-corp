@@ -1,6 +1,6 @@
 ---
 title: Part‑time employment, childcare and paternity leave
-permalink: /press-room/parliamentary-replies/part-time-employment-childcare-and-paternity-leave/
+permalink: /newsroom/pq-replies/part-time-employment-childcare-and-paternity-leave/
 date: 2014-08-04
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Breakdown on the number of officers appointed to the Administrative Service
-permalink: /press-room/parliamentary-replies/permalink/
+permalink: /newsroom/pq-replies/breakdown-on-the-number-of-officers-appointed-to-the-administrative-service/
 date: 2012-02-14
 layout: post
 description: ""

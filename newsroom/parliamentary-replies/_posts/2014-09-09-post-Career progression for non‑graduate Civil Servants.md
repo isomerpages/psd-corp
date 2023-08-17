@@ -1,6 +1,6 @@
 ---
 title: Career progression for non‑graduate Civil Servants
-permalink: /press-room/parliamentary-replies/career-progression-for-non-graduate-civil-servants/
+permalink: /newsroom/pq-replies/career-progression-for-non-graduate-civil-servants/
 date: 2014-09-09
 layout: post
 description: ""

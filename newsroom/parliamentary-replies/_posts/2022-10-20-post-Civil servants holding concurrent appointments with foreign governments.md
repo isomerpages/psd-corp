@@ -1,6 +1,6 @@
 ---
 title: Civil servants holding concurrent appointments with foreign governments
-permalink: /press-room/parliamentary-replies/permalink/
+permalink: /newsroom/pq-replies/civil-servants-holding-concurrent-appointments-with-foreign-governments/
 date: 2022-10-20
 layout: post
 description: ""

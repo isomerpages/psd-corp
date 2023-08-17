@@ -1,6 +1,6 @@
 ---
 title: Flexible work schemes in the Civil Service
-permalink: /press-room/parliamentary-replies/flexible-work-schemes-in-the-civil-service/
+permalink: /newsroom/pq-replies/flexible-work-schemes-in-the-civil-service/
 date: 2011-01-10
 layout: post
 description: ""

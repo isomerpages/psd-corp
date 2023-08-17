@@ -1,6 +1,6 @@
 ---
 title: Wearing of hijab by staff in uniformed services
-permalink: /press-room/parliamentary-replies/wearing-of-hijab-by-staff-in-uniformed-services/
+permalink: /newsroom/pq-replies/wearing-of-hijab-by-staff-in-uniformed-services/
 date: 2014-01-21
 layout: post
 description: ""

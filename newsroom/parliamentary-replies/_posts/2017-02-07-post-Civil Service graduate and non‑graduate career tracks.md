@@ -1,6 +1,6 @@
 ---
 title: Civil Service graduate and non‑graduate career tracks
-permalink: /press-room/parliamentary-replies/civil-service-graduate-and-non-graduate-career-tracks/
+permalink: /newsroom/pq-replies/civil-service-graduate-and-non-graduate-career-tracks/
 date: 2017-02-07
 layout: post
 description: ""

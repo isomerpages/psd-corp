@@ -1,6 +1,6 @@
 ---
 title: Resignations of Administrative Officers
-permalink: /press-room/parliamentary-replies/resignations-of-administrative-officers/
+permalink: /newsroom/pq-replies/resignations-of-administrative-officers/
 date: 2007-04-10
 layout: post
 description: ""

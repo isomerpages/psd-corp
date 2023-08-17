@@ -1,6 +1,6 @@
 ---
 title: Flexible work arrangements in the Public Service
-permalink: /press-room/parliamentary-replies/flexible-work-arrangements-in-the-public-service/
+permalink: /newsroom/pq-replies/flexible-work-arrangements-in-the-public-service/
 date: 2016-10-10
 layout: post
 description: ""

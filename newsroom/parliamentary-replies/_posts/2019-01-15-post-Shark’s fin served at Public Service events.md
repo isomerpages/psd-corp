@@ -1,6 +1,6 @@
 ---
 title: Shark’s fin served at Public Service events
-permalink: /press-room/parliamentary-replies/sharks-fin-served-at-public-service-events/
+permalink: /newsroom/pq-replies/sharks-fin-served-at-public-service-events/
 date: 2019-01-15
 layout: post
 description: ""

@@ -1,7 +1,7 @@
 ---
 title: Mid‑career professionals, managers and executives aged 40 years and above
   hired in the public sector
-permalink: /press-room/parliamentary-replies/permalink/
+permalink: /newsroom/pq-replies/mid-career-professionals-managers-executives-hired-public-sector/
 date: 2012-01-16
 layout: post
 description: ""

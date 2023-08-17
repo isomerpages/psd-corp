@@ -1,6 +1,6 @@
 ---
 title: Attrition in the Public Service
-permalink: /press-room/parliamentary-replies/attrition-in-the-public-service/
+permalink: /newsroom/pq-replies/attrition-in-the-public-service/
 date: 2022-02-15
 layout: post
 description: ""

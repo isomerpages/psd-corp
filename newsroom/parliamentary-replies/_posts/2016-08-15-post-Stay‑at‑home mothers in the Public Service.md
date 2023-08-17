@@ -1,6 +1,6 @@
 ---
 title: Stay‑at‑home mothers in the Public Service
-permalink: /press-room/parliamentary-replies/stay-at-home-mothers-in-the-public-service/
+permalink: /newsroom/pq-replies/stay-at-home-mothers-in-the-public-service/
 date: 2016-08-15
 layout: post
 description: ""

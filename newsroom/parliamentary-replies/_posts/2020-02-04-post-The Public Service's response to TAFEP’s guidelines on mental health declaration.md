@@ -1,7 +1,7 @@
 ---
 title: The Public Service's response to TAFEP’s guidelines on mental health
   declaration
-permalink: /press-room/parliamentary-replies/permalink/
+permalink: /newsroom/pq-replies/the-public-service-response-to-tafep-guidelines-on-mental-health-declaration/
 date: 2020-02-04
 layout: post
 description: ""

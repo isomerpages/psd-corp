@@ -1,6 +1,6 @@
 ---
 title: Substantive grades of Administrative Officers
-permalink: /press-room/parliamentary-replies/substantive-grades-of-administrative-officers/
+permalink: /newsroom/pq-replies/substantive-grades-of-administrative-officers/
 date: 2007-07-17
 layout: post
 description: ""

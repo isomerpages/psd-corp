@@ -1,7 +1,7 @@
 ---
 title: Re‑employment benefits and employment opportunities for people with
   disabilities
-permalink: /press-room/parliamentary-replies/permalink/
+permalink: /newsroom/pq-replies/reemployment-benefits-and-employment-opportunities-for-people-with-disabilities/
 date: 2014-10-08
 layout: post
 description: ""

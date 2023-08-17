@@ -1,6 +1,6 @@
 ---
 title: CEP and 360 degree feedback in the Civil Service
-permalink: /press-room/parliamentary-replies/cep-and-360-degree-feedback-in-the-civil-service/
+permalink: /newsroom/pq-replies/cep-and-360-degree-feedback-in-the-civil-service/
 date: 2016-08-15
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Public Service for the 21st Century
-permalink: /press-room/parliamentary-replies/public-service-for-the-21st-century/
+permalink: /newsroom/pq-replies/public-service-for-the-21st-century/
 date: 2009-07-20
 layout: post
 description: ""

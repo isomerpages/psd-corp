@@ -1,6 +1,6 @@
 ---
 title: Sexual harassment in the workplace
-permalink: /press-room/parliamentary-replies/sexual-harassment-in-the-workplace/
+permalink: /newsroom/pq-replies/sexual-harassment-in-the-workplace/
 date: 2008-08-25
 layout: post
 description: ""

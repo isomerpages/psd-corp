@@ -1,7 +1,7 @@
 ---
 title: Trend of women in Civil Service and women in leadership positions in
   Civil Service
-permalink: /press-room/parliamentary-replies/permalink/
+permalink: /newsroom/pq-replies/trend-of-women-and-in-leadership-positions-in-civil-service/
 date: 2017-10-03
 layout: post
 description: ""

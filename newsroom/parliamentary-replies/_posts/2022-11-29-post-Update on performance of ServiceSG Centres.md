@@ -1,6 +1,6 @@
 ---
 title: Update on performance of ServiceSG Centres
-permalink: /press-room/parliamentary-replies/update-on-performance-of-servicesg-centres/
+permalink: /newsroom/pq-replies/update-on-performance-of-servicesg-centres/
 date: 2022-11-29
 layout: post
 description: ""

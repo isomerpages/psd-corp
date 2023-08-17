@@ -1,6 +1,6 @@
 ---
 title: Measures to support mental wellness of public officers
-permalink: /press-room/parliamentary-replies/measures-to-support-mental-wellness-of-public-officers/
+permalink: /newsroom/pq-replies/measures-to-support-mental-wellness-of-public-officers/
 date: 2022-11-29
 layout: post
 description: ""

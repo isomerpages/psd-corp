@@ -1,6 +1,6 @@
 ---
 title: Retired and re‑employed civil service employees
-permalink: /press-room/parliamentary-replies/retired-and-re-employed-civil-service-employees/
+permalink: /newsroom/pq-replies/retired-and-re-employed-civil-service-employees/
 date: 2018-09-10
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Statistical changes in Current Estimated Potential (CEP) in the Civil Service
-permalink: /press-room/parliamentary-replies/permalink/
+permalink: /newsroom/pq-replies/statistical-changes-in-current-estimated-potential-cep-in-the-civil-service/
 date: 2020-10-14
 layout: post
 description: ""

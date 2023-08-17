@@ -1,6 +1,6 @@
 ---
 title: Charging unions for use of office space
-permalink: /press-room/parliamentary-replies/charging-unions-for-use-of-office-space/
+permalink: /newsroom/pq-replies/charging-unions-for-use-of-office-space/
 date: 2019-07-08
 layout: post
 description: ""

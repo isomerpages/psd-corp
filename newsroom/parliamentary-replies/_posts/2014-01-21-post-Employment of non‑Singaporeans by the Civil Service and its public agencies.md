@@ -1,6 +1,6 @@
 ---
 title: Employment of non‑Singaporeans by the Civil Service and its public agencies
-permalink: /press-room/parliamentary-replies/permalink/
+permalink: /newsroom/pq-replies/employment-of-non-singaporeans-by-the-civil-service-and-its-public-agencies/
 date: 2014-01-21
 layout: post
 description: ""

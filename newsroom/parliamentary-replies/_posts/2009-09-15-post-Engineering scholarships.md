@@ -1,6 +1,6 @@
 ---
 title: Engineering scholarships
-permalink: /press-room/parliamentary-replies/engineering-scholarships/
+permalink: /newsroom/pq-replies/engineering-scholarships/
 date: 2009-09-15
 layout: post
 description: ""

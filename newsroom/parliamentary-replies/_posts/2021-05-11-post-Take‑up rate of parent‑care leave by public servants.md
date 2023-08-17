@@ -1,6 +1,6 @@
 ---
 title: Take‑up rate of parent‑care leave by public servants
-permalink: /press-room/parliamentary-replies/take-up-rate-of-parent-care-leave-by-public-servants/
+permalink: /newsroom/pq-replies/take-up-rate-of-parent-care-leave-by-public-servants/
 date: 2021-05-11
 layout: post
 description: ""

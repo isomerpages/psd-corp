@@ -1,6 +1,6 @@
 ---
 title: Cost of the Ministerial Salary Review
-permalink: /press-room/parliamentary-replies/cost-of-the-ministerial-salary-review/
+permalink: /newsroom/pq-replies/cost-of-the-ministerial-salary-review/
 date: 2012-03-06
 layout: post
 description: ""

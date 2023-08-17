@@ -1,6 +1,6 @@
 ---
 title: Recognition of Workforce Skills Qualification
-permalink: /press-room/parliamentary-replies/recognition-of-workforce-skills-qualification/
+permalink: /newsroom/pq-replies/recognition-of-workforce-skills-qualification/
 date: 2014-11-05
 layout: post
 description: ""

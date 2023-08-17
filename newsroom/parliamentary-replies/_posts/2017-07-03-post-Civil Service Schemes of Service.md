@@ -1,6 +1,6 @@
 ---
 title: Civil Service Schemes of Service
-permalink: /press-room/parliamentary-replies/civil-service-schemes-of-service/
+permalink: /newsroom/pq-replies/civil-service-schemes-of-service/
 date: 2017-07-03
 layout: post
 description: ""

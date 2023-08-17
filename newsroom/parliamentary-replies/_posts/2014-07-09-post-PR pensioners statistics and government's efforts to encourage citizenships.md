@@ -1,6 +1,6 @@
 ---
 title: PR pensioners statistics and government's efforts to encourage citizenships
-permalink: /press-room/parliamentary-replies/permalink/
+permalink: /newsroom/pq-replies/pr-pensioners-statistics-and-governments-efforts-to-encourage-citizenships/
 date: 2014-07-09
 layout: post
 description: ""

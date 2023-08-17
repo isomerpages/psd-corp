@@ -1,6 +1,6 @@
 ---
 title: Extending benefits to spouses of female pensioners
-permalink: /press-room/parliamentary-replies/extending-benefits-to-spouses-of-female-pensioners/
+permalink: /newsroom/pq-replies/extending-benefits-to-spouses-of-female-pensioners/
 date: 2016-08-16
 layout: post
 description: ""

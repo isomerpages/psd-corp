@@ -1,6 +1,6 @@
 ---
 title: Salary components of Ministers and Prime Minister
-permalink: /press-room/parliamentary-replies/salary-components-of-ministers-and-prime-minister/
+permalink: /newsroom/pq-replies/salary-components-of-ministers-and-prime-minister/
 date: 2018-10-01
 layout: post
 description: ""

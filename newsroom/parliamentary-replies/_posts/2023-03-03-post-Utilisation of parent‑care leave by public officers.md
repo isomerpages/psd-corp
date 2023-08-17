@@ -1,6 +1,6 @@
 ---
 title: Utilisation of parent‑care leave by public officers
-permalink: /press-room/parliamentary-replies/utilisation-of-parent-care-leave-by-public-officers/
+permalink: /newsroom/pq-replies/utilisation-of-parent-care-leave-by-public-officers/
 date: 2023-03-03
 layout: post
 description: ""

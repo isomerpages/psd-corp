@@ -1,6 +1,6 @@
 ---
 title: Public Sector Employees Offered Re‑employment
-permalink: /press-room/parliamentary-replies/public-sector-employees-offered-re-employment/
+permalink: /newsroom/pq-replies/public-sector-employees-offered-re-employment/
 date: 2013-08-12
 layout: post
 description: ""

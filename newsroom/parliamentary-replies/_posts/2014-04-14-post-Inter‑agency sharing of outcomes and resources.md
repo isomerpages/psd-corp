@@ -1,6 +1,6 @@
 ---
 title: Inter‑agency sharing of outcomes and resources
-permalink: /press-room/parliamentary-replies/inter-agency-sharing-of-outcomes-and-resources/
+permalink: /newsroom/pq-replies/inter-agency-sharing-of-outcomes-and-resources/
 date: 2014-04-14
 layout: post
 description: ""

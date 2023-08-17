@@ -1,6 +1,6 @@
 ---
 title: PSC honorary scholarships
-permalink: /press-room/parliamentary-replies/psc-honorary-scholarships/
+permalink: /newsroom/pq-replies/psc-honorary-scholarships/
 date: 2015-05-11
 layout: post
 description: ""

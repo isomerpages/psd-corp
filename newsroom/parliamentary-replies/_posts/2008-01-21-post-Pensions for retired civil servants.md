@@ -1,6 +1,6 @@
 ---
 title: Pensions for retired civil servants
-permalink: /press-room/parliamentary-replies/pensions-for-retired-civil-servants/
+permalink: /newsroom/pq-replies/pensions-for-retired-civil-servants/
 date: 2008-01-21
 layout: post
 description: ""

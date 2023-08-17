@@ -1,7 +1,7 @@
 ---
 title: Uptake and effectiveness of the No Wrong Door (NWD) policy & the First
   Responder Protocol (FRP)
-permalink: /press-room/parliamentary-replies/permalink/
+permalink: /newsroom/pq-replies/uptake-effectiveness-no-wrong-door-nwd-policy-first-responder-protocol-frp/
 date: 2018-02-05
 layout: post
 description: ""

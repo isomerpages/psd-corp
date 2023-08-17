@@ -1,6 +1,6 @@
 ---
 title: Employment of the Differently‑Abled
-permalink: /press-room/parliamentary-replies/employment-of-the-differently-abled/
+permalink: /newsroom/pq-replies/employment-of-the-differently-abled/
 date: 2019-03-06
 layout: post
 description: ""

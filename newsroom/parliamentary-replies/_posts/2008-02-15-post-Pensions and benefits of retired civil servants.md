@@ -1,6 +1,6 @@
 ---
 title: Pensions and benefits of retired civil servants
-permalink: /press-room/parliamentary-replies/pensions-and-benefits-of-retired-civil-servants/
+permalink: /newsroom/pq-replies/pensions-and-benefits-of-retired-civil-servants/
 date: 2008-02-15
 layout: post
 description: ""

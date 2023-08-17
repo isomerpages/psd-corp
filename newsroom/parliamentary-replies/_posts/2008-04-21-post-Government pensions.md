@@ -1,6 +1,6 @@
 ---
 title: Government pensions
-permalink: /press-room/parliamentary-replies/government-pensions/
+permalink: /newsroom/pq-replies/government-pensions/
 date: 2008-04-21
 layout: post
 description: ""

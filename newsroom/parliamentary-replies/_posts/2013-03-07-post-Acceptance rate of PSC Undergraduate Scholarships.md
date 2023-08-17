@@ -1,6 +1,6 @@
 ---
 title: Acceptance rate of PSC Undergraduate Scholarships
-permalink: /press-room/parliamentary-replies/acceptance-rate-of-psc-undergraduate-scholarships/
+permalink: /newsroom/pq-replies/acceptance-rate-of-psc-undergraduate-scholarships/
 date: 2013-03-07
 layout: post
 description: ""

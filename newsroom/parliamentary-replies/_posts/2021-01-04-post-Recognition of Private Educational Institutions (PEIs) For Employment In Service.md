@@ -1,7 +1,7 @@
 ---
 title: Recognition of Private Educational Institutions (PEIs) For Employment In
   Service
-permalink: /press-room/parliamentary-replies/permalink/
+permalink: /newsroom/pq-replies/recognition-of-private-educational-institutions-peis-for-employment-in-service/
 date: 2021-01-04
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Review of political salaries
-permalink: /press-room/parliamentary-replies/review-of-political-salaries/
+permalink: /newsroom/pq-replies/review-of-political-salaries/
 date: 2023-01-10
 layout: post
 description: ""

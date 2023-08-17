@@ -1,7 +1,7 @@
 ---
 title: Take‑up rate of childcare sick leave by public servants each year in the
   past five years
-permalink: /press-room/parliamentary-replies/permalink/
+permalink: /newsroom/pq-replies/take-up-rate-of-childcare-sick-leave-by-public-servants-the-past-five-years/
 date: 2021-04-05
 layout: post
 description: ""

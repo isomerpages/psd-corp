@@ -1,6 +1,6 @@
 ---
 title: Integrity and whistle‑blowing in the Public Service
-permalink: /press-room/parliamentary-replies/integrity-and-whistle-blowing-in-the-public-service/
+permalink: /newsroom/pq-replies/integrity-and-whistle-blowing-in-the-public-service/
 date: 2012-02-14
 layout: post
 description: ""

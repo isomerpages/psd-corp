@@ -1,6 +1,6 @@
 ---
 title: Ex‑offenders hired in the Civil Service
-permalink: /press-room/parliamentary-replies/ex-offenders-hired-in-the-civil-service/
+permalink: /newsroom/pq-replies/ex-offenders-hired-in-the-civil-service/
 date: 2017-03-02
 layout: post
 description: ""

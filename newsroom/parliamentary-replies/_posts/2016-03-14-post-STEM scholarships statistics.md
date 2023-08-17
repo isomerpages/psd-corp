@@ -1,6 +1,6 @@
 ---
 title: STEM scholarships statistics
-permalink: /press-room/parliamentary-replies/stem-scholarships-statistics/
+permalink: /newsroom/pq-replies/stem-scholarships-statistics/
 date: 2016-03-14
 layout: post
 description: ""

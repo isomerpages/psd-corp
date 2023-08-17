@@ -1,6 +1,6 @@
 ---
 title: Pensions for former Cabinet ministers
-permalink: /press-room/parliamentary-replies/pensions-for-former-cabinet-ministers/
+permalink: /newsroom/pq-replies/pensions-for-former-cabinet-ministers/
 date: 2008-04-21
 layout: post
 description: ""

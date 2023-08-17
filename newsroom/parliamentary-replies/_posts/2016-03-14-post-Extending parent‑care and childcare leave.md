@@ -1,6 +1,6 @@
 ---
 title: Extending parent‑care and childcare leave
-permalink: /press-room/parliamentary-replies/extending-parent-care-and-childcare-leave/
+permalink: /newsroom/pq-replies/extending-parent-care-and-childcare-leave/
 date: 2016-03-14
 layout: post
 description: ""

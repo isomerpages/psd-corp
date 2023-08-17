@@ -1,6 +1,6 @@
 ---
 title: Civil servants’ dependents
-permalink: /press-room/parliamentary-replies/civil-servants-dependents/
+permalink: /newsroom/pq-replies/civil-servants-dependents/
 date: 2008-04-21
 layout: post
 description: ""

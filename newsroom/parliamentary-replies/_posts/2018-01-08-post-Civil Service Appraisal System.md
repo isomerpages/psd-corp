@@ -1,6 +1,6 @@
 ---
 title: Civil Service Appraisal System
-permalink: /press-room/parliamentary-replies/civil-service-appraisal-system/
+permalink: /newsroom/pq-replies/civil-service-appraisal-system/
 date: 2018-01-08
 layout: post
 description: ""

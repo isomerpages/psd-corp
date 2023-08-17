@@ -1,6 +1,6 @@
 ---
 title: Outsourcing of Government functions
-permalink: /press-room/parliamentary-replies/outsourcing-of-government-functions/
+permalink: /newsroom/pq-replies/outsourcing-of-government-functions/
 date: 2023-01-10
 layout: post
 description: ""

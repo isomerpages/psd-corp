@@ -1,6 +1,6 @@
 ---
 title: Medical subsidies of civil servants
-permalink: /press-room/parliamentary-replies/medical-subsidies-of-civil-servants/
+permalink: /newsroom/pq-replies/medical-subsidies-of-civil-servants/
 date: 2012-07-10
 layout: post
 description: ""

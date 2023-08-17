@@ -1,6 +1,6 @@
 ---
 title: Job vacancies in the Civil Service
-permalink: /press-room/parliamentary-replies/job-vacancies-in-the-civil-service/
+permalink: /newsroom/pq-replies/job-vacancies-in-the-civil-service/
 date: 2009-07-20
 layout: post
 description: ""

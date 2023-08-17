@@ -1,6 +1,6 @@
 ---
 title: PSC Scholars in local and foreign universities
-permalink: /press-room/parliamentary-replies/psc-scholars-in-local-and-foreign-universities/
+permalink: /newsroom/pq-replies/psc-scholars-in-local-and-foreign-universities/
 date: 2013-05-13
 layout: post
 description: ""

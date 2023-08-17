@@ -1,6 +1,6 @@
 ---
 title: Staffing in the Public Service
-permalink: /press-room/parliamentary-replies/staffing-in-the-public-service/
+permalink: /newsroom/pq-replies/staffing-in-the-public-service/
 date: 2009-09-14
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Compensation for degree and non‑degree holders
-permalink: /press-room/parliamentary-replies/compensation-for-degree-and-non-degree-holders/
+permalink: /newsroom/pq-replies/compensation-for-degree-and-non-degree-holders/
 date: 2018-07-11
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Whistle‑blowing policy in the Public Service
-permalink: /press-room/parliamentary-replies/whistle-blowing-policy-in-the-public-service/
+permalink: /newsroom/pq-replies/whistle-blowing-policy-in-the-public-service/
 date: 2011-02-28
 layout: post
 description: ""

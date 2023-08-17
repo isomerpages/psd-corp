@@ -1,6 +1,6 @@
 ---
 title: Civil Service re‑employment guidelines for retirees
-permalink: /press-room/parliamentary-replies/civil-service-re-employment-guidelines-for-retirees/
+permalink: /newsroom/pq-replies/civil-service-re-employment-guidelines-for-retirees/
 date: 2015-08-17
 layout: post
 description: ""

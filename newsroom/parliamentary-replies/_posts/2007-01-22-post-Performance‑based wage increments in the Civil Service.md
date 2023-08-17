@@ -1,6 +1,6 @@
 ---
 title: Performance‑based wage increments in the Civil Service
-permalink: /press-room/parliamentary-replies/performance-based-wage-increments-in-the-civil-service/
+permalink: /newsroom/pq-replies/performance-based-wage-increments-in-the-civil-service/
 date: 2007-01-22
 layout: post
 description: ""

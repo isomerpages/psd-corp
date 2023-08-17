@@ -1,6 +1,6 @@
 ---
 title: Breakdown of Employees’ Citizenship in Civil Service and Statutory Boards
-permalink: /press-room/parliamentary-replies/permalink/
+permalink: /newsroom/pq-replies/breakdown-of-employees-citizenship-in-civil-service-and-statutory-boards/
 date: 2020-11-02
 layout: post
 description: ""

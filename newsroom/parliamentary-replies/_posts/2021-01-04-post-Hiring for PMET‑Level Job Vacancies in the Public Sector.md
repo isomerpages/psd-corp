@@ -1,6 +1,6 @@
 ---
 title: Hiring for PMET‑Level Job Vacancies in the Public Sector
-permalink: /press-room/parliamentary-replies/hiring-for-pmet-level-job-vacancies-in-the-public-sector/
+permalink: /newsroom/pq-replies/hiring-for-pmet-level-job-vacancies-in-the-public-sector/
 date: 2021-01-04
 layout: post
 description: ""

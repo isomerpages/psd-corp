@@ -1,6 +1,6 @@
 ---
 title: Re‑employment rate of public officers
-permalink: /press-room/parliamentary-replies/re-employment-rate-of-public-officers/
+permalink: /newsroom/pq-replies/re-employment-rate-of-public-officers/
 date: 2015-01-19
 layout: post
 description: ""

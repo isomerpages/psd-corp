@@ -1,7 +1,7 @@
 ---
 title: Review of payouts for retirees on Government pension schemes given rising
   cost of living
-permalink: /press-room/parliamentary-replies/permalink/
+permalink: /newsroom/pq-replies/review-of-payouts-for-retirees-on-government-pension-schemes/
 date: 2022-10-20
 layout: post
 description: ""

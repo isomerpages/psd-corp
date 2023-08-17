@@ -1,6 +1,6 @@
 ---
 title: Re‑employment of public sector officers above the age of 62
-permalink: /press-room/parliamentary-replies/re-employment-of-public-sector-officers-above-the-age-of-62/
+permalink: /newsroom/pq-replies/re-employment-of-public-sector-officers-above-the-age-of-62/
 date: 2007-03-06
 layout: post
 description: ""

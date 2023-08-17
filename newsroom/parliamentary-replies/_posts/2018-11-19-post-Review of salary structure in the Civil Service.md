@@ -1,6 +1,6 @@
 ---
 title: Review of salary structure in the Civil Service
-permalink: /press-room/parliamentary-replies/review-of-salary-structure-in-the-civil-service/
+permalink: /newsroom/pq-replies/review-of-salary-structure-in-the-civil-service/
 date: 2018-11-19
 layout: post
 description: ""

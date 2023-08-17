@@ -1,6 +1,6 @@
 ---
 title: Unpaid leave for parents with multiple or pre‑term babies
-permalink: /press-room/parliamentary-replies/unpaid-leave-for-parents-with-multiple-or-pre-term-babies/
+permalink: /newsroom/pq-replies/unpaid-leave-for-parents-with-multiple-or-pre-term-babies/
 date: 2023-02-22
 layout: post
 description: ""

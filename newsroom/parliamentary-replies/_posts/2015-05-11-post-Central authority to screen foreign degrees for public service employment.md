@@ -1,6 +1,6 @@
 ---
 title: Central authority to screen foreign degrees for public service employment
-permalink: /press-room/parliamentary-replies/permalink/
+permalink: /newsroom/pq-replies/central-authority-to-screen-foreign-degrees-for-public-service-employment/
 date: 2015-05-11
 layout: post
 description: ""

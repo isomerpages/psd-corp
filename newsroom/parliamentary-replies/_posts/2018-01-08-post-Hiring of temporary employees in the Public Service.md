@@ -1,6 +1,6 @@
 ---
 title: Hiring of temporary employees in the Public Service
-permalink: /press-room/parliamentary-replies/hiring-of-temporary-employees-in-the-public-service/
+permalink: /newsroom/pq-replies/hiring-of-temporary-employees-in-the-public-service/
 date: 2018-01-08
 layout: post
 description: ""

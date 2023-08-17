@@ -1,6 +1,6 @@
 ---
 title: “No Wrong Door” policy
-permalink: /press-room/parliamentary-replies/permalink/no-wrong-door-policy/
+permalink: /newsroom/pq-replies/no-wrong-door-policy/
 date: 2007-02-15
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Public sector scholarships
-permalink: /press-room/parliamentary-replies/public-sector-scholarships/
+permalink: /newsroom/pq-replies/public-sector-scholarships/
 date: 2006-02-14
 layout: post
 description: ""

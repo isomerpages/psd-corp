@@ -1,6 +1,6 @@
 ---
 title: Public officers’ entitlement to CPF annual allowance
-permalink: /press-room/parliamentary-replies/public-officers-entitlement-to-cpf-annual-allowance/
+permalink: /newsroom/pq-replies/public-officers-entitlement-to-cpf-annual-allowance/
 date: 2008-03-06
 layout: post
 description: ""

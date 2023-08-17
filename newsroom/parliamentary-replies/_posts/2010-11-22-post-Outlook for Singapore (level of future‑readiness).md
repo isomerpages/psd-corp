@@ -1,6 +1,6 @@
 ---
 title: Outlook for Singapore (level of future‑readiness)
-permalink: /press-room/parliamentary-replies/outlook-for-singapore-level-of-future-readiness/
+permalink: /newsroom/pq-replies/outlook-for-singapore-level-of-future-readiness/
 date: 2010-11-22
 layout: post
 description: ""

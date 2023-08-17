@@ -1,6 +1,6 @@
 ---
 title: Ministerial salaries
-permalink: /press-room/parliamentary-replies/ministerial-salaries/
+permalink: /newsroom/pq-replies/ministerial-salaries/
 date: 2006-03-01
 layout: post
 description: ""
