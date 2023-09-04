@@ -10,7 +10,7 @@ image: ""
 
 <p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Ravi Menon, Managing Director of the Monetary Authority of Singapore (MAS), will be retiring on 1 January 2024 after serving 36 years in the Public Service.</p>
 
-<p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Chan Lai Fung (陈丽芬), Permanent Secretary of National Research and Development (NRD) and Public Sector Science and Technology Policy and Plans Office (S&amp;TPPO), Prime Minister’s Office (PMO) and Chairman of the Agency for Science, Technology and Research (A\*STAR), will retire on 1 October 2023 after serving 36 years in the Public Service.</p>
+<p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Chan Lai Fung (陈丽芬), Permanent Secretary of National Research and Development (NRD) and Public Sector Science and Technology Policy and Plans Office (S&amp;TPPO), Prime Minister’s Office (PMO) and Chairman of the Agency for Science, Technology and Research (A*STAR), will retire on 1 October 2023 after serving 36 years in the Public Service.</p>
 
 <p style="margin-left:30px;">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Loh Khum Yean (罗锦贤), Permanent Secretary of the Public Service Division (PSD), PMO, will retire on 1 October 2023 after serving 33 years in the Public Service.</p>
 
