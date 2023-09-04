@@ -8,11 +8,11 @@ image: ""
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Three senior Public Service leaders will be retiring after many decades of distinguished service in the public sector:
 
-<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Ravi Menon, Managing Director of the Monetary Authority of Singapore (MAS), will be retiring on 1 January 2024 after serving 36 years in the Public Service.
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Ravi Menon, Managing Director of the Monetary Authority of Singapore (MAS), will be retiring on 1 January 2024 after serving 36 years in the Public Service.</p>
 
-</p><p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Chan Lai Fung (陈丽芬), Permanent Secretary of National Research and Development (NRD) and Public Sector Science and Technology Policy and Plans Office (S&amp;TPPO), Prime Minister’s Office (PMO) and Chairman of the Agency for Science, Technology and Research (A\*STAR), will retire on 1 October 2023 after serving 36 years in the Public Service.
+<p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Chan Lai Fung (陈丽芬), Permanent Secretary of National Research and Development (NRD) and Public Sector Science and Technology Policy and Plans Office (S&amp;TPPO), Prime Minister’s Office (PMO) and Chairman of the Agency for Science, Technology and Research (A\*STAR), will retire on 1 October 2023 after serving 36 years in the Public Service.</p>
 
-</p><p style="margin-left:30px;">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Loh Khum Yean (罗锦贤), Permanent Secretary of the Public Service Division (PSD), PMO, will retire on 1 October 2023 after serving 33 years in the Public Service.
+<p style="margin-left:30px;">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Loh Khum Yean (罗锦贤), Permanent Secretary of the Public Service Division (PSD), PMO, will retire on 1 October 2023 after serving 33 years in the Public Service.</p>
 
 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thanking the retiring senior leaders, Minister-in-charge of the Public Service, Mr Chan Chun Sing, said, “I would like to express my gratitude to Ravi, Lai Fung and Khum Yean for their excellent leadership and many significant contributions to the Public Service and to Singapore. They have served with excellence in a wide range of sectors over many decades of dedicated service.”
 
@@ -74,4 +74,4 @@ image: ""
 
 <u>Mr Chia Der Jiun</u>
 
-23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Chia, 52, joined MAS in 2004 and held various management appointments in MAS before being appointed Deputy Managing Director (Corporate Development) of MAS in May 2019. He was also seconded to the International Monetary Fund in 2011 for two years as Executive Director for Southeast Asia. Prior to MAS, Mr Chia served in MTI, PSD and then-MEWR. Mr Chia was appointed as Second Permanent Secretary of MOM in October 2020 and redesignated as Permanent Secretary (Development) of MOM in April 2022.</p>
+23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Chia, 52, joined MAS in 2004 and held various management appointments in MAS before being appointed Deputy Managing Director (Corporate Development) of MAS in May 2019. He was also seconded to the International Monetary Fund in 2011 for two years as Executive Director for Southeast Asia. Prior to MAS, Mr Chia served in MTI, PSD and then-MEWR. Mr Chia was appointed as Second Permanent Secretary of MOM in October 2020 and redesignated as Permanent Secretary (Development) of MOM in April 2022.
