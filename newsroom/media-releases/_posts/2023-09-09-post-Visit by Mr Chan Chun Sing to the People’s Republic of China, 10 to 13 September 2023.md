@@ -1,6 +1,7 @@
 ---
-title: Pre–Forum Media Statement on 9th Singapore–China Forum on Leadership
-permalink: /newsroom/media-releases/pre-forum-media-statement-on-9th-singapore-china-forum-on-leadership/
+title: Visit by Mr Chan Chun Sing to the People’s Republic of China, 10 to 13
+  September 2023
+permalink: /newsroom/media-releases/visit-by-mr-chan-chun-sing-to-the-peoples-republic-of-china-10-13-sept-2023/
 date: 2023-09-09
 layout: post
 description: ""
