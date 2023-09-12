@@ -35,18 +35,17 @@ Distinguished guests and colleagues
 
 9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Milestones like these are a timely reminder to reflect on how our bilateral relations have progressed over generations of leaders. This is only possible with a deep sense of mutual trust and understanding between both countries; and strong commitment at all levels to continually work together and support each other to succeed.&nbsp;
 
-**Three Challenges in the Modern World**
+<b>Three Challenges in the Modern World</b><br>
 
-10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The theme of this year’s Forum “Evolving Leadership in the Modern World” is indeed well chosen, as Minister Li also said.
+10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The theme of this year’s Forum “Evolving Leadership in the Modern World” is indeed well chosen, as Minister Li also said.<br>
 
-11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our world has changed much in the past decade. It will change even more and faster in the coming years. It is timely that we take stock and exchange notes on how our countries’ approaches to governance must evolve as both the internal and external environment change.
+11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our world has changed much in the past decade. It will change even more and faster in the coming years. It is timely that we take stock and exchange notes on how our countries’ approaches to governance must evolve as both the internal and external environment change.<br>
 
-12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although China and Singapore are very different in terms of size, history and context, there are three key global trends that present both challenges and opportunities to our countries.
+12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although China and Singapore are very different in terms of size, history and context, there are three key global trends that present both challenges and opportunities to our countries.<br>
 
-13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let me share three key challenges of our times:&nbsp;
+13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let me share three key challenges of our times:&nbsp;<br>
 
 <p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;<b>One, Fragmenting Global Order:</b></p>
-
 <p style="margin-left:30px;">i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The world order, built upon the rule of law, multilateralism, and open trade, can no longer be taken as a given in the coming years.&nbsp;&nbsp;</p>
 
 <p style="margin-left:30px;">ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The war in Ukraine have shown us that the global security order that has underpinned peace, growth and the uplifting of millions from poverty in the past decades is no longer a given.&nbsp;&nbsp;</p>
@@ -69,21 +68,18 @@ Distinguished guests and colleagues
 
 <p style="margin-left:30px;"> iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another part of it is driven by diverse aspirations and needs of our people, as societies become more affluent and better educated.&nbsp;</p>
 
-<p style="margin-left:30px;"> iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yet, another reason is the results of a hyperconnected world. Exposure to external influences with different contexts and values systems from other parts of the world can ignite the contestation of ideas and ideologies in society, and lead to incessant comparisons. Often social media amplifies these social divides.</p><br>
-
+<p style="margin-left:30px;"> iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yet, another reason is the results of a hyperconnected world. Exposure to external influences with different contexts and values systems from other parts of the world can ignite the contestation of ideas and ideologies in society, and lead to incessant comparisons. Often social media amplifies these social divides.</p>
 14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;However, the challenges of our world are more connected than ever before. No country, big or small, can live in isolation, insulated from the rest of the world.&nbsp;&nbsp;<br>
-
-<p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;COVID-19 pandemic has shown us how inextricably interconnected and interdependent we are, not only in pandemic prevention and management, but also in supply chains, global economic growth and global financial systems.</p><br>
-
-<p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;Climate change is also another looming crisis that presents fundamental threats to our survival, from rising sea levels, climate-related diseases to food and water insecurity.</p><br>
+<p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;COVID-19 pandemic has shown us how inextricably interconnected and interdependent we are, not only in pandemic prevention and management, but also in supply chains, global economic growth and global financial systems.</p>
+<p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;Climate change is also another looming crisis that presents fundamental threats to our survival, from rising sea levels, climate-related diseases to food and water insecurity.</p>
 
 <b>Three Areas of Change</b><br>
 
 15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Chinese phrase,&nbsp;危机, represents crisis but within it there are also opportunities in every crisis and challenge.&nbsp;We&nbsp;must&nbsp;化危机为转机;&nbsp;化压力为动力。&nbsp;We must be agile to change ourselves –&nbsp;to overcome the challenges together, remain relevant to the world, earn our keep, and keep our people together through thick and thin.&nbsp;<br>
 
-<b>International Front</b><br>
+<b>International Front</b>
 
-16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First, to thrive in a highly interconnected world, it is about “building bridges and not walls”. **It is time for us to work together for closer, not weaker, international cooperation for countries to navigate across the many shared challenges.**<br>
+16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First, to thrive in a highly interconnected world, it is about “building bridges and not walls”. <b>It is time for us to work together for closer, not weaker, international cooperation for countries to navigate across the many shared challenges.</b><br>
 
 17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We must work towards developing a “**multi-dimensional global cooperation system**”:<br>
 
