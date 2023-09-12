@@ -39,7 +39,7 @@ image: ""
 
 <p style="margin-left:30px;">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Corrupt Practices Investigation Bureau (CPIB) also plays an important role. The CPIB’s independence is protected by the Constitution. Its investigations are scrupulous, thorough, and fearless. The CPIB has never shied away from taking action against senior government officials, be they Political Office Holders, Members of Parliament, or senior civil servants.&nbsp;</p>
 
-<p style="margin-left:30px;">d.&nbsp;&nbsp;&nbsp;&nbsp;These have contributed to Singapore ranking consistently amongst the least corrupt countries in Transparency International’s Corruption Perception Index. This is a hard-earned accolade which we uphold judiciously.&nbsp;&nbsp;</p><br>
+<p style="margin-left:30px;">d.&nbsp;&nbsp;&nbsp;&nbsp;These have contributed to Singapore ranking consistently amongst the least corrupt countries in Transparency International’s Corruption Perception Index. This is a hard-earned accolade which we uphold judiciously.&nbsp;&nbsp;</p>
 
 7.&nbsp;&nbsp;&nbsp;&nbsp;The third fundamental of good governance is stewardship.<br>
 
