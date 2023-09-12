@@ -40,8 +40,8 @@ Distinguished guests and colleagues<br>
 
 12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although China and Singapore are very different in terms of size, history and context, there are three key global trends that present both challenges and opportunities to our countries.
 
-13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let me share three key challenges of our times:&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.&nbsp;&nbsp;&nbsp;&nbsp;One,&nbsp;**Fragmenting Global Order:**<br>
+13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let me share three key challenges of our times:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.&nbsp;&nbsp;&nbsp;&nbsp;One,&nbsp;**Fragmenting Global Order:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The world order, built upon the rule of law, multilateralism, and open trade, can no longer be taken as a given in the coming years.&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The war in Ukraine have shown us that the global security order that has underpinned peace, growth and the uplifting of millions from poverty in the past decades is no longer a given.&nbsp;&nbsp;
@@ -106,7 +106,7 @@ Distinguished guests and colleagues<br>
 
 27.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;China and Singapore continue to facilitate greater bilateral cooperation in trade and economic development, and to seek out new areas of collaboration.
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;For instance, this year, we have also reached another important milestone with the substantive conclusion of the China-Singapore Free Trade Agreement (CSFTA) Work Programme for Subsequent Negotiations. This sends a strong and positive signal of our longstanding bilateral economic collaboration and more importantly, also reflects our continued commitment to free trade and a rules-based trading system.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.&nbsp;&nbsp;&nbsp;&nbsp;For instance, this year, we have also reached another important milestone with the substantive conclusion of the China-Singapore Free Trade Agreement (CSFTA) Work Programme for Subsequent Negotiations. This sends a strong and positive signal of our longstanding bilateral economic collaboration and more importantly, also reflects our continued commitment to free trade and a rules-based trading system.
 
 ##### **Expanding from bilateral to international cooperation**
 28.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As we welcome China’s increasing connectedness to international trade and investment, there are opportunities for Singapore and China to strengthen our partnerships in this area, including private-led collaborations, by leveraging Singapore as:
@@ -145,7 +145,6 @@ _Chongqing Demonstration Initiative on Strategic Connectivity (CCI) \[Multimodal
 37.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our experience from the success of our G-2-G projects and our strong collaborations at the eight Provincial Business Councils, put us in good stead for more and stronger partnerships.&nbsp;We look forward&nbsp;to jointly exploring and experimenting new ways of governance to keep up with the evolving social, political, economic and international challenges.
 
 ##### **Strengthening Trust**
-##### 
 38.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trust is key to move ahead into our next bound. We can further strengthen the foundation by tapping on our history in human resource development and people-to-people exchange; and enhance the opportunities for our next generations to grow together.
 
   
@@ -156,7 +155,7 @@ _Chongqing Demonstration Initiative on Strategic Connectivity (CCI) \[Multimodal
 
 41.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When our future generations grow together, we are planting the seeds for deeper understanding and mutual trust for the next generations. This is the main reason why Singapore and China can work together across so many dimensions from economics to social and security.&nbsp;&nbsp;But we must never be complacent.&nbsp;&nbsp;We benefitted from the efforts of previous generations.&nbsp;&nbsp;We must continue to invest in our future generations, to enable them to do even more and better than our generation.
 
-##### **Many Shared Challenges for Mutual Learning**<br> 
+##### **Many Shared Challenges for Mutual Learning**<br>
 42.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is also the first year that China is implementing the directives of the 20th&nbsp;National Congress of the Communist Party of China, which has elaborated on Chinese-style modernisation. We share common goals such as the pursuit of high-quality growth to build a strong and resilient economy, improving our citizens’ well-being, promoting sustainability and the cultivation of high-calibre talent.
 
 43.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This also means we face many shared challenges as we move ahead.&nbsp;
