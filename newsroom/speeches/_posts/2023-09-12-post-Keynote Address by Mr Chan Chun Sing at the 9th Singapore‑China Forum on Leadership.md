@@ -140,7 +140,7 @@ _Tianjin Eco-City \[Sustainability and low carbon growth\]_<br>
 
 34.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One example is the Tianjin Eco-city (TEC), which celebrates its 15th&nbsp;anniversary this year. While the last 15 years was focused on sustainable urban planning and development, the TEC in the next 15 years&nbsp;<b>can be a model for high quality, low carbon growth – an incubator of new low carbon innovations, start-ups and businesses, and a centre of skills development in sustainability related technology</b><br>
 
-<p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;Both sides are discussing cooperation in green and digital shipping. With a smart and green port, as well as a vibrant talent ecosystem through active talent development and knowledge exchange,&nbsp;<b>Tianjin has great potential to build a vibrant port economy and catalyse the growth of the whole Jing-Jin-Ji</b></p><br>
+<p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;Both sides are discussing cooperation in green and digital shipping. With a smart and green port, as well as a vibrant talent ecosystem through active talent development and knowledge exchange,&nbsp;<b>Tianjin has great potential to build a vibrant port economy and catalyse the growth of the whole Jing-Jin-Ji</b></p>
 
 _Chongqing Demonstration Initiative on Strategic Connectivity (CCI) \[Multimodal Connectivity\]_<br>
 
@@ -170,9 +170,9 @@ _Chongqing Demonstration Initiative on Strategic Connectivity (CCI) \[Multimodal
 
 44.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For example –&nbsp;aging population. This has massive social and economic implications – with rising demands on healthcare, retirement adequacy and social integration that need to be balanced against the impact it has on our workforce and economy. Singapore is looking at this issue very seriously:<br>
 
-<p></p><p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;Last year, we rolled out the&nbsp;Healthier SG strategy, a fundamental re-orientation and reform of our&nbsp;healthcare&nbsp;system. One that is focused more on preventive care and greater self-responsibility supported by the community, as well as the promotion of ‘active aging’.&nbsp;<br>
+<p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;Last year, we rolled out the&nbsp;Healthier SG strategy, a fundamental re-orientation and reform of our&nbsp;healthcare&nbsp;system. One that is focused more on preventive care and greater self-responsibility supported by the community, as well as the promotion of ‘active aging’.&nbsp;</p><br>
 
-</p><p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;We are also bolstering&nbsp;retirement adequacy&nbsp;through regular reviews of our Central Provident Fund (CPF) system, and the strengthening of our jobs and skills landscape.&nbsp;Minister&nbsp;FaishalIbrahim will touch on this later&nbsp;– how we are pushing for the&nbsp;creation of good jobs, and&nbsp;a strong culture of upskilling and re-skilling&nbsp;to allow our people to work longer and better for their retirement.<br>
+<p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;We are also bolstering&nbsp;retirement adequacy&nbsp;through regular reviews of our Central Provident Fund (CPF) system, and the strengthening of our jobs and skills landscape.&nbsp;Minister&nbsp;FaishalIbrahim will touch on this later&nbsp;– how we are pushing for the&nbsp;creation of good jobs, and&nbsp;a strong culture of upskilling and re-skilling&nbsp;to allow our people to work longer and better for their retirement.</p><br>
 
 45.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is also in sync with our overall reform of our jobs and skills landscape in meeting the&nbsp;diverse aspirations of our people. We embrace the diversity of strengths and broaden our definition of success. This includes providing diverse education pathways and creating multiple career paths to success.<br>
 
@@ -184,11 +184,11 @@ _Chongqing Demonstration Initiative on Strategic Connectivity (CCI) \[Multimodal
 
 49.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What I have mentioned are not only shared challenges, but also opportunities for mutual learning.&nbsp;In Singapore, we too are embarking on our own exercise to refresh our social compact this year and the vision of Our Future Singapore – A Singapore that last, endures and thrives for generations to come. Minister Josephine Teo will share more in her speech.<br>
 
-	<b>Conclusion</b><br>
+<b>Conclusion</b><br>
 
 50.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In summary, while our circumstances and contexts may be different, we share many similar challenges and opportunities. More importantly, we can also share many best practices in how we evolve our governance approaches to serve our people and country. In Singapore’s context:<br>
 
-</p><p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;Trust between people and people; people and government is the&nbsp;foundation&nbsp;of all that we do. It is also with this trust that enable us to achieve good governance and successes through collective actions. As I was listening to Minister Li’s speech just now, he also mentioned that to win the hearts of our people, trust is fundamental. That resonated with us.</p><br>
+<p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;Trust between people and people; people and government is the&nbsp;foundation&nbsp;of all that we do. It is also with this trust that enable us to achieve good governance and successes through collective actions. As I was listening to Minister Li’s speech just now, he also mentioned that to win the hearts of our people, trust is fundamental. That resonated with us.</p><br>
 
 <p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;The livelihood and wellbeing of our people form the&nbsp;core&nbsp;of our purpose in government, where everyone in every generation can have hope for a better future.</p><br>
 
