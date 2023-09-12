@@ -201,7 +201,7 @@ _Chongqing Demonstration Initiative on Strategic Connectivity (CCI) \[Multimodal
 
 </p><p style="margin-left:30px;"> c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beyond our shores, we seek to build wider and deeper&nbsp;partnerships&nbsp;with as many countries as possible by value-adding constructively to our partners. To do so, we must remain a principled and relevant partner that is trusted by all.&nbsp;&nbsp;
 
-</p><p style="margin-left:30px;"> d.&nbsp;&nbsp;&nbsp;&nbsp;**总括而言，****“****诚信为根；以民为本；以德服人****”****，才能****“****引领群雄****”**。
+</p><p style="margin-left:30px;"> d.&nbsp;&nbsp;&nbsp;&nbsp;**总括而言，诚信为根；以民为本；以德服，才能引领群雄**。
 
 51.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As I co-chair this forum for the 2nd&nbsp;year, I am deeply appreciative of this platform for such intimate sharing of our challenges and exploration of ideas.&nbsp;It can only be possible if we stay committed to&nbsp;continuebuilding trust between leaders and individuals, from young and across generations.
 
