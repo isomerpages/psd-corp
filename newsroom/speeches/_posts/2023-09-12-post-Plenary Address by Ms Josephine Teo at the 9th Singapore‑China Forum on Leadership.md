@@ -169,7 +169,7 @@ image: ""
 
 <p style="margin-left:30px;">d.&nbsp;&nbsp;&nbsp;&nbsp;Silver Zones in selected estates feature enhanced road safety features like additional road markings, dividers, and lowered speed limits, to cater to more elderly pedestrians.&nbsp;</p>
 
-<p style="margin-left:30px;">e.&nbsp;&nbsp;&nbsp;&nbsp;These make our society more inclusive and strengthen our sense of solidarity.<br>
+<p style="margin-left:30px;">e.&nbsp;&nbsp;&nbsp;&nbsp;These make our society more inclusive and strengthen our sense of solidarity.</p>
 
 42.&nbsp;&nbsp;&nbsp;&nbsp;Forward Singapore has been instructive and inspiring in charting out how the Government can better respond to the evolving needs of our people, forge trust with them, and co-create their future.&nbsp;<br>
 
@@ -179,4 +179,4 @@ image: ""
 
 45.&nbsp;&nbsp;&nbsp;&nbsp;In the absence of easy playbooks, there is much to be gained through more frequent sharing of observations and exchanges of experiences. That is precisely the value of the Singapore-China Forum on Leadership, which I am pleased is now into its ninth edition.&nbsp;&nbsp;<br>
 
-46.&nbsp;&nbsp;&nbsp;&nbsp;I look forward to our fruitful discussions later.&nbsp;&nbsp;Thank you.<br></p>
+46.&nbsp;&nbsp;&nbsp;&nbsp;I look forward to our fruitful discussions later.&nbsp;&nbsp;Thank you.<br><p></p>
