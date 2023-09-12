@@ -73,37 +73,37 @@ image: ""
 
 <p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;In 2021, Parliament unanimously endorsed the first-ever White Paper on Singapore Women’s Development. Over 6,000 Singaporeans – men and women, young and old, provided feedback that guided the formulation of 25 action plans we will implement over the next decade, towards a fairer and more inclusive society.&nbsp;</p>
 
-18.&nbsp;The second evolution is fostering greater buy-in to government policies. From “Grudging Compliance” to “Willing Alignment”.&nbsp;不仅依法治人，也要以理服人.<br>
+18.&nbsp;&nbsp;&nbsp;&nbsp;The second evolution is fostering greater buy-in to government policies. From “Grudging Compliance” to “Willing Alignment”.&nbsp;不仅依法治人，也要以理服人.<br>
 
-19.&nbsp;Information today can spread more freely and rapidly in an unchecked and unverified manner. Falsehoods are not uncommon.&nbsp;&nbsp;<br>
+19.&nbsp;&nbsp;&nbsp;&nbsp;Information today can spread more freely and rapidly in an unchecked and unverified manner. Falsehoods are not uncommon.&nbsp;&nbsp;<br>
 
-20.&nbsp;If our citizens do not trust the Government, even the best of policies and even the best efforts in communication will not be enough.&nbsp;&nbsp;<br>
+20.&nbsp;&nbsp;&nbsp;&nbsp;If our citizens do not trust the Government, even the best of policies and even the best efforts in communication will not be enough.&nbsp;&nbsp;<br>
 
-21.&nbsp;During COVID-19, most countries had home quarantine and safe distancing. Enforcement helped but could only go so far.&nbsp;&nbsp;&nbsp;<br>
+21.&nbsp;&nbsp;&nbsp;&nbsp;During COVID-19, most countries had home quarantine and safe distancing. Enforcement helped but could only go so far.&nbsp;&nbsp;&nbsp;<br>
 
-22.&nbsp;We decided it was important to persuade Singaporeans to do their part in the fight against COVID-19. The vast majority willingly cooperated with these measures.<br>
+22.&nbsp;&nbsp;&nbsp;&nbsp;We decided it was important to persuade Singaporeans to do their part in the fight against COVID-19. The vast majority willingly cooperated with these measures.<br>
 
-23.&nbsp;Much of it depended on the trust levels in our society, between the people themselves, as well as with Government.&nbsp;<br>
+23.&nbsp;&nbsp;&nbsp;&nbsp;Much of it depended on the trust levels in our society, between the people themselves, as well as with Government.&nbsp;<br>
 
-24.&nbsp;Our Multi-Ministry Taskforce on COVID-19 strived to be as open and transparent as possible. To prepare our citizens for the difficulties that lay ahead, the taskforce held regular press conferences to put out new information, and be upfront about the uncertainties and risks.&nbsp;<br>
+24.&nbsp;&nbsp;&nbsp;&nbsp;Our Multi-Ministry Taskforce on COVID-19 strived to be as open and transparent as possible. To prepare our citizens for the difficulties that lay ahead, the taskforce held regular press conferences to put out new information, and be upfront about the uncertainties and risks.&nbsp;<br>
 
 <p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Over the course of three years, the taskforce held 83 press conferences. The first took place on 27 January 2020, and the last on 9 February 2023.</p>
 
 <p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;Senior Cabinet Ministers including Prime Minister Lee also delivered a series of National Broadcasts to address citizens directly on significant developments.</p>
 
-25.&nbsp;We also expanded and refreshed our communications channels, and launched targeted campaigns, such as VacciNationSG to support our vaccination drive. Over the course of the pandemic, Gov.sg’s 10 platforms added close to 2 million more subscribers.<br>
+25.&nbsp;&nbsp;&nbsp;&nbsp;We also expanded and refreshed our communications channels, and launched targeted campaigns, such as VacciNationSG to support our vaccination drive. Over the course of the pandemic, Gov.sg’s 10 platforms added close to 2 million more subscribers.<br>
 
-26.&nbsp;Through these concerted efforts, 4 in 5 members of the public thought that the Government provided sufficient information on COVID-19, and 87% said that the campaign materials helped in their decision to get vaccinated.<br>
+26.&nbsp;&nbsp;&nbsp;&nbsp;Through these concerted efforts, 4 in 5 members of the public thought that the Government provided sufficient information on COVID-19, and 87% said that the campaign materials helped in their decision to get vaccinated.<br>
 
-27.&nbsp;Nothing is more vital in a crisis than trust. The Government and our citizens must be aligned in knowing that we all have the best interest of Singapore and Singaporeans at heart.&nbsp;<br>
+27.&nbsp;&nbsp;&nbsp;&nbsp;Nothing is more vital in a crisis than trust. The Government and our citizens must be aligned in knowing that we all have the best interest of Singapore and Singaporeans at heart.&nbsp;<br>
 
-28.&nbsp;The third evolution is improving inter-agency coordination. From ‘working within’ to ‘working across’.&nbsp;不仅各现精彩也会协力合作。<br>
+28.&nbsp;&nbsp;&nbsp;&nbsp;The third evolution is improving inter-agency coordination. From ‘working within’ to ‘working across’.&nbsp;不仅各现精彩也会协力合作。<br>
 
-29.&nbsp;In the early years, we could tackle issues along agency lines.&nbsp;&nbsp;<br>
+29.&nbsp;&nbsp;&nbsp;&nbsp;In the early years, we could tackle issues along agency lines.&nbsp;&nbsp;<br>
 
-30.&nbsp;Now, every issue is a cross-domain one. It is rare for a truly impactful problem, policy, or solution today to be within the domain of a single agency.<br>
+30.&nbsp;&nbsp;&nbsp;&nbsp;Now, every issue is a cross-domain one. It is rare for a truly impactful problem, policy, or solution today to be within the domain of a single agency.<br>
 
-31.&nbsp;Take scams, which can proliferate with unprecedented scale and speed in online spaces.&nbsp;&nbsp;<br>
+31.&nbsp;&nbsp;&nbsp;&nbsp;Take scams, which can proliferate with unprecedented scale and speed in online spaces.&nbsp;&nbsp;<br>
 
 <p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;The Singapore Police Force investigates criminal activities, the Monetary Authority of Singapore works with banks to employ fraud surveillance systems and monitor bank transactions, the Infocomm and Media Development Authority works with telecommunications providers on potential scam SMSes, and the Ministry of Home Affairs reviews existing legislation.</p>
 
@@ -111,35 +111,35 @@ image: ""
 
 <p style="margin-left:30px;">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We recognise the need to support each other. I chair the Taskforce on Online Phishing Scams (TOPS), which works across Government agencies to tackle this problem comprehensively.</p>
 
-32.&nbsp;In summary, we will face more complex challenges, from climate change to market risks.&nbsp;&nbsp;We must continue to harness the power of collaboration across the public, people and private sectors, to remain agile as a nation. This very much aligns with what Minister Li has said earlier, “积力之所举，则无不胜也；众智之所为，则无不成也”.<br>
+32.&nbsp;&nbsp;&nbsp;&nbsp;In summary, we will face more complex challenges, from climate change to market risks.&nbsp;&nbsp;We must continue to harness the power of collaboration across the public, people and private sectors, to remain agile as a nation. This very much aligns with what Minister Li has said earlier, “积力之所举，则无不胜也；众智之所为，则无不成也”.<br>
 
-33.&nbsp;Two recent experiences illustrate how Singapore has implemented these three evolutions.<br>
+33.&nbsp;&nbsp;&nbsp;&nbsp;Two recent experiences illustrate how Singapore has implemented these three evolutions.<br>
 
-34.&nbsp;The first is our Alliances for Action (AfAs), which is an example of creating opportunity from adversity.&nbsp;&nbsp;<br>
+34.&nbsp;&nbsp;&nbsp;&nbsp;The first is our Alliances for Action (AfAs), which is an example of creating opportunity from adversity.&nbsp;&nbsp;<br>
 
 <p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;During COVID-19, we set up an Emerging Stronger Taskforce to rally the public, private and people sectors to think collectively about our post-pandemic future.&nbsp;</p>
 
 <p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;The Taskforce formed nine Alliances for Action, each focusing on a goal that would require different stakeholders to work hand-in-hand to solve problems quickly.&nbsp;&nbsp;</p>
 
-35.&nbsp;One of these was on Digitalising the Built Environment.<br>
+35.&nbsp;&nbsp;&nbsp;&nbsp;One of these was on Digitalising the Built Environment.<br>
 
 <p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;While COVID-19 exposed certain vulnerabilities of the Built Environment sector, the Alliance recognised an opportunity to accelerate its digital transformation.&nbsp;&nbsp;</p>
 
 <p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;The Alliance onboarded more than 300 companies and 25 projects to an industry digital partnership. This catalysed the launch of the Common Data Environment Data Standards, which provides a common digital space for information exchange to deliver and manage built assets.&nbsp;&nbsp;</p>
 
-36.&nbsp;Although the pandemic is largely behind us, we continue to support the Alliances for Action model. From the original nine Alliances for Action, we now have more than 30, including on lower-wage workers, online harms, and even online ordering for hawkers.<br>
+36.&nbsp;&nbsp;&nbsp;&nbsp;Although the pandemic is largely behind us, we continue to support the Alliances for Action model. From the original nine Alliances for Action, we now have more than 30, including on lower-wage workers, online harms, and even online ordering for hawkers.<br>
 
 <p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Not all of the ideas from the Alliances will work. Some will be successfully implemented and scaled up.&nbsp;&nbsp;</p>
 
 <p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;But the participation of a broader segment of society helps to build a sense of ownership and common destiny. This makes it a worthwhile pursuit.</p>
 
-37.&nbsp;The second experience is Forward Singapore.&nbsp;&nbsp;<br>
+37.&nbsp;&nbsp;&nbsp;&nbsp;The second experience is Forward Singapore.&nbsp;&nbsp;<br>
 
 <p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Spearheaded by the 4th generation leadership of Singapore, led by Deputy Prime Minister Lawrence Wong and including Minister Chan and myself, the exercise aims to crystallise the new social compact for Singapore.</p>
 
 <p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;Singaporeans from all walks of life are invited to come forward with ideas about what Singapore should do differently, across all areas.</p>
 
-38.&nbsp;In particular, I wish to elaborate on an interesting engagement modality – what we call Citizens’ Panels.<br>
+38.&nbsp;&nbsp;&nbsp;&nbsp;In particular, I wish to elaborate on an interesting engagement modality – what we call Citizens’ Panels.<br>
 
 <p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;We bring together a group of citizens who have expressed interest in a certain issue. Over several weeks, they learn about the issue and hear from experts. They then make recommendations to the government, and the government will give its formal response publicly.</p>
 
@@ -147,9 +147,9 @@ image: ""
 
 <p style="margin-left:30px;">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These Panels are very resource intensive but we have found them to be very useful.&nbsp;&nbsp;They drive the public service to keep an open mind about feedback and concerns from citizens, instead of dismissing them or pushing them aside. Citizens are socialised to the trade-offs that we as policymakers must weigh. Often, a deeper understanding of policy considerations lead citizens to make very similar choices as government.</p>
 
-39.&nbsp;The Forward Singapore exercise will conclude in the next few months, but already a number of themes have emerged.<br>
+39.&nbsp;&nbsp;&nbsp;&nbsp;The Forward Singapore exercise will conclude in the next few months, but already a number of themes have emerged.<br>
 
-40.&nbsp;The first is what Deputy Prime Minister Wong refers to as “hands-on and heart work”.<br>
+40.&nbsp;&nbsp;&nbsp;&nbsp;The first is what Deputy Prime Minister Wong refers to as “hands-on and heart work”.<br>
 
 <p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;These refer to technical, service, and community care roles.&nbsp;&nbsp;</p>
 
@@ -159,7 +159,7 @@ image: ""
 
 <p style="margin-left:30px;">d.&nbsp;&nbsp;&nbsp;&nbsp;Such shifts are not easy to achieve. Employers must reflect this in their hiring, training, and promotion decisions. Parents must avoid over-emphasising academic grades.&nbsp;&nbsp;Citizens must mutually respect each other regardless of their vocations.&nbsp;<br>
 
-41.&nbsp;The second theme is a revamped system of social support.<br>
+41.&nbsp;&nbsp;&nbsp;&nbsp;The second theme is a revamped system of social support.<br>
 
 </p><p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;This means meeting the key needs of not just the broad middle class but added support for a range of vulnerable groups.&nbsp;&nbsp;</p>
 
@@ -171,12 +171,12 @@ image: ""
 
 <p style="margin-left:30px;">e.&nbsp;&nbsp;&nbsp;&nbsp;These make our society more inclusive and strengthen our sense of solidarity.<br>
 
-42.&nbsp;Forward Singapore has been instructive and inspiring in charting out how the Government can better respond to the evolving needs of our people, forge trust with them, and co-create their future.&nbsp;<br>
+42.&nbsp;&nbsp;&nbsp;&nbsp;Forward Singapore has been instructive and inspiring in charting out how the Government can better respond to the evolving needs of our people, forge trust with them, and co-create their future.&nbsp;<br>
 
-43.&nbsp;Together with our Alliances for Action, they embody the three evolutions I spoke about earlier – from “Governing for” to “Governing with”, from “Grudging compliance” to “Willing alignment”, and from “Working within” to “Working across”.<br>
+43.&nbsp;&nbsp;&nbsp;&nbsp;Together with our Alliances for Action, they embody the three evolutions I spoke about earlier – from “Governing for” to “Governing with”, from “Grudging compliance” to “Willing alignment”, and from “Working within” to “Working across”.<br>
 
-44.&nbsp;Let me conclude. In evolving our models of governance, there are bound to be risks.&nbsp;&nbsp;Even as we demand excellence, the political leadership must also set a clear direction, and be prepared to back up our officials where they have tried their best but did not get everything right. Only by fostering an environment where mutual support, continuous learning, and improvement is encouraged, will we have a chance at keeping our governance relevant.&nbsp;&nbsp;<br>
+44.&nbsp;&nbsp;&nbsp;&nbsp;Let me conclude. In evolving our models of governance, there are bound to be risks.&nbsp;&nbsp;Even as we demand excellence, the political leadership must also set a clear direction, and be prepared to back up our officials where they have tried their best but did not get everything right. Only by fostering an environment where mutual support, continuous learning, and improvement is encouraged, will we have a chance at keeping our governance relevant.&nbsp;&nbsp;<br>
 
-45.&nbsp;In the absence of easy playbooks, there is much to be gained through more frequent sharing of observations and exchanges of experiences. That is precisely the value of the Singapore-China Forum on Leadership, which I am pleased is now into its ninth edition.&nbsp;&nbsp;<br>
+45.&nbsp;&nbsp;&nbsp;&nbsp;In the absence of easy playbooks, there is much to be gained through more frequent sharing of observations and exchanges of experiences. That is precisely the value of the Singapore-China Forum on Leadership, which I am pleased is now into its ninth edition.&nbsp;&nbsp;<br>
 
-46.&nbsp;I look forward to our fruitful discussions later.&nbsp;&nbsp;Thank you.<br></p>
+46.&nbsp;&nbsp;&nbsp;&nbsp;I look forward to our fruitful discussions later.&nbsp;&nbsp;Thank you.<br></p>
