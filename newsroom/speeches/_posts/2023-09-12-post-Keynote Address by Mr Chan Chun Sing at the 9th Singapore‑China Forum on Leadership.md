@@ -49,13 +49,13 @@ Distinguished guests and colleagues
 
 <p style="margin-left:30px;">i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The world order, built upon the rule of law, multilateralism, and open trade, can no longer be taken as a given in the coming years.&nbsp;&nbsp;</p>
 
-<p></p><p style="margin-left:30px;">ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The war in Ukraine have shown us that the global security order that has underpinned peace, growth and the uplifting of millions from poverty in the past decades is no longer a given.&nbsp;&nbsp;
+<p style="margin-left:30px;">ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The war in Ukraine have shown us that the global security order that has underpinned peace, growth and the uplifting of millions from poverty in the past decades is no longer a given.&nbsp;&nbsp;</p>
 
-</p><p style="margin-left:30px;">iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To overcome this, it will require hard work and commitment by all parties to maintain order in the global system, develop new rules and push for progress collectively.&nbsp;
+<p style="margin-left:30px;">iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To overcome this, it will require hard work and commitment by all parties to maintain order in the global system, develop new rules and push for progress collectively.&nbsp;</p>
 
-</p><p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;**Second,&nbsp;Fragile Global Economic Order:**
+<p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;<b>Second,&nbsp;Fragile Global Economic Order:</b></p>
 
-</p><p style="margin-left:30px;"> i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Economic inequalities as well as geopolitical and national security considerations are accentuating protectionism. We are already seeing it in various guises – increasing on-shoring or near-shoring of supply chains and economic competitions coloured by security concerns.&nbsp;
+<p></p><p style="margin-left:30px;"> i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Economic inequalities as well as geopolitical and national security considerations are accentuating protectionism. We are already seeing it in various guises – increasing on-shoring or near-shoring of supply chains and economic competitions coloured by security concerns.&nbsp;
 
 </p><p style="margin-left:30px;"> ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is understandable for countries to seek diversification to avoid over-reliance on a single supplier. But when taken too far, it may lead to the bifurcation of technology and supply chains.
 
