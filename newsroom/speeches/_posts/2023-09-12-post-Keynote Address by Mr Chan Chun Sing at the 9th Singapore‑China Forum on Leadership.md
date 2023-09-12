@@ -118,44 +118,43 @@ Distinguished guests and colleagues
 
 28.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As we welcome China’s increasing connectedness to international trade and investment, there are opportunities for Singapore and China to strengthen our partnerships in this area, including private-led collaborations, by leveraging Singapore as:<br>
 
-<p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;A thriving economic, research and financial hub; and an economic bridge between the East and the West, North and South, through our strong international connectivity, our extensive network of free trade agreements, robust legal system, as well as coherent and consistent government policies.</p><br>
+<p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;A thriving economic, research and financial hub; and an economic bridge between the East and the West, North and South, through our strong international connectivity, our extensive network of free trade agreements, robust legal system, as well as coherent and consistent government policies.</p>
 
 29.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore maintains our continued relevance through a global strategy of connectivity:<br>
 
-<p></p><p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;not only across air, land and sea but also across data, finance, digital, regulations and talent; and<br>
+<p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;not only across air, land and sea but also across data, finance, digital, regulations and talent; and</p><br>
 
-</p><p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;through our active and constructive role in the global community to advocate stable, rules-based global order and multilateral institutions, and our experience in navigating business environments around the world.<br>
+<p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;through our active and constructive role in the global community to advocate stable, rules-based global order and multilateral institutions, and our experience in navigating business environments around the world.</p><br>
 
 30.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore and China can be partners&nbsp;in creating more inclusive and resilient supply chains to facilitate the flow of goods, services, and people. We can also work towards upholding global standards for an open and integrated global economy.&nbsp;<br>
 
-**Enhancing Collaboration from “Geographically Based Projects” to “Theme Based Projects that Inspire Country-wide Application”**&nbsp;<br>
+<b>Enhancing Collaboration from “Geographically Based Projects” to “Theme Based Projects that Inspire Country-wide Application” </b><br>
 
 31.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The next question is how we can better collaborate to achieve joint success.&nbsp;<br>
 
 32.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The three&nbsp;Government-to-Government (G-2-G) projects have always been a unique characteristic of our bilateral relations. They have evolved with China’s development needs, from&nbsp;local&nbsp;pathfinder projects, like Suzhou Industrial Park and Tianjin Ecocity, to&nbsp;regional&nbsp;projects like the Chongqing Connectivity Initiative (CCI) in support of China’s Western Region Development (WRD) and the Belt and Road Initiative (BRI).&nbsp;<br>
 
-33.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Looking ahead, these G-2-G projects can be refreshed to trail blaze new development models of “high quality growth” and experiment innovative approaches of governance – allowing the projects to&nbsp;**evolve from geographically based projects at the local and regional levels to&nbsp;theme-based&nbsp;collaborations that&nbsp;inspire country-wide application&nbsp;and&nbsp;international&nbsp;partnerships.**&nbsp;<br>
+33.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Looking ahead, these G-2-G projects can be refreshed to trail blaze new development models of “high quality growth” and experiment innovative approaches of governance – allowing the projects to&nbsp;<b>evolve from geographically based projects at the local and regional levels to&nbsp;theme-based&nbsp;collaborations that&nbsp;inspire country-wide application&nbsp;and&nbsp;international&nbsp;partnerships.</b><br>
 
 _Tianjin Eco-City \[Sustainability and low carbon growth\]_<br>
 
-34.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One example is the Tianjin Eco-city (TEC), which celebrates its 15th&nbsp;anniversary this year. While the last 15 years was focused on sustainable urban planning and development, the TEC in the next 15 years&nbsp;**can be a model for high quality, low carbon growth – an incubator of new low carbon innovations, start-ups and businesses, and a centre of skills development in sustainability related technology**.&nbsp;<br>
+34.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One example is the Tianjin Eco-city (TEC), which celebrates its 15th&nbsp;anniversary this year. While the last 15 years was focused on sustainable urban planning and development, the TEC in the next 15 years&nbsp;<b>can be a model for high quality, low carbon growth – an incubator of new low carbon innovations, start-ups and businesses, and a centre of skills development in sustainability related technology</b><br>
 
-</p><p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;Both sides are discussing cooperation in green and digital shipping. With a smart and green port, as well as a vibrant talent ecosystem through active talent development and knowledge exchange,&nbsp;**Tianjin has great potential to build a vibrant port economy and catalyse the growth of the whole Jing-Jin-Ji**.&nbsp;<br>
+<p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;Both sides are discussing cooperation in green and digital shipping. With a smart and green port, as well as a vibrant talent ecosystem through active talent development and knowledge exchange,&nbsp;<b>Tianjin has great potential to build a vibrant port economy and catalyse the growth of the whole Jing-Jin-Ji</b></p><br>
 
 _Chongqing Demonstration Initiative on Strategic Connectivity (CCI) \[Multimodal Connectivity\]_<br>
 
-35.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another example is our 3rd&nbsp;G-2-G project in Chongqing. It provides&nbsp;**a successful model for enhancing connectivity in multiple dimensions to drive high-quality growth.**&nbsp;<br>
+35.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another example is our 3rd&nbsp;G-2-G project in Chongqing. It provides&nbsp;<b>a successful model for enhancing connectivity in multiple dimensions to drive high-quality growth.</b><br>
 
-</p><p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;Through the CCI-New International Land-Sea Trade Corridor, Singapore and China have promoted stronger regional economic integration by providing traders with a faster and more efficient link between Southeast Asia, Western China and beyond. Our joint efforts to enhance digital and trade connectivity have also complemented the development of infrastructural links between Singapore and Chongqing.<br>
+<p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;Through the CCI-New International Land-Sea Trade Corridor, Singapore and China have promoted stronger regional economic integration by providing traders with a faster and more efficient link between Southeast Asia, Western China and beyond. Our joint efforts to enhance digital and trade connectivity have also complemented the development of infrastructural links between Singapore and Chongqing.</p><br>
 
-36.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The CCI has&nbsp;**demonstrated how enhancing connectivity in traditional and newer areas can help under-connected and under-served regions find new growth engines and realise their economic potential**.<br>
+36.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The CCI has&nbsp;<b>demonstrated how enhancing connectivity in traditional and newer areas can help under-connected and under-served regions find new growth engines and realise their economic potential</b>.<br>
 
 37.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our experience from the success of our G-2-G projects and our strong collaborations at the eight Provincial Business Councils, put us in good stead for more and stronger partnerships.&nbsp;We look forward&nbsp;to jointly exploring and experimenting new ways of governance to keep up with the evolving social, political, economic and international challenges.<br>
 
-**Strengthening Trust**<br>
+<b>Strengthening Trust</b>
 
 38.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trust is key to move ahead into our next bound. We can further strengthen the foundation by tapping on our history in human resource development and people-to-people exchange; and enhance the opportunities for our next generations to grow together.<br>
-
 
 39.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since 1996, we have received and trained many Chinese officials and cadres across a wide range of carefully curated study visits, attachments and training programmes. Singapore has also sent many of our senior officials and high potential young officers on study trips to different parts of China to learn from your developmental experiences. I look forward to creating more opportunities for mutual learning and exchanges between both countries. On top of our existing engagements such as the Shanghai-Singapore Senior Officials Exchange Programme, new platforms at the central-level could be useful to deepen our collaboration and sharing on multifaceted challenges that both countries face in our respective context.&nbsp;<br>
 
@@ -163,7 +162,7 @@ _Chongqing Demonstration Initiative on Strategic Connectivity (CCI) \[Multimodal
 
 41.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When our future generations grow together, we are planting the seeds for deeper understanding and mutual trust for the next generations. This is the main reason why Singapore and China can work together across so many dimensions from economics to social and security.&nbsp;&nbsp;But we must never be complacent.&nbsp;&nbsp;We benefitted from the efforts of previous generations.&nbsp;&nbsp;We must continue to invest in our future generations, to enable them to do even more and better than our generation.<br>
 
-**Many Shared Challenges for Mutual Learning**<br>
+<b>Many Shared Challenges for Mutual Learning</b>
 
 42.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is also the first year that China is implementing the directives of the 20th&nbsp;National Congress of the Communist Party of China, which has elaborated on Chinese-style modernisation. We share common goals such as the pursuit of high-quality growth to build a strong and resilient economy, improving our citizens’ well-being, promoting sustainability and the cultivation of high-calibre talent.<br>
 
@@ -171,7 +170,7 @@ _Chongqing Demonstration Initiative on Strategic Connectivity (CCI) \[Multimodal
 
 44.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For example –&nbsp;aging population. This has massive social and economic implications – with rising demands on healthcare, retirement adequacy and social integration that need to be balanced against the impact it has on our workforce and economy. Singapore is looking at this issue very seriously:<br>
 
-</p><p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;Last year, we rolled out the&nbsp;Healthier SG strategy, a fundamental re-orientation and reform of our&nbsp;healthcare&nbsp;system. One that is focused more on preventive care and greater self-responsibility supported by the community, as well as the promotion of ‘active aging’.&nbsp;<br>
+<p></p><p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;Last year, we rolled out the&nbsp;Healthier SG strategy, a fundamental re-orientation and reform of our&nbsp;healthcare&nbsp;system. One that is focused more on preventive care and greater self-responsibility supported by the community, as well as the promotion of ‘active aging’.&nbsp;<br>
 
 </p><p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;We are also bolstering&nbsp;retirement adequacy&nbsp;through regular reviews of our Central Provident Fund (CPF) system, and the strengthening of our jobs and skills landscape.&nbsp;Minister&nbsp;FaishalIbrahim will touch on this later&nbsp;– how we are pushing for the&nbsp;creation of good jobs, and&nbsp;a strong culture of upskilling and re-skilling&nbsp;to allow our people to work longer and better for their retirement.<br>
 
