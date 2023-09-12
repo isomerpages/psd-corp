@@ -156,8 +156,7 @@ _Chongqing Demonstration Initiative on Strategic Connectivity (CCI) \[Multimodal
 
 41.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When our future generations grow together, we are planting the seeds for deeper understanding and mutual trust for the next generations. This is the main reason why Singapore and China can work together across so many dimensions from economics to social and security.&nbsp;&nbsp;But we must never be complacent.&nbsp;&nbsp;We benefitted from the efforts of previous generations.&nbsp;&nbsp;We must continue to invest in our future generations, to enable them to do even more and better than our generation.
 
-##### **Many Shared Challenges for Mutual Learning**
-##### 
+##### **Many Shared Challenges for Mutual Learning**<br> 
 42.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is also the first year that China is implementing the directives of the 20th&nbsp;National Congress of the Communist Party of China, which has elaborated on Chinese-style modernisation. We share common goals such as the pursuit of high-quality growth to build a strong and resilient economy, improving our citizens’ well-being, promoting sustainability and the cultivation of high-calibre talent.
 
 43.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This also means we face many shared challenges as we move ahead.&nbsp;
@@ -168,29 +167,26 @@ _Chongqing Demonstration Initiative on Strategic Connectivity (CCI) \[Multimodal
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.&nbsp;&nbsp;&nbsp;&nbsp;We are also bolstering&nbsp;<u>retirement adequacy</u>&nbsp;through regular reviews of our Central Provident Fund (CPF) system, and the strengthening of our jobs and skills landscape.&nbsp;Minister&nbsp;FaishalIbrahim will touch on this later&nbsp;– how we are pushing for the&nbsp;<u>creation of good jobs</u>, and&nbsp;<u>a strong culture of upskilling and re-skilling</u>&nbsp;to allow our people to work longer and better for their retirement.
 
-45.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is also in sync with our overall reform of our jobs and skills landscape in meeting the&nbsp;diverse aspirations of our people. We embrace the diversity of strengths and broaden our definition of success. This includes providing diverse education pathways and creating multiple career paths to success.
+45.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is also in sync with our overall reform of our jobs and skills landscape in meeting the&nbsp;<u>diverse aspirations of our people</u>. We embrace the diversity of strengths and broaden our definition of success. This includes providing diverse education pathways and creating multiple career paths to success.
 
-46.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The management of new media&nbsp;has also been a rising ‘hot’ topic, as we all learn how to better manage and regulate information in the digital era. With the proliferation of different media types and platforms, it is important to safeguard against falsehood or content that could undermine social cohesion. Minister Tan Kiat How will be talking more about this.
+46.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>The management of new media</u>&nbsp;has also been a rising ‘hot’ topic, as we all learn how to better manage and regulate information in the digital era. With the proliferation of different media types and platforms, it is important to safeguard against falsehood or content that could undermine social cohesion. Minister Tan Kiat How will be talking more about this.
 
-47.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sustainability of our future&nbsp;is another pressing&nbsp;agenda on the global front.&nbsp;Singapore has made this a priority focus area – on the domestic front to steward a green and liveable nation across our business, communities and individuals, and on the global stage to forge international collaborations on climate actions.&nbsp;
+47.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Sustainability of our future</u>&nbsp;is another pressing&nbsp;agenda on the global front.&nbsp;Singapore has made this a priority focus area – on the domestic front to steward a green and liveable nation across our business, communities and individuals, and on the global stage to forge international collaborations on climate actions.&nbsp;
 
-48.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dealing with these challenges require&nbsp;cohesive leaders who are capable to lead the country in a volatile world&nbsp;– leaders who work well together, not only within the Government and with the people, but also businesses and globally with international partners. The exposure to international perspectives and building of global networks are particularly critical to Singapore. Minister Desmond Tan will share more in his speech.
+48.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dealing with these challenges <u>require&nbsp;cohesive leaders who are capable to lead the country in a volatile world</u>&nbsp;– leaders who work well together, not only within the Government and with the people, but also businesses and globally with international partners. The exposure to international perspectives and building of global networks are particularly critical to Singapore. Minister Desmond Tan will share more in his speech.
 
 49.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What I have mentioned are not only shared challenges, but also opportunities for mutual learning.&nbsp;In Singapore, we too are embarking on our own exercise to refresh our social compact this year and the vision of Our Future Singapore – A Singapore that last, endures and thrives for generations to come. Minister Josephine Teo will share more in her speech.
 
-**Conclusion**
-
+##### **Conclusion**<br> 
 50.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In summary, while our circumstances and contexts may be different, we share many similar challenges and opportunities. More importantly, we can also share many best practices in how we evolve our governance approaches to serve our people and country. In Singapore’s context:
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;Trust between people and people; people and government is the&nbsp;foundation&nbsp;of all that we do. It is also with this trust that enable us to achieve good governance and successes through collective actions. As I was listening to Minister Li’s speech just now, he also mentioned that to win the hearts of our people, trust is fundamental. That resonated with us.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.&nbsp;&nbsp;&nbsp;&nbsp;Trust between people and people; people and government is the&nbsp;<u>foundation</u>&nbsp;of all that we do. It is also with this trust that enable us to achieve good governance and successes through collective actions. As I was listening to Minister Li’s speech just now, he also mentioned that to win the hearts of our people, trust is fundamental. That resonated with us.
 
-b.&nbsp;&nbsp;&nbsp;&nbsp;The livelihood and wellbeing of our people form the&nbsp;core&nbsp;of our purpose in government, where everyone in every generation can have hope for a better future.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.&nbsp;&nbsp;&nbsp;&nbsp;The livelihood and wellbeing of our people form the&nbsp;core&nbsp;of our purpose in government, where everyone in every generation can have hope for a better future.
 
-  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beyond our shores, we seek to build wider and deeper <u>partnerships</u> with as many countries as possible by value-adding constructively to our partners. To do so, we must remain a principled and relevant partner that is trusted by all.&nbsp;&nbsp;
 
-c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beyond our shores, we seek to build wider and deeper&nbsp;partnerships&nbsp;with as many countries as possible by value-adding constructively to our partners. To do so, we must remain a principled and relevant partner that is trusted by all.&nbsp;&nbsp;
-
-d.&nbsp;&nbsp;&nbsp;&nbsp;**总括而言，****“****诚信为根；以民为本；以德服人****”****，才能****“****引领群雄****”**。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.&nbsp;&nbsp;&nbsp;&nbsp;**总括而言，****“****诚信为根；以民为本；以德服人****”****，才能****“****引领群雄”**。
 
 51.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As I co-chair this forum for the 2nd&nbsp;year, I am deeply appreciative of this platform for such intimate sharing of our challenges and exploration of ideas.&nbsp;It can only be possible if we stay committed to&nbsp;continuebuilding trust between leaders and individuals, from young and across generations.
 
