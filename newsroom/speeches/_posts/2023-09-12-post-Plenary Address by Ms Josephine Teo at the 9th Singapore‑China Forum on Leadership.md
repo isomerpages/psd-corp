@@ -53,21 +53,21 @@ image: ""
 
 9.&nbsp;&nbsp;&nbsp;&nbsp;Let me now turn to the “Three Evolutions”. At the time of Singapore’s independence in 1965, survival was everything. The old social compact was premised upon the Government being able to fulfill urgent basic needs, build an economy and our own defence capabilities.<br>
 
-10.&nbsp;With each passing year, fewer people would have experienced these post-independence challenges first-hand. Earlier this month, 162,000 Singaporeans voted in a national election for the first time; constituting about 6% of all voters. This includes youths born in the new millenia, after the year 2000. Their parents, like me, were born around the year of Singapore’s independence, in 1965.<br>
+10.&nbsp;&nbsp;&nbsp;&nbsp;With each passing year, fewer people would have experienced these post-independence challenges first-hand. Earlier this month, 162,000 Singaporeans voted in a national election for the first time; constituting about 6% of all voters. This includes youths born in the new millenia, after the year 2000. Their parents, like me, were born around the year of Singapore’s independence, in 1965.<br>
 
-11.&nbsp;As the profile of our citizens change, so too do their needs, aspirations, and expectations.&nbsp;&nbsp;Therefore, our governance approaches must evolve.<br>
+11.&nbsp;&nbsp;&nbsp;&nbsp;As the profile of our citizens change, so too do their needs, aspirations, and expectations.&nbsp;&nbsp;Therefore, our governance approaches must evolve.<br>
 
-12.&nbsp;For example, younger Singaporeans do not only want to do well for themselves; they also want to see reduction in social inequality. They have legitimate concerns about climate change and want to do their part to contribute to environment sustainability.<br>
+12.&nbsp;&nbsp;&nbsp;&nbsp;For example, younger Singaporeans do not only want to do well for themselves; they also want to see reduction in social inequality. They have legitimate concerns about climate change and want to do their part to contribute to environment sustainability.<br>
 
-13.&nbsp;Therefore, let me share three ways we have evolved.<br>
+13.&nbsp;&nbsp;&nbsp;&nbsp;Therefore, let me share three ways we have evolved.<br>
 
-14.&nbsp;The first evolution is a more consultative approach to governance. From “Governing For” to “Governing With”.&nbsp;不仅执政为民,也致力于集思广益,&nbsp;磋商执政。<br>
+14.&nbsp;&nbsp;&nbsp;&nbsp;The first evolution is a more consultative approach to governance. From “Governing For” to “Governing With”.&nbsp;不仅执政为民,也致力于集思广益,&nbsp;磋商执政。<br>
 
-15.&nbsp;Some of you would be familiar with Singapore’s grassroots movement, the People’s Association. Over 60 years on from its establishment, their extensive community networks continue to convey and explain Government policies to citizens, and citizens’ feedback to the Government.&nbsp;<br>
+15.&nbsp;&nbsp;&nbsp;&nbsp;Some of you would be familiar with Singapore’s grassroots movement, the People’s Association. Over 60 years on from its establishment, their extensive community networks continue to convey and explain Government policies to citizens, and citizens’ feedback to the Government.&nbsp;<br>
 
-16.&nbsp;These two-way feedback channels remain important, but governance now needs to be even more relational, collaborative, and empathetic.<br>
+16.&nbsp;&nbsp;&nbsp;&nbsp;These two-way feedback channels remain important, but governance now needs to be even more relational, collaborative, and empathetic.<br>
 
-17.&nbsp;We now involve citizens even at the stage of policy formulation or decision.<br>
+17.&nbsp;&nbsp;&nbsp;&nbsp;We now involve citizens even at the stage of policy formulation or decision.<br>
 
 <p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Take for example the classification ratings of films. They must reflect community standards and social norms.&nbsp;&nbsp;The Government alone may not always get these right.&nbsp;&nbsp;To inform these decisions, our Films Consultative Panel (FCP) includes Singaporeans from all walks of life, including professionals and also homemakers and students.</p>
 
