@@ -92,7 +92,7 @@ Distinguished guests and colleagues
 
 20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We&nbsp;must also entrench ourselves in the global value chain with a future-oriented view.&nbsp;当变化的风吹起时，有人会造墙，有人会造风车.&nbsp;&nbsp;The choice is ours to make. We must be the ones that build the ‘windmills’ to capture new opportunities of growth early such as digitalisation and sustainability, collaborate with our partners, and be able to adapt in an agile manner.<br>
 
-**Social Front**<br>
+<b>Social Front</b><br>
 
 21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Third, on the social front. Domestic stability and external resilience are mutually reinforcing – solidarity and cohesion at home is the foundation for our confidence to operate at the international front. To win the world, we need to win the trust and hearts of our people.&nbsp;<br>
 
@@ -102,7 +102,7 @@ Distinguished guests and colleagues
 
 24.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;治国之道，必先富民. We will also need to adopt a growth model that is “high-quality” and “inclusive” – one that lifts all boats, and one that does not enable growth and prosperity for one generation at the expense of future generations. This means that we will need to elevate our people – to ensure that they have relevant and future-ready skills, good jobs available and strong social safety nets to cope with uncertainties during each economic refresh. This is why for every generation of Singaporean leaders, we define success by not just how well we can do for this generation, but also how well we enable future generations to do even better than the last.<br>
 
-**Sino-Singapore Collaboration in Forging a New Path Forward**&nbsp;<br>
+<b>Sino-Singapore Collaboration in Forging a New Path Forward</b><br>
 
 25.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As we navigate the new challenges and embrace the winds of change, Singapore&nbsp;and China can tap onour upgraded bilateral relationship with China to an&nbsp;“All-Round High-Quality Future-Oriented Partnership” and explore new solutions together.<br>
 
