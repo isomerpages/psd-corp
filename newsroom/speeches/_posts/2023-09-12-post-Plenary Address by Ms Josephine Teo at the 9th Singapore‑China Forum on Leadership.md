@@ -157,11 +157,11 @@ image: ""
 
 <p style="margin-left:30px;">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beyond wages, we will provide more compelling skills and career ladders, and facilitate the evolution of societal mindsets. Our concept of meritocracy today may be too narrow and need to be expanded.&nbsp;</p>
 
-<p style="margin-left:30px;">d.&nbsp;&nbsp;&nbsp;&nbsp;Such shifts are not easy to achieve. Employers must reflect this in their hiring, training, and promotion decisions. Parents must avoid over-emphasising academic grades.&nbsp;&nbsp;Citizens must mutually respect each other regardless of their vocations.&nbsp;<br>
+<p style="margin-left:30px;">d.&nbsp;&nbsp;&nbsp;&nbsp;Such shifts are not easy to achieve. Employers must reflect this in their hiring, training, and promotion decisions. Parents must avoid over-emphasising academic grades.&nbsp;&nbsp;Citizens must mutually respect each other regardless of their vocations.&nbsp;</p>
 
 41.&nbsp;&nbsp;&nbsp;&nbsp;The second theme is a revamped system of social support.<br>
 
-</p><p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;This means meeting the key needs of not just the broad middle class but added support for a range of vulnerable groups.&nbsp;&nbsp;</p>
+<p></p><p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;This means meeting the key needs of not just the broad middle class but added support for a range of vulnerable groups.&nbsp;&nbsp;</p>
 
 <p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;Singapore’s aging demographic means that our policies must enable seniors to remain active and purposeful in their golden years. It is a vision of “productive longevity”.</p>
 
