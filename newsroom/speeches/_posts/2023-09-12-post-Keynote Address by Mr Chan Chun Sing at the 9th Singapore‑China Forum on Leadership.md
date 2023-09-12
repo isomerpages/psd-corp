@@ -106,7 +106,7 @@ Distinguished guests and colleagues
 
 <b>Sino-Singapore Collaboration in Forging a New Path Forward</b><br>
 
-25.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As we navigate the new challenges and embrace the winds of change, Singapore&nbsp;and China can tap onour upgraded bilateral relationship with China to an&nbsp;“All-Round High-Quality Future-Oriented Partnership” and explore new solutions together.<br>
+25.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As we navigate the new challenges and embrace the winds of change, Singapore&nbsp;and China can tap on our upgraded bilateral relationship with China to an&nbsp;“All-Round High-Quality Future-Oriented Partnership” and explore new solutions together.<br>
 
 26.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The upgrade in our bilateral relations signifies our commitment to broaden and deepen high-quality, forward-looking cooperation in areas of mutual interest, such as digital and green economies, food security, financial market, air connectivity as well as environmental sustainability.&nbsp;<br>
 
