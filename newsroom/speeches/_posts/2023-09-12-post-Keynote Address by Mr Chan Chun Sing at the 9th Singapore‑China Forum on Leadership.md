@@ -112,17 +112,17 @@ Distinguished guests and colleagues
 
 27.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;China and Singapore continue to facilitate greater bilateral cooperation in trade and economic development, and to seek out new areas of collaboration.<br>
 
-<p></p><p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;For instance, this year, we have also reached another important milestone with the substantive conclusion of the China-Singapore Free Trade Agreement (CSFTA) Work Programme for Subsequent Negotiations. This sends a strong and positive signal of our longstanding bilateral economic collaboration and more importantly, also reflects our continued commitment to free trade and a rules-based trading system.<br>
+<p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;For instance, this year, we have also reached another important milestone with the substantive conclusion of the China-Singapore Free Trade Agreement (CSFTA) Work Programme for Subsequent Negotiations. This sends a strong and positive signal of our longstanding bilateral economic collaboration and more importantly, also reflects our continued commitment to free trade and a rules-based trading system.</p>
 
-**Expanding from bilateral to international cooperation**<br>
+<b>Expanding from bilateral to international cooperation</b>
 
 28.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As we welcome China’s increasing connectedness to international trade and investment, there are opportunities for Singapore and China to strengthen our partnerships in this area, including private-led collaborations, by leveraging Singapore as:<br>
 
-</p><p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;A thriving economic, research and financial hub; and an economic bridge between the East and the West, North and South, through our strong international connectivity, our extensive network of free trade agreements, robust legal system, as well as coherent and consistent government policies.<br>
+<p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;A thriving economic, research and financial hub; and an economic bridge between the East and the West, North and South, through our strong international connectivity, our extensive network of free trade agreements, robust legal system, as well as coherent and consistent government policies.</p><br>
 
 29.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore maintains our continued relevance through a global strategy of connectivity:<br>
 
-</p><p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;not only across air, land and sea but also across data, finance, digital, regulations and talent; and<br>
+<p></p><p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;not only across air, land and sea but also across data, finance, digital, regulations and talent; and<br>
 
 </p><p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;through our active and constructive role in the global community to advocate stable, rules-based global order and multilateral institutions, and our experience in navigating business environments around the world.<br>
 
