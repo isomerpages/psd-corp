@@ -15,7 +15,7 @@ Minister of the Organisation Department of the Community Party of China Central 
 
 Distinguished guests and colleagues
 
-**Introduction**
+<b>Introduction</b>
 
 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Good morning. First, I would like to thank Minister Li, Central Party School Executive Vice President Xie Chuntao and our Chinese friends for hosting the 9th&nbsp;Singapore-China Forum on Leadership. Thank you for the warm hospitality extended to me and my delegation. I am glad to be meeting with everyone in-person on this forum, our first since the COVID-19 pandemic. I also thank Minister Li for his very insightful and in-depth speech on the priorities and direction for his party in leading China forward.
 
@@ -35,64 +35,57 @@ Distinguished guests and colleagues
 
 9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Milestones like these are a timely reminder to reflect on how our bilateral relations have progressed over generations of leaders. This is only possible with a deep sense of mutual trust and understanding between both countries; and strong commitment at all levels to continually work together and support each other to succeed.&nbsp;
 
-**Three Challenges in the Modern World**
+<b>Three Challenges in the Modern World</b><br>
 
-10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The theme of this year’s Forum “Evolving Leadership in the Modern World” is indeed well chosen, as Minister Li also said.
+10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The theme of this year’s Forum “Evolving Leadership in the Modern World” is indeed well chosen, as Minister Li also said.<br>
 
-11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our world has changed much in the past decade. It will change even more and faster in the coming years. It is timely that we take stock and exchange notes on how our countries’ approaches to governance must evolve as both the internal and external environment change.
+11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our world has changed much in the past decade. It will change even more and faster in the coming years. It is timely that we take stock and exchange notes on how our countries’ approaches to governance must evolve as both the internal and external environment change.<br>
 
-12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although China and Singapore are very different in terms of size, history and context, there are three key global trends that present both challenges and opportunities to our countries.
+12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although China and Singapore are very different in terms of size, history and context, there are three key global trends that present both challenges and opportunities to our countries.<br>
 
-13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let me share three key challenges of our times:&nbsp;
+13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let me share three key challenges of our times:&nbsp;<br>
 
-<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;**One,&nbsp;Fragmenting Global Order:**
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;<b>One, Fragmenting Global Order:</b></p>
+<p style="margin-left:30px;">i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The world order, built upon the rule of law, multilateralism, and open trade, can no longer be taken as a given in the coming years.&nbsp;&nbsp;</p>
 
-</p><p style="margin-left:30px;">i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The world order, built upon the rule of law, multilateralism, and open trade, can no longer be taken as a given in the coming years.&nbsp;&nbsp;
+<p style="margin-left:30px;">ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The war in Ukraine have shown us that the global security order that has underpinned peace, growth and the uplifting of millions from poverty in the past decades is no longer a given.&nbsp;&nbsp;</p>
 
-</p><p style="margin-left:30px;">ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The war in Ukraine have shown us that the global security order that has underpinned peace, growth and the uplifting of millions from poverty in the past decades is no longer a given.&nbsp;&nbsp;
+<p style="margin-left:30px;">iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To overcome this, it will require hard work and commitment by all parties to maintain order in the global system, develop new rules and push for progress collectively.&nbsp;</p>
 
-</p><p style="margin-left:30px;">iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To overcome this, it will require hard work and commitment by all parties to maintain order in the global system, develop new rules and push for progress collectively.&nbsp;
+<p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;<b>Second,&nbsp;Fragile Global Economic Order:</b></p>
 
-</p><p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;**Second,&nbsp;Fragile Global Economic Order:**
+<p style="margin-left:30px;"> i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Economic inequalities as well as geopolitical and national security considerations are accentuating protectionism. We are already seeing it in various guises – increasing on-shoring or near-shoring of supply chains and economic competitions coloured by security concerns.&nbsp;</p>
 
-</p><p style="margin-left:30px;"> i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Economic inequalities as well as geopolitical and national security considerations are accentuating protectionism. We are already seeing it in various guises – increasing on-shoring or near-shoring of supply chains and economic competitions coloured by security concerns.&nbsp;
+<p style="margin-left:30px;"> ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is understandable for countries to seek diversification to avoid over-reliance on a single supplier. But when taken too far, it may lead to the bifurcation of technology and supply chains.</p>
 
-</p><p style="margin-left:30px;"> ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is understandable for countries to seek diversification to avoid over-reliance on a single supplier. But when taken too far, it may lead to the bifurcation of technology and supply chains.
+<p style="margin-left:30px;"> iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Such moves paradoxically create a fractured global economic system where all will be poorer collectively. And if the world continues to split into rival regional blocs, we can expect global trade, investments, exchange of ideas and innovation to reduce. It will be challenging to experience the kind of prosperity and progress that the world has enjoyed in the past 50 years.</p>
 
-</p><p style="margin-left:30px;"> iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Such moves paradoxically create a fractured global economic system where all will be poorer collectively. And if the world continues to split into rival regional blocs, we can expect global trade, investments, exchange of ideas and innovation to reduce. It will be challenging to experience the kind of prosperity and progress that the world has enjoyed in the past 50 years.
+<p style="margin-left:30px;"> c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Third, Fractious Domestic Order:</b></p>
 
-</p><p style="margin-left:30px;"> c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Third, Fractious Domestic Order:**
+<p style="margin-left:30px;"> i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The social environment in many countries have also become more fractious. Without a cohesive domestic environment, no country can exercise regional or global leadership to undertake collective actions and overcome our common and shared challenges.&nbsp;&nbsp;</p>
 
-</p><p style="margin-left:30px;"> i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The social environment in many countries have also become more fractious. Without a cohesive domestic environment, no country can exercise regional or global leadership to undertake collective actions and overcome our common and shared challenges.&nbsp;&nbsp;
+<p style="margin-left:30px;"> ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The fractious social compact in many countries is in part driven by social inequalities and economic insecurities caused by technological disruptions. When fruits of growth are not shared equally,&nbsp;the income gap between the able and the less able will widen. Access to opportunities for the less privileged would also be lesser.</p>
 
-</p><p style="margin-left:30px;"> ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The fractious social compact in many countries is in part driven by social inequalities and economic insecurities caused by technological disruptions. When fruits of growth are not shared equally,&nbsp;the income gap between the able and the less able will widen. Access to opportunities for the less privileged would also be lesser.
+<p style="margin-left:30px;"> iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another part of it is driven by diverse aspirations and needs of our people, as societies become more affluent and better educated.&nbsp;</p>
 
-</p><p style="margin-left:30px;"> iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another part of it is driven by diverse aspirations and needs of our people, as societies become more affluent and better educated.&nbsp;
+<p style="margin-left:30px;"> iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yet, another reason is the results of a hyperconnected world. Exposure to external influences with different contexts and values systems from other parts of the world can ignite the contestation of ideas and ideologies in society, and lead to incessant comparisons. Often social media amplifies these social divides.</p>
+14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;However, the challenges of our world are more connected than ever before. No country, big or small, can live in isolation, insulated from the rest of the world.&nbsp;&nbsp;
+<p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;COVID-19 pandemic has shown us how inextricably interconnected and interdependent we are, not only in pandemic prevention and management, but also in supply chains, global economic growth and global financial systems.</p>
+<p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;Climate change is also another looming crisis that presents fundamental threats to our survival, from rising sea levels, climate-related diseases to food and water insecurity.</p>
 
-</p><p style="margin-left:30px;"> iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yet, another reason is the results of a hyperconnected world. Exposure to external influences with different contexts and values systems from other parts of the world can ignite the contestation of ideas and ideologies in society, and lead to incessant comparisons. Often social media amplifies these social divides.<br>
-
-14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;However, the challenges of our world are more connected than ever before. No country, big or small, can live in isolation, insulated from the rest of the world.&nbsp;&nbsp;<br>
-
-</p><p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;COVID-19 pandemic has shown us how inextricably interconnected and interdependent we are, not only in pandemic prevention and management, but also in supply chains, global economic growth and global financial systems.<br>
-
-</p><p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;Climate change is also another looming crisis that presents fundamental threats to our survival, from rising sea levels, climate-related diseases to food and water insecurity.<br>
-
-**Three**&nbsp;**Areas of**&nbsp;**Change**<br>
+<b>Three Areas of Change</b>
 
 15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Chinese phrase,&nbsp;危机, represents crisis but within it there are also opportunities in every crisis and challenge.&nbsp;We&nbsp;must&nbsp;化危机为转机;&nbsp;化压力为动力。&nbsp;We must be agile to change ourselves –&nbsp;to overcome the challenges together, remain relevant to the world, earn our keep, and keep our people together through thick and thin.&nbsp;<br>
 
-**International Front**<br>
+<b>International Front</b><br>
 
-16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First, to thrive in a highly interconnected world, it is about “building bridges and not walls”. **It is time for us to work together for closer, not weaker, international cooperation for countries to navigate across the many shared challenges.**<br>
+16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First, to thrive in a highly interconnected world, it is about “building bridges and not walls”. <b>It is time for us to work together for closer, not weaker, international cooperation for countries to navigate across the many shared challenges.</b>
 
-17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We must work towards developing a “**multi-dimensional global cooperation system**”:<br>
-
-</p><p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;A system that is anchored by the rules-based multilateral system, where all countries, big and small, play by the rules. When countries break the rules, especially the bigger players, they lose their moral authority and embolden others to similarly disrespect the rules The global security and trading systems comes under strain and eventually we will all be worse-off. To progress ahead collectively, every country must be trusted to play their role in upholding and shaping the global rules.&nbsp;<br>
-
-</p><p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;It should also be a system that is backed by new structures and cooperation to strengthen the speed and effectiveness of global action to address transboundary challenges. For instance, the rise of global pandemics requires new systems of surveillance and information flow, and greater cross border scientific cooperation, so that we can be more effective in pre-empting and responding to deadly outbreaks. We can only achieve this by working together and not alone.&nbsp;<br>
-
-**Economic Front**<br>
-
+17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We must work towards developing a “<b>multi-dimensional global cooperation system</b>”:<br>
+<p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;A system that is anchored by the rules-based multilateral system, where all countries, big and small, play by the rules. When countries break the rules, especially the bigger players, they lose their moral authority and embolden others to similarly disrespect the rules The global security and trading systems comes under strain and eventually we will all be worse-off. To progress ahead collectively, every country must be trusted to play their role in upholding and shaping the global rules.&nbsp;
+	
+</p><p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;It should also be a system that is backed by new structures and cooperation to strengthen the speed and effectiveness of global action to address transboundary challenges. For instance, the rise of global pandemics requires new systems of surveillance and information flow, and greater cross border scientific cooperation, so that we can be more effective in pre-empting and responding to deadly outbreaks. We can only achieve this by working together and not alone.&nbsp;</p><br>
+<b>Economic Front</b><br><br>
 18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Second, on the economic front. We all seek efficiency and resilience. But resilience is best achieved through diversification and interdependence, rather than independence. Staying open will keep trade flows going and bring about the diversity of sources we need to strengthen our respective economic resilience. Autarky and being closed, on the other hand, concentrates all the risk in one country and makes one more vulnerable in the longer term, on top of risking being bypassed by progress elsewhere.&nbsp;&nbsp;<br>
 
 19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;However, diversification for resilience does not equate with bifurcation. It means pushing for global integration through the strengthening of multilateralism, as well as the upholding and updating of an international rules-based order.&nbsp;<br>
@@ -117,7 +110,7 @@ Distinguished guests and colleagues
 
 27.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;China and Singapore continue to facilitate greater bilateral cooperation in trade and economic development, and to seek out new areas of collaboration.<br>
 
-</p><p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;For instance, this year, we have also reached another important milestone with the substantive conclusion of the China-Singapore Free Trade Agreement (CSFTA) Work Programme for Subsequent Negotiations. This sends a strong and positive signal of our longstanding bilateral economic collaboration and more importantly, also reflects our continued commitment to free trade and a rules-based trading system.<br>
+<p></p><p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;For instance, this year, we have also reached another important milestone with the substantive conclusion of the China-Singapore Free Trade Agreement (CSFTA) Work Programme for Subsequent Negotiations. This sends a strong and positive signal of our longstanding bilateral economic collaboration and more importantly, also reflects our continued commitment to free trade and a rules-based trading system.<br>
 
 **Expanding from bilateral to international cooperation**<br>
 
