@@ -183,18 +183,17 @@ _Chongqing Demonstration Initiative on Strategic Connectivity (CCI) \[Multimodal
 
 49.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What I have mentioned are not only shared challenges, but also opportunities for mutual learning.&nbsp;In Singapore, we too are embarking on our own exercise to refresh our social compact this year and the vision of Our Future Singapore – A Singapore that last, endures and thrives for generations to come. Minister Josephine Teo will share more in her speech.<br>
 
-**Conclusion**<br>
+	<b>Conclusion</b><br>
 
 50.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In summary, while our circumstances and contexts may be different, we share many similar challenges and opportunities. More importantly, we can also share many best practices in how we evolve our governance approaches to serve our people and country. In Singapore’s context:<br>
 
-</p><p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;Trust between people and people; people and government is the&nbsp;foundation&nbsp;of all that we do. It is also with this trust that enable us to achieve good governance and successes through collective actions. As I was listening to Minister Li’s speech just now, he also mentioned that to win the hearts of our people, trust is fundamental. That resonated with us.<br>
+</p><p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;Trust between people and people; people and government is the&nbsp;foundation&nbsp;of all that we do. It is also with this trust that enable us to achieve good governance and successes through collective actions. As I was listening to Minister Li’s speech just now, he also mentioned that to win the hearts of our people, trust is fundamental. That resonated with us.</p><br>
 
-</p><p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;The livelihood and wellbeing of our people form the&nbsp;core&nbsp;of our purpose in government, where everyone in every generation can have hope for a better future.<br>
+<p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;The livelihood and wellbeing of our people form the&nbsp;core&nbsp;of our purpose in government, where everyone in every generation can have hope for a better future.</p><br>
 
-</p><p style="margin-left:30px;"> c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beyond our shores, we seek to build wider and deeper&nbsp;partnerships&nbsp;with as many countries as possible by value-adding constructively to our partners. To do so, we must remain a principled and relevant partner that is trusted by all.&nbsp;&nbsp;<br>
+<p style="margin-left:30px;"> c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beyond our shores, we seek to build wider and deeper&nbsp;partnerships&nbsp;with as many countries as possible by value-adding constructively to our partners. To do so, we must remain a principled and relevant partner that is trusted by all.&nbsp;&nbsp;</p><br>
 
-</p><p style="margin-left:30px;"> d.&nbsp;&nbsp;&nbsp;&nbsp;**总括而言，诚信为根；以民为本；以德服，才能引领群雄**。<br>
-
+<p style="margin-left:30px;"> d.&nbsp;&nbsp;&nbsp;&nbsp;<b>总括而言，诚信为根；以民为本；以德服，才能引领群雄。</b></p><br>
 51.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As I co-chair this forum for the 2nd&nbsp;year, I am deeply appreciative of this platform for such intimate sharing of our challenges and exploration of ideas.&nbsp;It can only be possible if we stay committed to&nbsp;continuebuilding trust between leaders and individuals, from young and across generations.<br>
 
-52.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I look forward to hearing the views of our Chinese friends and I am sure this forum will be a great success. Thank you for your hospitality and thank you for your generosity in sharing your ideas.<br></p>
+52.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I look forward to hearing the views of our Chinese friends and I am sure this forum will be a great success. Thank you for your hospitality and thank you for your generosity in sharing your ideas.<br>
