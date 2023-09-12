@@ -39,15 +39,15 @@ image: ""
 
 <p style="margin-left:30px;">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Corrupt Practices Investigation Bureau (CPIB) also plays an important role. The CPIB’s independence is protected by the Constitution. Its investigations are scrupulous, thorough, and fearless. The CPIB has never shied away from taking action against senior government officials, be they Political Office Holders, Members of Parliament, or senior civil servants.&nbsp;</p>
 
-<p style="margin-left:30px;">d.&nbsp;&nbsp;&nbsp;&nbsp;These have contributed to Singapore ranking consistently amongst the least corrupt countries in Transparency International’s Corruption Perception Index. This is a hard-earned accolade which we uphold judiciously.&nbsp;&nbsp;</p>
+<p style="margin-left:30px;">d.&nbsp;&nbsp;&nbsp;&nbsp;These have contributed to Singapore ranking consistently amongst the least corrupt countries in Transparency International’s Corruption Perception Index. This is a hard-earned accolade which we uphold judiciously.&nbsp;&nbsp;</p><br>
 
 7.&nbsp;&nbsp;&nbsp;&nbsp;The third fundamental of good governance is stewardship.<br>
 
-<p></p><p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Stewardship is the idea that every generation must govern itself for the benefit of the next. We are always thinking on behalf of Singaporeans yet to be born. Policies may change to cater to new circumstances but the principles and values behind them should stand the test of time.&nbsp;&nbsp;<br>
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Stewardship is the idea that every generation must govern itself for the benefit of the next. We are always thinking on behalf of Singaporeans yet to be born. Policies may change to cater to new circumstances but the principles and values behind them should stand the test of time.&nbsp;&nbsp;</p>
 
-</p><p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;In 1970s and early 1980s when our economy grew rapidly, our leaders had the foresight to put aside some of our annual budget surpluses into the national reserves, for a future rainy day. Today these reserves are a critical resource for Singapore’s future, to buffer against downturns, foster investor confidence, and generate income from investments.&nbsp;&nbsp;<br>
+<p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;In 1970s and early 1980s when our economy grew rapidly, our leaders had the foresight to put aside some of our annual budget surpluses into the national reserves, for a future rainy day. Today these reserves are a critical resource for Singapore’s future, to buffer against downturns, foster investor confidence, and generate income from investments.&nbsp;&nbsp;</p>
 
-</p><p style="margin-left:30px;">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another good example is how we provide social benefits. We provide significant subsidies and grants to ensure that public housing remains affordable to citizens from a wide range of different incomes. Today, around 8 in 10 Singaporeans live in public housing, of which, around 9 in 10 own these homes they live in. Healthcare has never been made free of charge. Services are heavily subsidised but everyone pays something through their insurance premiums or Medisave. This approach encourages individual responsibility and is more sustainable for society.<br>
+<p style="margin-left:30px;">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another good example is how we provide social benefits. We provide significant subsidies and grants to ensure that public housing remains affordable to citizens from a wide range of different incomes. Today, around 8 in 10 Singaporeans live in public housing, of which, around 9 in 10 own these homes they live in. Healthcare has never been made free of charge. Services are heavily subsidised but everyone pays something through their insurance premiums or Medisave. This approach encourages individual responsibility and is more sustainable for society.</p>
 
 8.&nbsp;&nbsp;&nbsp;&nbsp;Mr Lee Kuan Yew once warned that “honest and effective government, public order and personal security, economic and social progress, did not come about as a natural course of events”. This reminder bears repeating as we mark the 100th anniversary of his birth.<br>
 
@@ -69,9 +69,9 @@ image: ""
 
 17.&nbsp;We now involve citizens even at the stage of policy formulation or decision.<br>
 
-</p><p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Take for example the classification ratings of films. They must reflect community standards and social norms.&nbsp;&nbsp;The Government alone may not always get these right.&nbsp;&nbsp;To inform these decisions, our Films Consultative Panel (FCP) includes Singaporeans from all walks of life, including professionals and also homemakers and students.<br>
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Take for example the classification ratings of films. They must reflect community standards and social norms.&nbsp;&nbsp;The Government alone may not always get these right.&nbsp;&nbsp;To inform these decisions, our Films Consultative Panel (FCP) includes Singaporeans from all walks of life, including professionals and also homemakers and students.</p>
 
-</p><p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;In 2021, Parliament unanimously endorsed the first-ever White Paper on Singapore Women’s Development. Over 6,000 Singaporeans – men and women, young and old, provided feedback that guided the formulation of 25 action plans we will implement over the next decade, towards a fairer and more inclusive society.&nbsp;<br>
+<p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;In 2021, Parliament unanimously endorsed the first-ever White Paper on Singapore Women’s Development. Over 6,000 Singaporeans – men and women, young and old, provided feedback that guided the formulation of 25 action plans we will implement over the next decade, towards a fairer and more inclusive society.&nbsp;</p>
 
 18.&nbsp;The second evolution is fostering greater buy-in to government policies. From “Grudging Compliance” to “Willing Alignment”.&nbsp;不仅依法治人，也要以理服人.<br>
 
@@ -87,9 +87,9 @@ image: ""
 
 24.&nbsp;Our Multi-Ministry Taskforce on COVID-19 strived to be as open and transparent as possible. To prepare our citizens for the difficulties that lay ahead, the taskforce held regular press conferences to put out new information, and be upfront about the uncertainties and risks.&nbsp;<br>
 
-</p><p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Over the course of three years, the taskforce held 83 press conferences. The first took place on 27 January 2020, and the last on 9 February 2023.<br>
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Over the course of three years, the taskforce held 83 press conferences. The first took place on 27 January 2020, and the last on 9 February 2023.</p>
 
-</p><p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;Senior Cabinet Ministers including Prime Minister Lee also delivered a series of National Broadcasts to address citizens directly on significant developments.<br>
+<p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;Senior Cabinet Ministers including Prime Minister Lee also delivered a series of National Broadcasts to address citizens directly on significant developments.</p>
 
 25.&nbsp;We also expanded and refreshed our communications channels, and launched targeted campaigns, such as VacciNationSG to support our vaccination drive. Over the course of the pandemic, Gov.sg’s 10 platforms added close to 2 million more subscribers.<br>
 
@@ -105,11 +105,11 @@ image: ""
 
 31.&nbsp;Take scams, which can proliferate with unprecedented scale and speed in online spaces.&nbsp;&nbsp;<br>
 
-</p><p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;The Singapore Police Force investigates criminal activities, the Monetary Authority of Singapore works with banks to employ fraud surveillance systems and monitor bank transactions, the Infocomm and Media Development Authority works with telecommunications providers on potential scam SMSes, and the Ministry of Home Affairs reviews existing legislation.<br>
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;The Singapore Police Force investigates criminal activities, the Monetary Authority of Singapore works with banks to employ fraud surveillance systems and monitor bank transactions, the Infocomm and Media Development Authority works with telecommunications providers on potential scam SMSes, and the Ministry of Home Affairs reviews existing legislation.</p>
 
-</p><p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;It is not enough for each agency to meet their own Key Performance Indicators.&nbsp;&nbsp;<br>
+<p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;It is not enough for each agency to meet their own Key Performance Indicators.&nbsp;&nbsp;</p>
 
-</p><p style="margin-left:30px;">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We recognise the need to support each other. I chair the Taskforce on Online Phishing Scams (TOPS), which works across Government agencies to tackle this problem comprehensively.<br>
+<p style="margin-left:30px;">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We recognise the need to support each other. I chair the Taskforce on Online Phishing Scams (TOPS), which works across Government agencies to tackle this problem comprehensively.</p>
 
 32.&nbsp;In summary, we will face more complex challenges, from climate change to market risks.&nbsp;&nbsp;We must continue to harness the power of collaboration across the public, people and private sectors, to remain agile as a nation. This very much aligns with what Minister Li has said earlier, “积力之所举，则无不胜也；众智之所为，则无不成也”.<br>
 
@@ -117,7 +117,7 @@ image: ""
 
 34.&nbsp;The first is our Alliances for Action (AfAs), which is an example of creating opportunity from adversity.&nbsp;&nbsp;<br>
 
-</p><p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;During COVID-19, we set up an Emerging Stronger Taskforce to rally the public, private and people sectors to think collectively about our post-pandemic future.&nbsp;<br>
+<p></p><p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;During COVID-19, we set up an Emerging Stronger Taskforce to rally the public, private and people sectors to think collectively about our post-pandemic future.&nbsp;<br>
 
 </p><p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;The Taskforce formed nine Alliances for Action, each focusing on a goal that would require different stakeholders to work hand-in-hand to solve problems quickly.&nbsp;&nbsp;<br>
 
