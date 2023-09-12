@@ -15,7 +15,7 @@ Minister of the Organisation Department of the Community Party of China Central 
 
 Distinguished guests and colleagues
 
-**Introduction**
+<b>Introduction</b>
 
 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Good morning. First, I would like to thank Minister Li, Central Party School Executive Vice President Xie Chuntao and our Chinese friends for hosting the 9th&nbsp;Singapore-China Forum on Leadership. Thank you for the warm hospitality extended to me and my delegation. I am glad to be meeting with everyone in-person on this forum, our first since the COVID-19 pandemic. I also thank Minister Li for his very insightful and in-depth speech on the priorities and direction for his party in leading China forward.
 
@@ -45,11 +45,11 @@ Distinguished guests and colleagues
 
 13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let me share three key challenges of our times:&nbsp;
 
-<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;**One,&nbsp;Fragmenting Global Order:**
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;<b>One, Fragmenting Global Order:</b></p>
 
-</p><p style="margin-left:30px;">i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The world order, built upon the rule of law, multilateralism, and open trade, can no longer be taken as a given in the coming years.&nbsp;&nbsp;
+<p style="margin-left:30px;">i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The world order, built upon the rule of law, multilateralism, and open trade, can no longer be taken as a given in the coming years.&nbsp;&nbsp;</p>
 
-</p><p style="margin-left:30px;">ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The war in Ukraine have shown us that the global security order that has underpinned peace, growth and the uplifting of millions from poverty in the past decades is no longer a given.&nbsp;&nbsp;
+<p></p><p style="margin-left:30px;">ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The war in Ukraine have shown us that the global security order that has underpinned peace, growth and the uplifting of millions from poverty in the past decades is no longer a given.&nbsp;&nbsp;
 
 </p><p style="margin-left:30px;">iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To overcome this, it will require hard work and commitment by all parties to maintain order in the global system, develop new rules and push for progress collectively.&nbsp;
 
@@ -69,11 +69,11 @@ Distinguished guests and colleagues
 
 </p><p style="margin-left:30px;"> iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another part of it is driven by diverse aspirations and needs of our people, as societies become more affluent and better educated.&nbsp;
 
-</p><p style="margin-left:30px;"> iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yet, another reason is the results of a hyperconnected world. Exposure to external influences with different contexts and values systems from other parts of the world can ignite the contestation of ideas and ideologies in society, and lead to incessant comparisons. Often social media amplifies these social divides.<br>
+</p><p style="margin-left:30px;"> iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yet, another reason is the results of a hyperconnected world. Exposure to external influences with different contexts and values systems from other parts of the world can ignite the contestation of ideas and ideologies in society, and lead to incessant comparisons. Often social media amplifies these social divides.</p><br>
 
 14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;However, the challenges of our world are more connected than ever before. No country, big or small, can live in isolation, insulated from the rest of the world.&nbsp;&nbsp;<br>
 
-</p><p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;COVID-19 pandemic has shown us how inextricably interconnected and interdependent we are, not only in pandemic prevention and management, but also in supply chains, global economic growth and global financial systems.<br>
+<p></p><p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;COVID-19 pandemic has shown us how inextricably interconnected and interdependent we are, not only in pandemic prevention and management, but also in supply chains, global economic growth and global financial systems.<br>
 
 </p><p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;Climate change is also another looming crisis that presents fundamental threats to our survival, from rising sea levels, climate-related diseases to food and water insecurity.<br>
 
