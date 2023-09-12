@@ -179,4 +179,4 @@ image: ""
 
 45.&nbsp;&nbsp;&nbsp;&nbsp;In the absence of easy playbooks, there is much to be gained through more frequent sharing of observations and exchanges of experiences. That is precisely the value of the Singapore-China Forum on Leadership, which I am pleased is now into its ninth edition.&nbsp;&nbsp;<br>
 
-46.&nbsp;&nbsp;&nbsp;&nbsp;I look forward to our fruitful discussions later.&nbsp;&nbsp;Thank you.<br><p></p>
+46.&nbsp;&nbsp;&nbsp;&nbsp;I look forward to our fruitful discussions later.&nbsp;&nbsp;Thank you.<br>
