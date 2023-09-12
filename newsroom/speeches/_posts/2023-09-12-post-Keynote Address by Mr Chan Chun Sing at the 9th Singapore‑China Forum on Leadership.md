@@ -122,9 +122,9 @@ Distinguished guests and colleagues
 
 29.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore maintains our continued relevance through a global strategy of connectivity:<br>
 
-<p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;not only across air, land and sea but also across data, finance, digital, regulations and talent; and</p><br>
+<p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;not only across air, land and sea but also across data, finance, digital, regulations and talent; and</p>
 
-<p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;through our active and constructive role in the global community to advocate stable, rules-based global order and multilateral institutions, and our experience in navigating business environments around the world.</p><br>
+<p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;through our active and constructive role in the global community to advocate stable, rules-based global order and multilateral institutions, and our experience in navigating business environments around the world.</p>
 
 30.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore and China can be partners&nbsp;in creating more inclusive and resilient supply chains to facilitate the flow of goods, services, and people. We can also work towards upholding global standards for an open and integrated global economy.&nbsp;<br>
 
@@ -146,7 +146,7 @@ _Chongqing Demonstration Initiative on Strategic Connectivity (CCI) \[Multimodal
 
 35.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another example is our 3rd&nbsp;G-2-G project in Chongqing. It provides&nbsp;<b>a successful model for enhancing connectivity in multiple dimensions to drive high-quality growth.</b><br>
 
-<p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;Through the CCI-New International Land-Sea Trade Corridor, Singapore and China have promoted stronger regional economic integration by providing traders with a faster and more efficient link between Southeast Asia, Western China and beyond. Our joint efforts to enhance digital and trade connectivity have also complemented the development of infrastructural links between Singapore and Chongqing.</p><br>
+<p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;Through the CCI-New International Land-Sea Trade Corridor, Singapore and China have promoted stronger regional economic integration by providing traders with a faster and more efficient link between Southeast Asia, Western China and beyond. Our joint efforts to enhance digital and trade connectivity have also complemented the development of infrastructural links between Singapore and Chongqing.</p>
 
 36.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The CCI has&nbsp;<b>demonstrated how enhancing connectivity in traditional and newer areas can help under-connected and under-served regions find new growth engines and realise their economic potential</b>.<br>
 
@@ -170,7 +170,7 @@ _Chongqing Demonstration Initiative on Strategic Connectivity (CCI) \[Multimodal
 
 44.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For example –&nbsp;aging population. This has massive social and economic implications – with rising demands on healthcare, retirement adequacy and social integration that need to be balanced against the impact it has on our workforce and economy. Singapore is looking at this issue very seriously:<br>
 
-<p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;Last year, we rolled out the&nbsp;Healthier SG strategy, a fundamental re-orientation and reform of our&nbsp;healthcare&nbsp;system. One that is focused more on preventive care and greater self-responsibility supported by the community, as well as the promotion of ‘active aging’.&nbsp;</p><br>
+<p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;Last year, we rolled out the&nbsp;Healthier SG strategy, a fundamental re-orientation and reform of our&nbsp;healthcare&nbsp;system. One that is focused more on preventive care and greater self-responsibility supported by the community, as well as the promotion of ‘active aging’.&nbsp;</p>
 
 <p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;We are also bolstering&nbsp;retirement adequacy&nbsp;through regular reviews of our Central Provident Fund (CPF) system, and the strengthening of our jobs and skills landscape.&nbsp;Minister&nbsp;Faishal Ibrahim will touch on this later&nbsp;– how we are pushing for the&nbsp;creation of good jobs, and&nbsp;a strong culture of upskilling and re-skilling&nbsp;to allow our people to work longer and better for their retirement.</p>
 
@@ -188,13 +188,14 @@ _Chongqing Demonstration Initiative on Strategic Connectivity (CCI) \[Multimodal
 
 50.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In summary, while our circumstances and contexts may be different, we share many similar challenges and opportunities. More importantly, we can also share many best practices in how we evolve our governance approaches to serve our people and country. In Singapore’s context:<br>
 
-<p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;Trust between people and people; people and government is the&nbsp;foundation&nbsp;of all that we do. It is also with this trust that enable us to achieve good governance and successes through collective actions. As I was listening to Minister Li’s speech just now, he also mentioned that to win the hearts of our people, trust is fundamental. That resonated with us.</p><br>
+<p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;Trust between people and people; people and government is the&nbsp;foundation&nbsp;of all that we do. It is also with this trust that enable us to achieve good governance and successes through collective actions. As I was listening to Minister Li’s speech just now, he also mentioned that to win the hearts of our people, trust is fundamental. That resonated with us.</p>
 
-<p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;The livelihood and wellbeing of our people form the&nbsp;core&nbsp;of our purpose in government, where everyone in every generation can have hope for a better future.</p><br>
+<p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;The livelihood and wellbeing of our people form the&nbsp;core&nbsp;of our purpose in government, where everyone in every generation can have hope for a better future.</p>
 
-<p style="margin-left:30px;"> c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beyond our shores, we seek to build wider and deeper&nbsp;partnerships&nbsp;with as many countries as possible by value-adding constructively to our partners. To do so, we must remain a principled and relevant partner that is trusted by all.&nbsp;&nbsp;</p><br>
+<p style="margin-left:30px;"> c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beyond our shores, we seek to build wider and deeper&nbsp;partnerships&nbsp;with as many countries as possible by value-adding constructively to our partners. To do so, we must remain a principled and relevant partner that is trusted by all.&nbsp;&nbsp;</p>
 
-<p style="margin-left:30px;"> d.&nbsp;&nbsp;&nbsp;&nbsp;<b>总括而言，诚信为根；以民为本；以德服，才能引领群雄。</b></p><br>
+<p style="margin-left:30px;"> d.&nbsp;&nbsp;&nbsp;&nbsp;<b>总括而言，诚信为根；以民为本；以德服，才能引领群雄。</b></p>
+
 51.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As I co-chair this forum for the 2nd&nbsp;year, I am deeply appreciative of this platform for such intimate sharing of our challenges and exploration of ideas.&nbsp;It can only be possible if we stay committed to&nbsp;continuebuilding trust between leaders and individuals, from young and across generations.<br>
 
 52.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I look forward to hearing the views of our Chinese friends and I am sure this forum will be a great success. Thank you for your hospitality and thank you for your generosity in sharing your ideas.<br>
