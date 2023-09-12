@@ -172,7 +172,7 @@ _Chongqing Demonstration Initiative on Strategic Connectivity (CCI) \[Multimodal
 
 <p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;Last year, we rolled out the&nbsp;Healthier SG strategy, a fundamental re-orientation and reform of our&nbsp;healthcare&nbsp;system. One that is focused more on preventive care and greater self-responsibility supported by the community, as well as the promotion of ‘active aging’.&nbsp;</p><br>
 
-<p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;We are also bolstering&nbsp;retirement adequacy&nbsp;through regular reviews of our Central Provident Fund (CPF) system, and the strengthening of our jobs and skills landscape.&nbsp;Minister&nbsp;FaishalIbrahim will touch on this later&nbsp;– how we are pushing for the&nbsp;creation of good jobs, and&nbsp;a strong culture of upskilling and re-skilling&nbsp;to allow our people to work longer and better for their retirement.</p><br>
+<p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;We are also bolstering&nbsp;retirement adequacy&nbsp;through regular reviews of our Central Provident Fund (CPF) system, and the strengthening of our jobs and skills landscape.&nbsp;Minister&nbsp;Faishal Ibrahim will touch on this later&nbsp;– how we are pushing for the&nbsp;creation of good jobs, and&nbsp;a strong culture of upskilling and re-skilling&nbsp;to allow our people to work longer and better for their retirement.</p>
 
 45.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is also in sync with our overall reform of our jobs and skills landscape in meeting the&nbsp;diverse aspirations of our people. We embrace the diversity of strengths and broaden our definition of success. This includes providing diverse education pathways and creating multiple career paths to success.<br>
 
