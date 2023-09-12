@@ -33,9 +33,9 @@ Distinguished guests and colleagues
 
 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This year is also a very&nbsp;special year to commemorate another milestone in our bilateral relations. We upgraded relations to the “All-Round High-Quality Future-Oriented Partnership”, during Prime Minister Lee Hsien Loong’s meeting with President Xi Jinping in March this year.&nbsp;
 
-9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Milestones like these are a timely reminder to reflect on how our bilateral relations have progressed over generations of leaders. This is only possible with a deep sense of mutual trust and understanding between both countries; and strong commitment at all levels to continually work together and support each other to succeed.&nbsp;
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Milestones like these are a timely reminder to reflect on how our bilateral relations have progressed over generations of leaders. This is only possible with a deep sense of mutual trust and understanding between both countries; and strong commitment at all levels to continually work together and support each other to succeed.&nbsp;<br>
 
-<b>Three Challenges in the Modern World</b><br>
+<b>Three Challenges in the Modern World</b>
 
 10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The theme of this year’s Forum “Evolving Leadership in the Modern World” is indeed well chosen, as Minister Li also said.<br>
 
