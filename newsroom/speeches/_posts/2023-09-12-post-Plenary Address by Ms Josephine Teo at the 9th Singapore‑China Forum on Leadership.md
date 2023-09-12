@@ -117,59 +117,59 @@ image: ""
 
 34.&nbsp;The first is our Alliances for Action (AfAs), which is an example of creating opportunity from adversity.&nbsp;&nbsp;<br>
 
-<p></p><p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;During COVID-19, we set up an Emerging Stronger Taskforce to rally the public, private and people sectors to think collectively about our post-pandemic future.&nbsp;<br>
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;During COVID-19, we set up an Emerging Stronger Taskforce to rally the public, private and people sectors to think collectively about our post-pandemic future.&nbsp;</p>
 
-</p><p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;The Taskforce formed nine Alliances for Action, each focusing on a goal that would require different stakeholders to work hand-in-hand to solve problems quickly.&nbsp;&nbsp;<br>
+<p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;The Taskforce formed nine Alliances for Action, each focusing on a goal that would require different stakeholders to work hand-in-hand to solve problems quickly.&nbsp;&nbsp;</p>
 
 35.&nbsp;One of these was on Digitalising the Built Environment.<br>
 
-</p><p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;While COVID-19 exposed certain vulnerabilities of the Built Environment sector, the Alliance recognised an opportunity to accelerate its digital transformation.&nbsp;&nbsp;<br>
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;While COVID-19 exposed certain vulnerabilities of the Built Environment sector, the Alliance recognised an opportunity to accelerate its digital transformation.&nbsp;&nbsp;</p>
 
-</p><p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;The Alliance onboarded more than 300 companies and 25 projects to an industry digital partnership. This catalysed the launch of the Common Data Environment Data Standards, which provides a common digital space for information exchange to deliver and manage built assets.&nbsp;&nbsp;<br>
+<p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;The Alliance onboarded more than 300 companies and 25 projects to an industry digital partnership. This catalysed the launch of the Common Data Environment Data Standards, which provides a common digital space for information exchange to deliver and manage built assets.&nbsp;&nbsp;</p>
 
 36.&nbsp;Although the pandemic is largely behind us, we continue to support the Alliances for Action model. From the original nine Alliances for Action, we now have more than 30, including on lower-wage workers, online harms, and even online ordering for hawkers.<br>
 
-</p><p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Not all of the ideas from the Alliances will work. Some will be successfully implemented and scaled up.&nbsp;&nbsp;<br>
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Not all of the ideas from the Alliances will work. Some will be successfully implemented and scaled up.&nbsp;&nbsp;</p>
 
-</p><p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;But the participation of a broader segment of society helps to build a sense of ownership and common destiny. This makes it a worthwhile pursuit.<br>
+<p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;But the participation of a broader segment of society helps to build a sense of ownership and common destiny. This makes it a worthwhile pursuit.</p>
 
 37.&nbsp;The second experience is Forward Singapore.&nbsp;&nbsp;<br>
 
-</p><p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Spearheaded by the 4th generation leadership of Singapore, led by Deputy Prime Minister Lawrence Wong and including Minister Chan and myself, the exercise aims to crystallise the new social compact for Singapore.<br>
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Spearheaded by the 4th generation leadership of Singapore, led by Deputy Prime Minister Lawrence Wong and including Minister Chan and myself, the exercise aims to crystallise the new social compact for Singapore.</p>
 
-</p><p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;Singaporeans from all walks of life are invited to come forward with ideas about what Singapore should do differently, across all areas.<br>
+<p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;Singaporeans from all walks of life are invited to come forward with ideas about what Singapore should do differently, across all areas.</p>
 
 38.&nbsp;In particular, I wish to elaborate on an interesting engagement modality – what we call Citizens’ Panels.<br>
 
-</p><p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;We bring together a group of citizens who have expressed interest in a certain issue. Over several weeks, they learn about the issue and hear from experts. They then make recommendations to the government, and the government will give its formal response publicly.<br>
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;We bring together a group of citizens who have expressed interest in a certain issue. Over several weeks, they learn about the issue and hear from experts. They then make recommendations to the government, and the government will give its formal response publicly.</p>
 
-</p><p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;As part of Forward Singapore, a Citizens Panel was convened on the issue of employment resilience – that is, how do we support workers to stay employable amid economic uncertainty. Other Panels have covered topics such as work-life harmony, combating diabetes, and recycling.<br>
+<p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;As part of Forward Singapore, a Citizens Panel was convened on the issue of employment resilience – that is, how do we support workers to stay employable amid economic uncertainty. Other Panels have covered topics such as work-life harmony, combating diabetes, and recycling.</p>
 
-</p><p style="margin-left:30px;">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These Panels are very resource intensive but we have found them to be very useful.&nbsp;&nbsp;They drive the public service to keep an open mind about feedback and concerns from citizens, instead of dismissing them or pushing them aside. Citizens are socialised to the trade-offs that we as policymakers must weigh. Often, a deeper understanding of policy considerations lead citizens to make very similar choices as government.<br>
+<p style="margin-left:30px;">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These Panels are very resource intensive but we have found them to be very useful.&nbsp;&nbsp;They drive the public service to keep an open mind about feedback and concerns from citizens, instead of dismissing them or pushing them aside. Citizens are socialised to the trade-offs that we as policymakers must weigh. Often, a deeper understanding of policy considerations lead citizens to make very similar choices as government.</p>
 
 39.&nbsp;The Forward Singapore exercise will conclude in the next few months, but already a number of themes have emerged.<br>
 
 40.&nbsp;The first is what Deputy Prime Minister Wong refers to as “hands-on and heart work”.<br>
 
-</p><p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;These refer to technical, service, and community care roles.&nbsp;&nbsp;<br>
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;These refer to technical, service, and community care roles.&nbsp;&nbsp;</p>
 
-</p><p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;We are already tackling the wage gap between these roles versus those engaged in “head work”, including by tightening our foreign worker quota, and investing more in vocational education.&nbsp;&nbsp;<br>
+<p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;We are already tackling the wage gap between these roles versus those engaged in “head work”, including by tightening our foreign worker quota, and investing more in vocational education.&nbsp;&nbsp;</p>
 
-</p><p style="margin-left:30px;">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beyond wages, we will provide more compelling skills and career ladders, and facilitate the evolution of societal mindsets. Our concept of meritocracy today may be too narrow and need to be expanded.&nbsp;<br>
+<p style="margin-left:30px;">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beyond wages, we will provide more compelling skills and career ladders, and facilitate the evolution of societal mindsets. Our concept of meritocracy today may be too narrow and need to be expanded.&nbsp;</p>
 
-</p><p style="margin-left:30px;">d.&nbsp;&nbsp;&nbsp;&nbsp;Such shifts are not easy to achieve. Employers must reflect this in their hiring, training, and promotion decisions. Parents must avoid over-emphasising academic grades.&nbsp;&nbsp;Citizens must mutually respect each other regardless of their vocations.&nbsp;<br>
+<p style="margin-left:30px;">d.&nbsp;&nbsp;&nbsp;&nbsp;Such shifts are not easy to achieve. Employers must reflect this in their hiring, training, and promotion decisions. Parents must avoid over-emphasising academic grades.&nbsp;&nbsp;Citizens must mutually respect each other regardless of their vocations.&nbsp;<br>
 
 41.&nbsp;The second theme is a revamped system of social support.<br>
 
-</p><p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;This means meeting the key needs of not just the broad middle class but added support for a range of vulnerable groups.&nbsp;&nbsp;<br>
+</p><p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;This means meeting the key needs of not just the broad middle class but added support for a range of vulnerable groups.&nbsp;&nbsp;</p>
 
-</p><p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;Singapore’s aging demographic means that our policies must enable seniors to remain active and purposeful in their golden years. It is a vision of “productive longevity”.<br>
+<p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;Singapore’s aging demographic means that our policies must enable seniors to remain active and purposeful in their golden years. It is a vision of “productive longevity”.</p>
 
-</p><p style="margin-left:30px;">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These include new infrastructure like community care apartments and active aging centres. Minister of State Faishal will share more about retirement adequacy. But we must also give thought to “softer” elements.&nbsp;<br>
+<p style="margin-left:30px;">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These include new infrastructure like community care apartments and active aging centres. Minister of State Faishal will share more about retirement adequacy. But we must also give thought to “softer” elements.&nbsp;</p>
 
-</p><p style="margin-left:30px;">d.&nbsp;&nbsp;&nbsp;&nbsp;Silver Zones in selected estates feature enhanced road safety features like additional road markings, dividers, and lowered speed limits, to cater to more elderly pedestrians.&nbsp;<br>
+<p style="margin-left:30px;">d.&nbsp;&nbsp;&nbsp;&nbsp;Silver Zones in selected estates feature enhanced road safety features like additional road markings, dividers, and lowered speed limits, to cater to more elderly pedestrians.&nbsp;</p>
 
-</p><p style="margin-left:30px;">e.&nbsp;&nbsp;&nbsp;&nbsp;These make our society more inclusive and strengthen our sense of solidarity.<br>
+<p style="margin-left:30px;">e.&nbsp;&nbsp;&nbsp;&nbsp;These make our society more inclusive and strengthen our sense of solidarity.<br>
 
 42.&nbsp;Forward Singapore has been instructive and inspiring in charting out how the Government can better respond to the evolving needs of our people, forge trust with them, and co-create their future.&nbsp;<br>
 
