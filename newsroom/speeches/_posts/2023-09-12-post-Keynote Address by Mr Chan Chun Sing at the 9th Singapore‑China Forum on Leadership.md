@@ -75,24 +75,26 @@ Distinguished guests and colleagues
 
 <b>Three Areas of Change</b>
 
-15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Chinese phrase,&nbsp;危机, represents crisis but within it there are also opportunities in every crisis and challenge.&nbsp;We&nbsp;must&nbsp;化危机为转机;&nbsp;化压力为动力。&nbsp;We must be agile to change ourselves –&nbsp;to overcome the challenges together, remain relevant to the world, earn our keep, and keep our people together through thick and thin.&nbsp;<br>
+15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Chinese phrase,&nbsp;危机, represents crisis but within it there are also opportunities in every crisis and challenge.&nbsp;We&nbsp;must&nbsp;化危机为转机;&nbsp;化压力为动力。We must be agile to change ourselves –&nbsp;to overcome the challenges together, remain relevant to the world, earn our keep, and keep our people together through thick and thin.&nbsp;<br>
 
-<b>International Front</b><br>
+<b>International Front</b>
 
 16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First, to thrive in a highly interconnected world, it is about “building bridges and not walls”. <b>It is time for us to work together for closer, not weaker, international cooperation for countries to navigate across the many shared challenges.</b>
 
 17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We must work towards developing a “<b>multi-dimensional global cooperation system</b>”:<br>
 <p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;A system that is anchored by the rules-based multilateral system, where all countries, big and small, play by the rules. When countries break the rules, especially the bigger players, they lose their moral authority and embolden others to similarly disrespect the rules The global security and trading systems comes under strain and eventually we will all be worse-off. To progress ahead collectively, every country must be trusted to play their role in upholding and shaping the global rules.&nbsp;
 	
-</p><p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;It should also be a system that is backed by new structures and cooperation to strengthen the speed and effectiveness of global action to address transboundary challenges. For instance, the rise of global pandemics requires new systems of surveillance and information flow, and greater cross border scientific cooperation, so that we can be more effective in pre-empting and responding to deadly outbreaks. We can only achieve this by working together and not alone.&nbsp;</p><br>
-<b>Economic Front</b><br><br>
+</p><p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;It should also be a system that is backed by new structures and cooperation to strengthen the speed and effectiveness of global action to address transboundary challenges. For instance, the rise of global pandemics requires new systems of surveillance and information flow, and greater cross border scientific cooperation, so that we can be more effective in pre-empting and responding to deadly outbreaks. We can only achieve this by working together and not alone.&nbsp;</p>
+
+<b>Economic Front</b>
+
 18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Second, on the economic front. We all seek efficiency and resilience. But resilience is best achieved through diversification and interdependence, rather than independence. Staying open will keep trade flows going and bring about the diversity of sources we need to strengthen our respective economic resilience. Autarky and being closed, on the other hand, concentrates all the risk in one country and makes one more vulnerable in the longer term, on top of risking being bypassed by progress elsewhere.&nbsp;&nbsp;<br>
 
 19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;However, diversification for resilience does not equate with bifurcation. It means pushing for global integration through the strengthening of multilateralism, as well as the upholding and updating of an international rules-based order.&nbsp;<br>
 
 20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We&nbsp;must also entrench ourselves in the global value chain with a future-oriented view.&nbsp;当变化的风吹起时，有人会造墙，有人会造风车.&nbsp;&nbsp;The choice is ours to make. We must be the ones that build the ‘windmills’ to capture new opportunities of growth early such as digitalisation and sustainability, collaborate with our partners, and be able to adapt in an agile manner.<br>
 
-<b>Social Front</b><br>
+<b>Social Front</b>
 
 21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Third, on the social front. Domestic stability and external resilience are mutually reinforcing – solidarity and cohesion at home is the foundation for our confidence to operate at the international front. To win the world, we need to win the trust and hearts of our people.&nbsp;<br>
 
