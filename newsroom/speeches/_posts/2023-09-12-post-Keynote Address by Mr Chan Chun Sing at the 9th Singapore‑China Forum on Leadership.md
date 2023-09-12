@@ -69,26 +69,23 @@ Distinguished guests and colleagues
 <p style="margin-left:30px;"> iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another part of it is driven by diverse aspirations and needs of our people, as societies become more affluent and better educated.&nbsp;</p>
 
 <p style="margin-left:30px;"> iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yet, another reason is the results of a hyperconnected world. Exposure to external influences with different contexts and values systems from other parts of the world can ignite the contestation of ideas and ideologies in society, and lead to incessant comparisons. Often social media amplifies these social divides.</p>
-14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;However, the challenges of our world are more connected than ever before. No country, big or small, can live in isolation, insulated from the rest of the world.&nbsp;&nbsp;<br>
+14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;However, the challenges of our world are more connected than ever before. No country, big or small, can live in isolation, insulated from the rest of the world.&nbsp;&nbsp;
 <p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;COVID-19 pandemic has shown us how inextricably interconnected and interdependent we are, not only in pandemic prevention and management, but also in supply chains, global economic growth and global financial systems.</p>
 <p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;Climate change is also another looming crisis that presents fundamental threats to our survival, from rising sea levels, climate-related diseases to food and water insecurity.</p>
 
-<b>Three Areas of Change</b><br>
+<b>Three Areas of Change</b>
 
 15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Chinese phrase,&nbsp;危机, represents crisis but within it there are also opportunities in every crisis and challenge.&nbsp;We&nbsp;must&nbsp;化危机为转机;&nbsp;化压力为动力。&nbsp;We must be agile to change ourselves –&nbsp;to overcome the challenges together, remain relevant to the world, earn our keep, and keep our people together through thick and thin.&nbsp;<br>
 
-<b>International Front</b>
+<b>International Front</b><br>
 
-16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First, to thrive in a highly interconnected world, it is about “building bridges and not walls”. <b>It is time for us to work together for closer, not weaker, international cooperation for countries to navigate across the many shared challenges.</b><br>
+16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First, to thrive in a highly interconnected world, it is about “building bridges and not walls”. <b>It is time for us to work together for closer, not weaker, international cooperation for countries to navigate across the many shared challenges.</b>
 
-17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We must work towards developing a “**multi-dimensional global cooperation system**”:<br>
-
-<p></p><p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;A system that is anchored by the rules-based multilateral system, where all countries, big and small, play by the rules. When countries break the rules, especially the bigger players, they lose their moral authority and embolden others to similarly disrespect the rules The global security and trading systems comes under strain and eventually we will all be worse-off. To progress ahead collectively, every country must be trusted to play their role in upholding and shaping the global rules.&nbsp;<br>
-
-</p><p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;It should also be a system that is backed by new structures and cooperation to strengthen the speed and effectiveness of global action to address transboundary challenges. For instance, the rise of global pandemics requires new systems of surveillance and information flow, and greater cross border scientific cooperation, so that we can be more effective in pre-empting and responding to deadly outbreaks. We can only achieve this by working together and not alone.&nbsp;<br>
-
-**Economic Front**<br>
-
+17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We must work towards developing a “<b>multi-dimensional global cooperation system</b>”:<br>
+<p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;A system that is anchored by the rules-based multilateral system, where all countries, big and small, play by the rules. When countries break the rules, especially the bigger players, they lose their moral authority and embolden others to similarly disrespect the rules The global security and trading systems comes under strain and eventually we will all be worse-off. To progress ahead collectively, every country must be trusted to play their role in upholding and shaping the global rules.&nbsp;
+	
+</p><p style="margin-left:30px;"> b.&nbsp;&nbsp;&nbsp;&nbsp;It should also be a system that is backed by new structures and cooperation to strengthen the speed and effectiveness of global action to address transboundary challenges. For instance, the rise of global pandemics requires new systems of surveillance and information flow, and greater cross border scientific cooperation, so that we can be more effective in pre-empting and responding to deadly outbreaks. We can only achieve this by working together and not alone.&nbsp;</p><br>
+<b>Economic Front</b><br><br>
 18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Second, on the economic front. We all seek efficiency and resilience. But resilience is best achieved through diversification and interdependence, rather than independence. Staying open will keep trade flows going and bring about the diversity of sources we need to strengthen our respective economic resilience. Autarky and being closed, on the other hand, concentrates all the risk in one country and makes one more vulnerable in the longer term, on top of risking being bypassed by progress elsewhere.&nbsp;&nbsp;<br>
 
 19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;However, diversification for resilience does not equate with bifurcation. It means pushing for global integration through the strengthening of multilateralism, as well as the upholding and updating of an international rules-based order.&nbsp;<br>
@@ -113,7 +110,7 @@ Distinguished guests and colleagues
 
 27.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;China and Singapore continue to facilitate greater bilateral cooperation in trade and economic development, and to seek out new areas of collaboration.<br>
 
-</p><p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;For instance, this year, we have also reached another important milestone with the substantive conclusion of the China-Singapore Free Trade Agreement (CSFTA) Work Programme for Subsequent Negotiations. This sends a strong and positive signal of our longstanding bilateral economic collaboration and more importantly, also reflects our continued commitment to free trade and a rules-based trading system.<br>
+<p></p><p style="margin-left:30px;"> a.&nbsp;&nbsp;&nbsp;&nbsp;For instance, this year, we have also reached another important milestone with the substantive conclusion of the China-Singapore Free Trade Agreement (CSFTA) Work Programme for Subsequent Negotiations. This sends a strong and positive signal of our longstanding bilateral economic collaboration and more importantly, also reflects our continued commitment to free trade and a rules-based trading system.<br>
 
 **Expanding from bilateral to international cooperation**<br>
 
