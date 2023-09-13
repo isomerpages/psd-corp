@@ -18,7 +18,7 @@ image: ""
 
 4 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Minister for Communications and Information and Second Minister for Home Affairs Josephine Teo also delivered a plenary address. Speaking about evolving models of governance, she shared how Singapore is embarking on an exercise to refresh the country’s social compact and how Singapore is working towards its vision of building a country that lasts, endures and thrives for generations.
 
-5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prior to the Forum, Minister Chan met his Chinese counterpart, Minister of Education Huai Jinpeng. They reaffirmed the warm education ties and noted the extensive educational collaborations at all levels.
+5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Minister Chan also met his Chinese counterpart, Minister of Education Huai Jinpeng. They reaffirmed the warm education ties and noted the extensive educational collaborations at all levels.
 
 6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As part of the trip, Minister Chan and the Singapore delegation visited the CPC Central Committee Party School (National Academy of Governance) and met with Party School Executive Vice President Xie Chuntao. They also visited the Xiong’An New Area in Hebei Province to learn about China’s regional development strategy, and met Standing Committee Member of the CPC Hebei Provincial Committee and Secretary of the CPC Working Committee of the Xiong’An New Area Zhang Guohua.
 
