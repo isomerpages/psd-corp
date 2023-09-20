@@ -1,5 +1,5 @@
 ---
-title: Loss of pay for middle rank and senior civil servants interdicted from duty
+title: Loss of pay for middle–rank and senior civil servants interdicted from duty
 permalink: /newsroom/parliamentary-replies/loss-of-pay-for-civil-servants-interdicted-from-duty/
 date: 2023-09-19
 layout: post
