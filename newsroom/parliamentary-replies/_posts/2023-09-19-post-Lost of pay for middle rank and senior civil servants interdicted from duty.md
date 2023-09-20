@@ -15,8 +15,8 @@ image: ""
 <b>Written Reply by Mr Chan Chun Sing, Minister for Education and Minister-in-charge of the Public Service</b>
 
 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the Civil Service, when officers have to be interdicted from duty during investigation by CPIB and SPF, they will be put on half-pay, subject to a pay ceiling of $8,500 per month.
-<br>
+<br><br>
 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the officers are found innocent at the end of the investigation, they will be reinstated, and the half pay that has been withheld will be paid back to the officers. However, if they are found guilty and subsequently dismissed from service, they will lose the withheld pay. We do not recover or claw back the half pay that the officer was given during the period of interdiction.
-<br>
+<br><br>
 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These rules apply to all civil servants regardless of seniority.
-<br>
+<br><br>
