@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-<b>Written Reply to Parliamentary Question on lost of pay for middle-rank and senior civil servants interdicted from duty while assisting with investigations</b>
+<b>Written Reply to Parliamentary Question on loss of pay for middle-rank and senior civil servants interdicted from duty while assisting with investigations</b>
 
 <b>Parliament Sitting: 19 Sep 2023</b>
 
