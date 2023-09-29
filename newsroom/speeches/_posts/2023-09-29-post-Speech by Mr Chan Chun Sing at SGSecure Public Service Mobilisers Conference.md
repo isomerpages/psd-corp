@@ -19,10 +19,7 @@ Good morning. Thank you for being here today. But more importantly, thank you fo
 4.&nbsp;&nbsp;&nbsp;&nbsp;I will speak on two issues. First, equipping our workplaces, and second, engaging our youths.<br><br>
 
 <b>Equipping workplaces</b><br>
-
-  
-
-5. Let me first start with equipping our workplaces.&nbsp;
+5.&nbsp;&nbsp;&nbsp;&nbsp;Let me first start with equipping our workplaces.<br>
 
   
 
