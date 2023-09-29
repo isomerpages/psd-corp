@@ -73,36 +73,20 @@ Good morning. Thank you for being here today. But more importantly, thank you fo
 
 28.&nbsp;&nbsp;&nbsp;&nbsp;MOM will continue to engage and encourage employers to register SGSecure representatives, keep up to date with SGSecure@Workplaces resources, and build up capabilities through training and exercises.<br>
 
-  
-29. Employees can also do their part, by actively participating in SGSecure activities organised by their employer, picking up emergency preparedness skills, and signing up as SGSecure Responders.&nbsp;
+29.&nbsp;&nbsp;&nbsp;&nbsp;Employees can also do their part, by actively participating in SGSecure activities organised by their employer, picking up emergency preparedness skills, and signing up as SGSecure Responders.<br>
 
-  
+<i>Engaging youths</i><br>
+30.&nbsp;&nbsp;&nbsp;&nbsp;Now, let me go on to the second part, which is about youth outreach.<br>
 
-Engaging youths
+31.&nbsp;&nbsp;&nbsp;&nbsp;Self radicalisation, particularly through online media, continues to be a growing concern for Singapore. Extremist groups are becoming increasingly skillful in using digital media to indoctrinate and recruit people.<br>
 
-  
+32.&nbsp;&nbsp;&nbsp;&nbsp;In Singapore, self-radicalised individuals are getting younger. 11 out of 37 self-radicalised Singaporeans dealt with under the Internal Security Act since 2015, or almost one in three, were aged 20 or below. Five of these youths had planned to carry out attacks in Singapore. The youngest detainee was aged 15 at the point of detention.<br>
 
-30. Now, let me go on to the second part, which is about youth outreach.&nbsp;
+33.&nbsp;&nbsp;&nbsp;&nbsp;The terrorism threat to Singapore remains high, and we cannot be complacent.<br>
 
-  
+34.&nbsp;&nbsp;&nbsp;&nbsp;But in the recent survey by MHA, less than 40% of the respondents were willing to report loved ones, acquaintances and colleagues who exhibit radicalised behavior, to the authorities. They were concerned about making wrong allegations, and to inconvenience the authorities and others.<br>
 
-31. Self radicalisation, particularly through online media, continues to be a growing concern for Singapore. Extremist groups are becoming increasingly skillful in using digital media to indoctrinate and recruit people.&nbsp;
-
-  
-
-32. In Singapore, self-radicalised individuals are getting younger. 11 out of 37 self-radicalised Singaporeans dealt with under the Internal Security Act since 2015, or almost one in three, were aged 20 or below. Five of these youths had planned to carry out attacks in Singapore. The youngest detainee was aged 15 at the point of detention.&nbsp;&nbsp;
-
-  
-
-33. The terrorism threat to Singapore remains high, and we cannot be complacent.&nbsp;&nbsp;&nbsp;&nbsp;
-
-  
-
-34. But in the recent survey by MHA, less than 40% of the respondents were willing to report loved ones, acquaintances and colleagues who exhibit radicalised behavior, to the authorities. They were concerned about making wrong allegations, and to inconvenience the authorities and others.
-
-  
-
-35. This is worrying, because our strongest defence against terrorism is our collective vigilance. They should not worry, and they should not have to worry, if they had wrongly perceived the threat, because the authorities will investigate thoroughly first before deciding whether to act. And as the cliché goes, it is better to be safe, than sorry. Some of the times we report suspicious behaviour may turn out not to be true, but sometimes it could be true. And every case that we fail to report could lead to a serious incident.&nbsp;
+35.&nbsp;&nbsp;&nbsp;&nbsp;This is worrying, because our strongest defence against terrorism is our collective vigilance. They should not worry, and they should not have to worry, if they had wrongly perceived the threat, because the authorities will investigate thoroughly first before deciding whether to act. And as the cliché goes, it is better to be safe, than sorry. Some of the times we report suspicious behaviour may turn out not to be true, but sometimes it could be true. And every case that we fail to report could lead to a serious incident.<br>
 
   
 
