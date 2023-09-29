@@ -11,7 +11,7 @@ MOS Sun Xueling,&nbsp;<br>
 Public Service Mobilisers,&nbsp;<br>
 Ladies and Gentlemen,<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Good morning. Thank you for being here today. But more importantly, thank you for working hard behind the scenes.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Good morning. Thank you for being here today. But more importantly, thank you for working hard behind the scenes.<br>
 
 <b>Next phase of SGSecure</b><br>
 
