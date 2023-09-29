@@ -11,7 +11,7 @@ MOS Sun Xueling,&nbsp;<br>
 Public Service Mobilisers,&nbsp;<br>
 Ladies and Gentlemen,<br>
 
-Good morning. Thank you for being here today. But more importantly, thank you for working hard behind the scenes.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Good morning. Thank you for being here today. But more importantly, thank you for working hard behind the scenes.<br>
 
 <b>Next phase of SGSecure</b><br>
 
@@ -76,6 +76,7 @@ Good morning. Thank you for being here today. But more importantly, thank you fo
 29.&nbsp;&nbsp;&nbsp;&nbsp;Employees can also do their part, by actively participating in SGSecure activities organised by their employer, picking up emergency preparedness skills, and signing up as SGSecure Responders.<br>
 
 <b>Engaging youths</b><br>
+
 30.&nbsp;&nbsp;&nbsp;&nbsp;Now, let me go on to the second part, which is about youth outreach.<br>
 
 31.&nbsp;&nbsp;&nbsp;&nbsp;Self radicalisation, particularly through online media, continues to be a growing concern for Singapore. Extremist groups are becoming increasingly skillful in using digital media to indoctrinate and recruit people.<br>
@@ -107,6 +108,7 @@ Good morning. Thank you for being here today. But more importantly, thank you fo
 44.&nbsp;&nbsp;&nbsp;&nbsp;If you see something, encourage your colleagues to report it, because time is of the essence as it might lead to something more serious than you can imagine.<br>
 
 <b>Encouraging action from all</b><br>
+
 45.&nbsp;&nbsp;&nbsp;&nbsp;Everyone of us has a responsibility to keep our country safe, and everyone has a role. We can all sign up as an SGSecure Responder. And I hope that you also encourage others to sign up for this, so that collectively, we can maintain our vigilance and know how to better respond in an emergency.<br>
 
 46.&nbsp;&nbsp;&nbsp;&nbsp;Our fellow public officer, Jeremy Ang, the Principal of Commonwealth Secondary School, had one such moment. He is here with us today.<br>
