@@ -55,43 +55,25 @@ Good morning. Thank you for being here today. But more importantly, thank you fo
 
 19.&nbsp;&nbsp;&nbsp;&nbsp;Certainly, more can and should be done to ready our workplaces for security incidents. Our ability to respond well in critical moments can make the difference between life and death during the incident, and help our workforce to rebound quickly and restore normalcy.<br>
   
+20.&nbsp;&nbsp;&nbsp;&nbsp;This is the other thing that I want to emphasise. In each and every incident that we are confronted with, beyond the remediation, how fast we can return to normalcy is most important. I would like to share with you what I have learned from one country in the Middle East, which is frequently faced with such challenges. They have an organising philosophy: whenever an incident happens, they must restore normalcy and return life to normal soonest possible.<br>
 
-20. This is the other thing that I want to emphasise. In each and every incident that we are confronted with, beyond the remediation, how fast we can return to normalcy is most important. I would like to share with you what I have learned from one country in the Middle East, which is frequently faced with such challenges. They have an organising philosophy: whenever an incident happens, they must restore normalcy and return life to normal soonest possible.&nbsp;
+21.&nbsp;&nbsp;&nbsp;&nbsp;Why? Because if we allow the terrorists to disrupt our lives and normalcy, then the terrorists have succeeded beyond what the terrorist act sought to achieve by killing people or harming lives. But if the terrorists know that, no matter what they do, we are determined to return life to normalcy as quickly as possible and we are able to do that, then we will remove or reduce the incentive and impetus for them to try to do this. If they ever succeed, it is bad enough. But if they succeed, and yet can continue to disrupt our lives for a long time, then they would have perhaps succeeded beyond their expectations.<br>
 
-  
+22.&nbsp;&nbsp;&nbsp;&nbsp;So, our job is critical. Upstream, think of how to prevent; during the incident, think of how to mitigate, but very importantly, think of how we can restore normalcy as soon as possible.<br>
 
-21. Why? Because if we allow the terrorists to disrupt our lives and normalcy, then the terrorists have succeeded beyond what the terrorist act sought to achieve by killing people or harming lives. But if the terrorists know that, no matter what they do, we are determined to return life to normalcy as quickly as possible and we are able to do that, then we will remove or reduce the incentive and impetus for them to try to do this. If they ever succeed, it is bad enough. But if they succeed, and yet can continue to disrupt our lives for a long time, then they would have perhaps succeeded beyond their expectations.
+23.&nbsp;&nbsp;&nbsp;&nbsp;The Ministry of Manpower (MOM) has put in place the SGSecure@Workplaces programme since 2017, to raise awareness and increase preparedness against the terror threat at workplaces.<br>
 
-  
+24.&nbsp;&nbsp;&nbsp;&nbsp;As of August 2023, there are close to 68,000 businesses with at least one SGSecure representative registered with MOM. These representatives champion SGSecure at the workplace. MOM must continue to grow this network – not only to grow the numbers, but also to deepen their knowledge in this area.<br>
 
-22. So, our job is critical. Upstream, think of how to prevent; during the incident, think of how to mitigate, but very importantly, think of how we can restore normalcy as soon as possible.&nbsp;
+25.&nbsp;&nbsp;&nbsp;&nbsp;There are also about 100 Workplace Community Leaders, appointed to sensitise their respective business communities to terror threats during peacetime, and engage the ground during crises.<br>
 
-  
+26.&nbsp;&nbsp;&nbsp;&nbsp;Resources and training are made available to both SGSecure representatives and Workplace Community Leaders, to help them build up the workplaces’ capabilities to respond to the terror threat. In the coming months, MOM will roll out training in more areas such as psychological first aid and crisis communications, which will be useful in the event of a security incident.<br>
 
-23. The Ministry of Manpower (MOM) has put in place the SGSecure@Workplaces programme since 2017, to raise awareness and increase preparedness against the terror threat at workplaces.&nbsp;
+27.&nbsp;&nbsp;&nbsp;&nbsp;SGSecure elements have also been incorporated into the bizSAFE programme. As of August 2023, there are more than 31,000 businesses recognised under the bizSAFE framework. These businesses have conducted risk assessment of their workplace with regard to terror threats, and addressed these threats in their risk management plans.<br>
 
-  
-
-24. As of August 2023, there are close to 68,000 businesses with at least one SGSecure representative registered with MOM. These representatives champion SGSecure at the workplace. MOM must continue to grow this network – not only to grow the numbers, but also to deepen their knowledge in this area.&nbsp;
-
-  
-
-25. There are also about 100 Workplace Community Leaders, appointed to sensitise their respective business communities to terror threats during peacetime, and engage the ground during crises.&nbsp;
+28.&nbsp;&nbsp;&nbsp;&nbsp;MOM will continue to engage and encourage employers to register SGSecure representatives, keep up to date with SGSecure@Workplaces resources, and build up capabilities through training and exercises.<br>
 
   
-
-26. Resources and training are made available to both SGSecure representatives and Workplace Community Leaders, to help them build up the workplaces’ capabilities to respond to the terror threat. In the coming months, MOM will roll out training in more areas such as psychological first aid and crisis communications, which will be useful in the event of a security incident.
-
-  
-
-27. SGSecure elements have also been incorporated into the bizSAFE programme. As of August 2023, there are more than 31,000 businesses recognised under the bizSAFE framework. These businesses have conducted risk assessment of their workplace with regard to terror threats, and addressed these threats in their risk management plans.
-
-  
-
-28. MOM will continue to engage and encourage employers to register SGSecure representatives, keep up to date with SGSecure@Workplaces resources, and build up capabilities through training and exercises.&nbsp;
-
-  
-
 29. Employees can also do their part, by actively participating in SGSecure activities organised by their employer, picking up emergency preparedness skills, and signing up as SGSecure Responders.&nbsp;
 
   
