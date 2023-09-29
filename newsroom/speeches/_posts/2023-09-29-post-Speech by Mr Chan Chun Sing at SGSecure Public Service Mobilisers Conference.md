@@ -38,45 +38,22 @@ Good morning. Thank you for being here today. But more importantly, thank you fo
 
 11.&nbsp;&nbsp;&nbsp;&nbsp;NLB’s workplace readiness is only possible with the management’s support and the staff’s understanding of the importance of emergency preparedness, as well as the commitment and efforts of NLB’s mobilisers. You will hear more from NLB about their good practices later.<br>
 
-  
+12.&nbsp;&nbsp;&nbsp;&nbsp;Today at this conference, like NLB has done, the Public Service will need to renew our commitment towards securing our workplaces against terrorism. As the biggest employer with many touchpoints with the community, our Service must lead by example. We can champion SGSecure initiatives – train our staff in SGSecure, encourage them to pick up emergency preparedness skills and to be effective SGSecure Responders, and keep our agencies’ contingency plans well-oiled.<br>
 
-12. Today at this conference, like NLB has done, the Public Service will need to renew our commitment towards securing our workplaces against terrorism. As the biggest employer with many touchpoints with the community, our Service must lead by example.&nbsp; We can champion SGSecure initiatives – train our staff in SGSecure, encourage them to pick up emergency preparedness skills and to be effective SGSecure Responders, and keep our agencies’ contingency plans well-oiled.&nbsp;
+13.&nbsp;&nbsp;&nbsp;&nbsp;This is one thing I want to emphasise for our officers. Very often, we talk about preparedness and we think about remediation – what happens after. That is important. But we must go beyond that. Part of our role is also to use our applied thinking process to see how we can design our premises to be more secure and yet public-friendly. And because of your experience in SGSecure work, your inputs to the upfront design and daily improvement to our processes, will be critical. These will send a strong message to potential terrorists that we mean business and we take it seriously.<br>
 
-  
+14.&nbsp;&nbsp;&nbsp;&nbsp;So, I want all of you to remember your role. It is not just about remediation that we must do, and that we must do well; on the other hand, we must also think upstream on how we can better design our systems, processes, infrastructure and premises to be more secure, without losing the ability to engage the public in a positive way.<br>
 
-13. This is one thing I want to emphasise for our officers. Very often, we talk about preparedness and we think about remediation – what happens after. That is important. But we must go beyond that. Part of our role is also to use our applied thinking process to see how we can design our premises to be more secure and yet public-friendly. And because of your experience in SGSecure work, your inputs to the upfront design and daily improvement to our processes, will be critical. These will send a strong message to potential terrorists that we mean business and we take it seriously.&nbsp;
+15.&nbsp;&nbsp;&nbsp;&nbsp;Always remember – for us, we have to get it right, first time, every time. On the other hand, the terrorists just need to get it right, one time, any time.<br>
 
-  
+16.&nbsp;&nbsp;&nbsp;&nbsp;That said, we need to go beyond the Public Service.<br>
 
-14. So, I want all of you to remember your role. It is not just about remediation that we must do, and that we must do well; on the other hand, we must also think upstream on how we can better design our systems, processes, infrastructure and premises to be more secure, without losing the ability to engage the public in a positive way.&nbsp;
+<i>Beyond the Public Service</i><br>
+17.&nbsp;&nbsp;&nbsp;&nbsp;In a survey conducted by MHA last year, 64% of the respondents reported that they know the emergency drills and procedures of their workplaces. This figure has increased from 49% in 2018.<br>
 
-  
+18.&nbsp;&nbsp;&nbsp;&nbsp;However, when asked whether their workplaces are prepared to handle a terrorist incident in Singapore, 60% of the respondents agreed, which was the same as in 2018.<br>
 
-15. Always remember – for us, we have to get it right, first time, every time. On the other hand, the terrorists just need to get it right, one time, any time.&nbsp;
-
-  
-
-16. That said, we need to go beyond the Public Service.&nbsp;
-
-  
-  
-  
-  
-
-Beyond the Public Service
-
-  
-
-17. In a survey conducted by MHA last year, 64% of the respondents reported that they know the emergency drills and procedures of their workplaces. This figure has increased from 49% in 2018.&nbsp;
-
-  
-
-18. However, when asked whether their workplaces are prepared to handle a terrorist incident in Singapore, 60% of the respondents agreed, which was the same as in 2018.
-
-  
-
-19. Certainly, more can and should be done to ready our workplaces for security incidents. Our ability to respond well in critical moments can make the difference between life and death during the incident, and help our workforce to rebound quickly and restore normalcy.&nbsp;
-
+19.&nbsp;&nbsp;&nbsp;&nbsp;Certainly, more can and should be done to ready our workplaces for security incidents. Our ability to respond well in critical moments can make the difference between life and death during the incident, and help our workforce to rebound quickly and restore normalcy.<br>
   
 
 20. This is the other thing that I want to emphasise. In each and every incident that we are confronted with, beyond the remediation, how fast we can return to normalcy is most important. I would like to share with you what I have learned from one country in the Middle East, which is frequently faced with such challenges. They have an organising philosophy: whenever an incident happens, they must restore normalcy and return life to normal soonest possible.&nbsp;
