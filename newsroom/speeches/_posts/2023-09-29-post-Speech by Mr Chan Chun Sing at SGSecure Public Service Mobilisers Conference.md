@@ -12,11 +12,10 @@ MOS Sun Xueling<br>
 Public Service Mobilisers<br><br>
 Ladies and Gentlemen,
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Good morning. Thank you for being here today. But more importantly, thank you for working hard behind the scenes.&nbsp;&nbsp;
+Good morning. Thank you for being here today. But more importantly, thank you for working hard behind the scenes.<br>
+<b>Next phase of SGSecure</b><br>
 
-**Next phase of SGSecure**&nbsp;
-
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Two months ago, the next phase of SGSecure was announced, with a renewed focus on&nbsp;**mobilising the community**&nbsp;in our fight against terrorism.&nbsp;
+<p style="margin-left:30px;"> 2.&nbsp;&nbsp;&nbsp;&nbsp; Two months ago, the next phase of SGSecure was announced, with a renewed focus on&nbsp;**mobilising the community**&nbsp;in our fight against terrorism.&nbsp;
 
 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our new tagline is, “**What’s Your Role?**”. It calls on Singaporeans to discover the role we each can play in combating terrorism.&nbsp;
 
@@ -144,4 +143,4 @@ _New Series of SGSecure Roadshows_
 
 57.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And if anybody is thinking of doing harm to Singapore, the first thing that they will look out for is whether we are complacent. So long as we are not complacent, we buy ourselves the first line of insurance. But having said that, we fully understand that even if we are not complacent, even if we do our best in our preparedness and training, one day, there might still be an incident. And if that incident ever happens, we must make sure we know how to respond immediately. We must make sure that we can restore normalcy as soon as possible, to deny any terrorist the chance to disrupt our lives and make us lose our confidence going forward.&nbsp;&nbsp;
 
-58.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On that note, I thank you all for your service to the nation. May you continue to work together with us, with MHA, ISD, and all agencies, to build that community of vigilance. Thank you very much.
+58.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On that note, I thank you all for your service to the nation. May you continue to work together with us, with MHA, ISD, and all agencies, to build that community of vigilance. Thank you very much.</p>
