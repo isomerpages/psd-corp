@@ -88,29 +88,17 @@ Good morning. Thank you for being here today. But more importantly, thank you fo
 
 35.&nbsp;&nbsp;&nbsp;&nbsp;This is worrying, because our strongest defence against terrorism is our collective vigilance. They should not worry, and they should not have to worry, if they had wrongly perceived the threat, because the authorities will investigate thoroughly first before deciding whether to act. And as the cliché goes, it is better to be safe, than sorry. Some of the times we report suspicious behaviour may turn out not to be true, but sometimes it could be true. And every case that we fail to report could lead to a serious incident.<br>
 
-  
+36.&nbsp;&nbsp;&nbsp;&nbsp;More can and should be done to raise awareness about online radicalisation and to inoculate our youths.<br>
 
-36. More can and should be done to raise awareness about online radicalisation and to inoculate our youths.&nbsp;
+37.&nbsp;&nbsp;&nbsp;&nbsp;Our schools present a valuable platform for us to do so.<br>
 
-  
+38.&nbsp;&nbsp;&nbsp;&nbsp;In recent years, the Internal Security Department (ISD) has worked closely with the Ministry of Education (MOE) to intensify outreach to students, educators and other school staff.<br>
 
-37. Our schools present a valuable platform for us to do so.
+39.&nbsp;&nbsp;&nbsp;&nbsp;For example, by 2024, all junior colleges would have conducted the ISD-facilitated Counter-Radicalisation Workshops for student ambassadors, which aims to raise awareness of the threat of terrorism and online radicalisation. There are also plans to pilot this workshop for upper secondary student ambassadors in 2024.<br>
 
-  
+40.&nbsp;&nbsp;&nbsp;&nbsp;Outside the school, community partners such as the Religious Rehabilitation Group (RRG) and the Inter-Agency Aftercare Group (ACG) have also been conducting outreach.<br>
 
-38. In recent years, the Internal Security Department (ISD) has worked closely with the Ministry of Education (MOE) to intensify outreach to students, educators and other school staff.&nbsp;
-
-  
-
-39. For example, by 2024, all junior colleges would have conducted the ISD-facilitated Counter-Radicalisation Workshops for student ambassadors, which aims to raise awareness of the threat of terrorism and online radicalisation. There are also plans to pilot this workshop for upper secondary student ambassadors in 2024.
-
-  
-
-40. Outside the school, community partners such as the Religious Rehabilitation Group (RRG) and the Inter-Agency Aftercare Group (ACG) have also been conducting outreach.&nbsp;
-
-  
-
-41. Among others, there are assembly talks, youth forums, and visits to the RRG Resource &amp; Counselling Centre to sensitise the public, especially youths, to the terrorism threat and strengthen our community resilience.
+41.&nbsp;&nbsp;&nbsp;&nbsp;Among others, there are assembly talks, youth forums, and visits to the RRG Resource &amp; Counselling Centre to sensitise the public, especially youths, to the terrorism threat and strengthen our community resilience.<br>
 
   
 
