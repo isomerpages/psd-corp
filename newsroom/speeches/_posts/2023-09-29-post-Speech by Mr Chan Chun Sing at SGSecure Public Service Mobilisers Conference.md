@@ -11,27 +11,14 @@ MOS Sun Xueling,&nbsp;<br>
 Public Service Mobilisers,&nbsp;<br>
 Ladies and Gentlemen,<br>
 
-Good morning. Thank you for being here today. But more importantly, thank you for working hard behind the scenes.&nbsp;&nbsp;
+Good morning. Thank you for being here today. But more importantly, thank you for working hard behind the scenes.<br>
 
-  
+<b>Next phase of SGSecure</b><br>
+2.&nbsp;&nbsp;&nbsp;&nbsp;Two months ago, the next phase of SGSecure was announced, with a renewed focus on mobilising the community in our fight against terrorism.<br>
+3.&nbsp;&nbsp;&nbsp;&nbsp;Our new tagline is, “What’s Your Role?”. It calls on Singaporeans to discover the role we each can play in combating terrorism.<br>
+4.&nbsp;&nbsp;&nbsp;&nbsp;I will speak on two issues. First, equipping our workplaces, and second, engaging our youths.<br><br>
 
-Next phase of SGSecure&nbsp;
-
-  
-
-2. Two months ago, the next phase of SGSecure was announced, with a renewed focus on mobilising the community in our fight against terrorism.&nbsp;
-
-  
-
-3. Our new tagline is, “What’s Your Role?”. It calls on Singaporeans to discover the role we each can play in combating terrorism.&nbsp;
-
-  
-
-4. I will speak on two issues. First, equipping our workplaces, and second, engaging our youths.&nbsp;
-
-  
-
-Equipping workplaces&nbsp;
+<b>Equipping workplaces</b><br>
 
   
 
@@ -273,6 +260,3 @@ Conclusion
   
 
 57. On that note, I thank you all for your service to the nation. May you continue to work together with us, with MHA, ISD, and all agencies, to build that community of vigilance. Thank you very much.
-
-  
- 
