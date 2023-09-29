@@ -100,31 +100,16 @@ Good morning. Thank you for being here today. But more importantly, thank you fo
 
 41.&nbsp;&nbsp;&nbsp;&nbsp;Among others, there are assembly talks, youth forums, and visits to the RRG Resource &amp; Counselling Centre to sensitise the public, especially youths, to the terrorism threat and strengthen our community resilience.<br>
 
-  
+42.&nbsp;&nbsp;&nbsp;&nbsp;Engaging our youths is not just a responsibility of ISD and MOE, or even RRG. We need the whole community, including our workplaces, to step up, to reach out and to sensitise our people to the threats.<br>
 
-42. Engaging our youths is not just a responsibility of ISD and MOE, or even RRG. We need the whole community, including our workplaces, to step up, to reach out and to sensitise our people to the threats.
+43.&nbsp;&nbsp;&nbsp;&nbsp;We can protect our youths and colleagues from going down the slippery slope of radicalisation if we are all familiar with the signs – the tell-tale signs – and are willing to alert the authorities when we pick up something.<br>
 
-  
+44.&nbsp;&nbsp;&nbsp;&nbsp;If you see something, encourage your colleagues to report it, because time is of the essence as it might lead to something more serious than you can imagine.<br>
 
-43. We can protect our youths and colleagues from going down the slippery slope of radicalisation if we are all familiar with the signs – the tell-tale signs – and are willing to alert the authorities when we pick up something.
+<i>Encouraging action from all</i><br>
+45.&nbsp;&nbsp;&nbsp;&nbsp;Everyone of us has a responsibility to keep our country safe, and everyone has a role. We can all sign up as an SGSecure Responder. And I hope that you also encourage others to sign up for this, so that collectively, we can maintain our vigilance and know how to better respond in an emergency.<br>
 
-  
-
-44. If you see something, encourage your colleagues to report it, because time is of the essence as it might lead to something more serious than you can imagine.&nbsp;
-
-  
-  
-  
-
-Encouraging action from all
-
-  
-
-45. Everyone of us has a responsibility to keep our country safe, and everyone has a role. We can all sign up as an SGSecure Responder. And I hope that you also encourage others to sign up for this, so that collectively, we can maintain our vigilance and know how to better respond in an emergency.&nbsp;
-
-  
-
-46. Our fellow public officer, Jeremy Ang, the Principal of Commonwealth Secondary School, had one such moment. He is here with us today.&nbsp;
+46.&nbsp;&nbsp;&nbsp;&nbsp;Our fellow public officer, Jeremy Ang, the Principal of Commonwealth Secondary School, had one such moment. He is here with us today.<br>
 
   
 
