@@ -14,40 +14,29 @@ Ladies and Gentlemen,<br>
 Good morning. Thank you for being here today. But more importantly, thank you for working hard behind the scenes.<br>
 
 <b>Next phase of SGSecure</b><br>
+
 2.&nbsp;&nbsp;&nbsp;&nbsp;Two months ago, the next phase of SGSecure was announced, with a renewed focus on mobilising the community in our fight against terrorism.<br>
+
 3.&nbsp;&nbsp;&nbsp;&nbsp;Our new tagline is, “What’s Your Role?”. It calls on Singaporeans to discover the role we each can play in combating terrorism.<br>
-4.&nbsp;&nbsp;&nbsp;&nbsp;I will speak on two issues. First, equipping our workplaces, and second, engaging our youths.<br><br>
+
+4.&nbsp;&nbsp;&nbsp;&nbsp;I will speak on two issues. First, equipping our workplaces, and second, engaging our youths.<br>
 
 <b>Equipping workplaces</b><br>
+
 5.&nbsp;&nbsp;&nbsp;&nbsp;Let me first start with equipping our workplaces.<br>
 
-  
+<i>In the Public Service</i><br>
+6.&nbsp;&nbsp;&nbsp;&nbsp;Many of you are here as Public Service Mobilisers – SGSecure champions of the Public Service. As mobilisers, your role is to keep your workplace safe, encourage and train your colleagues to be Prepared Citizens, who understand and are vigilant to the terror threat facing Singapore.<br>
 
-In the Public Service
+7.&nbsp;&nbsp;&nbsp;&nbsp;Let me give an example from the National Library Board (NLB) of what all of us can do.<br>
 
-  
+8.&nbsp;&nbsp;&nbsp;&nbsp;Our libraries are open, community spaces that welcome people from all walks of life, all year round. But like many other places, the library would be considered a soft target in the eyes of terrorists.<br>
 
-6. Many of you are here as Public Service Mobilisers – SGSecure champions of the Public Service. As mobilisers, your role is to keep your workplace safe, encourage and train your colleagues to be Prepared Citizens, who understand and are vigilant to the terror threat facing Singapore.&nbsp;
+9.&nbsp;&nbsp;&nbsp;&nbsp;For the safety of the library patrons, NLB equips their staff with knowledge on SGSecure and with emergency preparedness skills, and conducts table-top and ground deployment exercises.<br>
 
-  
+10.&nbsp;&nbsp;&nbsp;&nbsp;One such exercise took place in July this year. NLB staff responded to a scenario of an arsonist setting fire to the library. Besides facilitating the safe evacuation of its patrons, NLB staff attended to the injured until further help arrived. The exercise allowed NLB staff to practise their roles, so that they are better prepared should a real incident happen.<br>
 
-7. Let me give an example from the National Library Board (NLB) of what all of us can do.
-
-  
-
-8. Our libraries are open, community spaces that welcome people from all walks of life, all year round. But like many other places, the library would be considered a soft target in the eyes of terrorists.&nbsp;
-
-  
-
-9. For the safety of the library patrons, NLB equips their staff with knowledge on SGSecure and with emergency preparedness skills, and conducts table-top and ground deployment exercises.
-
-  
-
-10. One such exercise took place in July this year. NLB staff responded to a scenario of an arsonist setting fire to the library. Besides facilitating the safe evacuation of its patrons, NLB staff attended to the injured until further help arrived. The exercise allowed NLB staff to practise their roles, so that they are better prepared should a real incident happen.&nbsp;
-
-  
-
-11. NLB’s workplace readiness is only possible with the management’s support and the staff’s understanding of the importance of emergency preparedness, as well as the commitment and efforts of NLB’s mobilisers. You will hear more from NLB about their good practices later.&nbsp;
+11.&nbsp;&nbsp;&nbsp;&nbsp;NLB’s workplace readiness is only possible with the management’s support and the staff’s understanding of the importance of emergency preparedness, as well as the commitment and efforts of NLB’s mobilisers. You will hear more from NLB about their good practices later.<br>
 
   
 
