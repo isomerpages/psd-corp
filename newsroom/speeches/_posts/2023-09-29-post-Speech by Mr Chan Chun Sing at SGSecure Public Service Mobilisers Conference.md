@@ -25,7 +25,7 @@ Good morning. Thank you for being here today. But more importantly, thank you fo
 
 5.&nbsp;&nbsp;&nbsp;&nbsp;Let me first start with equipping our workplaces.<br>
 
-<i>In the Public Service</i><br>
+<i><u>In the Public Service</u></i><br>
 6.&nbsp;&nbsp;&nbsp;&nbsp;Many of you are here as Public Service Mobilisers – SGSecure champions of the Public Service. As mobilisers, your role is to keep your workplace safe, encourage and train your colleagues to be Prepared Citizens, who understand and are vigilant to the terror threat facing Singapore.<br>
 
 7.&nbsp;&nbsp;&nbsp;&nbsp;Let me give an example from the National Library Board (NLB) of what all of us can do.<br>
@@ -48,7 +48,7 @@ Good morning. Thank you for being here today. But more importantly, thank you fo
 
 16.&nbsp;&nbsp;&nbsp;&nbsp;That said, we need to go beyond the Public Service.<br>
 
-<i>Beyond the Public Service</i><br>
+<i><u>Beyond the Public Service</u></i><br>
 17.&nbsp;&nbsp;&nbsp;&nbsp;In a survey conducted by MHA last year, 64% of the respondents reported that they know the emergency drills and procedures of their workplaces. This figure has increased from 49% in 2018.<br>
 
 18.&nbsp;&nbsp;&nbsp;&nbsp;However, when asked whether their workplaces are prepared to handle a terrorist incident in Singapore, 60% of the respondents agreed, which was the same as in 2018.<br>
@@ -75,7 +75,7 @@ Good morning. Thank you for being here today. But more importantly, thank you fo
 
 29.&nbsp;&nbsp;&nbsp;&nbsp;Employees can also do their part, by actively participating in SGSecure activities organised by their employer, picking up emergency preparedness skills, and signing up as SGSecure Responders.<br>
 
-<i>Engaging youths</i><br>
+<b>Engaging youths</b><br>
 30.&nbsp;&nbsp;&nbsp;&nbsp;Now, let me go on to the second part, which is about youth outreach.<br>
 
 31.&nbsp;&nbsp;&nbsp;&nbsp;Self radicalisation, particularly through online media, continues to be a growing concern for Singapore. Extremist groups are becoming increasingly skillful in using digital media to indoctrinate and recruit people.<br>
@@ -106,59 +106,32 @@ Good morning. Thank you for being here today. But more importantly, thank you fo
 
 44.&nbsp;&nbsp;&nbsp;&nbsp;If you see something, encourage your colleagues to report it, because time is of the essence as it might lead to something more serious than you can imagine.<br>
 
-<i>Encouraging action from all</i><br>
+<b>Encouraging action from all</b><br>
 45.&nbsp;&nbsp;&nbsp;&nbsp;Everyone of us has a responsibility to keep our country safe, and everyone has a role. We can all sign up as an SGSecure Responder. And I hope that you also encourage others to sign up for this, so that collectively, we can maintain our vigilance and know how to better respond in an emergency.<br>
 
 46.&nbsp;&nbsp;&nbsp;&nbsp;Our fellow public officer, Jeremy Ang, the Principal of Commonwealth Secondary School, had one such moment. He is here with us today.<br>
 
+47.&nbsp;&nbsp;&nbsp;&nbsp;On a morning during this year’s March school holidays, Jeremy woke up to his usual alarm at 5.30am. He had just turned the alarm off when his phone sounded again, alerting him to a cardiac arrest case through the SCDF MyResponder app.<br>
+
+48.&nbsp;&nbsp;&nbsp;&nbsp;Jeremy rushed to the neighbouring block to attend to the victim, an elderly man. Along the way, he collected the AED from the lift lobby of the block. Together with another Responder, they performed CPR and administered the AED on the victim. They managed to resuscitate the victim, with the help of SCDF medical responders who arrived subsequently.<br>
   
+49.&nbsp;&nbsp;&nbsp;&nbsp;Fortunately for the elderly gentleman, Jeremy had attended regular refresher First Aid and CPR/AED training over the past decade, and registered himself on the MyResponder app. Because of his preparedness, Jeremy saved a fellow Singaporean.<br>
 
-47. On a morning during this year’s March school holidays, Jeremy woke up to his usual alarm at 5.30am. He had just turned the alarm off when his phone sounded again, alerting him to a cardiac arrest case through the SCDF MyResponder app.&nbsp;
+50.&nbsp;&nbsp;&nbsp;&nbsp;As a school principal, Jeremy strongly supports the SGsecure programmes in his school and shares his experiences with colleagues and students during their CPR/AED training, encouraging them to also join the Responders network.<br>
 
-  
+51.&nbsp;&nbsp;&nbsp;&nbsp;We have close to 145,000 Responders in the community today. We hope to grow this pool further, and we would like to encourage everyone to join the scheme.<br>
 
-48. Jeremy rushed to the neighbouring block to attend to the victim, an elderly man. Along the way, he collected the AED from the lift lobby of the block. Together with another Responder, they performed CPR and administered the AED on the victim. They managed to resuscitate the victim, with the help of SCDF medical responders who arrived subsequently.&nbsp;
+<i><u>New Series of SGSecure Roadshows</u></i><br>
+52.&nbsp;&nbsp;&nbsp;&nbsp;Today, we will be rolling out a new series of SGSecure Roadshows as well.<br>
 
-  
+53.&nbsp;&nbsp;&nbsp;&nbsp;At the roadshows, attendees can participate in interactive digital gameplay, as they discover their roles in countering terrorism. These include identifying signs of radicalisation as a True Friend, spotting fake news as a Fact-Checker, or being calm and caring for others as a Uniter.<br>
 
-49. Fortunately for the elderly gentleman, Jeremy had attended regular refresher First Aid and CPR/AED training over the past decade, and registered himself on the MyResponder app. Because of his preparedness, Jeremy saved a fellow Singaporean.&nbsp;
+54.&nbsp;&nbsp;&nbsp;&nbsp;The first roadshow of the new series will be held next door at the Funan,&nbsp; and I encourage everyone to visit the roadshow.<br>
 
-  
+<b>Conclusion</b><br>
 
-50. As a school principal, Jeremy strongly supports the SGsecure programmes in his school and shares his experiences with colleagues and students during their CPR/AED training, encouraging them to also join the Responders network.&nbsp;
+55.&nbsp;&nbsp;&nbsp;&nbsp;Let me conclude.&nbsp; For us to stay safe, all of us need to stay vigilant. For us to stay vigilant, it will only get harder and harder for every day of peace that we enjoy. Your role is important. And I hope, that through your role, through your example, more of our colleagues will join and become part of this community of vigilance. Only so can we keep Singapore safe.<br>
 
-  
+56.&nbsp;&nbsp;&nbsp;&nbsp;And if anybody is thinking of doing harm to Singapore, the first thing that they will look out for is whether we are complacent. So long as we are not complacent, we buy ourselves the first line of insurance. But having said that, we fully understand that even if we are not complacent, even if we do our best in our preparedness and training, one day, there might still be an incident. And if that incident ever happens, we must make sure we know how to respond immediately. We must make sure that we can restore normalcy as soon as possible, to deny any terrorist the chance to disrupt our lives and make us lose our confidence going forward.<br>
 
-51. We have close to 145,000 Responders in the community today. We hope to grow this pool further, and we would like to encourage everyone to join the scheme.&nbsp;
-
-  
-
-New Series of SGSecure Roadshows
-
-  
-
-52. Today, we will be rolling out a new series of SGSecure Roadshows as well.&nbsp;
-
-  
-
-53. At the roadshows, attendees can participate in interactive digital gameplay, as they discover their roles in countering terrorism. These include identifying signs of radicalisation as a True Friend, spotting fake news as a Fact-Checker, or being calm and caring for others as a Uniter.
-
-  
-
-54. The first roadshow of the new series will be held next door at the Funan,&nbsp; and I encourage everyone to visit the roadshow.&nbsp;
-
-  
-
-Conclusion
-
-  
-
-55. Let me conclude.&nbsp; For us to stay safe, all of us need to stay vigilant. For us to stay vigilant, it will only get harder and harder for every day of peace that we enjoy. Your role is important. And I hope, that through your role, through your example, more of our colleagues will join and become part of this community of vigilance. Only so can we keep Singapore safe.&nbsp;
-
-  
-
-56. And if anybody is thinking of doing harm to Singapore, the first thing that they will look out for is whether we are complacent. So long as we are not complacent, we buy ourselves the first line of insurance. But having said that, we fully understand that even if we are not complacent, even if we do our best in our preparedness and training, one day, there might still be an incident. And if that incident ever happens, we must make sure we know how to respond immediately. We must make sure that we can restore normalcy as soon as possible, to deny any terrorist the chance to disrupt our lives and make us lose our confidence going forward.&nbsp;&nbsp;
-
-  
-
-57. On that note, I thank you all for your service to the nation. May you continue to work together with us, with MHA, ISD, and all agencies, to build that community of vigilance. Thank you very much.
+57.&nbsp;&nbsp;&nbsp;&nbsp;On that note, I thank you all for your service to the nation. May you continue to work together with us, with MHA, ISD, and all agencies, to build that community of vigilance. Thank you very much.<br>
