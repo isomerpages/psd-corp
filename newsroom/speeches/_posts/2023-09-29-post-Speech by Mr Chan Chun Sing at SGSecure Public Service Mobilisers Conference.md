@@ -6,12 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
-<b>Speech by Mr Chan Chun Sing, Minister for Education and Minister-in-charge of the Public Service,at SGSecure Public Service Mobilisers Conference, on 29 Sep 2023</b><br>
+<b>SPEECH BY MR CHAN CHUN SING,&nbsp;&nbsp;MINISTER FOR EDUCATION AND MINISTER-IN-CHARGE OF THE PUBLIC SERVICE, AT SGSECURE PUBLIC SERVICE MOBILISERS CONFERENCE, ON 29 SEP 2023</b><br>
 
-MOS Sun Xueling,&nbsp;
-
-Public Service Mobilisers,&nbsp;
-
+MOS Sun Xueling<br>
+Public Service Mobilisers<br><br>
 Ladies and Gentlemen,
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Good morning. Thank you for being here today. But more importantly, thank you for working hard behind the scenes.&nbsp;&nbsp;
