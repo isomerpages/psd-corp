@@ -3,9 +3,12 @@ title: Mission, Vision and Values
 permalink: /about-psd/mission-vision-values/
 description: ""
 ---
+<h2>Delivering excellent public services and enabling effective government</h2>
+
+
 <div> <div style="position:relative;padding-top:56.25%;"> <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" align="center" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/X_XBqH25A8Q"></iframe> </div> </div>
 
-<h4>To deliver excellent public services and enable effective government.</h4>
+
 
 PSD stewards One Trusted Public Service by developing strong leaders and engaged officers, building future-ready organisations and promoting good governance.
 
