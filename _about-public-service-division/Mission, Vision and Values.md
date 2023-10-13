@@ -7,7 +7,7 @@ description: ""
 
 <h4>To deliver excellent public services and enable effective government.</h4>
 
-PSD stewards One Trusted Public Service by developing strong leadership &amp; engaged officers; building future-ready organisations and promoting good governance
+PSD stewards One Trusted Public Service by developing strong leaders and engaged officers, building future-ready organisations and promoting good governance.
 
 
 ### Developing Strong Leaders
