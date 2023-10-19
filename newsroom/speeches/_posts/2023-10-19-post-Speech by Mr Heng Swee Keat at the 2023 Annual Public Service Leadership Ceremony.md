@@ -71,11 +71,11 @@ c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beyond these design improveme
 
 d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I would like to express my appreciation to ELD, your teams supporting the election, and all 36,000 election officials. Behind the smooth proceedings on Polling Day, there were many hours of training, setting up and preparations as well. Thank you all for your hard work!
 
-7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023 has not ended yet, but it is clear that the pace for the Public Service has picked up, and public officers have stepped up in tandem. Thank you everyone, for serving with your heart.
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023 has not ended yet, but it is clear that the pace for the Public Service has picked up, and public officers have stepped up in tandem. Thank you everyone, for serving with your heart.
 
 A Stronger Public Service in a Changing World
 
-8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Looking ahead into 2024 and beyond, we are moving into a world that is more uncertain and volatile.
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Looking ahead into 2024 and beyond, we are moving into a world that is more uncertain and volatile.
 
 a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inflation has stabilised, but still higher than what we are used to.
 
@@ -85,7 +85,7 @@ c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The continuing Ukraine War ha
 
 d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And there is now a flare-up of violence in the Middle East.
 
-9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore has built on good foundations, with a strong reputation and international standing. However, to ensure that the Public Service is ready for this more volatile future, we must evolve and update the way we work.
+9.&amp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore has built on good foundations, with a strong reputation and international standing. However, to ensure that the Public Service is ready for this more volatile future, we must evolve and update the way we work.
 
 a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Let me suggest three areas where we must continue to invest in.
 
