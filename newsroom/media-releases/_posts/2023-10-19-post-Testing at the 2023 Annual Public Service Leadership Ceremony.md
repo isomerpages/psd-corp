@@ -6,91 +6,119 @@ layout: post
 description: ""
 image: ""
 ---
-##### SPEECH BY MR LEO YIP, HEAD OF CIVIL SERVICE, AT THE ANNUAL PUBLIC SERVICE LEADERSHIP CEREMONY ON 19 OCTOBER 2023
-##### 
-Deputy Prime Minister Heng Swee Keat,
-Chairman and Members of the Public Service Commission,
-Colleagues and Friends,
-Ladies and Gentlemen,
+**TRANSCRIPT OF SPEECH BY MR HENG SWEE KEAT<br>
+Deputy Prime Minister and Coordinating Minister for Economic Policies<br>
+2023 Annual Public Service Leadership Ceremony<br>
+19 Oct 2023**
 
-1.	A very good afternoon to all of you.
- 
-2.	Let me start by echoing Deputy Prime Minister (DPM) Mr Heng Swee Keat by thanking the 17 Public Service Leaders (PSLs) who have retired or are relinquishing their appointments this year. I am grateful to each of you for your contributions and years of dedicated service.
+Chairman and Members of the Public Service Commission<br>
+Head, Civil Service,<br>
+Colleagues,<br><br>
 
-3.	I would also like to pay tribute to my two Permanent Secretary colleagues who recently retired — Ms Chan Lai Fung and Mr Loh Khum Yean. I have worked closely with both of them over the years and am deeply grateful for their partnership, and the strong personal support they have given me. I will miss, among other things, their camaraderie and wise counsel. So, on all our behalf, I thank you very much Lai Fung and Khum Yean, and we wish you both a happy retirement.
+1. I am very happy to join everyone at this year’s Public Service Leadership Ceremony. It is good to see so many familiar faces gathered here today.<br><br>
 
-4.	I also want to congratulate the 31 officers who have been appointed as PSLs, and the 123 officers appointed to both the sectoral and general phases of the Public Service Leadership Programme. I welcome you all on board this leadership journey. 
+2. Let me first and foremost extend my appreciation to the 17 Public Service Leaders who have, or will relinquish their appointments this year, for their unwavering dedication and distinguished contributions.<br>
+   a. In particular, I would like to acknowledge Ms Chan Lai Fung and Mr Loh Khum Yean, who retired last month.<br>
+   b. Together, they have served in the Public Service with distinction for almost 70 years. Thank you, Lai Fung, and Khum Yean for your many contributions. We wish you all the best!<br><br>
 
-100th anniversary of the birth of Mr Lee Kuan Yew
+3. Let me also warmly welcome the 31 newly appointed Public Service Leaders and 123 PSLP officers to the community. With your fresh perspectives, energy and commitment, we look forward to the difference that you will bring to our collective mission.<br><br>
 
-5.	This year marks the 100th anniversary of the birth of Mr Lee Kuan Yew. It holds special significance for Singapore and Singaporeans, especially those of us in Public Service leadership.
+**Thanking the Public Service**<br><br>
 
-6.	This is an occasion to, among others, reflect on the key choices, the principles and values that undergird what had built today’s Singapore. 
+4. 2023 has been a significant year for Singapore.<br>
+   a. We closed off our COVID chapter at the first quarter of the year, when we transitioned into DORSCON Green, and put out the COVID White Paper.<br>
+   b. Beyond overcoming the crisis of a generation, we have also bounced back quickly and stronger.<br>
+   c. This would not have been possible without the tremendous efforts from the Public Service.<br>
+   d. Your deep sense of service and effective partnership with the political leadership and our people has enabled Singapore to not only to get through the pandemic but to emerge stronger. Thank You!<br><br>
 
-7.	We have been characterised as an improbable nation, and improbable we are. There are not many countries which are as diverse as we are and yet, at the same time, a cohesive and harmonious society. We are not a big economy but yet a trusted financial and business hub. We are geographically small but yet our international standing enables us to play a part for the benefit of the region and the world.
+5. Emerging from the pandemic means returning to BAU work – except that is it no longer “Business AS Usual” but “Business ABOVE usual”!<br>
+   a. Taking advantage of our favourable position post-COVID, the Public Service have pushed ahead with policies across various fronts.<br>
+   b. For example, MOH recently launched Healthier SG – a multi-year strategy to pivot towards a greater emphasis on preventive care.<br>
+      i. This is an effort of significant scale. We have started by inviting all eligible residents aged 60 and above to enrol, so that they can develop a personalised health plan, and gain access to fully subsidised screenings and vaccinations at a trusted, regular care provider. This will also be progressively extended to those aged 40 to 59.<br>
+   c. Another example – MND pushed on to catch up with BTO projects that were delayed by COVID. Over 70% of delayed projects have since been completed, without compromising on safety or quality.<br>
+      i. On top of this, MND will be rolling out the new “Standard, Plus, Prime” framework next year, to keep homeownership affordable, and ensure our public housing system continues to remain fair with good social mixing.<br>
+   d. On the Forward SG front, agencies have intensified engagements with Singaporeans to hear their perspectives on the challenges and opportunities ahead.<br>
+      i. The Forward SG report will be released soon, to reflect these shared perspectives and how everyone in our society can contribute and shape our future.<br>
+      ii. The report will mark a milestone, but the work continues.<br>
+      iii. The Public Service must think about how to operationalise Forward SG’s call to action for Singaporeans. Beyond communicating, we want to collaborate and co-create with them.<br>
+      iv. By inviting the public to consider the trade-offs involved in policymaking, we can build a deeper appreciation of the Government and Public Service’s efforts to build common ground amid diverse views.<br><br>
 
-8.	Sometimes it takes a different perspective to better appreciate what we have built up in Singapore. Recently, a letter to Lianhe Zaobao by a writer who worked in the tourism industry spoke of how a Nigerian visiting Singapore for the first time described our country as, and I quote, “fascinating, enrapturing and incredible”. This visitor went to the Chamber of the Old Parliament House, and spent a long time at the Parliamentary seat that Mr Lee Kuan Yew used to occupy, deep in reflection. The visitor told the writer, who was a tourist guide, that it was his wish for his country to have a government like Singapore’s, to give his people the good life that Singapore offers its people.
+6. To add to all these, the Public Service also conducted the 2023 Presidential Election. This went smoothly, with Singaporeans providing generally positive feedback of their experience.<br>
+   a. ELD had drawn lessons from the 2020 General Election to reduce waiting time for voters, by increasing the number of polling stations, as well as registration and ballot paper counters.<br>
+   b. The VoteQ system was also integrated into the hardcopy poll cards via a personalised QR code, so that voters could check the queue status at their polling station.<br>
+   c. Beyond these design improvements, it was the hard work of many teams and officers, including many of you here, which supported ELD to ensure that the election went smoothly.<br>
+      i. From coordinating transport and logistics, security, public communications, to supporting voting for overseas Singaporeans and those in nursing homes, to developing typhoon contingency plans in Hong Kong, this was truly a WOG effort.<br>
+   d. I would like to express my appreciation to ELD, your teams supporting the election, and all 36,000 election officials. Behind the smooth proceedings on Polling Day, there were many hours of training, setting up and preparations as well. Thank you all for your hard work!<br><br>
 
-9.	We have built up in Singapore a system of governance — with quality education, jobs, housing, healthcare, and so on. Individuals succeed in this country because of their own hard work, but also because the system enables them to do so. But those of us in Public Service leadership would know this full well — we can never take for granted that what has enabled our success thus far will assure us, necessarily, our continued success. Singapore’s continuing success must be worked on, over and over again. So this anniversary of Mr Lee’s birth is a timely reminder that we must be relentless in making the changes needed to improve our policies but also to improve the Public Service, a point that DPM made earlier, so that we can continue to create the conditions for our people to have a good life. 
+7. 2023 has not ended yet, but it is clear that the pace for the Public Service has picked up, and public officers have stepped up in tandem. Thank you everyone, for serving with your heart.<br><br>
 
-Sustained change for sustained success
+**A Stronger Public Service in a Changing World**<br><br>
 
-10.	Indeed, no public service or system of governance can remain static, simply because society and the world we operate in are ever-changing. Our strategies and policies must keep evolving, even though our principles and values of governance remain. And this is apparent when we look at the changes happening around the world and in Singapore. 
+8. Looking ahead into 2024 and beyond, we are moving into a world that is more uncertain and volatile.<br>
+   a. Inflation has stabilised, but still higher than what we are used to.<br>
+   b. The US-China contestation looks set to deepen in the years ahead.<br>
+   c. The continuing Ukraine War has political and economic implications,<br>
+   d. And there is now a flare-up of violence in the Middle East.<br><br>
 
-11.	First, the world is now more turbulent, uncertain, and even dangerous. The era of geopolitical contestation has returned. At the same time, there are more problems of the global commons to deal with, such as sustaining all countries’ commitment to fight climate change.
+9. Singapore has built on good foundations, with a strong reputation and international standing. However, to ensure that the Public Service is ready for this more volatile future, we must evolve and update the way we work.<br>
+   a. Let me suggest three areas where we must continue to invest in.<br><br>
 
-12.	Second, our own society is evolving rapidly. We face more constraints today on the manpower and carbon fronts. We are an even more diverse society and people than before. We have new challenges, but also new opportunities as a people, to build a stronger society. One such opportunity is for the government to build stronger partnerships and engagement with the people, to enable stronger co-ownership and also co-effort in building tomorrow’s Singapore. 
+10. First, we must continue to implement policies and deliver services well.<br>
+    a. This is our evergreen mission, and agencies have been working hard over the years to streamline services and address issues in a citizen-centric manner.<br>
+       i. Take municipal services for example. There were often response delays because accountability was spread across numerous agencies. Such delays irk residents.<br>
+       ii. Since the Municipal Services Office was formed in 2014 to catalyse inter-agency cooperation, residents’ satisfaction levels towards municipal services have improved to 75% in 2022.<br>
+       iii. But MSO went further and recently piloted integrated municipal services in Tampines, where a single operator delivers 10 services.<br>
+       iv. As a result, this has halved feedback resolution time, and increased satisfaction by a further 20%!<br>
+    b. This is a good development because in today’s environment, where needs have grown more diverse and issues are more complex and interconnected, robust policy implementation and service delivery are more salient than ever.<br><br>
 
-13.	This changing world means that the range of issues our agencies across the Public Service now have to deal with, as well as intensity of work, has also grown. In the wake of the once-in-a-generation pandemic, the geopolitical and economic volatility, climate change and so on, not just us, but many public services around the world are facing similar work challenges. 
+11. Beyond streamlining services, we must be willing to re-imagine and re-design policies and service delivery, to bring tangible improvements to our citizens’ lives.<br>
+    a. Good ground sensing must be coupled with empathy and a willingness to do things differently if needed.<br>
+    b. ComLink is a good example of how we’ve re-imagined support for low-income families with children.<br>
+       i. This shift came about after MSF decided to explore how to better uplift families with needs through coordinated, family-centric support.<br>
+       ii. Instead of waiting for families to turn up at the Social Service Office or other agencies to seek help when their situation is dire, it is better to go upstream and proactively partner the family as early as possible.<br>
+       iii. Going forward, ComLink families will be supported by Family Coaches, who will be the key touchpoint across various government departments and programmes.<br>
+       iv. This approach is more intensive, but offers a better chance of supporting families towards stability, self-reliance and social mobility.<br>
+    c. For the broader population, advances in technology bring new opportunities to deliver services in a more convenient and intuitive manner.<br>
+       i. For example, our ServiceSG centres serve as a whole-of-government physical service touchpoint, offering almost 600 services across 25 agencies to citizens who may still require in-person interactions.<br>
+       ii. Even as citizens switch to digital transactions, ServiceSG centres ensure that we do not leave anyone behind.<br>
+    d. ICA’s New Clearance Concept (NCC) is another example of how we will fundamentally transform the international travel experience for our citizens.<br>
+       i. Come 2024, ICA will progressively incorporate new automated lanes in all our checkpoints.<br>
+       ii. This will allow Singapore residents and departing visitors to enjoy passport-free immigration clearance, resulting in an even smoother and speedier clearance experience.<br>
+    e. As the age-old Public Service wisdom goes – policy is implementation.<br>
+       i. We must both design good policies and deliver them well. This is how we sustain and renew trust with citizens.<br><br>
 
-14.	Let me just cite one case in point. Our international policy work has grown significantly over the years, even for ministries that traditionally regard ourselves with a largely domestic focus. We have to build new competencies to do this work well and align our international strategies better across our agencies. In the same way, we are building new capabilities to step up our domestic work on engagement and partnerships.
+12. This leads me to my second suggestion – we must partner citizens more deeply.<br>
+    a. Since Our Singapore Conversation in 2012, the Public Service has steadily built up citizen engagement capabilities. This has put us in good stead to drive today’s Forward SG efforts.<br>
+    b. As demographics and aspirations change, we must move beyond engagement and facilitate an active citizenry that contributes to, and enables more robust policymaking amid a more diverse and complex backdrop.<br>
+    c. Alliances for Action (AfAs) offer a good model, as they bring stakeholders from different sectors together, to discuss and devise solutions to shared challenges.<br>
+       i. In fact the very idea of AfA came out from the Emerging Stronger taskforce, which was a partnership between the political leadership and private sector CEOs.<br>
+       ii. For example, the recently concluded AfA for Lower-Wage Workers brought passionate citizens, youths, union members, businesses and community groups together to pilot and scale up programmes to uplift lower-wage workers.<br>
+       iii. Their initiatives ranged from strengthening respect and appreciation, to fostering supportive work environments, and increasing support for upskilling.<br>
+    d. While this might take a longer time or more effort, the value of modalities like the AfA is that it mobilises like-minded citizens and stakeholders to co-create and contribute together, thus building shared ownership.<br>
+    e. I am happy to see that Forward SG engagements have taken on more innovative and participatory modalities like citizen panels, and involved specific groups in direct action on issues that they are passionate about, such as sustainability advocates on Green Action initiatives.<br><br>
 
-15.	To ensure sustained success for Singapore, our Public Service must ensure we remain steadfast on a sustained journey of change, improvement and transformation. 
+13. Singapore has done well over the years. But we must never forget that we are a very young nation, in an increasingly turbulent world.<br>
+    a. By enhancing partnership with our citizens, especially our younger generations, to build a better Singapore for the future, we foster a deeper sense of citizenship, belonging, and togetherness.<br>
+    b. In this way, regardless of the rough and tumbles ahead, we can tackle the challenges together, and emerge stronger from each rapid.<br><br>
 
-Leadership responsibility in the Public Service
+14. Finally, we must continue to invest in good governance and leadership.<br>
+    a. Singapore is a small island-state with no natural resources and a very open economy.<br>
+       i. We have done well so far because we have built up a robust governance system that garners public trust.<br>
+       ii. Over the years, the Public Service and political leadership have worked together to implement policies that keep Singapore exceptional and successful.<br>
+    b. This is not something we can take for granted in today’s more fractured world, where public trust is under threat in many countries.<br>
+       i. In today’s “post-truth” environment, facts could be less relevant when trying to shape public opinion. It is easy to put out divisive rhetoric or inflammatory remarks as a clickbait, while remaining anonymous.<br>
+       ii. The rise of identity politics is also creating more divisions within society, drawing attention away from points of commonality and efforts to build cohesion.<br>
+       iii. We only need to look around the world to see how societies have become more fragmented and polarised.<br><br>
 
-16.	How should we do so? Let me revisit, and I say revisit as these are not new points, three key areas of focus for leaders in the Public Service — to be relentless in doing our work better, to spare no effort in making our people better, and to continue to develop ourselves to lead better.
+15. Now more than ever, we must invest in good governance and good leadership.<br>
+    a. It is about continuing to look outwards to engage the world, build new partnerships, pick up best practices, as well as learn from cautionary tales.<br>
+    b. Domestically, we must sustain trust and strengthen the shared sense of purpose between the Public Service and the political leadership.<br>
+    c. The Public Service ethos of Integrity, Service, Excellence are values that the political leadership shares and upholds.<br>
+    d. For the political leadership to give expression to the will of the people, we must work closely with the Public Service to develop policies and programmes. In turn, the Public Service must do its best to implement and execute well.<br>
+    e. As we undergo this phase of political leadership transition, my colleagues and I look to the Public Service to continue to serve with distinction and professionalism.<br>
+    f. We are all entrusted with the task of stewarding the nation and forging a better future for Singapore and Singaporeans. Let us work closely to take Singapore forward, together.<br><br>
 
-First, continue to do our work better.
+**Conclusion**<br><br>
 
-17.	Foremost to this is taking good care of those who do the work — that’s our colleagues and all of us. We had World Mental Health Day last week to remind all of us of the importance of taking good care of our mental health and well-being. We as leaders must make our workplaces more caring and empathetic, so that colleagues who need support for their mental well-being, whether because of work or personal circumstances, will not hesitate to say so. 
-
-18.	And as work demands and our workload increase, leaders must help our staff see the work that they do as continuing to be purposeful and meaningful. 
-
-19.	To achieve this, we have to better prioritise work, and differentiate between what is important and urgent, and what is not. Second, we ought to make very clear, every time we assign work, what is the purpose and focus of the work we are assigning our colleagues. Third, we must always find new ways to do our work better. 
-
-20.	In this regard, leaders must always take the initiative to make our work and work processes better. We have been working hard in our Public Service to drive transformative change, but there will always be a next wave of opportunity to do this even better. Generative AI now powers such a new wave. We have launched our in-house equivalent of ChatGPT, known as Pair. There are other tools to help us harness AI in our work such as SmartCompose, which is an AI writing assistant that can support public officers in more effective public communications. That’s my first point, do our work better. 
-
-Second, develop your people.
-
-21.	Developing your people is a key leadership competency, and a key leadership expectation. Your staff expect this of you to help them grow and develop. I and the Service expect this of all of you who are leaders.
-
-22.	We have pushed for Competency Driven Growth across the Public Service. But as leaders, we must drive this ourselves, such as by initiating competency-based career development conversations with our officers on the development plans that they themselves have drawn up. 
-
-23.	To support this, the Public Service Division (PSD) has been making available and promoting over the last few years, many new experiential growth and development programmes. For instance, we are supporting more Public Service officers to take on attachments in the private or people sectors through this programme called the Talent Attachment Programme (TAP). We now have over 110 private and people sector organisations offering attachment places for public officers. Each year, about 50 of our colleagues take up such opportunities, some spending up to two years in these private sector organisations. 
-
-24.	Each of us here – senior leaders, newly appointed leaders, or leaders under development – must see it as our core responsibility and priority to develop our people. Encourage your officers to adopt a mindset of growth and development, enable their development opportunities, and nurture a spirit of learning through new developmental experiences. If they have a good posting outside of your organisation that can help them grow, and they want to take this up, do not stand in their way. Spare no effort to make your people better. 
-
-25.	That’s my second point. Let me finish with my third point, which is to continue to develop ourselves, as leaders.
-
-26.	I have in recent years spoken about how we have stepped up leadership development efforts in the Public Service. Some of the shifts we have made include: 
-(i)	implementing a Leadership Competency Framework, tailored to what leaders in the Public Service do; 
-(ii)	institutionalising the 360-degree feedback exercise, which provides feedback not just from who we work for, but also from who works for us and who we work with laterally; and 
-(iii)	building a stronger ethos and culture of leaders building leaders, as it is the responsibility for all leaders to take ownership of their own growth. 
-
-27.	We are pushing ahead with these efforts. For instance, the Permanent Secretaries, Deputy Secretaries and Chief Executives are currently taking part in the second edition of 360-degree feedback, the first being back in 2020. These efforts have just started, and they will continue. 
-
-28.	Each of us as leaders must see our own leadership development as a personal priority. We owe it to our teams to be better leaders. We owe it to our teams to be more open to their feedback. And we owe it to our teams to personally demonstrate how we have embraced growth and development. 
-
-Closing 
-
-29.	Let me close, I have mentioned earlier, in a changing world and an evolving society, sustained success for Singapore can come about only with sustained change. All of us here play a part to continue that sustained change journey, to make our Public Service better to serve Singapore and Singaporeans better. We must own this responsibility. 
-
-30.	I have spoken about the need to relentlessly improve and transform the way we work, to spare no effort to develop our people, and to show the way by developing ourselves to lead better. In a changing world, our own leadership must remain adaptive whilst we stay anchored on our purpose and our values, what people call our true north. These are fundamental areas of focus for us to become better individuals, better leaders and, collectively, a better Public Service.
- 
-31.	And the Public Service doing this well will contribute to this improbable nation continuing to defy the odds and remake our success over and over again into the future. 
-
-32.	On that note, thank you very much everyone. 
-
-
-
+16. In closing, let me once again thank the Public Service Leadership community for steering the Public Service through a busy and challenging year.<br>
+    a. We have a lot more to do in writing the
