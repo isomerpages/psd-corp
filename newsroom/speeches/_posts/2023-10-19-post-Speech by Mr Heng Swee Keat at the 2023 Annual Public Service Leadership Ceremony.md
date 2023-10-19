@@ -19,37 +19,37 @@ Colleagues,
 
 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let me first and foremost extend my appreciation to the 17 Public Service Leaders who have, or will relinquish their appointments this year, for their unwavering dedication and distinguished contributions.
 
-<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;In particular, I would like to acknowledge Ms Chan Lai Fung and Mr Loh Khum Yean, who retired last month.
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;In particular, I would like to acknowledge Ms Chan Lai Fung and Mr Loh Khum Yean, who retired last month.</p>
 
-</p><p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Together, they have served in the Public Service with distinction for almost 70 years. Thank you, Lai Fung, and Khum Yean for your many contributions. We wish you all the best!
+<p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;Together, they have served in the Public Service with distinction for almost 70 years. Thank you, Lai Fung, and Khum Yean for your many contributions. We wish you all the best!</p>
 
 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let me also warmly welcome the 31 newly appointed Public Service Leaders and 123 PSLP officers to the community. With your fresh perspectives, energy and commitment, we look forward to the difference that you will bring to our collective mission.
 
 Thanking the Public Service
 
-4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023 has been a significant year for Singapore.
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023 has been a significant year for Singapore.
 
-</p><p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;We closed off our COVID chapter at the first quarter of the year, when we transitioned into DORSCON Green, and put out the COVID White Paper.
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;We closed off our COVID chapter at the first quarter of the year, when we transitioned into DORSCON Green, and put out the COVID White Paper.</p>
 
-</p><p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Beyond overcoming the crisis of a generation, we have also bounced back quickly and stronger.
+<p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;Beyond overcoming the crisis of a generation, we have also bounced back quickly and stronger.</p>
 
-c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This would not have been possible without the tremendous efforts from the Public Service.
+<p style="margin-left:30px;">c.&nbsp;&nbsp;&nbsp;&nbsp;This would not have been possible without the tremendous efforts from the Public Service.</p>
 
-d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Your deep sense of service and effective partnership with the political leadership and our people has enabled Singapore to not only to get through the pandemic but to emerge stronger. &nbsp;Thank You!
+<p style="margin-left:30px;">d.&nbsp;&nbsp;&nbsp;&nbsp;Your deep sense of service and effective partnership with the political leadership and our people has enabled Singapore to not only to get through the pandemic but to emerge stronger. &nbsp;Thank You!</p>
 
-5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Emerging from the pandemic means returning to BAU work – except that is it no longer “Business _AS_ Usual” but “Business _ABOVE_ usual”!
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Emerging from the pandemic means returning to BAU work – except that is it no longer “Business _AS_ Usual” but “Business _ABOVE_ usual”!
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Taking advantage of our favourable position post-COVID, the Public Service have pushed ahead with policies across various fronts.
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Taking advantage of our favourable position post-COVID, the Public Service have pushed ahead with policies across various fronts.</p>
 
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For example, MOH recently launched Healthier SG – a multi-year strategy to pivot towards a greater emphasis on preventive care.
+<p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;For example, MOH recently launched Healthier SG – a multi-year strategy to pivot towards a greater emphasis on preventive care.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is an effort of significant scale. We have started by inviting all eligible residents aged 60 and above to enrol, so that they can develop a personalised health plan, and gain access to fully subsidised screenings and vaccinations at a trusted, regular care provider. This will also be progressively extended to those aged 40 to 59.
+<p style="margin-left:60px;">i.&nbsp;&nbsp;&nbsp;&nbsp;This is an effort of significant scale. We have started by inviting all eligible residents aged 60 and above to enrol, so that they can develop a personalised health plan, and gain access to fully subsidised screenings and vaccinations at a trusted, regular care provider. This will also be progressively extended to those aged 40 to 59.</p>
 
-c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Another example – MND pushed on to catch up with BTO projects that were delayed by COVID. Over 70% of delayed projects have since been completed, without compromising on safety or quality.
+<p style="margin-left:30px;">c.&nbsp;&nbsp;&nbsp;&nbsp;Another example – MND pushed on to catch up with BTO projects that were delayed by COVID. Over 70% of delayed projects have since been completed, without compromising on safety or quality.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On top of this, MND will be rolling out the new “Standard, Plus, Prime” framework next year, to keep homeownership affordable, and ensure our public housing system continues to remain fair with good social mixing.
+<p style="margin-left:60px;">i.&nbsp;&nbsp;&nbsp;&nbsp;On top of this, MND will be rolling out the new “Standard, Plus, Prime” framework next year, to keep homeownership affordable, and ensure our public housing system continues to remain fair with good social mixing.</p>
 
-d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On the Forward SG front, agencies have intensified engagements with Singaporeans to hear their perspectives on the challenges and opportunities ahead.
+<p style="margin-left:30px;">d.&nbsp;&nbsp;&nbsp;&nbsp;On the Forward SG front, agencies have intensified engagements with Singaporeans to hear their perspectives on the challenges and opportunities ahead.</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Forward SG report will be released soon, to reflect these shared perspectives and how everyone in our society can contribute and shape our future.
 
@@ -59,7 +59,7 @@ d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On the Forward SG front, agencies h
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By inviting the public to consider the trade-offs involved in policymaking, we can build a deeper appreciation of the Government and Public Service’s efforts to build common ground amid diverse views.
 
-6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To add to all these, the Public Service also conducted the 2023 Presidential Election. This went smoothly, with Singaporeans providing generally positive feedback of their experience.
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To add to all these, the Public Service also conducted the 2023 Presidential Election. This went smoothly, with Singaporeans providing generally positive feedback of their experience.
 
 a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ELD had drawn lessons from the 2020 General Election to reduce waiting time for voters, by increasing the number of polling stations, as well as registration and ballot paper counters.
 
@@ -207,4 +207,4 @@ f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In turn, this will stre
 
 a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thank you for your hard work, and I look forward to an even stronger partnership as we chart our new way forward in our next phase of nation building.
 
-18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thank you.</p>
+18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thank you.<p></p>
