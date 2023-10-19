@@ -19,9 +19,9 @@ Colleagues,
 
 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let me first and foremost extend my appreciation to the 17 Public Service Leaders who have, or will relinquish their appointments this year, for their unwavering dedication and distinguished contributions.
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In particular, I would like to acknowledge Ms Chan Lai Fung and Mr Loh Khum Yean, who retired last month.
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;In particular, I would like to acknowledge Ms Chan Lai Fung and Mr Loh Khum Yean, who retired last month.</p>
 
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Together, they have served in the Public Service with distinction for almost 70 years. Thank you, Lai Fung, and Khum Yean for your many contributions. We wish you all the best!
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Together, they have served in the Public Service with distinction for almost 70 years. Thank you, Lai Fung, and Khum Yean for your many contributions. We wish you all the best!
 
 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let me also warmly welcome the 31 newly appointed Public Service Leaders and 123 PSLP officers to the community. With your fresh perspectives, energy and commitment, we look forward to the difference that you will bring to our collective mission.
 
@@ -207,4 +207,4 @@ f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In turn, this will stre
 
 a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thank you for your hard work, and I look forward to an even stronger partnership as we chart our new way forward in our next phase of nation building.
 
-18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thank you.
+18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thank you.</p>
