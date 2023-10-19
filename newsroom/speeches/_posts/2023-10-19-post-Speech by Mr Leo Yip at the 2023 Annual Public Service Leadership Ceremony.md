@@ -38,7 +38,7 @@ image: ""
 
 12.&nbsp;&nbsp;&nbsp;&nbsp; Second, our own society is evolving rapidly. We face more constraints today on the manpower and carbon fronts. We are an even more diverse society and people than before. We have new challenges, but also new opportunities as a people, to build a stronger society. One such opportunity is for the government to build stronger partnerships and engagement with the people, to enable stronger co-ownership and also co-effort in building tomorrow’s Singapore.<br>
 
-13.&amp;&nbsp;&nbsp;&nbsp;&nbsp; This changing world means that the range of issues our agencies across the Public Service now have to deal with, as well as intensity of work, has also grown. In the wake of the once-in-a-generation pandemic, the geopolitical and economic volatility, climate change and so on, not just us, but many public services around the world are facing similar work challenges.<br>
+13.&nbsp;&nbsp;&nbsp;&nbsp; This changing world means that the range of issues our agencies across the Public Service now have to deal with, as well as intensity of work, has also grown. In the wake of the once-in-a-generation pandemic, the geopolitical and economic volatility, climate change and so on, not just us, but many public services around the world are facing similar work challenges.<br>
 
 14.&nbsp;&nbsp;&nbsp;&nbsp; Let me just cite one case in point. Our international policy work has grown significantly over the years, even for ministries that traditionally regard ourselves with a largely domestic focus. We have to build new competencies to do this work well and align our international strategies better across our agencies. In the same way, we are building new capabilities to step up our domestic work on engagement and partnerships.<br>
 
