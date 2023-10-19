@@ -10,7 +10,7 @@ image: ""
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deputy Prime Minister Heng Swee Keat, Chairman and Members of the Public Service Commission, Colleagues and Friends, Ladies and Gentlemen,<br>
 
-1.&nbsp;&nbsp;&nbsp;A very good afternoon to all of you.<br>
+1.&nbsp;&nbsp;&nbsp; A very good afternoon to all of you.<br>
 
 2.&nbsp;&nbsp;&nbsp; Let me start by echoing Deputy Prime Minister (DPM) Mr Heng Swee Keat by thanking the 17 Public Service Leaders (PSLs) who have retired or are relinquishing their appointments this year. I am grateful to each of you for your contributions and years of dedicated service.<br>
 
