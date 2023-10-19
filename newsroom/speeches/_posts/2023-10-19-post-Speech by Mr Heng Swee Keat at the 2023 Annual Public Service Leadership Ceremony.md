@@ -25,7 +25,7 @@ Colleagues,
 
 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let me also warmly welcome the 31 newly appointed Public Service Leaders and 123 PSLP officers to the community. With your fresh perspectives, energy and commitment, we look forward to the difference that you will bring to our collective mission.
 
-Thanking the Public Service
+<b>Thanking the Public Service</b>
 
 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023 has been a significant year for Singapore.
 
@@ -61,15 +61,15 @@ Thanking the Public Service
 
 6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To add to all these, the Public Service also conducted the 2023 Presidential Election. This went smoothly, with Singaporeans providing generally positive feedback of their experience.
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ELD had drawn lessons from the 2020 General Election to reduce waiting time for voters, by increasing the number of polling stations, as well as registration and ballot paper counters.
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;ELD had drawn lessons from the 2020 General Election to reduce waiting time for voters, by increasing the number of polling stations, as well as registration and ballot paper counters.</p>
 
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The VoteQ system was also integrated into the hardcopy poll cards via a personalised QR code, so that voters could check the queue status at their polling station.
+<p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;The VoteQ system was also integrated into the hardcopy poll cards via a personalised QR code, so that voters could check the queue status at their polling station.</p>
 
-c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beyond these design improvements, it was the hard work of many teams and officers, including many of you here, which supported ELD to ensure that the election went smoothly.
+<p style="margin-left:30px;">c.&nbsp;&nbsp;&nbsp;&nbsp;Beyond these design improvements, it was the hard work of many teams and officers, including many of you here, which supported ELD to ensure that the election went smoothly.</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; From coordinating transport and logistics, security, public communications, to supporting voting for overseas Singaporeans and those in nursing homes, to developing typhoon contingency plans in Hong Kong, this was truly a WOG effort.
 
-d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I would like to express my appreciation to ELD, your teams supporting the election, and all 36,000 election officials. Behind the smooth proceedings on Polling Day, there were many hours of training, setting up and preparations as well. Thank you all for your hard work!
+<p style="margin-left:30px;">d.&nbsp;&nbsp;&nbsp;&nbsp;I would like to express my appreciation to ELD, your teams supporting the election, and all 36,000 election officials. Behind the smooth proceedings on Polling Day, there were many hours of training, setting up and preparations as well. Thank you all for your hard work!</p>
 
 7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023 has not ended yet, but it is clear that the pace for the Public Service has picked up, and public officers have stepped up in tandem. Thank you everyone, for serving with your heart.
 
@@ -77,134 +77,134 @@ A Stronger Public Service in a Changing World
 
 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Looking ahead into 2024 and beyond, we are moving into a world that is more uncertain and volatile.
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inflation has stabilised, but still higher than what we are used to.
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Inflation has stabilised, but still higher than what we are used to.</p>
 
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The US-China contestation looks set to deepen in the years ahead.
+<p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;The US-China contestation looks set to deepen in the years ahead.</p>
 
-c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The continuing Ukraine War has political and economic implications,
+<p style="margin-left:30px;">c.&nbsp;&nbsp;&nbsp;&nbsp;The continuing Ukraine War has political and economic implications,</p>
 
-d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And there is now a flare-up of violence in the Middle East.
+<p style="margin-left:30px;">d.&nbsp;&nbsp;&nbsp;&nbsp;And there is now a flare-up of violence in the Middle East.</p>
 
-9.&amp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore has built on good foundations, with a strong reputation and international standing. However, to ensure that the Public Service is ready for this more volatile future, we must evolve and update the way we work.
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore has built on good foundations, with a strong reputation and international standing. However, to ensure that the Public Service is ready for this more volatile future, we must evolve and update the way we work.
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Let me suggest three areas where we must continue to invest in.
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Let me suggest three areas where we must continue to invest in.</p>
 
-10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **First, we must continue to implement policies and deliver services well**.
+10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**First, we must continue to implement policies and deliver services well**.
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is our evergreen mission, and agencies have been working hard over the years to streamline services and address issues in a citizen-centric manner. &nbsp;
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;This is our evergreen mission, and agencies have been working hard over the years to streamline services and address issues in a citizen-centric manner. </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Take municipal services for example. There were often response delays because accountability was spread across numerous agencies. Such delays irk residents.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Take municipal services for example. There were often response delays because accountability was spread across numerous agencies. Such delays irk residents.<p></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Since the Municipal Services Office was formed in 2014 to catalyse inter-agency cooperation, residents’ satisfaction levels towards municipal services have improved to 75% in 2022.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Since the Municipal Services Office was formed in 2014 to catalyse inter-agency cooperation, residents’ satisfaction levels towards municipal services have improved to 75% in 2022.<p></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But MSO went further and recently piloted integrated municipal services in Tampines, where a single operator delivers 10 services.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But MSO went further and recently piloted integrated municipal services in Tampines, where a single operator delivers 10 services.<p></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As a result, this has halved feedback resolution time, and increased satisfaction by a further 20%!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As a result, this has halved feedback resolution time, and increased satisfaction by a further 20%!<p></p>
 
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is a good development because in today’s environment, where needs have grown more diverse and issues are more complex and interconnected, robust policy implementation and service delivery are more salient than ever.&nbsp;
+<p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;This is a good development because in today’s environment, where needs have grown more diverse and issues are more complex and interconnected, robust policy implementation and service delivery are more salient than ever.</p>
 
-11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beyond streamlining services, we must be willing to re-imagine and re-design policies and service delivery, to bring tangible improvements to our citizens’ lives.
+11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beyond streamlining services, we must be willing to re-imagine and re-design policies and service delivery, to bring tangible improvements to our citizens’ lives.
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good ground sensing must be coupled with empathy and a willingness to do things differently if needed.
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Good ground sensing must be coupled with empathy and a willingness to do things differently if needed.</p>
 
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ComLink is a good example of how we’ve re-imagined support for low-income families with children.
+<p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;ComLink is a good example of how we’ve re-imagined support for low-income families with children.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This shift came about after MSF decided to explore how to better uplift families with needs through coordinated, family-centric support.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This shift came about after MSF decided to explore how to better uplift families with needs through coordinated, family-centric support.<p></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Instead of waiting for families to turn up at the Social Service Office or other agencies to seek help when their situation is dire, it is better to go upstream and proactively partner the family as early as possible.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Instead of waiting for families to turn up at the Social Service Office or other agencies to seek help when their situation is dire, it is better to go upstream and proactively partner the family as early as possible.<p></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Going forward, ComLink families will be supported by Family Coaches, who will be the key touchpoint across various government departments and programmes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Going forward, ComLink families will be supported by Family Coaches, who will be the key touchpoint across various government departments and programmes.<p></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This approach is more intensive, but offers a better chance of supporting families towards stability, self-reliance and social mobility.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This approach is more intensive, but offers a better chance of supporting families towards stability, self-reliance and social mobility.<p></p>
 
-c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For the broader population, advances in technology bring new opportunities to deliver services in a more convenient and intuitive manner.
+<p style="margin-left:30px;">c.&nbsp;&nbsp;&nbsp;&nbsp;For the broader population, advances in technology bring new opportunities to deliver services in a more convenient and intuitive manner.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For example, our ServiceSG centres serve as a whole-of-government physical service touchpoint, offering almost 600 services across 25 agencies to citizens who may still require in-person interactions.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For example, our ServiceSG centres serve as a whole-of-government physical service touchpoint, offering almost 600 services across 25 agencies to citizens who may still require in-person interactions.<p></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Even as citizens switch to digital transactions, ServiceSG centres ensure that we do not leave anyone behind.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Even as citizens switch to digital transactions, ServiceSG centres ensure that we do not leave anyone behind.<p></p>
 
-d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ICA’s New Clearance Concept (NCC) is another example of how we will fundamentally transform the international travel experience for our citizens.
+<p style="margin-left:30px;">d.&nbsp;&nbsp;&nbsp;&nbsp;ICA’s New Clearance Concept (NCC) is another example of how we will fundamentally transform the international travel experience for our citizens.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Come 2024, ICA will progressively incorporate new automated lanes in all our checkpoints.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Come 2024, ICA will progressively incorporate new automated lanes in all our checkpoints.<p></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This will allow Singapore residents and departing visitors to enjoy passport-free immigration clearance, resulting in an even smoother and speedier clearance experience.&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This will allow Singapore residents and departing visitors to enjoy passport-free immigration clearance, resulting in an even smoother and speedier clearance experience.<p></p>
 
-e.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As the age-old Public Service wisdom goes – policy is implementation.
+<p style="margin-left:30px;">e.&nbsp;&nbsp;&nbsp;&nbsp;As the age-old Public Service wisdom goes – policy is implementation.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We must both design good policies and deliver them well. This is how we sustain and renew trust with citizens.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We must both design good policies and deliver them well. This is how we sustain and renew trust with citizens.<p></p>
 
-12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **This leads me to my second suggestion – we must partner citizens more deeply**.
+12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**This leads me to my second suggestion – we must partner citizens more deeply**.
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Since Our Singapore Conversation in 2012, the Public Service has steadily built up citizen engagement capabilities. This has put us in good stead to drive today’s Forward SG efforts.
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Since Our Singapore Conversation in 2012, the Public Service has steadily built up citizen engagement capabilities. This has put us in good stead to drive today’s Forward SG efforts.</p>
 
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As demographics and aspirations change, we must move beyond engagement and facilitate an active citizenry that contributes to, and enables more robust policymaking amid a more diverse and complex backdrop. &nbsp;
+<p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;As demographics and aspirations change, we must move beyond engagement and facilitate an active citizenry that contributes to, and enables more robust policymaking amid a more diverse and complex backdrop. </p>
 
-c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alliances for Action (AfAs) offer a good model, as they bring stakeholders from different sectors together, to discuss and devise solutions to shared challenges.&nbsp;&nbsp;
+<p style="margin-left:30px;">c.&nbsp;&nbsp;&nbsp;&nbsp;Alliances for Action (AfAs) offer a good model, as they bring stakeholders from different sectors together, to discuss and devise solutions to shared challenges.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In fact the very idea of AfA came out from the Emerging Stronger taskforce, which was a partnership between the political leadership and private sector CEOs.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In fact the very idea of AfA came out from the Emerging Stronger taskforce, which was a partnership between the political leadership and private sector CEOs.<p></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For example, the recently concluded AfA for Lower-Wage Workers brought passionate citizens, youths, union members, businesses and community groups together to pilot and scale up programmes to uplift lower-wage workers.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For example, the recently concluded AfA for Lower-Wage Workers brought passionate citizens, youths, union members, businesses and community groups together to pilot and scale up programmes to uplift lower-wage workers.<p></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Their initiatives ranged from strengthening respect and appreciation, to fostering supportive work environments, and increasing support for upskilling.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Their initiatives ranged from strengthening respect and appreciation, to fostering supportive work environments, and increasing support for upskilling.<p></p>
 
-d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; While this might take a longer time or more effort, the value of modalities like the AfA is that it mobilises like-minded citizens and stakeholders to co-create and contribute together, thus building shared ownership.
+<p style="margin-left:30px;">d.&nbsp;&nbsp;&nbsp;&nbsp;While this might take a longer time or more effort, the value of modalities like the AfA is that it mobilises like-minded citizens and stakeholders to co-create and contribute together, thus building shared ownership.</p>
 
-e.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am happy to see that Forward SG engagements have taken on more innovative and participatory modalities like citizen panels, and involved specific groups in direct action on issues that they are passionate about, such as sustainability advocates on Green Action initiatives.
+<p style="margin-left:30px;">e.&nbsp;&nbsp;&nbsp;&nbsp;I am happy to see that Forward SG engagements have taken on more innovative and participatory modalities like citizen panels, and involved specific groups in direct action on issues that they are passionate about, such as sustainability advocates on Green Action initiatives.</p>
 
-13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore has done well over the years.&nbsp; But we must never forget that we are a very young nation, in an increasingly turbulent world.&nbsp;
+13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore has done well over the years.&nbsp; But we must never forget that we are a very young nation, in an increasingly turbulent world.&nbsp;
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By enhancing partnership with our citizens, especially our younger generations, to build a better Singapore for the future, we foster a deeper sense of citizenship, belonging, and togetherness.
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;By enhancing partnership with our citizens, especially our younger generations, to build a better Singapore for the future, we foster a deeper sense of citizenship, belonging, and togetherness.</p>
 
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this way, regardless of the rough and tumbles ahead, we can tackle the challenges together, and emerge stronger from each rapid.
+<p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;In this way, regardless of the rough and tumbles ahead, we can tackle the challenges together, and emerge stronger from each rapid.</p>
 
-14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Finally, we must continue to invest in good governance and leadership.**
+14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Finally, we must continue to invest in good governance and leadership.**
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore is a small island-state with no natural resources and a very open economy.
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Singapore is a small island-state with no natural resources and a very open economy.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have done well so far because we have built up a robust governance system that garners public trust.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have done well so far because we have built up a robust governance system that garners public trust.<p></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Over the years, the Public Service and political leadership have worked together to implement policies that keep Singapore exceptional and successful.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Over the years, the Public Service and political leadership have worked together to implement policies that keep Singapore exceptional and successful.<p></p>
 
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is not something we can take for granted in today’s more fractured world, where public trust is under threat in many countries.
+<p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;This is not something we can take for granted in today’s more fractured world, where public trust is under threat in many countries.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In today’s “post-truth” environment, facts could be less relevant when trying to shape public opinion. It is easy to put out divisive rhetoric or inflammatory remarks as a clickbait, while remaining anonymous.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In today’s “post-truth” environment, facts could be less relevant when trying to shape public opinion. It is easy to put out divisive rhetoric or inflammatory remarks as a clickbait, while remaining anonymous.<p></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The rise of identity politics is also creating more divisions within society, drawing attention away from points of commonality and efforts to build cohesion.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The rise of identity politics is also creating more divisions within society, drawing attention away from points of commonality and efforts to build cohesion.<p></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We only need to look around the world to see how societies have become more fragmented and polarised.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We only need to look around the world to see how societies have become more fragmented and polarised.<p></p>
 
-15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now more than ever, we must invest in good governance and good leadership.
+15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now more than ever, we must invest in good governance and good leadership.
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is about continuing to look outwards to engage the world, build new partnerships, pick up best practices, as well as learn from cautionary tales.
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;It is about continuing to look outwards to engage the world, build new partnerships, pick up best practices, as well as learn from cautionary tales.</p>
 
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Domestically, we must sustain trust and strengthen the shared sense of purpose between the Public Service and the political leadership.
+<p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;Domestically, we must sustain trust and strengthen the shared sense of purpose between the Public Service and the political leadership.</p>
 
-c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Public Service ethos of Integrity, Service, Excellence are values that the political leadership shares and upholds.
+<p style="margin-left:30px;">c.&nbsp;&nbsp;&nbsp;&nbsp;The Public Service ethos of Integrity, Service, Excellence are values that the political leadership shares and upholds.</p>
 
-d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For the political leadership to give expression to the will of the people, we must work closely with the Public Service to develop policies and programmes. In turn the Public Service must do its best to implement and execute well.
+<p style="margin-left:30px;">d.&nbsp;&nbsp;&nbsp;&nbsp;For the political leadership to give expression to the will of the people, we must work closely with the Public Service to develop policies and programmes. In turn the Public Service must do its best to implement and execute well.</p>
 
-e.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As we undergo this phase of political leadership transition, my colleagues and I look to the Public Service to continue to serve with distinction and professionalism.
+<p style="margin-left:30px;">e.&nbsp;&nbsp;&nbsp;&nbsp;As we undergo this phase of political leadership transition, my colleagues and I look to the Public Service to continue to serve with distinction and professionalism.</p>
 
-f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We are all entrusted with the task of stewarding the nation and forging a better future for Singapore and Singaporeans. Let us work closely to take Singapore forward, together.
+<p style="margin-left:30px;">f.&nbsp;&nbsp;&nbsp;&nbsp;We are all entrusted with the task of stewarding the nation and forging a better future for Singapore and Singaporeans. Let us work closely to take Singapore forward, together.</p>
 
-Conclusion
+	<b> Conclusion <br>
 
-16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In closing, let me once again thank the Public Service Leadership community for steering the Public Service through a busy and challenging year.
+16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In closing, let me once again thank the Public Service Leadership community for steering the Public Service through a busy and challenging year.
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have a lot more to do in writing the next chapter of the Singapore story, within a more volatile and uncertain world.
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;We have a lot more to do in writing the next chapter of the Singapore story, within a more volatile and uncertain world.</p>
 
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We embark on this journey from a position of strength and confidence. Our Government has the trust and support of our people.
+<p style="margin-left:30px;">b.&nbsp;&nbsp;&nbsp;&nbsp;We embark on this journey from a position of strength and confidence. Our Government has the trust and support of our people.</p>
 
-c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have developed strong partnerships with countries in our region, and around the world.
+<p style="margin-left:30px;">c.&nbsp;&nbsp;&nbsp;&nbsp;We have developed strong partnerships with countries in our region, and around the world.</p>
 
-d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Let us continue to deliver our policies well, partner our citizens more deeply, and uphold good governance and leadership.
+<p style="margin-left:30px;">d.&nbsp;&nbsp;&nbsp;&nbsp;Let us continue to deliver our policies well, partner our citizens more deeply, and uphold good governance and leadership.</p>
 
-e.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This will enable us to retain and deepen trust with citizens, and work effectively with countries and partners around the world.
+<p style="margin-left:30px;">e.&nbsp;&nbsp;&nbsp;&nbsp;This will enable us to retain and deepen trust with citizens, and work effectively with countries and partners around the world.</p>
 
-f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In turn, this will strengthen our collective solidarity, deepen our linkages across the world, and enable us to secure a better future for ourselves and our future generations.
+<p style="margin-left:30px;">f.&nbsp;&nbsp;&nbsp;&nbsp;In turn, this will strengthen our collective solidarity, deepen our linkages across the world, and enable us to secure a better future for ourselves and our future generations.</p>
 
-17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As we approach the year end, I hope that you will also carve out time to bond with your families and connect with your friends and loved ones.
+17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As we approach the year end, I hope that you will also carve out time to bond with your families and connect with your friends and loved ones.
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thank you for your hard work, and I look forward to an even stronger partnership as we chart our new way forward in our next phase of nation building.
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Thank you for your hard work, and I look forward to an even stronger partnership as we chart our new way forward in our next phase of nation building. </p>
 
-18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thank you.<p></p>
+18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thank you.</b>
