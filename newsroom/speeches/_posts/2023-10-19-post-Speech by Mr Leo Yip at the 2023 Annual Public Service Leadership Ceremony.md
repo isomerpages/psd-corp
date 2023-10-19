@@ -8,7 +8,7 @@ image: ""
 ---
 <b>SPEECH BY MR LEO YIP, HEAD OF CIVIL SERVICE, AT THE ANNUAL PUBLIC SERVICE LEADERSHIP CEREMONY ON 19 OCTOBER 2023</b><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deputy Prime Minister Heng Swee Keat, Chairman and Members of the Public Service Commission, Colleagues and Friends, Ladies and Gentlemen,<br>
+Deputy Prime Minister Heng Swee Keat,<br>Chairman and Members of the Public Service Commission,<br>Colleagues and Friends,<br>Ladies and Gentlemen,<br>
 
 1.&nbsp;&nbsp;&nbsp;&nbsp;A very good afternoon to all of you.<br>
 
