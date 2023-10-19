@@ -19,9 +19,9 @@ Colleagues,
 
 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let me first and foremost extend my appreciation to the 17 Public Service Leaders who have, or will relinquish their appointments this year, for their unwavering dedication and distinguished contributions.
 
-<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;In particular, I would like to acknowledge Ms Chan Lai Fung and Mr Loh Khum Yean, who retired last month.</p>
+<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;In particular, I would like to acknowledge Ms Chan Lai Fung and Mr Loh Khum Yean, who retired last month.
 
-<p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Together, they have served in the Public Service with distinction for almost 70 years. Thank you, Lai Fung, and Khum Yean for your many contributions. We wish you all the best!
+</p><p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Together, they have served in the Public Service with distinction for almost 70 years. Thank you, Lai Fung, and Khum Yean for your many contributions. We wish you all the best!
 
 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let me also warmly welcome the 31 newly appointed Public Service Leaders and 123 PSLP officers to the community. With your fresh perspectives, energy and commitment, we look forward to the difference that you will bring to our collective mission.
 
@@ -29,9 +29,9 @@ Thanking the Public Service
 
 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023 has been a significant year for Singapore.
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We closed off our COVID chapter at the first quarter of the year, when we transitioned into DORSCON Green, and put out the COVID White Paper.
+</p><p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;We closed off our COVID chapter at the first quarter of the year, when we transitioned into DORSCON Green, and put out the COVID White Paper.
 
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beyond overcoming the crisis of a generation, we have also bounced back quickly and stronger.
+</p><p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Beyond overcoming the crisis of a generation, we have also bounced back quickly and stronger.
 
 c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This would not have been possible without the tremendous efforts from the Public Service.
 
