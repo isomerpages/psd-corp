@@ -72,11 +72,11 @@ image: ""
 
 26.&nbsp;&nbsp;&nbsp; I have in recent years spoken about how we have stepped up leadership development efforts in the Public Service. Some of the shifts we have made include:<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (i) implementing a Leadership Competency Framework, tailored to what leaders in the Public Service do;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (i)&nbsp;&nbsp;&nbsp; implementing a Leadership Competency Framework, tailored to what leaders in the Public Service do;<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (ii) institutionalising the 360-degree feedback exercise, which provides feedback not just from who we work for, but also from who works for us and who we work with laterally; and<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (ii)&nbsp;&nbsp;&nbsp; institutionalising the 360-degree feedback exercise, which provides feedback not just from who we work for, but also from who works for us and who we work with laterally; and<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (iii) building a stronger ethos and culture of leaders building leaders, as it is the responsibility for all leaders to take ownership of their own growth.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (iii)&nbsp;&nbsp;&nbsp; building a stronger ethos and culture of leaders building leaders, as it is the responsibility for all leaders to take ownership of their own growth.<br>
 
 27.&nbsp;&nbsp;&nbsp; We are pushing ahead with these efforts. For instance, the Permanent Secretaries, Deputy Secretaries and Chief Executives are currently taking part in the second edition of 360-degree feedback, the first being back in 2020. These efforts have just started, and they will continue.<br>
 
