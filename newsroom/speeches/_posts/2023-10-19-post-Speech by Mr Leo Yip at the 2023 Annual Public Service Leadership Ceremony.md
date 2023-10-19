@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-<b>Speech by Mr Leo Yip, Head of Civil Service, at the Annual Public Service Leadership Ceremony on 19 October 2023</b><br>
+<b>SPEECH BY MR LEO YIP, HEAD OF CIVIL SERVICE, AT THE ANNUAL PUBLIC SERVICE LEADERSHIP CEREMONY ON 19 OCTOBER 2023</b><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deputy Prime Minister Heng Swee Keat, Chairman and Members of the Public Service Commission, Colleagues and Friends, Ladies and Gentlemen,<br>
 
