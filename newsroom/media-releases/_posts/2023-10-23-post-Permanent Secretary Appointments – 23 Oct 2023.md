@@ -8,7 +8,6 @@ image: ""
 ---
 <b>NEW PERMANENT SECRETARY APPOINTMENTS</b><br>
 
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Jeffrey Siow Chen Siang (萧振祥), Managing Director and Chief Operating Officer, Enterprise Singapore, will be appointed as Second Permanent Secretary of the Ministry of Manpower with effect from 1 January 2024.<br>
 
 <b>Changes in Permanent Secretary Appointments</b><br>
