@@ -15,9 +15,9 @@ We agree with Mr Chow that it is important to serve the public well and with emp
 
 Our centres make it more convenient and accessible for citizens to transact with the Government.&nbsp;For example,&nbsp;seniors who&nbsp;have difficulty making online transactions can visit our centres and be served by our officers who are trained to help&nbsp;them&nbsp;complete different digital services online, as well as to apply for schemes on their behalf.&nbsp;Today, seven ServiceSG&nbsp;centres provide close to 600 government services across more than 20 agencies.
 
-Mr Chow also asked about a scorecard of improvements. Every two years, the Ministry of Finance releases the Singapore Public Sector Outcomes Review that takes stock of how Singapore has fared in key areas, including how the public service has fared in serving our citizens. The review can be accessed at go.gov.sg/SPOR
+Mr Chow also asked about a scorecard of improvements. Every two years, the Ministry of Finance releases the Singapore Public Sector Outcomes Review that takes stock of how Singapore has fared in key areas, including how the Public Service has fared in serving our citizens. The review can be accessed at go.gov.sg/SPOR.
 
-We thank Mr Chow for his feedback and reminder about how the public service should constantly improve how we deliver our services and care for our citizens. We are committed to doing so, so that we can uphold the public’s trust in us.
+We thank Mr Chow for his feedback and reminder about how the Public Service should constantly improve how we deliver our services and care for our citizens. We are committed to doing so, so that we can uphold the public’s trust in us.
 
 Lee Mui Ling
 <br>Chief Operating Officer, ServiceSG
