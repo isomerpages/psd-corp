@@ -19,6 +19,6 @@ The racial and gender proportions of the Civil Service as a whole are broadly al
 
 Racial and gender diversity are but two of the many dimensions of diversity we look for. Other equally if not more important dimensions include the wide range of experiences and capabilities needed to deliver our national outcomes. Given the diversity of roles in the Civil Service, we do not and should not expect every sub-sector or grade to mirror the national profile. 
 
-What is also important is for the Civil Service to establish engagement structures and processes to ensure that the necessary breadth and depth of perspectives and interests are taken into consideration. Ultimately, what matters most to our public service work are not necessarily the input indicators of race or gender, but the outcome indicators of efficiency, effectiveness, and resilience.
+What is also important is for the Civil Service to establish engagement structures and processes to ensure that the necessary breadth and depth of perspectives and interests are taken into consideration. Ultimately, what matters most to our public service work is not necessarily the input indicators of race or gender, but the outcome indicators of efficiency, effectiveness, and resilience.
 
 The member may wish to refer to our reply to PQ 44 at the 5 April 2022 Parliament Sitting on our approach in building diversity in the Public Service leadership.
