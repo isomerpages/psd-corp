@@ -13,7 +13,7 @@ variant: markdown
 
 <b>Economic and Labour Market Outlook</b><br>
 
-2.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; The Ministry of Trade and Industry has narrowed the GDP growth forecast of “0.5 per cent to 1.5 per cent” to “around 1.0 per cent” for 2023. The revised forecast takes into consideration the labour market outlook, subdued external demand for the rest of the year and continued downside risks arising from geopolitical tensions.<br>
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Ministry of Trade and Industry has narrowed the GDP growth forecast of “0.5 per cent to 1.5 per cent” to “around 1.0 per cent” for 2023. The revised forecast takes into consideration the labour market outlook, subdued external demand for the rest of the year and continued downside risks arising from geopolitical tensions.<br>
 
 <b>Progressive approach to year-end payment</b><br>
 
