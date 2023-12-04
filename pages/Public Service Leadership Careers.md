@@ -6,6 +6,7 @@ description: To navigate a more complex and fast-changing environment, the
   leadership ranks.  We therefore welcome leaders with different backgrounds,
   who wish to contribute their skills and perspectives in the Public Service to
   make a meaningful impact to Singapore and Singaporeans.
+variant: markdown
 ---
 The Singapore Public Service offers an attractive career proposition for those who want to make a difference in service of Singapore and Singaporeans. To navigate a more complex and fast-changing environment, the Public Service needs a diversity of strengths and perspectives in our leadership ranks.&nbsp; We therefore welcome leaders with different backgrounds, who wish to contribute their skills and perspectives in the Public Service to make a meaningful impact to Singapore and Singaporeans.  
   
@@ -66,7 +67,7 @@ The Public Service values the experiences of mid-career entrants outside of the 
 
 Central gateway for mid-career entrants to apply for Leadership Programmes in the Public Service**
 
-- Candidates may be considered for the&nbsp;**PSLP Sectoral Phase (SP)**&nbsp;or the&nbsp;**Administrative Service (AS)**, where they would be supported in deepening their competencies either within a sector (PSLP SP) or across 2-3 sectors (AS).
+- Candidates may be considered for the&nbsp;**PSLP General Phase (GP)**, **Sectoral Phase (SP)** or the&nbsp;**Administrative Service (AS)**, where they would be supported in deepening their competencies either within a sector (PSLP SP) or across 2-3 sectors (AS).
 - Candidates can apply without needing to choose to join the AS/PSLP or any specific government agencies. Successful candidates will be placed onto the appropriate leadership programme, where their past work experiences will be taken into account when curating relevant postings / developmental opportunities, based on the assessed calibre, readiness and seniority.  
 - The AS aims to develop leaders with whole-of-government perspectives and capabilities, to formulate and implement policies that will improve the lives of Singaporeans. The career path of the AS can be found here.&nbsp;&nbsp;  
 - The PSLP aims to develop sectoral leaders for key leadership positions within the Public Service.&nbsp; There are 2 phases in this talent development programme.&nbsp; You will go through structured rotations during the General Phase to explore and gain experience in at least two different sectors of the Public Service, while at the Sectoral Phase, you will focus your development within a sector, building deeper competencies and networks.&nbsp;
