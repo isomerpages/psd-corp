@@ -6,6 +6,7 @@ date: 2023-10-19
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 **SPEECH BY MR HENG SWEE KEAT,  DEPUTY PRIME MINISTER AND COORDINATING MINISTER FOR ECONOMIC POLICIES, AT 2023 ANNUAL PUBLIC SERVICE LEADERSHIP CEREMONY ON 19 OCT 2023**
 
@@ -37,7 +38,7 @@ Colleagues,
 
 <p style="margin-left:30px;">d.&nbsp;&nbsp;&nbsp;&nbsp;Your deep sense of service and effective partnership with the political leadership and our people has enabled Singapore to not only to get through the pandemic but to emerge stronger. &nbsp;Thank You!</p>
 
-5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Emerging from the pandemic means returning to BAU work – except that is it no longer “Business _AS_ Usual” but “Business _ABOVE_ usual”!
+5.&nbsp;  Emerging from the pandemic means returning to BAU work – except that is it no longer “Business _AS_ Usual” but “Business _ABOVE_ usual”!
 
 <p style="margin-left:30px;">a.&nbsp;&nbsp;&nbsp;&nbsp;Taking advantage of our favourable position post-COVID, the Public Service have pushed ahead with policies across various fronts.</p>
 
