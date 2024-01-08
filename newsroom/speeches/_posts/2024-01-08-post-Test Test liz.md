@@ -7,9 +7,10 @@ description: ""
 image: ""
 variant: markdown
 ---
+<p>this is a number <span style="margin-left:30px">spanned</span> text is red</p>		
 <b> hello world! </b>
 <em> hello world italics </em>
-<br>
+<br><br>
 <a href="www.google.com> go to google does not work</a>
 				 <ul li> this is part of a list </ul>
 				 <li> this is another list with bullet points
@@ -18,7 +19,7 @@ variant: markdown
 					<p style="margin-left:30px">5. hello world again</p>
 																		 
 <div style="margin-left:30px"> hello this is a div </div>
-														 <p>this is a number <span style="margin-left:30px">spanned</span> text is red</p>														 
+														 												 
 
 **TRANSCRIPT OF SPEECH BY MR HENG SWEE KEAT,  
 DEPUTY PRIME MINISTER AND  
