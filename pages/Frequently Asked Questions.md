@@ -81,12 +81,12 @@ The Committee’s report was submitted to the Prime Minister on 30 December 2011
 
 The revised salaries took effect from 21 May 2011.
 
-In 2017, the Prime Minister formed a new independent Committee to review the salary framework to ensure that it remained appropriate and valid. The 2017 Committee affirmed the continued relevance of the salary framework.
+In 2017, the Prime Minister formed a new independent committee to review the salary framework to ensure that it remained appropriate and valid. The 2017 Committee affirmed the continued relevance of the salary framework.
 
 <b> Will there be any further reviews to the salary framework and by whom? </b><br>
-The 2012 White Paper on “Salaries for a Capable and Committed Government” recommended that an independent committee be appointed every five years to review the salary framework. The independent Committee will be appointed by the Prime Minister.
+The 2012 White Paper on “Salaries for a Capable and Committed Government” recommended that an independent committee be appointed every five years to review the salary framework. The independent committee will be appointed by the Prime Minister.
 
-**Remuneration of Political Appointment Holders**
+<h3><b>Remuneration of Political Appointment Holders</b></h3>
 
 **What is the benchmark used to determine political salaries?**
 
@@ -94,7 +94,7 @@ In 2012, the salary of an entry-level Minister (i.e., job grade MR4) was benchma
 
 The salary levels of other political appointment holders were determined based on their salary ratios to MR4 and reflected their roles and responsibilities.
 
-In 2017, the independent Committee set up to review political salaries noted that the benchmark had increased since 2012, and recommended adjusting the salary levels of political appointment holders to match the benchmark. However, the Government decided not to make any changes and to keep the political salaries at the 2012 level, since the economy was still in transition. Political salaries have thus not been adjusted since 2012.
+In 2017, the independent committee set up to review political salaries noted that the benchmark had increased since 2012, and recommended adjusting the salary levels of political appointment holders to match the benchmark. However, the Government decided not to make any changes and to keep the political salaries at the 2012 level, since the economy was still in transition. Political salaries have thus not been adjusted since 2012.
 
 **Why benchmark to the top 1,000 Singaporean income earners?**
 
@@ -113,12 +113,12 @@ They include the following: <br>
 
 **What does the Ministerial salary framework consist of?**
 
-The salary formula features fixed and variable pay components which are linked to individual performance and national outcomes, i.e.
-Annual Salary = Fixed (13 months)
-+ Annual Variable Component (typically 1 month)
-+ Individual Performance Bonus (3 months for good performance)
-+ National Bonus (3 months if targets are met)
-= 20 months.
+The salary formula features fixed and variable pay components which are linked to individual performance and national outcomes, i.e. <br>
+Annual Salary = Fixed (13 months) <br>
++&nbsp;&nbsp;&nbsp;Annual Variable Component (typically 1 month)<br>
++&nbsp;&nbsp;&nbsp;Individual Performance Bonus (3 months for good performance)<br>
++&nbsp;&nbsp;&nbsp;National Bonus (3 months if targets are met)<br>
+= 20 months.<br>
 
 The salaries of the appointment holders are performance-linked, to ensure that the leaders are accountable for their roles and responsibilities. The salaries are also linked to the socio-economic outcomes of Singaporeans.
 
