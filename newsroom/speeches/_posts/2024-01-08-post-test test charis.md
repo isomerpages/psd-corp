@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-Chairman and Members of the Public Service Commission 
+Chairman and Members of the Public Service Commission
 
 Head, Civil Service, 
 
