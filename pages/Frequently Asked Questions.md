@@ -86,7 +86,7 @@ In 2017, the Prime Minister formed a new independent committee to review the sal
 <b> Will there be any further reviews to the salary framework and by whom? </b><br>
 The 2012 White Paper on “Salaries for a Capable and Committed Government” recommended that an independent committee be appointed every five years to review the salary framework. The independent committee will be appointed by the Prime Minister.
 
-<h3><b>Remuneration of Political Appointment Holders</b></h3>
+<h3>Remuneration of Political Appointment Holders</h3>
 
 **What is the benchmark used to determine political salaries?**
 
