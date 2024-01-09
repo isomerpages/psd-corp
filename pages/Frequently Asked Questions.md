@@ -2,6 +2,7 @@
 title: Frequently Asked Questions
 permalink: /faq/
 description: ""
+variant: markdown
 ---
 THE SINGAPORE ADMINISTRATIVE SERVICE
 ====================================
@@ -63,162 +64,105 @@ There is generally no bond for the programme. However, if you are sponsored for 
 
   
 
-REMUNERATION FOR MINISTERS AND MEMBERS OF PARLIAMENT
+REMUNERATION FOR POLITICAL APPOINTMENT HOLDERS AND MEMBERS OF PARLIAMENT
 ====================================================
 
 <h3>Background</h3>
 
-**What is the review on ministerial salaries about?**
+**What is the review on political salaries about?**
 
-In his swearing-in speech on 21 May 2011 after the General Election, the Prime Minister acknowledged that Singaporeans had genuine concerns over the present salaries of their leaders. At the same time, Ministers should be paid properly so that Singapore will have capable and committed leadership over the long term. Thus, the Prime Minister appointed a committee chaired by Mr Gerard Ee to review the basis and level of salaries for the President, Prime Minister, political appointment holders and Members of Parliaments to ensure that the salary framework will remain relevant for the future.  
-  
-The Committee completed its review and submitted its report to the Prime Minister on 30 December 2011. The Government considered the report carefully and agreed with the key principles and approach adopted by the Committee. The report was converted into a White Paper, “Salaries for A Capable and Committed Government”. Parliament endorsed the White Paper after three days of debate from 16 to 18 January 2012. As committed by the Prime Minister in his swearing-in speech, the revised salaries took effect from 21 May 2011.  
-  
-In 2017, the Prime Minister formed a new independent Committee to review the salary framework to ensure that it remained appropriate and valid. The 2017 Committee affirmed that the current salary framework remains relevant.  
-  
+On 21 May 2011, the Prime Minister announced the appointment of an independent committee to review the basis and level of political salaries to ensure that the salary framework remained relevant for the future. The review covered the salaries for the President, Prime Minister, Speaker of Parliament, Deputy Speaker of Parliament, political appointment holders, and Members of Parliament (MPs) including Non-Constituency MPs and Nominated MPs.
 
-**Will there be any further reviews to the salary framework and by whom?**
+The Committee’s report was submitted to the Prime Minister on 30 December 2011 and converted into a White Paper, [“Salaries for A Capable and Committed Government”. ](https://www.psd.gov.sg/files/white-paper---salaries-for-a-capable-and-committed-government.pdf) The Committee kept in mind three principles when determining political salaries: <br>
 
-The Prime Minister will appoint a Committee to carry out regular reviews every five years to ensure that the salary framework remains relevant.  
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salaries must be competitive so that people of the right calibre are not deterred from stepping forward to lead the country. <br>
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The ethos of political service entails making sacrifices, and hence there should be a discount in the pay formula. <br>
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There should be a “clean wage” with no hidden perks.
 
+The revised salaries took effect from 21 May 2011.
 
-<h3>Remuneration of Ministers</h3>
+In 2017, the Prime Minister formed a new independent committee to review the salary framework to ensure that it remained appropriate and valid. The 2017 Committee affirmed the continued relevance of the salary framework.
+
+<b> Will there be any further reviews to the salary framework and by whom? </b><br>
+The 2012 White Paper on “Salaries for a Capable and Committed Government” recommended that an independent committee be appointed every five years to review the salary framework. The independent committee will be appointed by the Prime Minister.
+
+<h3><b>Remuneration of Political Appointment Holders</b></h3>
 
 **What is the benchmark used to determine political salaries?**
 
-The benchmark for an entry-level MR4 Minister is based on the median income of the top 1,000 Singapore citizens income earners, with a 40% discount to reflect the ethos of political service.  
-  
-The salaries of other political appointment holders will be determined based on their salary ratios to MR4. The salary ratios reflect the roles and responsibilities of the different political appointment holders. For example, the Prime Minister who is the head of the Executive will earn 2 times the salary of an MR4 Minister.  
-  
-The salaries of political appointment holders will be adjusted according to the movement of the benchmark as it responds to market conditions.  
-  
+In 2012, the salary of an entry-level Minister (i.e., job grade MR4) was benchmarked to the median income of the top 1,000 income earners who were Singapore citizens, with a 40 per cent discount to reflect the ethos of political service.
 
-**Why benchmark to the top 1,000 Singapore Citizens income earners?**  
+The salary levels of other political appointment holders were determined based on their salary ratios to MR4 and reflected their roles and responsibilities.
 
-It is important to note that when considering potential candidates to take up political office, the first quality that the Government looks out for is a sense of public service. The Government looks for people who have their heart in the right place, who can empathise with Singaporeans from all walks of life, who want to contribute to the betterment of our Singapore and Singaporeans. This has been, and should always be, the important basic requirement for any Member of Parliament or Minister.  
-  
-But having a passion for public service is not in itself sufficient to run a country well. The Government therefore wants people who not only have a sense of public service, but also have many other qualities: organisational and leadership capabilities, capacity to handle multiple responsibilities, ability to solve problems and take charge in a crisis, and the ability to hold his own with world leaders and further Singapore’s interests.  
-  
-It does not mean that only people who are among the top 1,000 earners would meet all these criteria, or that the Government will only draw from this pool. Indeed, many top earners have the competencies but not the sense of public mission. But looking at the responsibilities of the jobs that these 1,000 hold, this is a reasonable level that reflects the quality and abilities of people that Singapore seeks to bring in as Ministers for continued good government.  
-  
+In 2017, the independent committee set up to review political salaries noted that the benchmark had increased since 2012, and recommended adjusting the salary levels of political appointment holders to match the benchmark. However, the Government decided not to make any changes and to keep the political salaries at the 2012 level, since the economy was still in transition. Political salaries have thus not been adjusted since 2012.
 
-**Who are these people in the top 1,000 income earners list?**  
+**Why benchmark to the top 1,000 Singaporean income earners?**
 
-The top 1,000 Singapore citizen income earners would include the following:
+The competencies and responsibilities held by the top 1,000 income earners are a reasonable reflection of the quality and abilities of those whom the Government seeks to bring in as MPs and political appointment holders.
 
-1\. Senior management positions including Chief Executive Officers, Chief Operating Officers, Chief Financial Officers, Chief Information Officers, Presidents, Chairmen, Directors, General Managers from a range of industries;
-<br>2. Representatives from the financial services including bankers, asset managers, traders, Managing Directors, Senior Vice Presidents; and
-<br> 3. Professionals including lawyers, accountants, doctors, engineers.  
-    
+As leaders of the country, MPs and political appointment holders must have organisational and leadership capabilities, the capacity to handle multiple responsibilities, the ability to solve problems and take charge in a crisis, as well as the ability to further Singapore’s interests on the world stage.
 
-  
-**What does the Ministerial salary framework consist of?**  
+Most importantly, potential MPs or political appointment holders should possess a sense of public service. We want people who have their heart in the right place, who can empathise with Singaporeans from all walks of life, and who want to contribute to the betterment of Singapore and Singaporeans.
 
-The salary formula features fixed and variable pay components which are linked to individual performance and national outcomes, i.e.  
-Annual Salary = Fixed (13 months)  
-\+ Annual Variable Component (typically 1 month)  
-\+ Individual Performance Bonus (3 months for good performance)  
-\+ National Bonus (3 months if targets are met)  
-\= 20 months.  
-  
-A Minister may start at the lower end of the MR4 range with a monthly salary of $46,750. This works out to an annual salary of $935,000, of which $607,750 is fixed and the rest is variable.  
-  
-As at 2012, when the Ministerial salaries were last adjusted, the monthly salary at benchmark level is $55,000, which works out to an annual salary of $1,100,000. The fixed salary is $715,000 and the rest is variable.  
-  
-The salaries of the appointment holders are performance-linked, to ensure that the leaders are accountable for their roles and responsibilities. The salaries are also linked to the socio-economic outcomes of Singaporeans.  
-  
+**Who are the top 1,000 income earners?**
+
+They include the following: <br>
+•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Those in senior management positions including Chief Executive Officers, Chief Operating Officers, Chief Financial Officers, Chief Information Officers, Presidents, Chairmen, Directors, and General Managers from a range of industries; <br>
+•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Representatives from the financial services including bankers, asset managers, traders, Managing Directors, Senior Vice Presidents; and <br>
+•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Professionals including lawyers, accountants, doctors, engineers.
+
+**What does the Ministerial salary framework consist of?**
+
+The salary formula features fixed and variable pay components which are linked to individual performance and national outcomes, i.e. <br>
+Annual Salary = Fixed (13 months) <br>
++&nbsp;&nbsp;&nbsp;Annual Variable Component (typically 1 month)<br>
++&nbsp;&nbsp;&nbsp;Individual Performance Bonus (3 months for good performance)<br>
++&nbsp;&nbsp;&nbsp;National Bonus (3 months if targets are met)<br>
+= 20 months.<br>
+
+The salaries of the appointment holders are performance-linked, to ensure that the leaders are accountable for their roles and responsibilities. The salaries are also linked to the socio-economic outcomes of Singaporeans.
+
+As of 2012, when the Ministerial salaries were last adjusted, the reference monthly salary for a MR4 Minister (mid-point of the range) was S$55,000. This works out to an annual salary of $1,100,000. The fixed salary is $715,000, and the rest is variable.
+
+A Minister may start at the lower end of the MR4 range with a monthly salary of $46,750. This works out to an annual salary of $935,000, of which $607,750 is fixed and the rest is variable.
 
 **Why have salary ranges? What are the grades and salary ranges?**
 
-Consistent with HR practice in both the Singapore public and private sectors, each grade has a salary range to accommodate different monthly salaries. The salary range system for Deputy Prime Ministers, Ministers and other political appointment holders gives the Prime Minister the flexibility to adjust their salaries when necessary. This also provides for the award of increments so that political appointment holders do not need to be promoted to the next grade in order to get a salary adjustment.  
-  
-The monthly salary of each grade has a range of 0.9 to 1.1 of the mid-point of that range, except for the starting point of the entry level MR4 Minister which is lower at 0.85 of the reference monthly salary. A Minister on the starting point of the MR4 salary range would therefore have 13 months of fixed salary amounting to $607,750. This represents the basic annual salary, without bonuses, which a Minister at the start point of the grade would earn. With variable bonuses in a typical year, this would come up to a total of $935,000.  
-  
+Consistent with HR practice in both the Singapore public and private sectors, each grade has a salary range based on a ratio to the reference point, to accommodate different monthly salaries for the political appointment holders in that grade.
 
-**Do political appointment holders get more than one pay for more than one portfolio?**  
+The salary range system gives the Prime Minister the flexibility to appoint Deputy Prime Ministers, Ministers and other political appointment holders to an appropriate salary point within the range, adjust salaries and award increments within the same grade.
 
-The current practice of paying a political appointment holder only one pay package regardless of the number of appointments held will be retained.
+[Find out more about the salary composition here.](https://www.psd.gov.sg/files/handout-3---composition-of-revised-salaries-for-politcal-appointment-holders-under-the-new-framework.pdf)
+
+**Do political appointment holders get more than one pay for more than one portfolio?**
+
+No. Political appointment holders receive only one pay even if they hold more than one portfolio. Political appointment holders separately receive an allowance for the time and expenses incurred in serving as Members of Parliament. 
 
 
 <h3>Remuneration of the Prime Minister, the President, the Speaker and Deputy Speaker</h3>
 
 **What is the Prime Minister’s annual salary? What are the components?**
 
-The Prime Minister receives a total annual salary package (inclusive of 13th month bonus, Annual Variable Component and National Bonus) that is twice the MR4 benchmark, or $2.2m, which represents a reduction of 36% from 2010 levels. As there is no one to decide on the annual performance bonus for the PM, the PM’s bonus will be based only on the National Bonus.  
-  
-Pensions for political appointment holders, including the Prime Minister, have been removed with effect from 21 May 2011.  
-  
-The Prime Minister is on the Medisave-cum-Subsidised Outpatient (MSO) scheme. He is accorded the use of an official car that is subject to tax, and receives no perks.  
-  
+The Prime Minister receives a total annual salary package that includes the 13th month bonus, Annual Variable Component (AVC) and National Bonus. It is set at two times of the MR4 benchmark, or $2.2m, which represents a reduction of 36 per cent compared to 2010. There is no annual Performance Bonus for the Prime Minister.
+
+Pensions for political appointment holders, including the Prime Minister, were removed with effect from 21 May 2011.
 
 **What is the President’s annual salary? What are the components?**
 
-The President is Head of State and has significant custodial powers. However, unlike the Prime Minister, he/she does not set national policies and does not have direct executive responsibility for governing the country, except as it relates to his/her custodial role.  
-  
-The President is paid the same monthly salary as the Prime Minister, with 13th month bonus and AVC, but without the Performance Bonus and National Bonus. This gives a salary of $1.54m, which represents a reduction of 51% from 2010 levels.  
-  
-The possibility of a pension for the President was previously provided for under the Civil List and Pension Act. This provision has never been exercised and no President has ever received a State pension. This provision has been removed for the President, in line with the removal of pensions for political appointment holders.  
-  
-The President is on the Medisave-cum-Subsidised Outpatient (MSO) scheme. He/She is accorded the use of an official car that is subject to tax, and receive no perks.  
-  
+As the Head of State, the President has significant custodial powers. The President is paid the same monthly salary as the Prime Minister, including the 13th month bonus and AVC. This amounts to an annual salary of $1.54m, which represents a reduction of 51 per cent from 2010.
+
+Unlike the Prime Minister, the President does not set national policies and does not have direct executive responsibility for governing the country unless it relates to his/her custodial role. Hence, the President does not receive a Performance Bonus or National Bonus.
+
+The provision of a pension for the President under the Civil List and Pension Act was removed, in line with the removal of pensions for political appointment holders, with effect from 21 May 2011. The provision was never exercised and no President has received a State pension.
 
 **What is the Speaker’s annual salary? What is the Deputy Speaker’s annual allowance? What are the components?**
 
-The salary of a full-time Speaker is pegged to the MR4 benchmark and structured as a 14-month package, i.e. it includes the 13th month bonus and Annual Variable Component (AVC) but excludes Performance Bonus and National Bonus. The allowance of a full-time Deputy Speaker is pegged to 15% of a full-time Speaker.  
-  
-Parliament currently applies a 50% discount to both positions as they are not full-time positions. This means that the Speaker’s annual salary package will be $550,000, a 53% cut from the 2010 salary, while the annual allowance of the Deputy Speaker will be $82,500, a 15% drop from the 2010 allowance.  
-  
-The pension scheme has been removed for the Speaker with effect from 21 May 2011.  
-  
-The Speaker and the Deputy Speaker are on the Medisave-cum-Subsidised Outpatient (MSO) scheme and receive no perks. The Speaker is accorded the use of an official car that is subject to tax.
+The salary of a full-time Speaker is pegged to the MR4 benchmark. It includes the 13th month bonus and AVC, but excludes the performance bonus and National Bonus. The allowance of a full-time Deputy Speaker is pegged to 15 per cent of a full-time Speaker.
 
+Parliament currently applies a 50 per cent discount to both positions as they are not full-time positions. This means that the Speaker receives an annual salary of $550,000 which is a 53 per cent cut from 2010, while the annual salary of the Deputy Speaker is $82,500, a 15 per cent reduction from 2010.
 
-<h3>Allowance for Members of Parliament</h3>
+The pension scheme for the Speaker was removed with effect from 21 May 2011.
 
-**What is a Member of Parliament (MP)’s annual allowance? What are the components? What about Non-Constituency MPs (NCMPs)/ Nominated MPs (NMPs)?**
-
-MPs are paid an allowance for the time and expenses incurred in serving in that capacity. Our MPs serve dual roles – they have a community-based role, i.e. looking after the needs of their constituents and raising their concerns in Parliament, and also a legislative role in Parliament where they can influence decisions on Government budgets, and enact or amend legislation, including the Constitution.  
-  
-As MPs play a political role, their allowance should be pegged to that of the political appointment holders. But since MPs do not have an executive role, MPs are given only a monthly allowance, a 13th month bonus and AVC. Hence, an MP’s annual allowance is 17.5% of the MR4 benchmark, i.e. a drop of 3% from the 2010 allowance. The annual MP allowance is&nbsp; $192,500.  
-  
-Prior to 21 May 2011, only MPs elected before 1995 were eligible for pension. However, just like the political appointment holders, the pensions of these MPs have been frozen as at 20 May 2011. They will receive the frozen pension when they step down from their MP positions.  
-  
-NCMPs and NMPs have smaller roles than MPs. They do not have a community role as they do not have constituents. Hence the annual allowance of an NCMP / NMP is pegged to 15% of the MP’s annual allowance. An NCMP/NMP’s annual allowance is $28,900, which is a drop of about 4% from the 2010 allowance.  
-  
-MPs are on the Medisave-cum-Subsidised Outpatient (MSO) scheme. There are no other perks.  
-
-Why do political appointment holders also get MP allowance?
-
-As is international practice in Westminster Parliamentary systems, all political appointment holders will also receive MP allowances as they have the dual roles of being MPs which involve looking after the needs of their constituents and raising their concerns in Parliament.
-
-
-<h3>Bonus</h3>
-
-**What is Performance Bonus and who determines the quantum?**
-
-The salary framework provides for a Performance Bonus which reflects a political appointment holder’s work in leading a Ministry or helming a portfolio, as well as contributions at Whole-of-Government level.  
-  
-The performance bonuses for Ministers are determined by the Prime Minister, based on his assessment of the appointment holder’s performance in his immediate portfolio, as well as wider contributions at a Whole-of-Government level.  
-  
-
-**What is National Bonus and why should we have it? Why not have deferred payments for National Bonus since results of policies take time to be seen?**
-
-The National Bonus replaces the GDP Bonus as a direct link to the socio-economic outcomes of Singaporeans and includes indicators beyond GDP growth.  
-  
-The National Bonus has four socio-economic indicators with equal weightage (25%), namely, (i) real median income growth rate of the average Singaporean, (ii) real income growth rate of the lowest 20th percentile of Singaporean income earners and (iii) unemployment rate of Singaporeans, and (iv) real GDP growth rate. These indicators have a strong link to the social-economic progress of average and lower income Singapore Citizens.  
-  
-Deferred payments for the National Bonus component of the annual salaries were not adopted as this would remove the direct link to actual performance in any one year.
-
-
-<h3>Medical Benefits</h3>
-
-**What are the medical/dental benefits for Ministers?**
-
-Ministers were moved onto the Medisave-cum-Subsidised Outpatient (MSO) scheme in 1994. Currently, officers on the MSO scheme get a 2% Medisave contribution capped at $2,380 per year, on top of their normal statutory Medisave contributions. This can then be used to buy MediShield Life or other portable Medisave-approved insurance plans (i.e. Integrated Shield Plans) to cover their inpatient needs.  
-  
-The MSO scheme also provides a subsidy of up to $500 per year for outpatient treatment. There is also a subsidy for dental treatment capped at $120 per year.  
-  
-The MSO scheme was last reviewed in 2015.
 
 ABOUT THE SINGAPORE PUBLIC SERVICE
 ==================================
