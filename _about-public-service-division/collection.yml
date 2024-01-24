@@ -1,0 +1,8 @@
+collections:
+  about-public-service-division:
+    output: true
+    order:
+      - Mission, Vision and Values.md
+      - Organisational Structure.md
+      - Achievements.md
+      - The PSD Experience.md

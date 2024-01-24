@@ -1,0 +1,63 @@
+title: Public Service Division
+url: https://www.psd.gov.sg
+favicon: /images/psd_logo.jpg
+colors:
+  primary-color: "#004169"
+  secondary-color: "#0e2354"
+  media-colors:
+    - title: media-color-one
+      color: "#4573e9"
+    - title: media-color-two
+      color: "#2254c9"
+    - title: media-color-three
+      color: "#183c90"
+    - title: media-color-four
+      color: "#132f6f"
+    - title: media-color-five
+      color: "#0e2354"
+description: The Public Service Division nurtures, guides and supports the
+  health, well-being and performance of public officers. We steward One Trusted
+  Public Service to deliver excellent public service and enable effective
+  government.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d27it2eint85za.amplifyapp.com
+prod: https://master.d27it2eint85za.amplifyapp.com
+resources_name: newsroom
+shareicon: /images/isomerhero-darkmode-10s.gif
+is_government: true
+facebook-pixel: "1040470186120649"
+google_analytics: ""
+linkedin-insights: ""
+google_analytics_ga4: G-6DT82R3MKY
