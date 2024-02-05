@@ -46,6 +46,7 @@ of the rule, but also the spirit.</p>
 <p>c)&nbsp;&nbsp;&nbsp; Third, was it a case where the rules were too lax,
 or was it a new situation not envisaged or covered by the rules? If so,
 we should update the rules.</p>
+<p></p>
 </li>
 <li>
 <p>To know which of these apply to the case of former Minister Iswaran, we
@@ -77,10 +78,12 @@ up every wrongdoing at the first instance, as much as we may desire.</p>
 <p>Hence, when incidents happen, we respond decisively and transparently
 to restore trust and confidence in our system. This is what we have done
 and this is what we will continue to do.</p>
+<p></p>
 </li>
 <li>
 <p>Mr Speaker, Sir, with these as background, let me address some specific
 questions raised by members of this House.</p>
+<p></p>
 </li>
 <li>
 <p>First, Mr Edward Chia and Mr Derrick Goh asked about gifts. Our rules
@@ -133,10 +136,45 @@ Ministers and Political Office Holders. The Code has been in place since
 and relevant. The last major changes were made in 2005 and included clarifications
 on the rules on acceptance of gifts, declarations of investments and directorships,
 amongst others.</p>
+<p></p>
+</li>
+<li>
+<p>Political Office Holders are also expected to abide by the Rules of Prudence,
+issued by the Prime Minister after every General Election to all PAP Members
+of Parliament.</p>
+<p></p>
+</li>
+<li>
+<p>Mr Edward Chia, Ms Joan Pereira and Mr Mohd Fahmi asked about the whistleblowing
+process. The Public Service has an established Internal Disclosure Policy
+where officers can directly report to their Heads of Agencies any wrongful
+or doubtful practices they observe. There are confidentiality and “non-retaliation”
+provisions in place to protect those who have reported in good faith.</p>
+<p></p>
+</li>
+<li>
+<p>If anyone suspects that any of their superiors have been compromised,
+they can report the suspicious activity to their Heads of Agencies, or
+beyond their organisation, including to agencies like the CPIB.</p>
+<p></p>
+</li>
+<li>
+<p>Finally, Mr Speaker, Sir, I must remind ourselves that Mr Iswaran’s case
+is before the Courts. We should let the law take its course and not jump
+into conclusions, nor make statements that may prejudice. We should not
+make statements that may prejudice the case or prematurely adjudge the
+processes that may have gone right or wrong. This case is one that was
+picked up by CPIB and investigations were initiated without external pressure
+or interference.</p>
+<p></p>
+</li>
+<li>
+<p>In updating our rules, sharpening our implementation, and inculcating
+the right ethos and values in our officers, the Public Service and the
+Government will continue to draw lessons from this and other cases, whether
+local or overseas.</p>
 </li>
 </ol>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
