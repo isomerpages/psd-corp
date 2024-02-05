@@ -65,11 +65,74 @@ or succumbing to human frailties.</p>
 <p>c)&nbsp;&nbsp;&nbsp; At the system level, we must have regular internal
 audits, external audits, and have institutions like AGO and CPIB to respond
 to issues not picked up by other layers of checks.</p>
+<p></p>
 </li>
 <li>
 <p>Mr Speaker, Sir, while we endeavour to do our best and keep improving
 at the system level, no system is ever perfect, and will be able to pick
 up every wrongdoing at the first instance, as much as we may desire.</p>
+<p></p>
+</li>
+<li>
+<p>Hence, when incidents happen, we respond decisively and transparently
+to restore trust and confidence in our system. This is what we have done
+and this is what we will continue to do.</p>
+</li>
+<li>
+<p>Mr Speaker, Sir, with these as background, let me address some specific
+questions raised by members of this House.</p>
+</li>
+<li>
+<p>First, Mr Edward Chia and Mr Derrick Goh asked about gifts. Our rules
+on gifts are clear.</p>
+<p>a)&nbsp;&nbsp;&nbsp; Officers must never ask for gifts or favours, especially
+when they are in a position to influence or affect any decision involving
+the other party.</p>
+<p>b)&nbsp;&nbsp;&nbsp; An officer must not accept any gift offered to him,
+on account of his official position or his official work. Our first instinct
+must be to decline any unsolicited gifts and return them, if possible.</p>
+<p>c)&nbsp;&nbsp;&nbsp; If it is not possible or impractical to do so, we
+declare and account for it according to established processes. This is
+to ensure transparency and to maintain our probity.</p>
+<p>d)&nbsp;&nbsp;&nbsp; If the officer wants to keep the gift, he may be
+allowed to do so if he pays for it after having its value assessed.</p>
+<p>e)&nbsp;&nbsp;&nbsp; For operational simplicity, the officer may be allowed
+to retain a gift worth less than $50 without paying for it, if doing so
+does not affect the integrity of the Civil Service.</p>
+<p>f)&nbsp;&nbsp;&nbsp;&nbsp; But should an officer accept multiple gifts
+of $49 repeatedly? I think we know the answer from the spirit of the rule.
+If such a pattern of behaviour is observed, it must stop.</p>
+<p></p>
+</li>
+<li>
+<p>What about meals? Similar principles apply. We appreciate that it may
+not be practical to assess the value of a meal in the moment. Officers
+must have good sense to know when they are being cultivated and reject
+such attempts. When in doubt, officers should inform their supervisors.</p>
+<p>a)&nbsp;&nbsp;&nbsp; This does not mean that our officers should not go
+out and interact with non-Government stakeholders to understand the business
+and social communities. It is part of our work to understand the world
+in order to govern responsively and responsibly.</p>
+<p>b)&nbsp;&nbsp;&nbsp; As a practical measure to protect ourselves, I always
+advise our officers to avoid attending such events alone where the risk
+of being compromised is harder to manage.</p>
+<p></p>
+</li>
+<li>
+<p>On the Code of Conduct for public officers, we review the rules annually
+to ensure that it remains relevant to the contexts we are facing and are
+going to face. For each review, we will gather feedback and will consult
+stakeholders, including the unions. If there are changes, they will be
+communicated to our officers.</p>
+<p></p>
+</li>
+<li>
+<p>Ms Joan Pereira and Mr Darryl David asked about the Code of Conduct for
+Ministers and Political Office Holders. The Code has been in place since
+1954 and it is regularly reviewed to ensure that the Code remains sound
+and relevant. The last major changes were made in 2005 and included clarifications
+on the rules on acceptance of gifts, declarations of investments and directorships,
+amongst others.</p>
 </li>
 </ol>
 <p></p>
