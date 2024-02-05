@@ -21,19 +21,23 @@ questions by Mr Darryl David and Mr Mohd Fahmi which are scheduled for
 a subsequent sitting. I would invite Members to seek clarifications, if
 need be. If the questions have been addressed, it may not be necessary
 for members to proceed with the Parliamentary Questions for future sittings.</p>
+<p></p>
 </li>
-</ol>
-<p>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let
-me first lay out our approach to uphold the integrity of our system of
-governance so as to maintain public confidence and trust.</p>
-<p>3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our rules
-are meant to facilitate our work and keep our officers safe from being
-compromised. They should not be so onerous that our officers cannot operate.
-Neither should they be so lax as to erode discipline and trust in our system.
-When an incident happens, we should not have a knee jerk reaction and immediately
-tighten or add more rules. Instead, we should ask ourselves three questions:</p>
-<p>a)&nbsp;&nbsp;&nbsp;First, was it a case where the rules were clear, but
-were flouted or ignored? If so, then what we need to do is not to adjust
+<li>
+<p>Let me first lay out our approach to uphold the integrity of our system
+of governance so as to maintain public confidence and trust.</p>
+<p></p>
+</li>
+<li>
+<p>Our rules are meant to facilitate our work and keep our officers safe
+from being compromised. They should not be so onerous that our officers
+cannot operate. Neither should they be so lax as to erode discipline and
+trust in our system. When an incident happens, we should not have a knee
+jerk reaction and immediately tighten or add more rules. Instead, we should
+ask ourselves three questions:</p>
+<p></p>
+<p>a)&nbsp;&nbsp;&nbsp; First, was it a case where the rules were clear,
+but were flouted or ignored? If so, then what we need to do is not to adjust
 the rules, but to take action against the offender.</p>
 <p>b)&nbsp;&nbsp;&nbsp;Second, was it a case where the rules were unclear?
 If so, then we should clarify or simplify the rules. But we should be mindful
@@ -43,6 +47,20 @@ of the rule, but also the spirit.</p>
 <p>c)&nbsp;&nbsp;&nbsp;Third, was it a case where the rules were too lax,
 or was it a new situation not envisaged or covered by the rules? If so,
 we should update the rules.</p>
+<p></p>
+</li>
+<li>
+<p>To know which of these apply to the case of former Minister Iswaran, we
+need to know the facts of the case, and we should not prejudge these facts
+before the court trial.</p>
+</li>
+<li>
+<p>Maintaining the integrity of our system is a multi-pronged and continuous
+effort.</p>
+</li>
+</ol>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
