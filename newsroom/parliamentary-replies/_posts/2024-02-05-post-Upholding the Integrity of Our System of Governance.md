@@ -15,12 +15,12 @@ variant: tiptap
 and various members in this House (Mr Edward Chia, Mr Derrick Goh, Ms Joan
 Pereira, Mr Darryl David and Mr Mohd Fahmi) have asked about our rules
 - whether they are adequate and should they be reviewed. May I have your
-permission to answer Parliamentary Questions 28 to 31 on today’s Order
-Paper? Mr Speaker, my response will also cover the matter raised in the
-questions by Mr Darryl David and Mr Mohd Fahmi which are scheduled for
-a subsequent sitting. I would invite Members to seek clarifications, if
-need be. If the questions have been addressed, it may not be necessary
-for members to proceed with the Parliamentary Questions for future sittings.</p>
+permission to answer <a href="https://www.parliament.gov.sg/docs/default-source/default-document-library/orderpaper---5-feb-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Parliamentary Questions 28 to 31 on today’s Order Paper</a>?
+Mr Speaker, my response will also cover the matter raised in the questions
+by Mr Darryl David and Mr Mohd Fahmi which are scheduled for a subsequent
+sitting. I would invite Members to seek clarifications, if need be. If
+the questions have been addressed, it may not be necessary for members
+to proceed with the Parliamentary Questions for future sittings.</p>
 <p></p>
 </li>
 <li>
