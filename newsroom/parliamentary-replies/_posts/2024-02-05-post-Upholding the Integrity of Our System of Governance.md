@@ -161,11 +161,10 @@ beyond their organisation, including to agencies like the CPIB.</p>
 <li>
 <p>Finally, Mr Speaker, Sir, I must remind ourselves that Mr Iswaran’s case
 is before the Courts. We should let the law take its course and not jump
-into conclusions, nor make statements that may prejudice. We should not
-make statements that may prejudice the case or prematurely adjudge the
-processes that may have gone right or wrong. This case is one that was
-picked up by CPIB and investigations were initiated without external pressure
-or interference.</p>
+into conclusions, nor make statements that may prejudice the case or prematurely
+adjudge the processes that may have gone right or wrong. This case is one
+that was picked up by CPIB and investigations were initiated without external
+pressure or interference.</p>
 <p></p>
 </li>
 <li>
