@@ -7,11 +7,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Oral Reply by Mr Chan Chun Sing, Minister for Education and Minister-in-charge of the Public Service to Parliamentary Questions on upholding the integrity of our system of governance</strong> 
-<br><strong><br>Parliament Sitting: 5 February 2024</strong>
+<p><strong>Oral Reply by Mr Chan Chun Sing, Minister for Education and Minister-in-charge of the Public Service to Parliamentary Questions on upholding the integrity of our system of governance <br><br>Parliament Sitting: 5 February 2024</strong>
 </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr
-Speaker, Sir. In view of Mr S Iswaran’s case, some members of the public
+<ol data-tight="true" class="tight">
+<li>
+<p>Mr Speaker, Sir. In view of Mr S Iswaran’s case, some members of the public
 and various members in this House (Mr Edward Chia, Mr Derrick Goh, Ms Joan
 Pereira, Mr Darryl David and Mr Mohd Fahmi) have asked about our rules
 - whether they are adequate and should they be reviewed. May I have your
@@ -21,6 +21,8 @@ questions by Mr Darryl David and Mr Mohd Fahmi which are scheduled for
 a subsequent sitting. I would invite Members to seek clarifications, if
 need be. If the questions have been addressed, it may not be necessary
 for members to proceed with the Parliamentary Questions for future sittings.</p>
+</li>
+</ol>
 <p>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let
 me first lay out our approach to uphold the integrity of our system of
 governance so as to maintain public confidence and trust.</p>
@@ -30,4 +32,7 @@ compromised. They should not be so onerous that our officers cannot operate.
 Neither should they be so lax as to erode discipline and trust in our system.
 When an incident happens, we should not have a knee jerk reaction and immediately
 tighten or add more rules. Instead, we should ask ourselves three questions:</p>
+<p>a) First, was it a case where the rules were clear, but were flouted or
+ignored? If so, then what we need to do is not to adjust the rules, but
+to take action against the offender.</p>
 <p></p>
