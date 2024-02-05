@@ -1,6 +1,6 @@
 ---
 title: Upholding the Integrity of Singapore's System of Governance
-permalink: /newsroom/parliamentary-replies/upholding-integrity-system-of-governance/
+permalink: /newsroom/parliamentary-replies/upholding-integrity-singapore-system-of-governance/
 date: 2024-02-05
 layout: post
 description: ""
