@@ -32,7 +32,17 @@ compromised. They should not be so onerous that our officers cannot operate.
 Neither should they be so lax as to erode discipline and trust in our system.
 When an incident happens, we should not have a knee jerk reaction and immediately
 tighten or add more rules. Instead, we should ask ourselves three questions:</p>
-<p>a) First, was it a case where the rules were clear, but were flouted or
-ignored? If so, then what we need to do is not to adjust the rules, but
-to take action against the offender.</p>
+<p>a)&nbsp;&nbsp;&nbsp;First, was it a case where the rules were clear, but
+were flouted or ignored? If so, then what we need to do is not to adjust
+the rules, but to take action against the offender.</p>
+<p>b)&nbsp;&nbsp;&nbsp;Second, was it a case where the rules were unclear?
+If so, then we should clarify or simplify the rules. But we should be mindful
+that not every grey area can be clarified, and for some matters, judgement
+will still be required. Our officers should not just understand the letter
+of the rule, but also the spirit.</p>
+<p>c)&nbsp;&nbsp;&nbsp;Third, was it a case where the rules were too lax,
+or was it a new situation not envisaged or covered by the rules? If so,
+we should update the rules.</p>
+<p></p>
+<p></p>
 <p></p>
