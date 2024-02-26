@@ -18,7 +18,7 @@ office holders and (ii) key personnel in the Civil Service and Government-linked
 corporations to boost transparency and public trust.</p>
 <p><strong>Written Reply by Mr Chan Chun Sing, Minister for Education and Minister-in-charge of the Public Service</strong>
 </p>
-<p>&nbsp;There are already established processes in place for Political Office
+<p>There are already established processes in place for Political Office
 Holders (POHs) and civil servants to make declarations of their assets.
 The Code of Conduct for Ministers requires POHs to make a declaration of
 their sources of income, assets, and financial liabilities to the President
