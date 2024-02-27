@@ -2,6 +2,7 @@
 title: Mission, Vision and Values
 permalink: /about-psd/mission-vision-values/
 description: ""
+variant: markdown
 ---
 <h2>Delivering excellent public services and enabling effective government</h2>
 
@@ -22,7 +23,7 @@ We select and grow leaders. We strengthen leadership abilities, behaviours and v
 
 ### Building Future-Ready Organisations
 
-We build capabilities at individual, team and organisational levels to directly address work challenges that public officers will face, and enable the Public Service to be ready for the future. Examples include putting in place individual development plans; and building engineering and service delivery capabilities.
+We build capabilities at individual, team and organisational levels to directly address work challenges that public officers will face, and enable the Public Service to be ready for the future. Examples include putting in place individual development plans; and building service delivery capabilities.
 
 [**FIND OUT MORE**](/transformation)
 
