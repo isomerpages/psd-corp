@@ -405,35 +405,58 @@ ground-up sustainability efforts.</p>
 with the government. We are doubling down on these new ways of working
 together. There are now 15 Alliances for Action (AfAs) covering a range
 of common interests.</p>
+<p></p>
+</li>
+<li>
+<p>We are formalising our partnerships with corporates, such as the Memorandum
+of Understanding with the Singapore Airlines Group<strong> </strong>last
+month to collaborate in areas such as training and volunteer management
+in essential support care roles in the healthcare sector. This will also
+allow the Public Service to surge our capabilities in contingencies, by
+drawing upon capacities in the private sector.</p>
+<p></p>
+</li>
+<li>
+<p>I thank Ms Denise Phua for her cut on the Public Service For Good movement.
+I launched it in July last year to provide public officers with opportunities
+to actively partner citizens on a personal level. I am happy to share that
+in 2023, over 1,000 public officers signed up to volunteer their skills
+for meaningful causes such as being a community befriender for low-income
+families and mentoring Institute of Technical Education (ITE) students.</p>
+<p></p>
+</li>
+<li>
+<p>Under the Public Service-ITE Mentorship Programme, Higher National ITE
+Certification students like Ryan and Faris interned at GovTech for 20 weeks.
+GovTech officers Yeo Ken Chuan, Zorel Chen and Supansa Tan noticed the
+interns’ enthusiasm for learning and ensured ample opportunities for them
+to grow and eventually perform as product managers with the Public Service.</p>
+<p></p>
+</li>
+<li>
+<p>In 2024, we will expand the Public Service for Good movement to include
+a wider range of social causes and initiatives. This will include skills-based
+volunteering opportunities that empower our youths and families through
+mentorship, support seniors in ageing well, and promote sustainability
+initiatives for a greener Singapore.</p>
+<p></p>
 </li>
 </ol>
-<p>&nbsp;</p>
-<p>15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We are formalising our partnerships
-with corporates, such as the Memorandum of Understanding with the Singapore
-Airlines Group<strong> </strong>last month to collaborate in areas such
-as training and volunteer management in essential support care roles in
-the healthcare sector. This will also allow the Public Service to surge
-our capabilities in contingencies, by drawing upon capacities in the private
-sector.</p>
-<p>&nbsp;</p>
-<p>16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I thank Ms Denise Phua for
-her cut on the Public Service For Good movement. I launched it in July
-last year to provide public officers with opportunities to actively partner
-citizens on a personal level. I am happy to share that in 2023, over 1,000
-public officers signed up to volunteer their skills for meaningful causes
-such as being a community befriender for low-income families and mentoring
-Institute of Technical Education (ITE) students.</p>
-<p>&nbsp;</p>
-<p>17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Under the Public Service-ITE
-Mentorship Programme, Higher National ITE Certification students like Ryan
-and Faris interned at GovTech for 20 weeks. GovTech officers Yeo Ken Chuan,
-Zorel Chen and Supansa Tan noticed the interns’ enthusiasm for learning
-and ensured ample opportunities for them to grow and eventually perform
-as product managers with the Public Service.</p>
-<p>&nbsp;</p>
-<p>18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In 2024, we will expand
-the Public Service for Good movement to include a wider range of social
-causes and initiatives. This will include skills-based volunteering opportunities
-that empower our youths and families through mentorship, support seniors
-in ageing well, and promote sustainability initiatives for a greener Singapore.</p>
-<p>&nbsp;</p>
+<p>&nbsp;<strong>Conclusion</strong>
+</p>
+<ol start="51" data-tight="true" class="tight">
+<li>
+<p>Past success is no guarantee of future success. I have shared how we are
+going to evolve the way we operate, develop our capabilities &nbsp;and
+partner others for the future. This is an ongoing effort.</p>
+<p></p>
+</li>
+<li>
+<p>We must look and plan ahead, even if it means disrupting ourselves. In
+fact, we would rather disrupt ourselves before other people disrupt us,
+so that our Public Service can transform and remain relevant to the future
+needs of Singapore, and it will be a Public Service that all Singaporeans
+can be proud of.</p>
+</li>
+</ol>
+<p></p>
