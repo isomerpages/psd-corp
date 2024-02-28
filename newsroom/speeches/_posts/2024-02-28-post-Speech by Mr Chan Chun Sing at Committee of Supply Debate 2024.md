@@ -7,10 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Speech by Mr Chan Chun Sing at Committee of Supply Debate 2024</strong>
+<h5>Speech by Mr Chan Chun Sing at Committee of Supply Debate 2024</h5>
+<p><strong>A Forward-Looking Public Service: Operating, Developing and Partnering for the Future</strong>
 </p>
-<p>A Forward-Looking Public Service: Operating, Developing and Partnering
-for the Future</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Chair, we thank all members for your cuts, questions and suggestions for
@@ -19,10 +18,8 @@ Public Service that the vast majority, if not all Singaporeans, can be
 proud of. But we in the Public Service are acutely aware of the need for
 us to stay ahead of the game.</p>
 </li>
-</ol>
-<p>&nbsp;</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As
-Mr Patrick Tay mentioned, technology is changing rapidly. The way countries
+<li>
+<p>As Mr Patrick Tay mentioned, technology is changing rapidly. The way countries
 are organising themselves and their Public Service are also rapidly evolving.
 We must be careful that we do not rest on our laurels. We must continue
 to innovate, continue to want to do better, and come up with new solutions,
@@ -30,6 +27,8 @@ lest we be overtaken by others. And if we do not have a strong, committed
 and innovative Public Service, it will not help us to inspire confidence
 in investors and local enterprises to put their investments here to create
 good jobs for our people.</p>
+</li>
+</ol>
 <p>&nbsp;</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our
 Government believes that we cannot rely on today's or yesterday's solutions
