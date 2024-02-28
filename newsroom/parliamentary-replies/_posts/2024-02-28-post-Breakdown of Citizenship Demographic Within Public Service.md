@@ -7,8 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Breakdown of Citizenship Demographic Within Public Service</strong>
-</p>
 <p><strong>Written Reply to Parliamentary Question on breakdown of citizenship demographic within Public Service</strong>
 </p>
 <p><strong>Parliament Sitting: 28 Feb 2024</strong>
