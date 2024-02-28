@@ -28,41 +28,41 @@ and innovative Public Service, it will not help us to inspire confidence
 in investors and local enterprises to put their investments here to create
 good jobs for our people.</p>
 </li>
-</ol>
-<p>&nbsp;</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our
-Government believes that we cannot rely on today's or yesterday's solutions
-for tomorrow's problems. We have to constantly look for new processes and
-new organisations to meet tomorrow's challenges. A forward looking and
-future ready Public Service is central to Singapore's success. Let me share
-how our Public Service is going to operate, develop and partner differently
-to ensure that we are ready for future challenges.</p>
-<p>&nbsp;</p>
+<li>
+<p>Our Government believes that we cannot rely on today's or yesterday's
+solutions for tomorrow's problems. We have to constantly look for new processes
+and new organisations to meet tomorrow's challenges. A forward looking
+and future ready Public Service is central to Singapore's success. Let
+me share how our Public Service is going to operate, develop and partner
+differently to ensure that we are ready for future challenges.</p>
+<p></p>
 <p><strong>Operating differently for the future</strong>
 </p>
-<p>&nbsp;</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Let
-me start with how we are going to evolve the way we organise ourselves.</p>
-<p>&nbsp;</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Increasingly,
-our Public Service will be organised in a more mission-centric way, given
-the complexity and interdependency of issues that many members have mentioned.
-For example, to more effectively tackle climate change, we set up the National
-Climate Change Secretariat (NCCS) in 2010. This has worked out well and
-borne fruit.</p>
-<p>&nbsp;</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NCCS
-has allowed us to sharpen our focus on climate change across agencies in
-the whole of Government. For example, NCCS worked with the Ministry of
-Sustainability and the Environment to develop the Singapore Green Plan
+</li>
+<li>
+<p>Let me start with how we are going to evolve the way we organise ourselves.</p>
+</li>
+<li>
+<p>Increasingly, our Public Service will be organised in a more mission-centric
+way, given the complexity and interdependency of issues that many members
+have mentioned. For example, to more effectively tackle climate change,
+we set up the National Climate Change Secretariat (NCCS) in 2010. This
+has worked out well and borne fruit.</p>
+</li>
+<li>
+<p>NCCS has allowed us to sharpen our focus on climate change across agencies
+in the whole of Government. For example, NCCS worked with the Ministry
+of Sustainability and the Environment to develop the Singapore Green Plan
 2030 to achieve our long-term goal of net-zero emissions. But behind that,
 there was participation from the Ministry of Trade and Industry (MTI),
 Ministry of Education, Ministry of Manpower and many other agencies.</p>
-<p>&nbsp;</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In
-2019, to better harness the potential of technology, we formed the Public
-Sector Science and Technology Policy and Plans Office (S&amp;TPPO). We
-are seeing the fruits of this effort too.</p>
+</li>
+<li>
+<p>In 2019, to better harness the potential of technology, we formed the
+Public Sector Science and Technology Policy and Plans Office (S&amp;TPPO).
+We are seeing the fruits of this effort too.</p>
+</li>
+</ol>
 <p>&nbsp;</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For
 example, robots are increasingly deployed in buildings for services like
