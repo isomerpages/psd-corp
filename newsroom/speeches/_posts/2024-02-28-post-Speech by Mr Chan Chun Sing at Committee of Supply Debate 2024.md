@@ -169,19 +169,20 @@ are inclusive to all.</p>
 <li>
 <p>For municipal services, the Municipal Services Office, coordinates across
 agencies and town councils to serve residents.</p>
+<p></p>
+</li>
+<li>
+<p>For businesses, MTI and GovTech are continuously evolving the GoBusiness
+portal to facilitate a globally competitive, pro-enterprise operating environment
+in Singapore. The GoBusiness portal allows businesses to access services
+across multiple government agencies by milestone moments.</p>
+<p></p>
+</li>
+<li>
+<p>These are just examples of how the Public Service is organising and evolving
+to be much more mission-centric and much more citizen-centric.</p>
 </li>
 </ol>
-<p>&nbsp;</p>
-<p>19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For businesses, MTI and
-GovTech are continuously evolving the GoBusiness portal to facilitate a
-globally competitive, pro-enterprise operating environment in Singapore.
-The GoBusiness portal allows businesses to access services across multiple
-government agencies by milestone moments.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
-</p>
-<p>20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These are just examples
-of how the Public Service is organising and evolving to be much more mission-centric
-and much more citizen-centric.</p>
 <p>&nbsp;</p>
 <p><strong>Developing a future-ready workforce</strong>
 </p>
