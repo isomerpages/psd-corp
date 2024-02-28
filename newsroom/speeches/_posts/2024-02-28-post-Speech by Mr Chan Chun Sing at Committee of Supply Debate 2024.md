@@ -39,6 +39,10 @@ me share how our Public Service is going to operate, develop and partner
 differently to ensure that we are ready for future challenges.</p>
 <p></p>
 </li>
+</ol>
+<p><strong>Operating differently for the future</strong>
+</p>
+<ol start="4" data-tight="true" class="tight">
 <li>
 <p>Let me start with how we are going to evolve the way we organise ourselves.</p>
 <p></p>
@@ -98,6 +102,4 @@ incidents.</p>
 ourselves going forward.</p>
 </li>
 </ol>
-<p><strong>Operating differently for the future</strong>
-</p>
 <p></p>
