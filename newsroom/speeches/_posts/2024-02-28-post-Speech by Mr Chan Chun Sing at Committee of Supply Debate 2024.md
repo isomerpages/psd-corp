@@ -182,6 +182,7 @@ across multiple government agencies by milestone moments.</p>
 <li>
 <p>These are just examples of how the Public Service is organising and evolving
 to be much more mission-centric and much more citizen-centric.</p>
+<p></p>
 </li>
 </ol>
 <p><strong>Developing a future-ready workforce</strong>
