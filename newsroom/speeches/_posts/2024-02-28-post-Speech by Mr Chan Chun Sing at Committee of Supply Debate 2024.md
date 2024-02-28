@@ -400,11 +400,11 @@ ground-up sustainability efforts.</p>
 <p></p>
 </li>
 <li>
-<p>We are also strengthening partnerships with the private sector.</p>
-<p>During COVID-19, many came forward to help and co-create solutions together
-with the government. We are doubling down on these new ways of working
-together. There are now 15 Alliances for Action (AfAs) covering a range
-of common interests.</p>
+<p>We are also strengthening partnerships with the private sector. During
+COVID-19, many came forward to help and co-create solutions together with
+the government. We are doubling down on these new ways of working together.
+There are now 15 Alliances for Action (AfAs) covering a range of common
+interests.</p>
 <p></p>
 </li>
 <li>
