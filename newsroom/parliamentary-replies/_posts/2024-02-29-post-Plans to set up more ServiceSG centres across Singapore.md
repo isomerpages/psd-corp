@@ -17,8 +17,6 @@ ServiceSG centres across Singapore and to involve more partnering agencies
 in the initiative and (ii) to require that at the same time for Ministries
 and agencies to set aside physical counters for seniors requiring assistance
 to access public services.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Oral Reply by Mr Chan Chun Sing, Minister for Education and Minister-in-charge of the Public Service</strong>
 </p>
 <p></p>
