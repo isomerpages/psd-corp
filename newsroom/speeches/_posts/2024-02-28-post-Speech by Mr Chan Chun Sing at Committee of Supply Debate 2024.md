@@ -189,10 +189,6 @@ to be much more mission-centric and much more citizen-centric.</p>
 </p>
 <ol start="21" data-tight="true" class="tight">
 <li>
-<p>Let me start with how we are going to evolve the way we organise ourselves.</p>
-<p></p>
-</li>
-<li>
 <p>Let me respond to Mr Patrick Tay and Mr Melvin Yong’s cuts on their feedback
 on how public officers need to cultivate different skillsets and perspectives
 to thrive in the new operating context.</p>
@@ -290,11 +286,9 @@ Nations agencies, because this allows us to understand the issues that
 are evolving at international circles and we can better prepare ourselves
 to integrate and work with these agencies in time to come.</p>
 <p></p>
-</li>
-</ol>
 <p><strong>Partnering differently for our future compact</strong>
 </p>
-<ol start="33" data-tight="true" class="tight">
+</li>
 <li>
 <p>Now beyond organising ourselves differently and building new capabilities
 in our officers, we also need to partner differently.</p>
@@ -441,11 +435,9 @@ volunteering opportunities that empower our youths and families through
 mentorship, support seniors in ageing well, and promote sustainability
 initiatives for a greener Singapore.</p>
 <p></p>
-</li>
-</ol>
-<p>&nbsp;<strong>Conclusion</strong>
+<p><strong>Conclusion</strong>
 </p>
-<ol start="51" data-tight="true" class="tight">
+</li>
 <li>
 <p>Past success is no guarantee of future success. I have shared how we are
 going to evolve the way we operate, develop our capabilities &nbsp;and
