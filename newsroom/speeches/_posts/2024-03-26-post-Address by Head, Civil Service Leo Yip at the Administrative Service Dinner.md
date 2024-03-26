@@ -5,7 +5,7 @@ date: 2024-03-26
 layout: post
 description: ""
 image: ""
-variant: tiptap
+variant: markdown
 ---
 <p><strong>ADDRESS BY HEAD, CIVIL SERVICE LEO YIP AT THE ADMINISTRATIVE SERVICE DINNER ON 26 MARCH 2024 AT MARINA BAY SANDS EXPO AND CONVENTION CENTRE</strong>
 </p>
@@ -15,9 +15,8 @@ variant: tiptap
 <br>Colleagues and Friends,
 <br>Ladies and Gentlemen,</p>
 <p></p>
-<p><strong>Celebrations</strong>
-</p>
-<p>Tonight, we gather to congratulate 25 officers appointed to the Administrative
+<strong>Celebrations</strong>
+<p></p><p style="margin-left:20px;">Tonight, we gather to congratulate 25 officers appointed to the Administrative
 Service and 62 colleagues who have been promoted.</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
