@@ -15,9 +15,8 @@ variant: markdown
 <br>Colleagues and Friends,
 <br>Ladies and Gentlemen,</p>
 <p></p>
-<p><strong>Celebrations</strong>
-</p>
-<p>Tonight, we gather to congratulate 25 officers appointed to the Administrative
+<strong>Celebrations</strong>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tonight, we gather to congratulate 25 officers appointed to the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Administrative
 Service and 62 colleagues who have been promoted.</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
