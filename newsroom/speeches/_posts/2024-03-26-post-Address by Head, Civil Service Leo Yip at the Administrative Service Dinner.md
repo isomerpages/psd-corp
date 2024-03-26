@@ -9,7 +9,6 @@ variant: tiptap
 ---
 <p><strong>ADDRESS BY HEAD, CIVIL SERVICE LEO YIP AT THE ADMINISTRATIVE SERVICE DINNER ON 26 MARCH 2024 AT MARINA BAY SANDS EXPO AND CONVENTION CENTRE</strong>
 </p>
-<p></p>
 <p>Senior Minister Teo Chee Hean,</p>
 <p>Ministers,</p>
 <p>Chairman and Members of the Public Service Commission,</p>
