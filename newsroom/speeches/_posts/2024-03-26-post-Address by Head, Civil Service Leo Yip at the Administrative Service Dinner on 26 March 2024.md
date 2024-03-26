@@ -86,7 +86,7 @@ in order to make better tech decisions.</p>
 <p>12. Individually, we must all be open to doing new work, developing new
 competencies, gaining new experiences, and being exposed to new perspectives.</p>
 <p></p>
-<p><strong>How our Leadership Development is Changing </strong>
+<p><strong>How our Leadership Development is Changing</strong>
 </p>
 <p>13. Beyond the work we do, the Administrative Service is also a leadership
 service. Officers are absorbed into our service, to be developed to lead.
