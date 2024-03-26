@@ -249,15 +249,19 @@ processes and action. In each of our agencies, we must keep a focus on
 the long term, have planning processes to make sense of what lies ahead,
 and then envision what is possible, exciting, and worth building, and how
 to get there. We must then take these ideas and action plans to our Ministers.</p>
+<p></p>
 </li>
-</ol>
-<p>22. Second, we provide honest advice to our Ministers. This is where we
-must speak truth to power but, I would add, also bring power to truth.
-By this I mean share the power of your conviction behind the ideas and
-advice that you present to your Ministers. It must be the conviction in
-your advice, as much as the persuasiveness of your argument, that helps
-our decision makers to discern the right choices.</p>
-<p>23. Third, it must also be with conviction that we implement the political
+<li>
+<p>Second, we provide honest advice to our Ministers. This is where we must
+speak truth to power but, I would add, also bring power to truth. By this
+I mean share the power of your conviction behind the ideas and advice that
+you present to your Ministers. It must be the conviction in your advice,
+as much as the persuasiveness of your argument, that helps our decision
+makers to discern the right choices.</p>
+<p></p>
+</li>
+<li>
+<p>Third, it must also be with conviction that we implement the political
 decisions that have been made, and the policy choices that have been selected
 by our Ministers. This is how our system works — when the time for debate
 is over, the time for action starts. And when a policy is worth implementing,
@@ -265,37 +269,55 @@ it is worth implementing well. Policy is implementation. But I would add,
 implementation is conviction. And we can have this conviction because we
 work so closely with our Ministers and understand the reasons for those
 policy choices.</p>
+</li>
+</ol>
 <p></p>
 <p><strong>Conclusion – Our System of Governance</strong>
 </p>
-<p>24. Let me conclude. I receive regular visits from foreign counterparts
-who come to understand how we do things. Very often, I am asked to explain
+<ol start="24" data-tight="true" class="tight">
+<li>
+<p>Let me conclude. I receive regular visits from foreign counterparts who
+come to understand how we do things. Very often, I am asked to explain
 how to replicate the successes that Singapore has enjoyed.</p>
-<p>25. I point to the principles that have underpinned our progress — meritocracy,
+<p></p>
+</li>
+<li>
+<p>I point to the principles that have underpinned our progress — meritocracy,
 rule of law, racial and religious harmony, clean and good Government, competent
 Civil Service, focus on the long term, and so on. Many of the things that
 I have covered this evening.</p>
-<p>26. But I would say to them, there is no one killer app, because all of
-these have to work together within a system, one that is suited for their
-context, just as our system is suited for our context. In our own context,
-this system of governance is what has delivered good governance for Singapore,
+<p></p>
+</li>
+<li>
+<p>But I would say to them, there is no one killer app, because all of these
+have to work together within a system, one that is suited for their context,
+just as our system is suited for our context. In our own context, this
+system of governance is what has delivered good governance for Singapore,
 producing progress, improving lives, and enabling hopes and dreams of our
 people.</p>
-<p>27. We all work within this system of governance. This starts from our
-leaders demonstrating the right values and setting the right tone from
-the top, such as in the fight against corruption. Through our efforts in
-the Public Service, and in support of the political leadership, we make
-this system work. But we are also here to work to improve it. We do this
-by building new capabilities, developing ourselves and our teams, rethinking
-our policies and our work in a Whole-of-Government fashion, and always
-keeping a long-term orientation while holding true to our convictions and
-values, in our ideas and in our implementation.</p>
-<p>28. In time to come, we will make a political leadership transition. It
-is the responsibility of the Public Service and the responsibility of the
+<p></p>
+</li>
+<li>
+<p>We all work within this system of governance. This starts from our leaders
+demonstrating the right values and setting the right tone from the top,
+such as in the fight against corruption. Through our efforts in the Public
+Service, and in support of the political leadership, we make this system
+work. But we are also here to work to improve it. We do this by building
+new capabilities, developing ourselves and our teams, rethinking our policies
+and our work in a Whole-of-Government fashion, and always keeping a long-term
+orientation while holding true to our convictions and values, in our ideas
+and in our implementation.</p>
+<p></p>
+</li>
+<li>
+<p>In time to come, we will make a political leadership transition. It is
+the responsibility of the Public Service and the responsibility of the
 Administrative Service to continue to give our fullest support to the political
 leadership and their priorities for Singapore. This is how our system works.
 And this is how we must continue to help our system of Government succeed,
 for the good of Singapore and Singaporeans.</p>
+</li>
+</ol>
 <p></p>
 <p></p>
 <p></p>
