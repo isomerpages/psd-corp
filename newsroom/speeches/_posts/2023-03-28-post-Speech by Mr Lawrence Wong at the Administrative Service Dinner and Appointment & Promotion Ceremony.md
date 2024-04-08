@@ -1,11 +1,12 @@
 ---
 title: Speech by Mr Lawrence Wong at the Administrative Service Dinner and
   Appointment & Promotion Ceremony
-permalink: /press-room/speeches/permalink/
+permalink: /press-room/speeches/lawrence-wong-administrative-service-dinner-appointment-promotion-ceremony/
 date: 2023-03-28
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 ##### Speech by Mr Lawrence Wong, Deputy Prime Minister and Minister for Finance, at the Administrative Service Dinner and Appointment &amp; Promotion Ceremony
 

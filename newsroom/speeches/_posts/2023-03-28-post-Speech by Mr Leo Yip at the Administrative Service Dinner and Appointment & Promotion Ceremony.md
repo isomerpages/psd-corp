@@ -1,11 +1,12 @@
 ---
 title: Speech by Mr Leo Yip at the Administrative Service Dinner and Appointment
   & Promotion Ceremony
-permalink: /press-room/speeches/hcs-leo-yip-2022-administrative-service-appointment-and-promotion-ceremony/
+permalink: /press-room/speeches/hcs-leo-yip-2023-administrative-service-dinner-appointment-promotion-ceremony/
 date: 2023-03-28
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 ##### Speech by Mr Leo Yip, Head, Civil Service, at the Administrative Service Dinner and Appointment & Promotion Ceremony
 
