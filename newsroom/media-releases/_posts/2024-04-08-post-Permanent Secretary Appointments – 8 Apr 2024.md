@@ -10,13 +10,13 @@ variant: markdown
 <p><strong>CHANGES IN PERMANENT SECRETARY APPOINTMENTS</strong>
 </p>
 <p>&nbsp;</p>
-<p>Ms Lai Wei Lin will be appointed as Permanent Secretary (Health) (designate)
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ms Lai Wei Lin will be appointed as Permanent Secretary (Health) (designate)
 with effect from 1 July 2024 and relinquish her appointments as Permanent
 Secretary (Transport Development) and Second Permanent Secretary (Finance)
 on the same date. She will be appointed as Permanent Secretary (Health)
 with effect from 15 July 2024.</p>
 <p>&nbsp;</p>
-<p>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Chan Yeng Kit will relinquish
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Chan Yeng Kit will relinquish
 his appointment as Permanent Secretary (Health) and be seconded to SPH
 Media as Chief Executive Officer with effect from 15 July 2024.</p>
 <p>&nbsp;</p>
@@ -24,7 +24,7 @@ Media as Chief Executive Officer with effect from 15 July 2024.</p>
 </p>
 <p><u>Ms Lai Wei Lin (赖慧玲)</u>
 </p>
-<p>3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Lai Wei Lin, 48, held various
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Lai Wei Lin, 48, held various
 appointments in the Ministry of Trade and Industry (MTI), Ministry of National
 Development and the Civil Service College, before joining the Ministry
 of Health as a Director in 2009 and appointed as its Deputy Secretary (Policy)
@@ -36,7 +36,7 @@ Development) and concurrently as Second Permanent Secretary (Finance).</p>
 <p>&nbsp;</p>
 <p><u>Mr Chan Yeng Kit (陈英杰)</u>
 </p>
-<p>4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Chan Yeng Kit, 59, served
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Chan Yeng Kit, 59, served
 in various appointments in the Public Service Division, MTI, Ministry of
 Defence and MOE. He was seconded to the National Trades Union Congress
 from 1991 to 1993 and to the Suzhou Industrial Township Development from
