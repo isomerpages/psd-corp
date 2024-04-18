@@ -3,6 +3,7 @@ title: Welcome to ServiceSG
 permalink: /servicesg/
 description: ServiceSG is a first-stop service concierge that helps citizens
   access relevant government services across multiple agencies.
+variant: markdown
 ---
 ![](/images/ServiceSG/servicesg-website-title-image.png)
 
@@ -88,7 +89,7 @@ input:checked + label + .accordion-content {
 	</div>
 
 ## **OUR PARTNERING AGENCIES**
-![](/images/ServiceSG/30%20oct.png)
+![](/images/ServiceSG/servicesg_partners_11042024.png)
 
 ## **VISIT US**
 ### **ServiceSG Centres**
