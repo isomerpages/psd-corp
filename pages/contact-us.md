@@ -19,10 +19,11 @@ contacts:
       - phone: 1 800 227 7270
       - email: psd_qsm@psd.gov.sg
       - other: ""
-    title: " Quality Service Manager"
+    title: Quality Service Manager
   - content:
       - phone: ""
-      - email: tan_yiwen@psd.gov.sg
-      - other: Ms Tan Yiwen
+      - email: Samantha_Leong@psd.gov.sg
+      - other: Ms Samantha Leong
     title: For media queries
+feedback: /feedback
 ---
