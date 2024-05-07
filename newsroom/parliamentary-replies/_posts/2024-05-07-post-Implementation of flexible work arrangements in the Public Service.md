@@ -27,10 +27,9 @@ flexible work arrangements and, if so, in what forms.</p>
 work arrangements (FWAs) have already been made available to public officers.
 These arrangements include staggered work hours, part-time work options
 and telecommuting. Officers and their agencies may agree on the suitable
-flexible work arrangements, taking into account the officers’ personal
-needs and the agencies’ operational considerations. The Public Service
-welcomes greater adoption of FWAs in the Public Service as we strive to
-help public officers better balance work and personal responsibilities
-(e.g., caregiving duties) while continuing to uphold our duties and service
-to the public.</p>
+FWAs, taking into account the officers’ personal needs and the agencies’
+operational considerations. We welcome greater adoption of FWAs in the
+Public Service as we strive to help public officers better balance work
+and personal responsibilities (e.g., caregiving duties) while continuing
+to uphold our duties and service to the public.</p>
 <p>&nbsp;</p>
