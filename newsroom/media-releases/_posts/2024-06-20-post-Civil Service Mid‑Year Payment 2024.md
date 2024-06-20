@@ -7,11 +7,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Civil servants to receive 0.45-month mid-year bonus</strong>
+<p><strong>                               Civil servants to receive 0.45-month mid-year bonus</strong>
 </p>
-<p><strong>Junior grade officers to get an additional payment of up to $250</strong>
+<p><strong>                       Junior grade officers to get an additional payment of up to $250</strong>
 </p>
-<p><strong>This follows close consultation with public sector unions</strong>
+<p><strong>                           This follows close consultation with public sector unions</strong>
 </p>
 <p><strong><em>&nbsp;</em></strong>
 </p>
