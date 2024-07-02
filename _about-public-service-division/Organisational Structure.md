@@ -2,6 +2,7 @@
 title: Organisational Structure
 permalink: /about-psd/organisational-structure/
 description: ""
+variant: markdown
 ---
 #### Public Sector Transformation Group
 
@@ -13,7 +14,7 @@ We energise, engage, and enable public sector agencies and public officers in th
 
 #### Core HR Group
 
-**Chief HR Oficer's Office**
+**Chief HR Officer's Office**
 <br>
 We serve to professionalise HR in the Public Service and provide thought leadership to some 2,700 HR leaders and officers across the Public Service. Our vision is to position the Singapore Public Service as “The Employer of Choice" by building a connected HR community, uplifting HR capabilities and developing the HR talent pipeline.
 
