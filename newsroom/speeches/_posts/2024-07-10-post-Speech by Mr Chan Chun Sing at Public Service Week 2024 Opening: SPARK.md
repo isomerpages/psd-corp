@@ -16,11 +16,11 @@ variant: tiptap
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Good afternoon to all of you here in ITE College Central, and to many of
 you who are joining us online. Welcome!&nbsp;</p>
-<p>&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 I hope the video has tickled your minds. If we get to SG100, our country
 and Public Service will indeed have achieved a significant milestone in
 defying the odds of history.&nbsp;</p>
-<p>&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 I am reminded that most Fortune 500 companies do not even survive that
 long. Make a guess – out of the Fortune 500 companies that we have now,
 how many of them have consistently made the list for the last 70 years?
@@ -29,7 +29,6 @@ has been decreasing. It is now on average about 20 years only. And if you
 strip out the 49 who have done so consistently over the last 70 years,
 the average age of the remaining 451 companies is even shorter, at less
 than 15 years!</p>
-<p></p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 You might be wondering why I have compared ourselves to the Fortune 500
 companies. Our GDP size will rank us probably at about rank number 18 or
@@ -41,7 +40,7 @@ do we keep creating and reinventing ourselves to be relevant to the world?
 How can we create new value propositions by turning constraints into opportunities?
 How do we constantly and continuously turn divides into bridges, both internally
 and externally?</p>
-<p>&nbsp;5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 How we answer these questions will determine our fate. As the video shows,
 we can ask the AI assistant to trawl through the wisdom of yesteryears.
 We can ask the AI assistant to gather all the information for us on the
@@ -55,13 +54,13 @@ is to shape it, rather than to passively await it. And in case you are
 wondering, this speech was not crafted by Pair or any AI assistant. It
 is a short message from my speechwriter, together with my personal reflections
 on our Public Service journey ahead and our ambitions.</p>
-<p>&nbsp;6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Now, if we take a step back and look at ourselves today, we can pat ourselves
 on the back and say that we have not done too badly as a Public Service.
 We are certainly not perfect. But our standing – both locally and internationally
 – is good. The Chandler Good Government Index (CGGI) ranked us top on government
 effectiveness for the second consecutive year.</p>
-<p>&nbsp;7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Sometimes, foreign guests compliment us by asking if they can borrow our
 Public Service for a year. But the truth is that whoever thinks that they
 can borrow our Public Service for a year and achieve the same results cannot
@@ -74,22 +73,22 @@ stability, and partnership between the Public Service and political leadership.<
 So while we celebrate our successes, I also want us to ponder a very simple
 question today. Will we, the Singapore Public Service, continue to be the
 pride of our nation and the envy of others? If so, why and how?</p>
-<p>&nbsp;9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 I will answer the question today in the opposite way. I think we will not
 continue to be successful if we lose three things: first, our purpose and
 sense of mission; second, our values; and third, our gumption.</p>
 <p></p>
 <p><strong><u>Remembering Our Purpose and Mission</u></strong>
 </p>
-<p>&nbsp;10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>First and foremost</u>,<strong> we must never lose our sense of purpose and mission</strong>.
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>First and foremost</u>,<strong> we must never lose our sense of purpose and mission</strong>.
 What is our mission? I have chosen a very simple and short mission statement.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our mission
 is <strong>to build a thriving Singapore that provides hope and opportunities for all Singaporeans through the times</strong>.
 I have reflected and chosen each term carefully to encompass the meaning
 behind our calling in the Public Service.</p>
-<p>&nbsp;12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-First, “to build”. This is an action-oriented phrase. It is neither passive
-nor reactive. It is not about just preserving and maintaining what we have
+<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First,
+“to build”. This is an action-oriented phrase. It is neither passive nor
+reactive. It is not about just preserving and maintaining what we have
 achieved thus far. Instead, each and every one of us must take on the role
 of a builder, a hunter or a pioneer – one who is always on the lookout
 for opportunities to score and create new value propositions for ourselves,
@@ -98,105 +97,105 @@ we have three levels of leadership responsibility. First, we can solve
 problems, but that is basic 101. Second, we can pre-empt problems – that
 requires foresight. Third, at the highest level, we must unleash the potential
 of our people. And that’s why we build. &nbsp;</p>
-<p>&nbsp;13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Second, I have chosen the phrase “a thriving SG”. This means a growing,
-living entity that is not bounded by geography, nor constrained or defined
-by resources. Instead, it is about transcending our constraints through
-our networks and the power of our ideas and delivery.</p>
-<p>&nbsp;14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Next, “hope and opportunities for all”, regardless of one’s background,
-starting position in life, race, language, religion, strengths and weaknesses.
-“Hope and opportunities for all”, because each and every Singaporean has
-something to contribute and can contribute. It is our job to enable each
-and every Singaporean to contribute and to feel a sense of contribution,
-that they are part of a larger entity that will shape our collective future.</p>
+<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Second,
+I have chosen the phrase “a thriving SG”. This means a growing, living
+entity that is not bounded by geography, nor constrained or defined by
+resources. Instead, it is about transcending our constraints through our
+networks and the power of our ideas and delivery.</p>
+<p>14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Next,
+“hope and opportunities for all”, regardless of one’s background, starting
+position in life, race, language, religion, strengths and weaknesses. “Hope
+and opportunities for all”, because each and every Singaporean has something
+to contribute and can contribute. It is our job to enable each and every
+Singaporean to contribute and to feel a sense of contribution, that they
+are part of a larger entity that will shape our collective future.</p>
 <p>15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The phrase
 “all Singaporeans” is obvious. We are committed to serve all Singaporeans
 and everyone who wants to be a Singaporean out of conviction.</p>
 <p>16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Through
 the times” implies sustainability to defy the odds of history — governing
 responsively and responsibly, through good times and tough times.</p>
-<p>&nbsp;17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-My simple wish for all our public officers is that we will always remember
-this mission of ours – “to build a thriving Singapore that provides hope
-and opportunities for all Singaporeans through the times”.</p>
+<p>17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My simple
+wish for all our public officers is that we will always remember this mission
+of ours – “to build a thriving Singapore that provides hope and opportunities
+for all Singaporeans through the times”.</p>
 <p>18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Notwithstanding
 our accomplishments thus far, we are never and will never be complacent
 to think that we are on auto-pilot maintenance mode. Indeed, every new
 day brings new challenges for our generation. Every new challenge requires
 us to re-examine our assumptions and approach to overcome, and to transcend
 the challenges.&nbsp;</p>
-<p>&nbsp;19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-We are by now all familiar with the “fragmenting global order”, the “fractious
+<p>19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We are
+by now all familiar with the “fragmenting global order”, the “fractious
 social order”, and the “fragile economic order”. The question for us is
 how to overturn the 3Fs into the 4Cs – a “connected global order”, a “cohesive
 social order”, a “competitive economy” and a “confident people”.</p>
-<p>&nbsp;20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-If we are in the foreign affairs, financial, defence and security pillars,
-what are our ideas to bring like-minded countries and companies together
-to uphold existing rules and to develop new rules to strengthen our chances
+<p>20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If we
+are in the foreign affairs, financial, defence and security pillars, what
+are our ideas to bring like-minded countries and companies together to
+uphold existing rules and to develop new rules to strengthen our chances
 of survival and to thrive?</p>
-<p>&nbsp;21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-If we are in the social sector, how do we lead by maintaining cohesion
-amidst a more contested socio-political environment, a less trusting media
-environment, a public with higher and more diverse aspirations?</p>
-<p>&nbsp;22.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-If we are in the economic sector, how do we attract new investments, create
-new and exciting jobs for our people? How do we keep everyone’s wages growing
+<p>21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If we
+are in the social sector, how do we lead by maintaining cohesion amidst
+a more contested socio-political environment, a less trusting media environment,
+a public with higher and more diverse aspirations?</p>
+<p>22.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If we
+are in the economic sector, how do we attract new investments, create new
+and exciting jobs for our people? How do we keep everyone’s wages growing
 amidst the more challenging global environment?</p>
-<p>&nbsp;23.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-And in all sectors, how do we inspire Singaporeans and assure Singaporeans
-that everyone can have their place in our society, to make one’s contributions
+<p>23.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And in
+all sectors, how do we inspire Singaporeans and assure Singaporeans that
+everyone can have their place in our society, to make one’s contributions
 regardless of one’s abilities?&nbsp; That indeed, our collective and diversity
 of strengths define us, rather than just competing against one another
 for our own individual accomplishments. We inspire Singaporeans to define
 success by how they contribute to the collective good, beyond their own
 individual contributions.</p>
-<p>&nbsp;24.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-So clearly, we have our challenges cut out. We will have to find our own
-way forward, just like the generations before us. I am confident that so
-long as we put our minds to these tough questions, we will get some good
-answers. It may not be perfect answers, but certainly as good, if not better,
-than what others can come up with.</p>
-<p>&nbsp;25.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-We must always ask the right questions, the tough questions and never opt
-out by answering the easy questions. Because it is the tough questions
-that we need to ask ourselves that will challenge us, and inspire us to
-look for those breakthrough solutions that will take Singapore to the next
-higher level. &nbsp;</p>
+<p>24.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So clearly,
+we have our challenges cut out. We will have to find our own way forward,
+just like the generations before us. I am confident that so long as we
+put our minds to these tough questions, we will get some good answers.
+It may not be perfect answers, but certainly as good, if not better, than
+what others can come up with.</p>
+<p>25.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We must
+always ask the right questions, the tough questions and never opt out by
+answering the easy questions. Because it is the tough questions that we
+need to ask ourselves that will challenge us, and inspire us to look for
+those breakthrough solutions that will take Singapore to the next higher
+level. &nbsp;</p>
 <p>&nbsp;<strong><u>Anchored by Values</u></strong>
 </p>
-<p>&nbsp;26.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Second</u>,
+<p>26.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Second</u>,
 we must not lose our values — to put the nation’s and people’s interests
 above all. Our core values such as meritocracy, incorruptibility and the
 relentless pursuit of excellence have become even more important in this
 uncertain world. The effectiveness of the Public Service depends on trust.
 We must be trusted to be able to do the right thing, to do what it takes
 to protect the public good.</p>
-<p>&nbsp;27.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Upholding integrity at our core also means we have to be honest with ourselves
-and see the world as it is. The Public Service will not work well, if we
-are always constantly afraid of what people say about us or how people
-perceive us. We must have the competence, and the confidence, to create
-a better future for Singapore and Singaporeans on our own terms, and not
-just constantly look for immediate feedback on what we do. Because many
-of the things we do may not see results in the short term. But we must
-have the confidence and the conviction to keep pressing on when we believe
-something is right. Go out, and convince fellow Singaporeans that this
-is the right path to take. Mobilise fellow Singaporeans to walk this journey
-with us. Only then will we be able to defy the odds and overcome the challenges
-for the long haul.</p>
-<p>&nbsp;28.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-On the other hand, it does not give us any joy to see good people stumble
-and fall. With every stumble, we must emerge stronger and more determined
-to put things right and do it better the next time. Circumstances do not
-define us. Our responses will.</p>
-<p>&nbsp;29.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-We must defend and uphold our values through three interlocking layers.
-First, we must continue to have an overall framework of clear rules that
-enable our people to do the right things, and not just prevent them from
-doing the wrong or bad things. Second, we must collectively endeavour to
-look out for one another, and never think we are facing all the temptations
+<p>27.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Upholding
+integrity at our core also means we have to be honest with ourselves and
+see the world as it is. The Public Service will not work well, if we are
+always constantly afraid of what people say about us or how people perceive
+us. We must have the competence, and the confidence, to create a better
+future for Singapore and Singaporeans on our own terms, and not just constantly
+look for immediate feedback on what we do. Because many of the things we
+do may not see results in the short term. But we must have the confidence
+and the conviction to keep pressing on when we believe something is right.
+Go out, and convince fellow Singaporeans that this is the right path to
+take. Mobilise fellow Singaporeans to walk this journey with us. Only then
+will we be able to defy the odds and overcome the challenges for the long
+haul.</p>
+<p>28.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On the
+other hand, it does not give us any joy to see good people stumble and
+fall. With every stumble, we must emerge stronger and more determined to
+put things right and do it better the next time. Circumstances do not define
+us. Our responses will.</p>
+<p>29.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We must
+defend and uphold our values through three interlocking layers. First,
+we must continue to have an overall framework of clear rules that enable
+our people to do the right things, and not just prevent them from doing
+the wrong or bad things. Second, we must collectively endeavour to look
+out for one another, and never think we are facing all the temptations
 and challenges as individuals alone. Third, we must have a personal responsibility
 to live by our ethos to serve and uphold our system and values for the
 larger good of our country and people.</p>
@@ -204,8 +203,8 @@ larger good of our country and people.</p>
 </p>
 <p>30.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now I
 come to my <u>third point</u>. The Public Service must not lose gumption:</p>
-<p>&nbsp;a.&nbsp;&nbsp;&nbsp;&nbsp; Gumption to break new grounds and find
-new solutions in context for our challenges, rather than relying on others’
+<p>a.&nbsp;&nbsp;&nbsp;&nbsp; Gumption to break new grounds and find new
+solutions in context for our challenges, rather than relying on others’
 ideas, especially those that have not proven effective even in solving
 other people’s problems.&nbsp;</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp; Gumption to see and pursue opportunities in
@@ -215,9 +214,9 @@ focus on purposeful work.</p>
 <p>d.&nbsp;&nbsp;&nbsp;&nbsp; Gumption to work hard at cracking our conundrums.</p>
 <p>e.&nbsp;&nbsp;&nbsp;&nbsp; Gumption to see the world as it is, rather
 than as we wish or hope it will be.</p>
-<p>&nbsp;f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gumption to admit that we
-are at risk of complacency, that many others are working hard to overtake
-us, and can overtake us if we drop the ball.</p>
+<p>f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gumption to admit that we are at
+risk of complacency, that many others are working hard to overtake us,
+and can overtake us if we drop the ball.</p>
 <p>g.&nbsp;&nbsp;&nbsp;&nbsp; Gumption to step out of our comfort zone, as
 many of you today have demonstrated to master new technologies and processes.</p>
 <p>h.&nbsp;&nbsp;&nbsp;&nbsp; Gumption to engage other stakeholders when
@@ -304,11 +303,11 @@ with fellow Singaporeans to shape our future, our history. And that is
 the Singapore Public Service.&nbsp;</p>
 <p><em>Mindset of continual growth</em>
 </p>
-<p>&nbsp;41.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-On this note, the Public Service will be taking the lead to extend the
-retirement and re-employment ages to 64 and 69 respectively from 1 July
-2025, one year ahead of the national schedule. We recognise that with higher
-life expectancy, many of our older officers may want to stay active, including
+<p>41.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On this
+note, the Public Service will be taking the lead to extend the retirement
+and re-employment ages to 64 and 69 respectively from 1 July 2025, one
+year ahead of the national schedule. We recognise that with higher life
+expectancy, many of our older officers may want to stay active, including
 being meaningfully engaged at work for longer. We will support all officers
 who still wish to contribute and continue shaping the future of our country,
 regardless of age.</p>
