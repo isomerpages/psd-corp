@@ -64,13 +64,7 @@ The following enhanced benefits will be introduced to better support public offi
 
 6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;We hope that the enhanced medical and dental benefits will encourage officers to proactively manage their health, in line with the national focus on preventive care.
 
-  
 
-* * *
-
-[\[1\]](#_ftnref1) Per-visit caps for visits to public health institutions such as polyclinics do not apply.
-<p>&nbsp;</p>
-         
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:98.75pt;border:solid windowtext 1.0pt;
@@ -137,3 +131,14 @@ The following enhanced benefits will be introduced to better support public offi
   EN-US;mso-fareast-language:EN-US" lang="EN-US">&nbsp;</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
   EN-US;mso-fareast-language:EN-US" lang="EN-US">w.e.f 1 Jan 2025</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
   EN-US;mso-fareast-language:EN-US" lang="EN-US">&nbsp;</span></p></td></tr></tbody></table>
+	
+<p></p>
+<p></p>
+<p></p>
+
+  * * *
+
+[\[1\]](#_ftnref1) Per-visit caps for visits to public health institutions such as polyclinics do not apply.
+<p>&nbsp;</p>         
+
+
