@@ -7,10 +7,10 @@ description: ""
 image: ""
 variant: markdown
 ---
-<p>Public Service Week (PSW) 2024 kicked off today with the presentation
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Public Service Week (PSW) 2024 kicked off today with the presentation
 of 100 Public Sector Transformation (PST) awards to agencies and officers
 who have demonstrated exemplary efforts in service delivery, innovation
-and developing themselves and their teams.</p>
+and developing themselves and their teams.
 <p></p>
 <p>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This year’s PSW theme is <strong>“Innovate, Grow, Care – Make a Difference for Tomorrow”</strong>.<strong> </strong>It<strong> </strong>reflects
 the Public Service’s resolve to keep improving to deliver better outcomes
@@ -43,7 +43,7 @@ may wish to stay active, including being meaningfully engaged at work for
 longer in different ways.</p>
 <p>&nbsp;</p>
 <p>_____________________________________________________________________</p>
-<h4><strong><u>ANNEX A</u></strong></h4>
+<h5><strong><u>ANNEX A</u></strong></h5>
 <p></p>
 <p><strong>Enhanced Public Service Benefits</strong>
 </p>
