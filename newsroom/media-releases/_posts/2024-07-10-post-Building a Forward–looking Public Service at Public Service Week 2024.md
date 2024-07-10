@@ -42,9 +42,12 @@ This is in recognition that with higher life expectancy, many older officers
 may wish to stay active, including being meaningfully engaged at work for
 longer in different ways.</p>
 
-<p>_____________________________________________________________________</p>
-<h5><strong><u>ANNEX A</u></strong></h5>
 <p></p>
+<p></p>
+<p></p>
+<p></p>
+<hr>
+<h5><strong><u>ANNEX A</u></strong></h5>
         
 <center><b><u>Enhanced Public Service Benefits</u></b></center>
 
