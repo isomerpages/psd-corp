@@ -41,128 +41,99 @@ and 69 respectively from 1 July 2025, one year ahead of the national timeline.
 This is in recognition that with higher life expectancy, many older officers
 may wish to stay active, including being meaningfully engaged at work for
 longer in different ways.</p>
-<p>&nbsp;</p>
+
 <p>_____________________________________________________________________</p>
 <h5><strong><u>ANNEX A</u></strong></h5>
 <p></p>
-<p><strong>Enhanced Public Service Benefits</strong>
-</p>
-<p>The following enhanced benefits will be introduced to better support public
-officers’ well-being and growth.</p>
-<p><u>Introduction of Flexible Benefits</u>
-</p>
+        
+<center><b><u>Enhanced Public Service Benefits</u></b></center>
+
+The following enhanced benefits will be introduced to better support public officers’ well-being and growth.
+
+**Introduction of Flexible Benefits**
+
+2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To empower officers to take charge of their well-being and growth, the Public Service will introduce **“FlexiGrow”** from October 2024. This is a new $500 annual benefit that eligible officers can use flexibly to support their health, growth, and well-being, based on their own needs, such as courses for personal development and fitness programmes.
+
+**Enhancements to Medical and Dental Benefits**
+
+3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; After close consultation with the unions, the Public Service will enhance its medical and dental benefits. The enhanced medical and dental benefits will also apply to re-employed officers and Statutory Board employees.
+
+4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Officers currently enjoy outpatient medical subsidies of up to $500 per year, with outpatient expenses at private clinics capped at a $20 subsidy per visit[\[1\]](#_ftn1). To better support officers’ healthcare, the **per visit cap for outpatient visits to private clinics will be increased to $50** from 1 January 2025. With this, officers eligible for Healthier SG can also better adhere to their personalised health plans with their registered Healthier SG clinic.
+
+5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For dental expenses, officers currently enjoy subsidies of up to $120 per year. This will be **increased to $250** from 1 January 2025 to encourage officers to visit a dentist regularly and maintain dental health.
+
+6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;We hope that the enhanced medical and dental benefits will encourage officers to proactively manage their health, in line with the national focus on preventive care.
+
+  
+
+* * *
+
+[\[1\]](#_ftnref1) Per-visit caps for visits to public health institutions such as polyclinics do not apply.
 <p>&nbsp;</p>
-<p>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To empower officers to take
-charge of their well-being and growth, the Public Service will introduce <strong>“FlexiGrow”</strong> from
-October 2024. This is a new $500 annual benefit that eligible officers
-can use flexibly to support their health, growth, and well-being, based
-on their own needs, such as courses for personal development and fitness
-programmes.</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong><u>Enhancements to Medical and Dental Benefits</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p>3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; After close consultation with
-the unions, the Public Service will enhance its medical and dental benefits.
-The enhanced medical and dental benefits will also apply to re-employed
-officers and Statutory Board employees.</p>
-<p>&nbsp;</p>
-<p>4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Officers currently enjoy outpatient
-medical subsidies of up to $500 per year, with outpatient expenses at private
-clinics capped at a $20 subsidy per visit<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>. To better support officers’ healthcare, the <strong>per visit cap for outpatient visits to private clinics will be increased to $50</strong> from
-1 January 2025. With this, officers eligible for Healthier SG can also
-better adhere to their personalised health plans with their registered
-Healthier SG clinic.</p>
-<p>&nbsp;</p>
-<p>5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For dental expenses, officers
-currently enjoy subsidies of up to $120 per year. This will be <strong>increased to $250</strong> from
-1 January 2025 to encourage officers to visit a dentist regularly and maintain
-dental health.</p>
-<p>&nbsp;</p>
-<p>6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;We hope that the enhanced
-medical and dental benefits will encourage officers to proactively manage
-their health, in line with the national focus on preventive care.</p>
-<p>&nbsp;</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Benefit</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Current</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>New</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Who will benefit</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Medical benefits (Outpatient)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cap of $20 per visit for outpatient visits to private clinics/hospitals</p>
-<p>&nbsp;</p>
-<p>No per-visit caps for visits to public health institutions</p>
-<p>&nbsp;</p>
-<p>Overall subsidy of up to $500 per year.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cap of $50 per visit for outpatient visits to private clinics/hospitals</p>
-<p>&nbsp;</p>
-<p>No change for visits to public health institutions</p>
-<p>&nbsp;</p>
-<p>Overall subsidy ($500 per year)</p>
-<p>&nbsp;</p>
-<p>w.e.f 1 Jan 2025</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>All public officers, including re-employed officers and Statutory Board
-employees</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dental benefits</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Up to $120 per year for both private and public clinics/hospitals</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Up to $250 per year for both private and public clinics/hospitals</p>
-<p>&nbsp;</p>
-<p>w.e.f 1 Jan 2025</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>
-<br>
-</p>
-<hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Per-visit
-caps for visits to public health institutions such as polyclinics do not
-apply.</p>
+         
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:98.75pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#DEEAF6;mso-background-themecolor:
+  accent5;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="132"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext;mso-ansi-language:EN-US;mso-fareast-language:EN-US" lang="EN-US">Benefit</span></b><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-US;mso-fareast-language:EN-US" lang="EN-US"></span></b></p></td><td style="width:112.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#DEEAF6;mso-background-themecolor:accent5;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="150"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext;mso-ansi-language:EN-US;mso-fareast-language:EN-US" lang="EN-US">Current</span></b><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-US;mso-fareast-language:EN-US" lang="EN-US"></span></b></p></td><td style="width:112.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#DEEAF6;mso-background-themecolor:accent5;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="150"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext;mso-ansi-language:EN-US;mso-fareast-language:EN-US" lang="EN-US">New</span></b><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-US;mso-fareast-language:EN-US" lang="EN-US"></span></b></p></td><td style="width:127.05pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#DEEAF6;mso-background-themecolor:accent5;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="169"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext;mso-ansi-language:EN-US;mso-fareast-language:EN-US" lang="EN-US">Who will benefit</span></b><b><span style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-US;mso-fareast-language:
+  EN-US" lang="EN-US"></span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:98.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="132"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-US;mso-fareast-language:EN-US" lang="EN-US">Medical benefits (Outpatient)</span></p></td><td style="width:112.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="150"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-US;mso-fareast-language:EN-US" lang="EN-US">Cap of $20 per visit for outpatient visits to private clinics/hospitals</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-US;mso-fareast-language:EN-US" lang="EN-US">&nbsp;</span></p><p style="margin-bottom:0cm;line-height:107%" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-language:EN-US">No per-visit caps for visits to public health institutions</span><span style="font-size:12.0pt;line-height:107%;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-language:
+  EN-US">&nbsp;</span></p><p style="margin-bottom:8.0pt;line-height:107%" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-language:EN-US">Overall subsidy of up to $500 per year</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-ansi-language:EN-US;mso-fareast-language:EN-US" lang="EN-US">.</span></p></td><td style="width:112.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="150"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-US;mso-fareast-language:EN-US" lang="EN-US">Cap of $50 per visit for outpatient visits to private clinics/hospitals</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-US;mso-fareast-language:EN-US" lang="EN-US">&nbsp;</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-US;mso-fareast-language:EN-US" lang="EN-US">No change for visits to public health institutions</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-US;mso-fareast-language:EN-US" lang="EN-US">&nbsp;</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-US;mso-fareast-language:EN-US" lang="EN-US">Overall subsidy ($500 per year)</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-US;mso-fareast-language:EN-US" lang="EN-US">&nbsp;</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-US;mso-fareast-language:EN-US" lang="EN-US">w.e.f 1 Jan 2025</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;background:
+  yellow;mso-highlight:yellow;mso-ansi-language:EN-US;mso-fareast-language:
+  EN-US" lang="EN-US">&nbsp;</span></p></td><td style="width:127.05pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="2" width="169"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-US;mso-fareast-language:EN-US" lang="EN-US">All public officers, including re-employed officers and Statutory Board employees</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:98.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="132"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-language:
+  EN-US">Dental benefits</span></p></td><td style="width:112.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="150"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-US;mso-fareast-language:EN-US" lang="EN-US">Up to $120 per year for both private and public clinics/hospitals</span></p></td><td style="width:112.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="150"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-US;mso-fareast-language:EN-US" lang="EN-US">Up to $250 per year for both private and public clinics/hospitals</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-US;mso-fareast-language:EN-US" lang="EN-US">&nbsp;</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-US;mso-fareast-language:EN-US" lang="EN-US">w.e.f 1 Jan 2025</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-US;mso-fareast-language:EN-US" lang="EN-US">&nbsp;</span></p></td></tr></tbody></table>
