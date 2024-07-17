@@ -12,7 +12,7 @@ variant: markdown
 
 Mr Chan Chun Sing, Minister for Education and Minister-in-charge of the Public Service
 <br>Scholarship award recipients, families and friends
-Your Excellencies
+<br>Your Excellencies
 <br>Distinguished guests and colleagues <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Welcome to the Public Service Commission Scholarships Award Ceremony. It is a happy occasion for all here today — not only the recipients of the scholarships but also your families, friends and teachers. Congratulations to all of you, and especially to those who have helped and supported those who will receive their awards.
