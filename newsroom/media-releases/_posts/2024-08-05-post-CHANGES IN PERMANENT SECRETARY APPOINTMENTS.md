@@ -61,8 +61,7 @@ between local production, diversification and stockpiling.&nbsp;</p>
 to the Public Service, Mr Lim was awarded the Public Administration Medal
 (Gold) in 2020.</p>
 <p></p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">Change in Permanent Secretary Appointment</a></strong>
-</p>
+<p>Change in Permanent Secretary Appointment</p>
 <p></p>
 <p>9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Jeffrey Siow Chen Siang
 (萧振祥), Second Permanent Secretary of the Ministry of Manpower (MOM), will
