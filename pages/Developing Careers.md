@@ -24,7 +24,7 @@ To support public officer's career aspirations, we introduce new programmes desi
   
 The Short Term Immersion Programme allows officers to gain on-the-job experience through shadowing and hands-on participation in another agency for a duration of 1 day to 4 weeks. Another short-term initiative is the Gig Work programme, which enables officers to contribute their expertise and experience to cross-agency Public Service projects.
 
-Long-term stints include Structured Job Rotation within the Public Service, as well as Talent Attachment Programmes to private sector companies to better understand the impact of goverment policies.
+Long-term stints include Structured Job Rotation within the Public Service, as well as Talent Attachment Programmes to private sector companies to better understand the impact of government policies.
 
 #### We believe in facilitating your self-discovery
 
