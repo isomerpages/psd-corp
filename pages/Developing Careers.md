@@ -2,6 +2,7 @@
 title: Developing Careers
 permalink: /developing-careers/
 description: ""
+variant: markdown
 ---
 #### Partnering public officers to build our Future Workforce
 
@@ -15,15 +16,15 @@ As the central HR agency, we lead the way in HR practices. We keep up-to-date wi
 
 As work becomes more complex and dynamic, where jobs and skills are constantly evolving, it is getting more difficult to assess most officers' potential accurately, particularly early in their careers.  
   
-Officers today will also have longer careers with different episodes of work. We encourage the growth and development for all officer. It is therefore more meaningful to develop officers’ skills and competencies for their next career milestone, over shorter time horizons.
+Officers today will also have longer careers with different episodes of work. We encourage the growth and development for all officers. It is therefore more meaningful to develop officers’ skills and competencies for their next career milestone, over shorter time horizons.
 
 #### We believe in supporting your career aspirations
 
-To support public officer's career aspirations, we introduce new programmes designed to broaden their experience and gain new perspectves and insights outside their current role. Covering different funcitonal areas, sectors and time commitment, these opportunities will also help you grow your networks and deepend you skills.  
+To support public officer's career aspirations, we introduce new programmes designed to broaden their experience and gain new perspectives and insights outside their current role. Covering different functional areas, sectors and time commitment, these opportunities will also help you grow your networks and deepen you skills.  
   
-The Short Term Immersion Programme where officer are exposed to on-the-job shadowing and hands-on participation in another agency between 1 day and 4 weeks. Another programme designed for short-term participation is the Gig Work initiative, where officers get to contribute their expertise and experience in cross-agency Public Service projects.  
-  
-Long-term stints include Structured Job Rotation within the Public Service, as well as Talent Attachment Programmes to private sector companies to better understand the impact of goverment policies.
+The Short Term Immersion Programme allows officers to gain on-the-job experience through shadowing and hands-on participation in another agency for a duration of 1 day to 4 weeks. Another short-term initiative is the Gig Work programme, which enables officers to contribute their expertise and experience to cross-agency Public Service projects.
+
+Long-term stints include Structured Job Rotation within the Public Service, as well as Talent Attachment Programmes to private sector companies to better understand the impact of government policies.
 
 #### We believe in facilitating your self-discovery
 
