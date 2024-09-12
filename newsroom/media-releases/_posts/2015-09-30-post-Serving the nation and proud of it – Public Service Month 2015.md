@@ -5,6 +5,7 @@ date: 2015-09-30
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 **Serving the nation and proud of it**  
 Public Service Month 2015
@@ -26,7 +27,7 @@ Head, Civil Service, Peter Ong, hopes that in this month-long celebration, offic
   
 Public Service Month will end with a reception for long service medallists and PS21 Star Service Awardees to be hosted by the President at the Istana on 20 October.  
   
-More details on Public Service Festival can be found at&nbsp;[www.psfestival.sg](http://www.psfestival.sg/)&nbsp;and the key events of Public Service Month are listed in the Annex.  
+Key events of Public Service Month are listed in the Annex.  
   
    
 **ANNEX**  
