@@ -5,6 +5,7 @@ date: 2013-12-16
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 **No recent changes to policies on hospitalisation and ward charges for pensioners**
 
@@ -16,7 +17,7 @@ Ms Cheong was under the misapprehension that that there had been a change in pol
 
 In fact, the only recent change, in March 2013, was to enhance outpatient medical and dental benefits with an increase in claim limits and subsidies.
 
-For updates on policies and pension-related information, pensioners can refer to the Civil Service Pensioner’s Portal at [www.pac.gov.sg](http://www.pac.gov.sg/). 
+For updates on policies and pension-related information, pensioners can refer to the Civil Service Pensioner’s Portal at https://www.agd.gov.sg/files/pensioner%20handbook.pdf. 
 
 We thank Ms Cheong for the opportunity to clarify and will look into better ways of sharing updates on pension policies with pensioners."
 

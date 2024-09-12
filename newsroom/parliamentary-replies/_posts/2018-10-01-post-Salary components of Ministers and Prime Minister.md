@@ -5,6 +5,7 @@ date: 2018-10-01
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ##### Oral Reply to Parliamentary Question on salary components of Ministers and Prime Minister
   
@@ -40,7 +41,7 @@ I have prepared a handout on the range and average of each of the variable pay c
   
 Mr Speaker Sir, may I request the Clerk to distribute the handout, please.   
   
-If members can refer to the [handout](https://www-psd-gov-sg-admin.cwp.sg/docs/default-source/default-document-library/PQ-01Oct2018/handout-1---annual-norm-salary-for-entry-level-minister.pdf), Table 1 reflects the actual variable pay components received by Political Office Holders over the past five years.  
+If members can refer to the handout, Table 1 reflects the actual variable pay components received by Political Office Holders over the past five years.  
   
 Between 2013 to 2017, for the National Bonus the range was between 3.4 and 4.9 months, with the average over the 5 years being 4.1 months; for Performance Bonus the range was from 3 to 6 months each year, with the average across all the Political Office Holders over 5 years at 4.3 months; for the Annual Variable Component, the range was 0.95 to 1.5 months over the period and the average over the 5 years was 1.3 months.  
   
@@ -61,6 +62,7 @@ Emeritus Senior Minister Goh Chok Tong is not a member of the Cabinet, and has n
 Mr Speaker Sir, the Government has always been transparent with the salary structure for Political Office Holders. The 2012 White Paper on “Salaries for a Capable and Committed Government”, was submitted by an independent Committee after extensive consultation with Members of Parliament and the public. The paper was endorsed in full in January 2012, after a thorough debate in this House over two and a half days with 29 Members speaking on the matter, including 7 members from the opposition.   
   
 In determining the salary framework, the Committee was guided by the following 3 key principles:  
+
 a. First, salaries must be competitive so that people of the right calibre are not deterred from stepping forward to lead the country;   
 b. Second, the ethos of political service entails making sacrifices and hence there should be a discount (of 40%) in the pay formula; and   
 c. Third, there should be a “clean wage” with no hidden perks.  
@@ -69,15 +71,15 @@ Members of Parliament, including those from the Workers’ Party, endorsed these
   
 I quote Mr Chen Show Mao – he is in the House, “We (the Workers’ Party) agree with the three principles that political salaries should be competitive, that political service is a calling that has its own ethos and their wages should be transparent.” During that parliamentary session, the Workers’ Party had proposed their own formula based on these same 3 principles.   
   
-Mr Speaker Sir, could I request the Clerk to distribute [Handouts 2](https://www-psd-gov-sg-admin.cwp.sg/docs/default-source/default-document-library/PQ-01Oct2018/handout-2---straits-times-article-19-jan-2012.pdf) and [3](https://www-psd-gov-sg-admin.cwp.sg/docs/default-source/default-document-library/PQ-01Oct2018/handout-3---ministerial-salaries---2012-white-paper-vs-workers-partys-fo-_.pdf).  
+Mr Speaker Sir, could I request the Clerk to distribute Handouts 2 and 3.  
   
-[Handout 2](https://www-psd-gov-sg-admin.cwp.sg/docs/default-source/default-document-library/PQ-01Oct2018/handout-2---straits-times-article-19-jan-2012.pdf) is a Straits Times report on the 2012 debate in Parliament. The handout provides a succinct summary of the key points, and conveys a flavour of the debate.   
+Handout 2 is a Straits Times report on the 2012 debate in Parliament. The handout provides a succinct summary of the key points, and conveys a flavour of the debate.   
   
 It reports that there was, I quote, “Real progress in \[the\] ministerial pay debate”, and quoting my remarks that the “Opposition’s agreement on key points marks a breakthrough”, and the “Shift in the WP’s stance helps debate move forward”.   
   
 Mr Speaker Sir, there was convergence in this House on both the principles as well as the quantum for ministers’ salaries.  
   
-If Members could refer to [Handout 3](https://www-psd-gov-sg-admin.cwp.sg/docs/default-source/default-document-library/PQ-01Oct2018/handout-3---ministerial-salaries---2012-white-paper-vs-workers-partys-fo-_.pdf), the formula put forward by the Workers’ Party in 2012 would have resulted in essentially the same total annual salary level for the MR4 entry level minister as that recommended by the independent Committee.   
+If Members could refer to Handout 3, the formula put forward by the Workers’ Party in 2012 would have resulted in essentially the same total annual salary level for the MR4 entry level minister as that recommended by the independent Committee.   
   
 But the Workers’ Party formula would have had a higher level of fixed component of 81%, amounting to roughly $880,000, compared to the White Paper’s proposal, and a smaller variable component of 19%   
   

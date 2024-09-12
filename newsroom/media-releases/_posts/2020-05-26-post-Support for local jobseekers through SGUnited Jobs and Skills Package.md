@@ -5,6 +5,7 @@ date: 2020-05-26
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 Deputy Prime Minister Heng Swee Keat had announced the SGUnited Jobs and Skills Package to support close to 100,000 jobseekers during his Ministerial Statement. This Package aims to expand job and traineeship opportunities in both the public and private sectors for jobseekers, and provide enhanced training support. These efforts will support Singaporeans in acquiring job-related skills and capabilities, and in accessing expanded employment opportunities.  
  
@@ -64,11 +65,11 @@ b) Employers who hire local workers aged 40 and above through eligible reskillin
   
 To help jobseekers access the above job and training opportunities, SSG and WSG will work closely with partners such as NTUC and e2i to step up career assistance and outreach efforts. Jobseekers may also find out more about the opportunities available at [https://www.mycareersfuture.sg](https://www.mycareersfuture.sg/).   
   
-For more information on (A) scaling up of opportunities, (B) expanding traineeships and (D) enhancements to the hiring incentive, please contact WSG at [https://www.ssg-wsg.gov.sg/about/contact-us.html](https://www.ssg-wsg.gov.sg/about/contact-us.html). Participating companies and job roles for TeSA are listed on [www.imtalent.sg/CLT](https://www.imda.gov.sg/imtalent/programmes/clt) and [www.imtalent.sg/tesamidcareer](https://www.imda.gov.sg/imtalent/programmes/TeSA-Mid-Career).  
+For more information on (A) scaling up of opportunities, (B) expanding traineeships and (D) enhancements to the hiring incentive, please contact WSG at https://www.wsg.gov.sg. Participating companies and job roles for TeSA are listed on [www.imtalent.sg/CLT](https://www.imda.gov.sg/imtalent/programmes/clt) and [www.imtalent.sg/tesamidcareer](https://www.imda.gov.sg/imtalent/programmes/TeSA-Mid-Career).  
   
-For more information on (C) strengthening training support, please visit [https://www.skillsfuture.sg](https://www.skillsfuture.sg/), or contact SSG at [https://www.ssg.gov.sg/feedback](https://www.ssg.gov.sg/feedback).
+For more information on (C) strengthening training support, please visit https://www.skillsfuture.gov.sg, or contact SSG at https://www.skillsfuture.gov.sg/contact.
 
-![SGUnited Jobs and Skills Package](https://www.psd.gov.sg/images/default-source/default-album/sgu-package_260520_large.jpg)
+
 
 * * *
 
