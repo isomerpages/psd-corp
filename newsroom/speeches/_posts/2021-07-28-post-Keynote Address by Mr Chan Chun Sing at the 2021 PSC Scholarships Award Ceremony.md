@@ -6,10 +6,11 @@ date: 2021-07-28
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ##### Keynote Address by Mr Chan Chun Sing, Minister for Education and Minister-in-charge of the Public Service at the 2021 PSC Scholarships Award Ceremony
 
-1\. A very good afternoon to all of you, Chairman and members of the Public Service Commission, parents, teachers, principals, and recipients. 1 A very good afternoon to all of you, Chairman and members of the Public Service Commission, parents, teachers, principals, and recipients. 
+1\. A very good afternoon to all of you, Chairman and members of the Public Service Commission, parents, teachers, principals, and recipients. 
 
 2\. First, a warm welcome and my congratulations to all the award recipients.
 
@@ -55,7 +56,7 @@ image: ""
 
 20\. Hence, it is of utmost importance that we continue to enrich the public sector with private and people sector perspectives, experiences and contacts.
 
-21\. To this end, we will introduce the [Mid-Career Leaders Track](https://www.psd.gov.sg/what-we-do/developing-leadership-in-the-service/public-service-leadership-careers) to strengthen our [recruitment of mid-career professionals](https://careers.pageuppeople.com/688/cwlive/en/job/493436/public-service-leadership-careers) with the heart to serve, and the skills and experience to contribute. Doing so will inject diversity and consequent resilience to the public sector.
+21\. To this end, we will introduce the [Mid-Career Leaders Track](https://www.psd.gov.sg/leadership/public-service-leadership-careers/) to strengthen our [recruitment of mid-career professionals](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html#/JobDescription/11642924/005056a3-53e2-1edc-8e93-348b4f5533a0) with the heart to serve, and the skills and experience to contribute. Doing so will inject diversity and consequent resilience to the public sector.
 
 22\. There is one very important aspect that brought us this far, much further than many other countries, in the fight against COVID. And that is **trust**. 
 
