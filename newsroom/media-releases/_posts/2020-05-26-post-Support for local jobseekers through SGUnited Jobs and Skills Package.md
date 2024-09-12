@@ -69,7 +69,7 @@ For more information on (A) scaling up of opportunities, (B) expanding traineesh
   
 For more information on (C) strengthening training support, please visit https://www.skillsfuture.gov.sg, or contact SSG at https://www.skillsfuture.gov.sg/contact.
 
-![SGUnited Jobs and Skills Package](https://www.psd.gov.sg/images/default-source/default-album/sgu-package_260520_large.jpg)
+
 
 * * *
 
