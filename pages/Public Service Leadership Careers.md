@@ -77,7 +77,7 @@ Central gateway for mid-career entrants to apply for Leadership Programmes in th
 - For their first one or two postings, officers on the MCLT will select from a list of curated jobs that provides developmental exposure while having adjacencies to their previous work experience. This allows officers to leverage their expertise and experiences in making substantive contributions, while supporting their learning and transition into the Public Service. Officers can look forward to a meaningful career journey across a variety of postings such as job roles in policy-operations as well as stakeholder mobilisation and engagement, which will tap on officers’ knowledge, skills and perspectives.
 - A tailored onboarding experience with structured and personalised onboarding process to support officers’ transition on the MCLT. This is especially for working professions without any prior experience working in the Public Service.
 
-Find out more or&nbsp;[apply to the MCLT](https://go.gov.sg/apply-pslc),&nbsp;or read&nbsp;[FAQs about the Public Service Leadership Programme](https://www.psd.gov.sg/faq/public-service-leadership-programme).
+Find out more or&nbsp;[apply to the MCLT](https://go.gov.sg/apply-pslc),&nbsp;or read&nbsp;[FAQs about the Public Service Leadership Programme](https://www.psd.gov.sg/faq/).
 
   
 **Who We Are Looking For**
@@ -90,7 +90,7 @@ We accept applications for the Public Service Leadership Careers all year round.
   
 If you are still studying and wish to start work in the Public Service after graduation, you may apply for the&nbsp;[PSLP](https://go.gov.sg/apply-pslp)&nbsp;starting from 3 semesters before your graduation, i.e. in the 2nd semester of your 3rd year of study.&nbsp;  
   
-If you wish to pursue your postgraduate studies after graduation, you should apply directly for a&nbsp;[PSC Master’s Scholarship](https://www.psc.gov.sg/Scholarships/public-sector-scholarships/browse-by-scholarship/public-service-commission-psc-masters-scholarship-PSC)&nbsp;through the&nbsp;[PSC webpage](http://www.psc.gov.sg/), instead of the above.  
+If you wish to pursue your postgraduate studies after graduation, you should apply directly for a&nbsp;[PSC Master’s Scholarship](https://www.psc.gov.sg/scholarships/postgraduate-scholarships/psc-master's-scholarship)&nbsp;through the&nbsp;[PSC webpage](http://www.psc.gov.sg/), instead of the above.  
   
 If you are a working professional, you may indicate your career preferences when applying for the&nbsp;[Public Service Leadership Careers](https://go.gov.sg/apply-pslc). We will subsequently work with you to determine the programme phase / leadership development track (e.g. PSLP General, PSLP Sectoral or Administrative Service) that would be most suitable for you.  
   
