@@ -122,7 +122,7 @@ I welcome you all on board this leadership journey.
 
 42&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Since leadership is a central and valuable resource, we must optimise:
 
-* &nbsp;the development of our leadership talent,
+* the development of our leadership talent,
 *  the leadership contribution of this group, and
 * how leaders work together for the Whole of Government.
 
