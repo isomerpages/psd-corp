@@ -114,11 +114,11 @@ policy.</p>
 <p>It is not always possible to achieve the same representations in all segments
 of our leadership system that mirror our society in all aspects.&nbsp;
 Neither is that necessarily our end goal.&nbsp; Instead, diversity of representation
-is but one of the many <u>input</u> indicators. Our desired and more important <u>outcome</u> indicator
-is the robust decision-making and effective and efficient execution of
-policies, programmes and public services, enriched by diverse perspectives
-and capabilities, and supported by our system of processes, structures,
-recruitment and deployments.</p>
+is but one of the many input indicators. Our desired and more important
+outcome indicator is the robust decision-making and effective and efficient
+execution of policies, programmes and public services, enriched by diverse
+perspectives and capabilities, and supported by our system of processes,
+structures, recruitment and deployments.</p>
 <p></p>
 </li>
 <li>
