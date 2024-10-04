@@ -20,7 +20,7 @@ Officers today will also have longer careers with different episodes of work. We
 
 #### We believe in supporting your career aspirations
 
-To support public officer's career aspirations, we introduce new programmes designed to broaden their experience and gain new perspectives and insights outside their current role. Covering different functional areas, sectors and time commitment, these opportunities will also help you grow your networks and deepen you skills.  
+To support public officer's career aspirations, we introduce new programmes designed to broaden their experience and gain new perspectives and insights outside their current role. Covering different functional areas, sectors and time commitment, these opportunities will also help you grow your networks and deepen your skills.  
   
 The Short Term Immersion Programme allows officers to gain on-the-job experience through shadowing and hands-on participation in another agency for a duration of 1 day to 4 weeks. Another short-term initiative is the Gig Work programme, which enables officers to contribute their expertise and experience to cross-agency Public Service projects.
 
@@ -36,4 +36,4 @@ Every officer matters in the Public Service. We want to invest in their growth, 
   
 Public Service Career Coaches help officers identify their career goals, values, interests and skills, so that officers can align them with their career strategy.  
   
-Find out more about&nbsp;&nbsp;[Public Service Career Coaches](https://www.psd.gov.sg/challenge/podcast/season-1/dr-noraslinda-zuber-and-dr-moira-lee-on-charting-career-paths)&nbsp;from Dr Noraslinda Zuber from MUIS and Dr Moira Lee from Temasek Polytechnic.
+Find out more about&nbsp;&nbsp;[Public Service Career Coaches](https://psdchallenge.psd.gov.sg/podcast/season-1/dr-noraslinda-zuber-and-dr-moira-lee-on-charting-career-paths)&nbsp;from Dr Noraslinda Zuber from MUIS and Dr Moira Lee from Temasek Polytechnic.
