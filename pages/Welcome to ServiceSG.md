@@ -139,7 +139,8 @@ conferencing appointment with the agencies.</p>
 <p></p>
 <p><strong>ServiceSG Centre Woodlands</strong>
 <br>Woodlands Civic Centre
-<br>900 Woodlands South Drive #03-01A
+<br>900 Woodlands South Drive
+<br>#03-01A
 <br>Singapore 730900</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -149,19 +150,14 @@ conferencing appointment with the agencies.</p>
 <p>
 <br>
 <br>
-<br>
-<br>
 </p>
 <p>Mon - Sun:
 <br>10am to 6pm
 <br>Closed on Public Holidays</p>
+<p></p>
 <p>
 <br>
-<br>
-<br>
-<br>
 </p>
-<p></p>
 <p>Mon - Sat:
 <br>9am to 6pm
 <br>Closed on Sundays and Public Holidays</p>
