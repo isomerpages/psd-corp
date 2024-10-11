@@ -84,11 +84,6 @@ by helping you with your Government transactions.</p>
 </details>
 </div>
 <p></p>
-<p></p>
-<h2><strong>OUR PARTNERS</strong></h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ServiceSG/11_Oct__Partnering_Agencies_logo__Updated_.png">
-</div>
 <h2><strong>VISIT US</strong></h2>
 <h3><strong>ServiceSG Centres</strong></h3>
 <div class="isomer-image-wrapper">
@@ -99,6 +94,59 @@ you need. You can walk into any of the ServiceSG locations below for help
 – there is no need to make an appointment beforehand. If your enquiry or
 transaction is more complex, we can help you make an in-person or video
 conferencing appointment with the agencies.</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>North</strong>&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>ServiceSG Centre Bukit Canberra</strong>
+<br>Bukit Canberra Integrated Sports &amp; Community Hub
+<br>#01-62
+<br>21 Canberra Link
+<br>Singapore 756973</p>
+<p></p>
+<p><u>Operating hours</u>
+</p>
+<p>Mon - Sun: 10am to 6pm
+<br>Closed on Public Holidays</p>
+<p></p>
+<p><strong>ServiceSG@Nee Soon Central Community Club</strong>
+<br>Northpoint City (Near Berth B8 in Yishun Bus Interchange)
+<br>#01-201
+<br>1 North Point Drive
+<br>Singapore 768019</p>
+<p></p>
+<p><u>Operating hours</u>
+</p>
+<p>Mon - Sun: 10am to 6pm
+<br>Closed on Public Holidays</p>
+<p></p>
+<p><strong>ServiceSG Centre Woodlands</strong>
+<br>Woodlands Civic Centre
+<br>900 Woodlands South Drive
+<br>#03-01A
+<br>Singapore 730900</p>
+<p></p>
+<p>Operating hours</p>
+<p>Mon - Sat: 9am to 6pm
+<br>Closed on Sundays and Public Holidays</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>North-East</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>East</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -125,50 +173,10 @@ conferencing appointment with the agencies.</p>
 <p><strong>North</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ServiceSG Centre Bukit Canberra</strong>
-<br>Bukit Canberra Integrated Sports &amp; Community Hub
-<br>#01-62
-<br>21 Canberra Link
-<br>Singapore 756973</p>
 <p></p>
-<p><strong>ServiceSG@Nee Soon Central Community Club</strong>
-<br>Northpoint City (Near Berth B8 in Yishun Bus Interchange)
-<br>#01-201
-<br>1 North Point Drive
-<br>Singapore 768019</p>
-<p></p>
-<p><strong>ServiceSG Centre Woodlands</strong>
-<br>Woodlands Civic Centre
-<br>900 Woodlands South Drive
-<br>#03-01A
-<br>Singapore 730900</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon - Sun:
-<br>10am to 6pm
-<br>Closed on Public Holidays</p>
-<p>
-<br>
-</p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>Mon - Sun:
-<br>10am to 6pm
-<br>Closed on Public Holidays</p>
-<p></p>
-<p>
-<br>
-</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>Mon - Sat:
-<br>9am to 6pm
-<br>Closed on Sundays and Public Holidays</p>
 </td>
 </tr>
 <tr>
@@ -271,3 +279,10 @@ Office. We seek to integrate the delivery of services across public agencies,
 to serve citizens better, and in a more citizen centric manner.</p>
 <p>ServiceSG also builds deeper service delivery capabilities within the
 Public Service to raise overall service standards.</p>
+<p></p>
+<h2><strong>OUR PARTNERS</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ServiceSG/11_Oct__Partnering_Agencies_logo__Updated_.png">
+</div>
+<h2></h2>
+<p></p>
