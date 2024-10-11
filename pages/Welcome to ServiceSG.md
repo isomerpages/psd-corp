@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ServiceSG/servicesg-website-title-image.png">
 </div>
-<h5>Visit ServiceSG for advice on government services that are relevant to your needs. Find out how ServiceSG can help you, whether you are a senior, a working adult or simply need support.</h5>
+<h5>Visit ServiceSG for guidance on government services that are relevant to your needs. Find out how ServiceSG can help you, whether you are a senior, a working adult or simply need support.</h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ServiceSG/servicesg-website-personas.png">
 </div>
@@ -157,6 +157,7 @@ conferencing appointment with the agencies.</p>
 <p>
 <br>
 </p>
+<p></p>
 <p>Mon - Sat:
 <br>9am to 6pm
 <br>Closed on Sundays and Public Holidays</p>
@@ -200,7 +201,6 @@ conferencing appointment with the agencies.</p>
 <p>Mon - Sun:
 <br>9am to 6pm
 <br>Closed on Public Holidays</p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
