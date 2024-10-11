@@ -105,7 +105,7 @@ conferencing appointment with the agencies.</p>
 <br>21 Canberra Link
 <br>Singapore 756973</p>
 <p></p>
-<p><u>Operating hours</u>
+<p><u>Operating Hours</u>
 </p>
 <p>Mon - Sun: 10am to 6pm
 <br>Closed on Public Holidays</p>
@@ -116,7 +116,7 @@ conferencing appointment with the agencies.</p>
 <br>1 North Point Drive
 <br>Singapore 768019</p>
 <p></p>
-<p><u>Operating hours</u>
+<p><u>Operating Hours</u>
 </p>
 <p>Mon - Sun: 10am to 6pm
 <br>Closed on Public Holidays</p>
@@ -127,7 +127,8 @@ conferencing appointment with the agencies.</p>
 <br>#03-01A
 <br>Singapore 730900</p>
 <p></p>
-<p>Operating hours</p>
+<p><u>Operating Hours</u>
+</p>
 <p>Mon - Sat: 9am to 6pm
 <br>Closed on Sundays and Public Holidays</p>
 </div>
@@ -136,138 +137,85 @@ conferencing appointment with the agencies.</p>
 <summary><strong>North-East</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>ServiceSG Centre One Punggol</strong>
+<br>#01-01
+<br>1 Punggol Drive
+<br>Singapore 828629</p>
 <p></p>
+<p><u>Operating Hours</u>
+</p>
+<p>Mon - Sun: 9am to 6pm
+<br>Closed on Public Holidays</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>East</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Region&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>ServiceSG Centres</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Operating Hours</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>North</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>North-East&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>ServiceSG Centre One Punggol</strong>
-<br>#01-01
-<br>1 Punggol Drive
-<br>Singapore 828629</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mon - Sun:
-<br>9am to 6pm
-<br>Closed on Public Holidays</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>East</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>ServiceSG Centre Our Tampines Hub</strong>
 <br>#01-21
 <br>1 Tampines Walk
 <br>Singapore 528523</p>
+<p></p>
+<p><u>Operating Hours</u>
+</p>
+<p>Mon - Sun: 9am to 6pm
+<br>Closed on Public Holidays</p>
 <p></p>
 <p><strong>ServiceSG@Kampong Chai Chee Community Club</strong>
 <br>Heartbeat@Bedok
 <br>#01-31
 <br>11 Bedok North Street 1
 <br>Singapore 469662</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mon - Sun:
-<br>9am to 6pm
-<br>Closed on Public Holidays</p>
 <p></p>
-<p></p>
-<p></p>
-<p>Mon - Sun:
-<br>10am to 6pm
-<br>Closed on Public Holidays</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Central</strong>
+<p><u>Operating Hours</u>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+<p>Mon - Sun: 10am to 6pm
+<br>Closed on Public Holidays</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Central</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>ServiceSG Centre Bukit Merah</strong>
 <br>166 Bukit Merah Central
 <br>#03-3529A
 <br>Singapore 150166</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mon - Sat:
-<br>9am to 6pm
-<br>Closed on Sundays and Public Holidays</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>West</strong>
+<p><u>Operating Hours</u>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+<p>Mon - Sat: 9am to 6pm
+<br>Closed on Sundays and Public Holidays</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>West</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>ServiceSG@The Frontier Community Club</strong>
 <br>The Frontier Community Place
 <br>#01-01
 <br>60 Jurong West Central 3
 <br>Singapore 648346</p>
 <p></p>
+<p><u>Operating Hours</u>
+</p>
+<p>Mon - Sun: 10am to 6pm
+<br>Closed on Public Holidays</p>
+<p></p>
 <p><strong>ServiceSG@Keat Hong Community Club</strong>
 <br>#01-01
 <br>2 Choa Chu Kang Loop
 <br>Singapore 689687</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mon - Sun:
-<br>10am to 6pm
+<p></p>
+<p><u>Operating Hours</u>
+</p>
+<p>Mon - Sun: 10am to 6pm
 <br>Closed on Public Holidays</p>
-</td>
-</tr>
-</tbody>
-</table>
+</div>
+</details>
+</div>
 <h2><strong>ABOUT SERVICESG</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ServiceSG/servicesg-logo.png">
