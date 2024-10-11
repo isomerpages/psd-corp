@@ -22,7 +22,8 @@ can help!</p>
 <p></p>
 <p><strong>Popular services that others like you are using:</strong>
 </p>
-<ol data-tight="true" class="tight">
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
 <p>Re-register your NRIC or renew your passport</p>
 </li>
@@ -32,8 +33,7 @@ can help!</p>
 <li>
 <p>Make a Lasting Power of Attorney (LPA)</p>
 </li>
-</ol>
-<p></p>
+</ul>
 <p></p>
 </div>
 </details>
@@ -43,20 +43,10 @@ can help!</p>
 <p>If you have financial needs and are unsure about the support available
 to you, visit us to find out more.</p>
 <p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Popular services that others like you are using:</strong>
+</p>
 <p></p>
-</div>
-</details>
-</div>
-<p></p>
-<p></p>
-<p></p>
-<h4>Popular services that others like you are using:</h4>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Apply for ComCare and get the financial support you need</p>
 </li>
@@ -68,14 +58,18 @@ receive housing assistance</p>
 <p>Renew your CHAS card so you can continue to enjoy subsidies on medical
 and dental care</p>
 </li>
-</ol>
-<p></p>
-<p>For Working Adults</p>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary>For Working Adults</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Balancing work and life can be challenging. Let ServiceSG make life easier
 by helping you with your Government transactions.</p>
 <p></p>
-<h4>Popular services that others like you are using:</h4>
-<ol data-tight="true" class="tight">
+<p><strong>Popular services that others like you are using:</strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>File your personal income tax</p>
 </li>
@@ -85,7 +79,11 @@ by helping you with your Government transactions.</p>
 <li>
 <p>Find out more about SkillsFuture Credits</p>
 </li>
-</ol>
+</ul>
+</div>
+</details>
+</div>
+<p></p>
 <p></p>
 <h2><strong>OUR PARTNERS</strong></h2>
 <div class="isomer-image-wrapper">
@@ -101,51 +99,166 @@ you need. You can walk into any of the ServiceSG locations below for help
 – there is no need to make an appointment beforehand. If your enquiry or
 transaction is more complex, we can help you make an in-person or video
 conferencing appointment with the agencies.</p>
-<p>**</p>
-<p><u>Opening Hours </u>
-<br>Mon - Sun: 9am to 6pm
-<br>Closed on Public Holidays</p>
-<p>ServiceSG Centre One Punggol</p>
-<p>#01-01
-<br>1 Punggol Drive
-<br>Singapore 828629</p>
-<p>ServiceSG Centre Our Tampines Hub</p>
-<p>#01-21
-<br>1 Tampines Walk
-<br>Singapore 528523</p>
-<h3><strong>ServiceSG@CCs</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ServiceSG/servicesg-website-servicesgcc.jpeg">
-</div>
-<p>ServiceSG@CCs, a collaboration with People’s Association, are located
-within Community Clubs and offer a more focused range of services.</p>
-<p><u>Opening Hours</u>
-<br>Mon - Sun: 10am to 6pm
-<br>Closed on Public Holidays</p>
-<p>ServiceSG@Bukit Canberra</p>
-<p>Bukit Canberra Integrated Sports &amp; Community Hub
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Region&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ServiceSG Centres</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Operating Hours</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>North</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ServiceSG Centre Bukit Canberra</strong>
+<br>Bukit Canberra Integrated Sports &amp; Community Hub
 <br>#01-62
 <br>21 Canberra Link
 <br>Singapore 756973</p>
-<p>ServiceSG@The Frontier Community Club</p>
-<p>The Frontier Community Place
-<br>#01-01
-<br>60 Jurong West Central 3
-<br>Singapore 648346</p>
-<p>ServiceSG@Keat Hong Community Club</p>
-<p>#01-01
-<br>2 Choa Chu Kang Loop
-<br>Singapore 689687</p>
-<p>ServiceSG@Nee Soon Central Community Club</p>
-<p>Northpoint City (Near Berth B8 in Yishun Bus Interchange)
+<p>
+<br><strong>ServiceSG@Nee Soon Central Community Club</strong>
+<br>Northpoint City (Near Berth B8 in Yishun Bus Interchange)
 <br>#01-201
 <br>1 North Point Drive
 <br>Singapore 768019</p>
-<p>ServiceSG@Kampong Chai Chee Community Club</p>
-<p>Heartbeat@Bedok
+<p></p>
+<p><strong>ServiceSG Centre Woodlands</strong>
+<br>Woodlands Civic Centre
+<br>900 Woodlands South Drive #03-01A
+<br>Singapore 730900</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon - Sun:
+<br>10am to 6pm
+<br>Closed on Public Holidays</p>
+<p>
+<br>
+<br>
+<br>
+<br>
+</p>
+<p>Mon - Sun:
+<br>10am to 6pm
+<br>Closed on Public Holidays</p>
+<p>
+<br>
+<br>
+<br>
+<br>
+</p>
+<p></p>
+<p>Mon - Sat:
+<br>9am to 6pm
+<br>Closed on Sundays and Public Holidays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>North-East&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ServiceSG Centre One Punggol</strong>
+<br>#01-01
+<br>1 Punggol Drive
+<br>Singapore 828629</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon - Sun:
+<br>9am to 6pm
+<br>Closed on Public Holidays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>East</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ServiceSG Centre Our Tampines Hub</strong>
+<br>#01-21
+<br>1 Tampines Walk
+<br>Singapore 528523</p>
+<p>
+<br><strong>ServiceSG@Kampong Chai Chee Community Club</strong>
+<br>Heartbeat@Bedok
 <br>#01-31
 <br>11 Bedok North Street 1
 <br>Singapore 469662</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon - Sun:
+<br>9am to 6pm
+<br>Closed on Public Holidays</p>
+<p>
+<br>
+<br>
+<br>
+</p>
+<p>Mon - Sun:
+<br>10am to 6pm
+<br>Closed on Public Holidays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SouthCentral</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ServiceSG Centre Bukit Merah</strong>
+</p>
+<p>166 Bukit Merah Central&nbsp;</p>
+<p>#03-3529A&nbsp;</p>
+<p>Singapore 150166</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon - Sat:
+<br>9am to 6pm
+<br>Closed on Sundays and Public Holidays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>West</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ServiceSG@The Frontier Community Club</strong>
+<br>The Frontier Community Place
+<br>#01-01
+<br>60 Jurong West Central 3
+<br>Singapore 648346</p>
+<p>
+<br><strong>ServiceSG@Keat Hong Community Club</strong>
+<br>#01-01
+<br>2 Choa Chu Kang Loop
+<br>Singapore 689687</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon - Sun:
+<br>10am to 6pm
+<br>Closed on Public Holidays</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h2><strong>ABOUT SERVICESG</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ServiceSG/servicesg-logo.png">
