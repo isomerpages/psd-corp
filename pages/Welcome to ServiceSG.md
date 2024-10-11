@@ -223,7 +223,7 @@ conferencing appointment with the agencies.</p>
 <p><strong>ServiceSG Centre Bukit Merah</strong>
 <br>166 Bukit Merah Central
 <br>#03-3529A
-<br>Singapore 469662</p>
+<br>Singapore 150166</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
