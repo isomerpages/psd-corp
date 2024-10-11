@@ -130,13 +130,12 @@ conferencing appointment with the agencies.</p>
 <br>#01-62
 <br>21 Canberra Link
 <br>Singapore 756973</p>
-<p>
-<br><strong>ServiceSG@Nee Soon Central Community Club</strong>
+<p></p>
+<p><strong>ServiceSG@Nee Soon Central Community Club</strong>
 <br>Northpoint City (Near Berth B8 in Yishun Bus Interchange)
 <br>#01-201
 <br>1 North Point Drive
 <br>Singapore 768019</p>
-<p></p>
 <p></p>
 <p><strong>ServiceSG Centre Woodlands</strong>
 <br>Woodlands Civic Centre
@@ -149,7 +148,6 @@ conferencing appointment with the agencies.</p>
 <br>10am to 6pm
 <br>Closed on Public Holidays</p>
 <p>
-<br>
 <br>
 </p>
 <p>Mon - Sun:
@@ -191,8 +189,8 @@ conferencing appointment with the agencies.</p>
 <br>#01-21
 <br>1 Tampines Walk
 <br>Singapore 528523</p>
-<p>
-<br><strong>ServiceSG@Kampong Chai Chee Community Club</strong>
+<p></p>
+<p><strong>ServiceSG@Kampong Chai Chee Community Club</strong>
 <br>Heartbeat@Bedok
 <br>#01-31
 <br>11 Bedok North Street 1
@@ -202,11 +200,10 @@ conferencing appointment with the agencies.</p>
 <p>Mon - Sun:
 <br>9am to 6pm
 <br>Closed on Public Holidays</p>
-<p>
-<br>
-<br>
-<br>
-</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>Mon - Sun:
 <br>10am to 6pm
 <br>Closed on Public Holidays</p>
@@ -214,15 +211,14 @@ conferencing appointment with the agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SouthCentral</strong>
+<p><strong>Central</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>ServiceSG Centre Bukit Merah</strong>
-</p>
-<p>166 Bukit Merah Central&nbsp;</p>
-<p>#03-3529A&nbsp;</p>
-<p>Singapore 150166</p>
+<br>166 Bukit Merah Central
+<br>#03-3529A
+<br>Singapore 469662</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -242,8 +238,8 @@ conferencing appointment with the agencies.</p>
 <br>#01-01
 <br>60 Jurong West Central 3
 <br>Singapore 648346</p>
-<p>
-<br><strong>ServiceSG@Keat Hong Community Club</strong>
+<p></p>
+<p><strong>ServiceSG@Keat Hong Community Club</strong>
 <br>#01-01
 <br>2 Choa Chu Kang Loop
 <br>Singapore 689687</p>
