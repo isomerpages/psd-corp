@@ -87,7 +87,7 @@ by helping you with your Government transactions.</p>
 <p></p>
 <h2><strong>OUR PARTNERS</strong></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/11_Oct_Partnering_Agencies_Logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ServiceSG/11_Oct__Partnering_Agencies_logo__Updated_.png">
 </div>
 <h2><strong>VISIT US</strong></h2>
 <h3><strong>ServiceSG Centres</strong></h3>
