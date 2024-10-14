@@ -97,7 +97,8 @@ conferencing appointment with the agencies.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>North</strong>&nbsp;</summary>
+<summary><strong>North</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>ServiceSG Centre Bukit Canberra</strong>
 <br>Bukit Canberra Integrated Sports &amp; Community Hub
