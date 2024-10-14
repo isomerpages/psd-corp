@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Oral Reply by Mr Chan Chun Sing, Minister for Education and Minister-in-charge of the Public Service to Parliamentary Questions on the application of Section 165 of the Penal Code</strong>
+<p><strong>Oral Reply by Mr Chan Chun Sing, Minister for Education and Minister-in-charge of the Public Service, to Parliamentary Questions on the application of Section 165 of the Penal Code</strong>
 </p>
 <p></p>
 <p><strong>Parliament Sitting: 14 October 2024</strong>
