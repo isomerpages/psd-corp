@@ -1,5 +1,5 @@
 ---
-title: Permanent Secretary Appointment in the Public Sector – 8 Nov 2024
+title: Permanent Secretary Appointments in the Public Sector – 8 Nov 2024
 permalink: /permanent-secretary-appointment-in-the-public-sector/
 date: 2024-11-08
 layout: post
