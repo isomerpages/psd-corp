@@ -19,7 +19,7 @@ service quantitatively compares with that in other developed countries;
 agencies from increasing PWD hires; and (d) what steps are being taken
 to address these constraints directly.</p>
 <p></p>
-<p><strong>Oral Reply by Mr Chan Chun Sing, Minister for Education and Minister-in-charge of the Public Service</strong>
+<p><strong>Oral Reply by Mr Chan Chun Sing, Minister-in-charge of the Public Service and Minister for Education</strong>
 </p>
 <p></p>
 <p>It is not meaningful to compare the hiring rate of persons with disabilities
@@ -28,17 +28,17 @@ the two sectors differ. The Government is focused on raising the overall
 employment rate of persons with disabilities, across both the public and
 private sectors, where persons with disabilities are placed and retained
 in jobs that are best suited to their strengths and capabilities.</p>
-<p>2.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; However, the public sector also has
-a significant proportion of roles for which a certain level of physical
-and mental fitness is required, such as the uniformed services. This is
-one reason why hiring rates of persons with disabilities may differ across
-sectors. There is also no comparative data for the hiring rates of persons
-with disabilities in the public sector across developed countries.</p>
-<p>3.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; The Honourable Member also asked
-about the constraints of hiring persons with disabilities and steps taken
-to address these constraints. The Member may refer to the responses to
-the PQ he raised on 15 October, and the PQ raised by Member Mr Don Wee
-on 9 September, where we shared the public sector’s approach to the issue.</p>
-<p>4.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; The public sector has been and
-will continue to support the employment of persons with disabilities.</p>
+<p>However, the public sector also has a significant proportion of roles
+for which a certain level of physical and mental fitness is required, such
+as the uniformed services. This is one reason why hiring rates of persons
+with disabilities may differ across sectors. There is also no comparative
+data for the hiring rates of persons with disabilities in the public sector
+across developed countries.</p>
+<p>The Honourable Member also asked about the constraints of hiring persons
+with disabilities and steps taken to address these constraints. The Member
+may refer to the responses to the Parliamentary Question (PQ) he raised
+on 15 October, and the PQ raised by Member Mr Don Wee on 9 September, where
+we shared the public sector’s approach to the issue.</p>
+<p>The public sector has been and will continue to support the employment
+of persons with disabilities.</p>
 <p></p>
