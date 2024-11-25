@@ -7,12 +7,11 @@ description: ""
 image: ""
 variant: markdown
 ---
-<p><strong>Civil servants to receive 1.05 months year-end bonus</strong>
-</p>
-<p><strong>Junior grade officers get an additional one-time payment of $600</strong>
-</p>
-<p><strong><em>This follows close consultation with public sector unions</em></strong>
-</p>
+<p style="text-align:center"><strong>Civil servants to receive 1.05 months year-end bonus<br>
+Junior grade officers get an additional one-time payment of $600</strong></p>
+<p style="text-align:center"><strong><em>This follows close consultation with public sector unions</em></strong></p>
+
+
 <p></p>
 <p>Following close consultation with the public sector unions, the Government
 will be paying all civil servants a year-end Annual Variable Component
