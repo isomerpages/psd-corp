@@ -59,6 +59,6 @@ our own effectiveness, in order to serve our peoples better.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/80dfi0_halo?si=jyOCsNCGDBdfPU2o"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe style="aspect-ratio: 16/9;" height="auto" width="50%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/80dfi0_halo?si=jyOCsNCGDBdfPU2o"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/80dfi0_halo?si=5Gc8ICFhHsySG_xK"></iframe>
 </div>
 <p></p>
