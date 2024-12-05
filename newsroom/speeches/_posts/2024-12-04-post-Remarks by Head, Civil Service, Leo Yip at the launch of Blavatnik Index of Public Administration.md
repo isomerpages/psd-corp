@@ -56,6 +56,6 @@ Index is an important effort to help us learn from one another and improve
 our own effectiveness, in order to serve our peoples better.</p>
 <hr>
 <div class="iframe-wrapper">
-<iframe height="405" width="720" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/80dfi0_halo?si=jyOCsNCGDBdfPU2o"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/80dfi0_halo?si=jyOCsNCGDBdfPU2o"></iframe>
 </div>
 <p></p>
