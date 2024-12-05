@@ -57,6 +57,5 @@ our own effectiveness, in order to serve our peoples better.</p>
 <p>Read more about the Blavatnik Index of Public Administration: <a href="https://go.gov.sg/blavatnikindex" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/blavatnikindex</a>
 </p>
 <hr>
-<p>Remarks were delivered by video at the launch event on 4 December 2024.</p>
 <p></p>
 <p></p>
