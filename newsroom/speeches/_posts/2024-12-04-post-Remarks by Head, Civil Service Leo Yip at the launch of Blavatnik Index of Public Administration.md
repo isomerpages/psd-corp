@@ -39,7 +39,7 @@ are operating is changing at a rapid pace – think technology, climate change,
 demographic change and geo-politics.</p>
 <p>The work of public administration is also complex. We have to be politically
 sensitive, yet innovative in designing policy and be operationally savvy
-in implementing these policies and delivering services to the public.We
+in implementing these policies and delivering services to the public. We
 are all operating in challenging times; but this is also an era that presents
 unprecedented and exciting new opportunities to build a new and better
 future for all our countries.</p>
