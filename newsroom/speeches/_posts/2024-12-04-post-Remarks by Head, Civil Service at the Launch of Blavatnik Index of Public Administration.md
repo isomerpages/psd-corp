@@ -9,7 +9,7 @@ description: Singapore Tops Blavatnik Index of Public Administration | Remarks
 image: ""
 variant: tiptap
 ---
-<p><strong>Remarks by Head, Civil Service at the launch of Blavatnik Index of Public Administration by the Blavatnik School of Government at the University of Oxford.</strong>
+<p><strong>Remarks by Head, Civil Service at the launch of Blavatnik Index of Public Administration on 4 December 2024.</strong>
 </p>
 <p>Let me first congratulate the Blavatnik School of Government for developing
 and rolling out this Index of Public Administration.</p>
