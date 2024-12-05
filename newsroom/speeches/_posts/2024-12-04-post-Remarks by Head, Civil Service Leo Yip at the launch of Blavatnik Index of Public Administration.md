@@ -9,11 +9,11 @@ description: Singapore Tops Blavatnik Index of Public Administration | Remarks
 image: ""
 variant: tiptap
 ---
-<p><strong>Remarks by Head, Civil Service, Leo Yip at the launch of Blavatnik Index of Public Administration on 4 December 2024.</strong>
+<p><strong>Remarks by Head, Civil Service, Leo Yip at the launch of Blavatnik Index of Public Administration on 4 December 2024</strong>
 </p>
 <p>Let me first congratulate the Blavatnik School of Government for developing
 and rolling out this Index of Public Administration.</p>
-<p>This is an important contribution to civil services who unlike businesses,
+<p>This is an important contribution to civil services who, unlike businesses,
 do not have the benefit of regular market signals that tell them whether
 their policies and services are adequately meeting demands and expectations,
 and where they fall short. This Index therefore focuses attention and sets
