@@ -9,7 +9,8 @@ description: Singapore Tops Blavatnik Index of Public Administration | Remarks
 image: ""
 variant: tiptap
 ---
-<p><strong>Remarks by Head, Civil Service, Leo Yip at the launch of Blavatnik Index of Public Administration on 4 December 2024</strong>
+<p><strong>Remarks by Head, Civil Service, Leo Yip at the launch of </strong>
+<a href="https://go.gov.sg/blavatnikindex" rel="noopener nofollow" target="_blank">Blavatnik Index of Public Administration</a><strong> on 4 December 2024</strong>
 </p>
 <p>Let me first congratulate the Blavatnik School of Government for developing
 and rolling out this Index of Public Administration.</p>
@@ -49,13 +50,12 @@ areas where we can learn from fellow civil services around the world. We
 in the Singapore Public Service have learnt much over the years from the
 best practice of counterparts and public services around the world.</p>
 <p>Even though we operate in different countries with different governance
-systems – we are all in the same profession with the common aim of solving
-largely similar challenges and improving the lives of our people – this
+systems, we are all in the same profession with the common aim of solving
+largely similar challenges and improving the lives of our people. This
 Index is an important effort to help us learn from one another and improve
 our own effectiveness, in order to serve our peoples better.</p>
 <hr>
-<p>Read more about the Blavatnik Index of Public Administration: <a href="https://go.gov.sg/blavatnikindex" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/blavatnikindex</a>
-</p>
-<hr>
-<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/80dfi0_halo?si=jyOCsNCGDBdfPU2o"></iframe>
+</div>
 <p></p>
