@@ -9,10 +9,11 @@ variant: tiptap
 ---
 <p><strong>Parliament Sitting: 7 Jan 2025</strong>
 </p>
+<p></p>
 <p><strong>Mr Patrick Tay Teck Guan: </strong>To ask the Prime Minister and
 Minister for Finance whether the Public Service Division will consider
-allowing retired civil servants to continue accessing their <a rel="noopener noreferrer nofollow" target="_blank">Learn.gov.sg</a> accounts
-in the spirit of lifelong learning and continuing education.</p>
+allowing retired civil servants to continue accessing their <a rel="noopener noreferrer nofollow" target="_blank">Learn.gov.sg</a> accounts in the spirit
+of lifelong learning and continuing education.</p>
 <p></p>
 <p><strong>Written Reply by Mr Chan Chun Sing, Minister for Education and Minister-in-charge of the Public Service</strong>
 </p>
