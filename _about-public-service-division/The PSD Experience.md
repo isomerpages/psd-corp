@@ -2,6 +2,7 @@
 title: The PSD Experience
 permalink: /about-psd/experience/
 description: ""
+variant: markdown
 ---
 <div> <div style="position:relative;padding-top:56.25%;"> <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" align="center" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/r5oCXnQQsxQ"></iframe> </div> </div>
 
@@ -39,4 +40,4 @@ Let's reimagine the Possibilities and push boundaries to shape a first-class Pub
 <br>We stretch our officers' potential with purposeful and challenging projects and opportunites to work across the Public Service. As the people are at the heart of what we do, we are the first-mover for progressive and forward-looking HR practices.
 
 **An environment that enhhances productivity and collaboration**
-<br>Our tech-enabled workplace makes it easy to connect with and check in on one another's well-being. The flexible work arrangement initiatives cater to officrs'personal and family commitments. We also thrive on diversity of experiences, perspectives and ideas of our PSDians.
+<br>Our tech-enabled workplace makes it easy to connect with and check in on one another's well-being. The flexible work arrangement initiatives cater to officers' personal and family commitments. We also thrive on diversity of experiences, perspectives and ideas of our PSDians.
