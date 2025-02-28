@@ -66,11 +66,10 @@ of Built-To-Order flats. Mrs Ow oversaw the Long-Term Plan Review to steward
 the physical development of Singapore over the next 50 years, and led the
 Ministry of National Development’s contribution to the Singapore Green
 Plan 2030, which sets out Singapore’s agenda on sustainable development.
-<a rel="noopener noreferrer nofollow" target="_blank">She also led the Municipal Services Office in improving the delivery of
+She also led the Municipal Services Office in improving the delivery of
 municipal services to residents. Additionally, she has played an instrumental
 role in making Singapore a City in Nature, and in transforming the construction
-industry. &nbsp;</a>
-</p>
+industry.</p>
 <p>&nbsp;</p>
 <p>8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In recognition of her contributions
 to the Public Service, Mrs Ow was awarded the Meritorious Service Medal
