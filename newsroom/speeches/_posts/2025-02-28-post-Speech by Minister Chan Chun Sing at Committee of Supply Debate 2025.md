@@ -221,12 +221,12 @@ agencies to build stronger and more agile leadership teams to bring out
 the best in our agencies to enable Singapore and Singaporeans’ success.</p>
 <p>20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To recap, there are
 three things we will need to focus on urgently this year.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.&nbsp;&nbsp;&nbsp; <u>First</u>,
-for our Public Service to maintain that sense of perspective, to not just
-be able to understand our own challenges deeply but to have a view of how
-the world is evolving; because the rules are changing fast. Unless we are
-plugged in, we might be overtaken or bypassed by rules that are made beyond
-our shores.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.&nbsp;&nbsp;&nbsp;
+First, for our Public Service to maintain that sense of perspective, to
+not just be able to understand our own challenges deeply but to have a
+view of how the world is evolving; because the rules are changing fast.
+Unless we are plugged in, we might be overtaken or bypassed by rules that
+are made beyond our shores.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.&nbsp;&nbsp;&nbsp;
 Second, we will continue to focus our efforts to wrap services around citizens.
 We aim for a more seamless service experience for all Singaporeans.</p>
@@ -264,3 +264,11 @@ how we will deepen our external linkages, deliver integrated services and
 strengthen our teams. If we do this well, I am confident that this will
 be a Public Service that we can all be proud of and that will partner us
 to SG100 and beyond.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mU98LJuKTCU?si=iHYZKAlXrRgHbC9l"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YrkStqXNh9o?si=gyte8rs2Ub7QwRfM"></iframe>
+</div>
+<p></p>
