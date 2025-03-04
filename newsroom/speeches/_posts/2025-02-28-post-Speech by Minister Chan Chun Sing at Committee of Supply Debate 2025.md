@@ -266,9 +266,9 @@ be a Public Service that we can all be proud of and that will partner us
 to SG100 and beyond.</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mU98LJuKTCU?si=iHYZKAlXrRgHbC9l"></iframe>
+<iframe height="225" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mU98LJuKTCU?si=iHYZKAlXrRgHbC9l"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YrkStqXNh9o?si=gyte8rs2Ub7QwRfM"></iframe>
+<iframe height="225" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YrkStqXNh9o?si=gyte8rs2Ub7QwRfM"></iframe>
 </div>
 <p></p>
