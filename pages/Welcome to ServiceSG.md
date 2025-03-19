@@ -8,7 +8,17 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ServiceSG/servicesg-website-title-image.png">
 </div>
-<h5>Visit ServiceSG for guidance on government services that are relevant to your needs. Find out how ServiceSG can help you, whether you are a senior, a working adult or simply need support.</h5>
+<h5>The Public Service is committed to ensuring that our services continue to be accessible and inclusive for all.&nbsp;</h5>
+<p>The Public Service Division (PSD) has set up ServiceSG Centres, where
+officers are ready to assist citizens who are less confident of transacting
+digitally with the government.</p>
+<p></p>
+<p>Visit our ServiceSG Centres for guidance on government services that are
+relevant to your needs.&nbsp;
+<br>
+</p>
+<p>Find out how ServiceSG can help you, whether you are a senior, a working
+adult or simply need support.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ServiceSG/servicesg-website-personas.png">
 </div>
@@ -89,11 +99,16 @@ by helping you with your Government transactions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ServiceSG/servicesg-website-servicesgcentre.jpeg">
 </div>
+<p>There are currently nine ServiceSG Centres located across the island,
+bringing Government services closer to home for residents in these towns.
+A tenth ServiceSG Centre will be opened in Ang Mo Kio town centre in the
+first half of 2026.</p>
+<p></p>
 <p>Our friendly ServiceSG staff are ready to guide you through the services
 you need. You can walk into any of the ServiceSG locations below for help
 – there is no need to make an appointment beforehand. If your enquiry or
 transaction is more complex, we can help you make an in-person or video
-conferencing appointment with the agencies.</p>
+confer</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -187,7 +202,10 @@ conferencing appointment with the agencies.</p>
 <p><u>Operating Hours</u>
 </p>
 <p>Mon - Sat: 9am to 6pm
-<br>Closed on Sundays and Public Holidays</p>
+<br>Closed on Sundays and Public Holidays
+<br>
+<br><strong>(Opening in 1H2026) ServiceSG Centre Ang Mo Kio</strong>
+</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -221,13 +239,21 @@ conferencing appointment with the agencies.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ServiceSG/servicesg-logo.png">
 </div>
-<p><strong>Our Vision</strong>: To know, and serve our citizens with heart,
-as One Public Service</p>
-<p>ServiceSG is a department under the Public Service Division, Prime Minister’s
-Office. We seek to integrate the delivery of services across public agencies,
-to serve citizens better, and in a more citizen centric manner.</p>
-<p>ServiceSG also builds deeper service delivery capabilities within the
-Public Service to raise overall service standards.</p>
+<p>ServiceSG is a department within the PSD in the Prime Minister’s Office
+(PMO). Established as part of the Public Sector Transformation (PST) movement,
+ServiceSG works across the whole of government to transform public service
+delivery to serve citizens better.&nbsp;
+<br>
+</p>
+<p>It drives a citizen-centric approach to service delivery by integrating
+public services across agencies, organising them around key life moments,
+and delivering them through an omni-channel network of physical centres,
+a central call centre and a digital platform, LifeSG.
+<br>
+</p>
+<p>It also strengthens service delivery capabilities within the Public Service,
+and continually works to raise overall service standards across the whole
+of government to improve citizens’ experience of government services.</p>
 <p></p>
 <h2><strong>OUR PARTNERS</strong></h2>
 <div class="isomer-image-wrapper">
