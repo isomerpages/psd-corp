@@ -39,5 +39,5 @@ Let's reimagine the Possibilities and push boundaries to shape a first-class Pub
 **Our commitment to people development because "Every Officer Matters"**
 <br>We stretch our officers' potential with purposeful and challenging projects and opportunites to work across the Public Service. As the people are at the heart of what we do, we are the first-mover for progressive and forward-looking HR practices.
 
-**An environment that enhhances productivity and collaboration**
+**An environment that enhances productivity and collaboration**
 <br>Our tech-enabled workplace makes it easy to connect with and check in on one another's well-being. The flexible work arrangement initiatives cater to officers' personal and family commitments. We also thrive on diversity of experiences, perspectives and ideas of our PSDians.
