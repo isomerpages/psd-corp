@@ -11,12 +11,6 @@ expectations, and technological disruption.</p>
 <p>To ensure we continue to serve Singapore well, the Public Service has
 stepped up efforts to transform and plan for tomorrow’s challenges, even
 as we adapt to meet the needs and problems of today.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Transforming how we work as One
-Public Service</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Transforming and empowering our
-workforce</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Transforming our officers’ workplace
-experience</p>
 <h4><strong>Transforming</strong> <strong>how we work as One Public Service</strong></h4>
 <p>We have embraced innovative technology, streamlined our services and pursued
 partnerships to deliver better services as One Public Service.</p>
