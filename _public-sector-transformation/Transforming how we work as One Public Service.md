@@ -37,7 +37,7 @@ travellers, and enhanced security measures.</p>
 <p>ICA’s initiative exemplified the public sector's commitment to innovation
 and efficiency in service delivery.</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GjATXtB9GwA?si=eHP0mxCt7_eQjRWk&amp;amp;controls=0"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GjATXtB9GwA?si=eHP0mxCt7_eQjRWk&amp;controls=0"></iframe>
 </div>
 <hr>
 <h4>Streamlining common functions to better support those in need</h4>
