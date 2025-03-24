@@ -2,5 +2,6 @@ collections:
   public-sector-transformation:
     output: true
     order:
+      - Transforming and empowering our workforce.md
       - Transforming how we work as One Public Service.md
       - Public Sector Transformation.md
