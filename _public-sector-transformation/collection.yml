@@ -2,7 +2,7 @@ collections:
   public-sector-transformation:
     output: true
     order:
-      - Transforming our officers’ workplace experience.md
-      - Transforming and empowering our workforce.md
-      - Transforming how we work as One Public Service.md
       - Public Sector Transformation.md
+      - Transforming how we work as One Public Service.md
+      - Transforming and empowering our workforce.md
+      - Transforming our officers’ workplace experience.md
