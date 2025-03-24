@@ -40,7 +40,7 @@ and efficiency in service delivery.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GjATXtB9GwA?si=eHP0mxCt7_eQjRWk&amp;controls=0"></iframe>
 </div>
 <hr>
-<h4>Streamlining common functions to better support those in need</h4>
+<h4><strong>Streamlining common functions to better support those in need</strong></h4>
 <p><strong>ComLink+</strong> streamlines support by pairing families with
 dedicated coaches and volunteer befrienders. This integrated approach combines
 professional guidance with personal support, enhancing our ability to help
