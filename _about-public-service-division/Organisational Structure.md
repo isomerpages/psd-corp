@@ -31,7 +31,7 @@ We aim to enable a first-class Public Service through progressive HR policy and 
 
 We partner public agencies to identify and strengthen the workforce capabilities and capacity needed to achieve the Singapore Public Service’s current and future goals, and co-create solutions that address organisational and workforce challenges they face.
 
-**Strategic Workforce Planning &amp; Labour Market Insights**
+**Strategic Workforce Planning &amp; Labour Market Intelligence**
 <br>
 We support Strategic Workforce Planning across the public sector and within agencies and provide timely information on the state of the public sector labour market to guide workforce development.
 
@@ -41,20 +41,20 @@ We develop framework and schemes to enable competency-based recruitment, structu
 
 **Career Development &amp; Transition**
 <br>
-We provide opportunities for public officers upgrade the level of skills among the workforce across the Public Service, as well as to successfully transit from job to job, across a Public Service career, both in terms of building a robust overview of job opportunities
+We provide opportunities for public officers to upgrade the level of skills among the workforce across the Public Service, as well as to successfully transit from job to job, across a Public Service career, both in terms of building a robust overview of job opportunities.
 
 <hr> 
 
-#### Business Partnership
+#### Business Partnerships
 
-We play a critical role in understanding the business of public sector agencies and customize HR solutions for them. We draw resources from the relevant clusters within PSD, to design appropriate and effective interventions. We also take the lead on public sector union management matters to build strong labour management relations.
+We play a critical role in understanding the business of public sector agencies and customise HR solutions for them. We draw resources from the relevant clusters within Public Service Division (PSD), to design appropriate and effective interventions. We also take the lead on public sector union management matters to build strong labour management relations.
 
 <hr>
 
 #### Leadership Group
 
 
-**Leadership Development**
+**Leadership Development &amp; Strategy and Office of Leadership Innovation**
 <br>
 We oversee and drive talent and leadership development to build a strong and committed leadership corps for the Public Service. Our work spans from attracting and recruiting leaders, to developing and engaging them. We oversee the Administrative Service and Public Service Leadership Programme, and guide leadership development policies and practices in the Public Service.
 
@@ -67,7 +67,7 @@ We provide secretariat support to the Public Service Commission such as formulat
 #### Corporate Group
 
 
-**Communications and Events**
+**Communications &amp; Engagement**
 <br>
 We focus on integrated communications strategy for both internal and public communications. We aim to foster pride, empathy and respect for and within the Public Service through compelling stories, authentic conversations and innovative channels, so as to uphold the branding of the Public Service Division and the Singapore Public Service. We also plan and run Public Service projects and events, both physical and virtual, for stakeholders, citizens and public officers.
 
@@ -75,7 +75,7 @@ We focus on integrated communications strategy for both internal and public comm
 <br>
 We develop and maintaining sound knowledge management practices in PSD. We ensure PSD practices financial discipline and maintain effective processes and workflow. We also create physical workplaces that promotes and optimises synergy between the clusters within PSD.
 
-**Human Capital**
+**People &amp; Culture Group**
 <br>
 We plan, formulate and implement human capital policies and organisational development strategies and initiatives to build and foster a motivated workforce that achieves PSD’s mission and strategic goals. As the central people agency for the Civil Service, we are also involved in the designing, development and piloting of new HR and workplace initiatives for the Civil Service.
 
@@ -83,7 +83,7 @@ We plan, formulate and implement human capital policies and organisational devel
 <br>
 We look at how IT is able to make our work easier, more efficient and effective. In particular, IT streamlines processes and improves work flow by delivering first-class IT infrastructure and applications, and synergising technology components, systems and information within PSD.
 
-**Strategic Planning &amp; Research**
+**Strategic Planning &amp; International Relations**
 <br>
 Our strategic planning arm supports senior management in current and identifying future strategies, and catalyses change within PSD through organisational development. Our Data Office formulates and implements measures to strengthen data governance, protection and security regime for PSD and whole-of-government. Our international relations arm oversees and drives PSD's efforts in building diplomatic ties that contribute to our broader strategic national bilateral needs.
 
@@ -95,6 +95,6 @@ We catalyse, implement and scale initiatives to achieve service delivery transfo
 
 <hr> 
 
-### Civil Service College
+### Civil Service College (CSC)
 
-CSC is an institution of learning, committed to preparing public officers for the future. We continue to leverage on innovative learning methods to deliver learner-centric, impactful and inspiring learning experiences for public officers.
+CSC is an institution of learning, committed to preparing public officers for the future. We continue to leverage innovative learning methods to deliver learner-centric, impactful and inspiring learning experiences for public officers.
