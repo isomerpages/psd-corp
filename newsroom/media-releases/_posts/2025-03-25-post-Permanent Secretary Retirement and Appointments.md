@@ -92,7 +92,7 @@ she has consistently paid attention to people and leadership development,
 and the nurturing of a culture devoted to excellence and teamwork.</p>
 <p></p>
 <p>11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In recognition of her contributions
-to the Public Service, Mrs Tan was awarded the Public Administrative Medal
+to the Public Service, Mrs Tan was awarded the Public Administration Medal
 (Gold) in 2008 and the Meritorious Service Medal in 2018.</p>
 <p></p>
 <p></p>
