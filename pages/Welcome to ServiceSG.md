@@ -108,7 +108,7 @@ first half of 2026.</p>
 you need. You can walk into any of the ServiceSG locations below for help
 – there is no need to make an appointment beforehand. If your enquiry or
 transaction is more complex, we can help you make an in-person or video
-confer</p>
+conferencing appointment with the agencies.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
