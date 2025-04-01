@@ -17,13 +17,15 @@ tomorrow’s challenges, even as we adapt to meet the needs and problems
 of today. These include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Transforming how we work as One Public Service</p>
+<p><a href="https://www.psd.gov.sg/transforming-how-we-work-as-one-public-service/" rel="noopener nofollow" target="_blank">Transforming how we work as One Public Service</a>
+</p>
 </li>
 <li>
-<p>Transforming and empowering our workforce</p>
+<p><a href="https://www.psd.gov.sg/transforming-and-empowering-our-workforce/" rel="noopener nofollow" target="_blank">Transforming and empowering our workforce</a>
+</p>
 </li>
 <li>
-<p>Transforming our officers’ workplace experience.</p>
+<p><a href="https://www.psd.gov.sg/transforming-our-officers-workplace-experience/" rel="noopener nofollow" target="_blank">Transforming our officers' workplace experience</a>.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
