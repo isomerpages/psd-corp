@@ -31,13 +31,4 @@ Public Service is strengthening the way we compose teams with diverse abilities,
 backgrounds and perspectives. We will also develop stronger and more agile
 leadership teams to bring out the best in our agencies, to enable Singapore
 and Singaporeans’ success.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XWTYBp55VDE?si=-H-QzFlAVX7OrhSW&amp;controls=0"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vv-cuBLFIPY?si=NavMOIeMdYkkGUn2&amp;controls=0"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/thptdPTCQ8Y?si=AtjSSGn0BRSiibAb&amp;controls=0"></iframe>
-</div>
 <p></p>
