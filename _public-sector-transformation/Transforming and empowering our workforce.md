@@ -6,12 +6,7 @@ description: ""
 ---
 <h3><strong>Transforming and empowering our workforce</strong></h3>
 <p>Transformation is not just about processes and policies—it is also about
-equipping our people to be future-ready.</p>
-<p>We will continue to expose our officers to varied experiences within and
-outside the public sector to deepen their competencies and expand their
-perspectives and networks. We are also strengthening our ability to compose
-teams with diverse abilities to resolve and pre-empt problems as our challenges
-become more complex and interlinked.</p>
+equipping public officers to be future-ready.</p>
 <h4>Empowering competency-driven growth</h4>
 <p>We have moved towards a Competency-Driven Growth framework, where we translate
 changing business needs into job competencies, and outline the competencies
