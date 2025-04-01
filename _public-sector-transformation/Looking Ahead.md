@@ -7,7 +7,7 @@ description: ""
 <p>The future presents exciting opportunities for us to serve Singaporeans
 even better. Our journey of continuous evolution ensures we stay ready
 for tomorrow's challenges while creating innovative solutions today.</p>
-<p>We're enthusiastic about:</p>
+<p>We are enthusiastic about:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Improving our digital capabilities</strong>: We'll continue to
