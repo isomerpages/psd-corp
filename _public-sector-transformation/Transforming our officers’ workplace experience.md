@@ -14,7 +14,7 @@ care across the Public Service.&nbsp;</p>
 work arrangements. These include flexi-load (e.g. part-time), flexi-place
 (e.g. telecommuting) and flexi-time (e.g. staggered hours), subject to
 the operational requirements of the role and public agency.</p>
-<h4>CoWork@Gov: Shared workspaces </h4>
+<h4>CoWork@Gov: Shared workspaces</h4>
 <p>Public officers are able to work from a network of shared workspaces across
 Singapore. These spaces offer officers flexibility in their workday, whether
 they need a quiet spot to work between meetings, a convenient location
