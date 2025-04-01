@@ -16,8 +16,8 @@ more user-friendly and efficient for citizens.</p>
 </li>
 <li>
 <p><strong>Fostering continuous learning</strong>: We're committed to expanding
-our learning and development programmes, supporting your professional growth
-and our collective ability to address evolving challenges.</p>
+our learning and development programmes, supporting our officers' professional
+growth and our collective ability to address evolving challenges.</p>
 </li>
 <li>
 <p><strong>Enhancing cross-agency collaboration</strong>: We'll build on
