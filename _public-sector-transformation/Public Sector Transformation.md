@@ -7,7 +7,7 @@ description: ""
 <h3><strong>Transforming for a better tomorrow</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PST_Logo_Final_Main.png">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/PST_Logo_Final_Main.png">
 </div>
 <p>The speed of change around the world is accelerating. We face an ageing
 population and shrinking workforce, fiscal constraints, rising citizen
