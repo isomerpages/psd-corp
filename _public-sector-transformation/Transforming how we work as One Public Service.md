@@ -34,7 +34,7 @@ truly matters – building a strong marriage.</div>
 <div class="isomer-card-description">From consulting to co-creating and co-delivering solutions, we are partnering
 citizens, communities and organisations to shape a better Singapore. The
 formation of the Singapore Government Partnerships Office signals our commitment
-to further strengthen our partnerships with citizens.</div>
+to further strengthen our partnerships.</div>
 <div class="isomer-card-link">Find out more about partnering us.</div>
 </div>
 </a>
