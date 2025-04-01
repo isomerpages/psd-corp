@@ -4,11 +4,8 @@ permalink: /transforming-our-officers-workplace-experience/
 variant: tiptap
 description: ""
 ---
-<h3>Transforming our officers’ workplace experience&nbsp;</h3>
-<p>A productive and supportive work environment is key to our success. We
-will continue to use technology and digital tools to improve our productivity.
-We will also continue to support the well-being of public officers through
-fostering a culture of care across the Public Service.&nbsp;</p>
+<h3><strong>Transforming our officers’ workplace experience</strong>&nbsp;</h3>
+<p>A productive and supportive work environment is key to our success.</p>
 <h4>Flexible work arrangements</h4>
 <p>We enable offices to balance their work-life priorities with flexible
 work arrangements. These include flexi-load (e.g. part-time), flexi-place
