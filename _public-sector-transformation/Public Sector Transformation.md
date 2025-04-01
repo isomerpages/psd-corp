@@ -5,10 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Transforming for a better tomorrow</strong></h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/PST_Logo_Final_Main.png">
-</div>
 <p>The speed of change around the world is accelerating. We face an ageing
 population and shrinking workforce, fiscal constraints, rising citizen
 expectations, and technological disruption.</p>
@@ -26,4 +22,8 @@ as we adapt to meet the needs and problems of today.</p>
 <p>Transforming our officers’ workplace experience</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PST_Logo_Final_Main.png">
+</div>
+<p></p>
 <p></p>
