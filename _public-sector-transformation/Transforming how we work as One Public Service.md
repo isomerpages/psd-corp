@@ -4,7 +4,7 @@ permalink: /transforming-how-we-work-as-one-public-service/
 variant: tiptap
 description: ""
 ---
-<h3>Transforming how we work as One Public Service</h3>
+<h3><strong>Transforming how we work as One Public Service</strong></h3>
 <p>We have embraced innovative technology, streamlined our services and pursued
 partnerships to deliver better services as One Public Service.</p>
 <h4><strong>Citizen-centric service delivery</strong></h4>
