@@ -7,7 +7,7 @@ description: ""
 <p>The future presents exciting opportunities for us to serve Singaporeans
 even better. Our journey of continuous evolution ensures we stay ready
 for tomorrow's challenges while creating innovative solutions today.</p>
-<p>We're enthusiastic about:</p>
+<p>We are enthusiastic about:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Improving our digital capabilities</strong>: We'll continue to
@@ -16,8 +16,8 @@ more user-friendly and efficient for citizens.</p>
 </li>
 <li>
 <p><strong>Fostering continuous learning</strong>: We're committed to expanding
-our learning and development programmes, supporting your professional growth
-and our collective ability to address evolving challenges.</p>
+our learning and development programmes, supporting our officers' professional
+growth and our collective ability to address evolving challenges.</p>
 </li>
 <li>
 <p><strong>Enhancing cross-agency collaboration</strong>: We'll build on
