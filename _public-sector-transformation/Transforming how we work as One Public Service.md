@@ -11,7 +11,7 @@ partnerships to deliver better services as One Public Service.</p>
 <a rel="noopener noreferrer nofollow" href="https://www.marriage.gov.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Untitled_design.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -22,7 +22,7 @@ our marriage registration processes. This allows couples to focus on what
 truly matters – building a strong marriage.</div>
 <div class="isomer-card-link">Find out more about Our Marriage Journey.</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.ica.gov.sg/news-and-publications/newsroom/media-release/passport-less-clearance-fully-rolled-out-at-changi-airport" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Transforming border clearance and security</div><div class="isomer-card-description">The Immigration and Checkpoints Authority has introduced passport-less immigration clearance for Singapore residents, and fully automated clearance to all travellers. These have resulted in faster immigration clearance for travellers and enhanced security measures.</div><div class="isomer-card-link">Find out more about passport-less convenience here.</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.ica.gov.sg/news-and-publications/newsroom/media-release/passport-less-clearance-fully-rolled-out-at-changi-airport" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/image__12_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Transforming border clearance and security</div><div class="isomer-card-description">The Immigration and Checkpoints Authority has introduced passport-less immigration clearance for Singapore residents, and fully automated clearance to all travellers. These have resulted in faster immigration clearance for travellers and enhanced security measures.</div><div class="isomer-card-link">Find out more about passport-less convenience here.</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.sgpo.gov.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -35,7 +35,7 @@ truly matters – building a strong marriage.</div>
 citizens, communities and organisations to shape a better Singapore. The
 formation of the Singapore Government Partnerships Office signals our commitment
 to further strengthen our partnerships.</div>
-<div class="isomer-card-link">Find out more about partnering us.</div>
+<div class="isomer-card-link">Partner us today!</div>
 </div>
 </a>
 </div>
