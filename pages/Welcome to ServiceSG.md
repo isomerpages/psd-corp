@@ -5,10 +5,10 @@ description: ServiceSG is a first-stop service concierge that helps citizens
   access relevant government services across multiple agencies.
 variant: tiptap
 ---
+<h5>The Public Service is committed to ensuring that our services continue to be accessible and inclusive for all.&nbsp;</h5>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_-aSlsDaZec?si=4GoJmZpnlbkAiKaq&amp;controls=0"></iframe>
 </div>
-<h5>The Public Service is committed to ensuring that our services continue to be accessible and inclusive for all.&nbsp;</h5>
 <p>The Public Service Division (PSD) has set up ServiceSG Centres, where
 officers are ready to assist citizens who are less confident of transacting
 digitally with the government.</p>
