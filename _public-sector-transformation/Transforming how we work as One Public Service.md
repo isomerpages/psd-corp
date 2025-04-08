@@ -16,10 +16,10 @@ partnerships to deliver better services as One Public Service.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Making it easier for couples to say 'I do'</div>
-<div class="isomer-card-description">The Ministry of Social and Family Development has worked with the Registry
-of Marriages and the Registry of Muslim Marriages to digitalise and simplify
-our marriage registration processes. This allows couples to focus on what
-truly matters – building a strong marriage.</div>
+<div class="isomer-card-description">The Registry of Marriages and Registry of Muslim Marriages have digitalised
+marriage services and launched a one-stop portal that simplifies pre-solemnisation
+processes. This allows couples to focus on what truly matters – building
+a strong foundation for their marriage.</div>
 <div class="isomer-card-link">Find out more about Our Marriage Journey.</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.ica.gov.sg/news-and-publications/newsroom/media-release/passport-less-clearance-fully-rolled-out-at-changi-airport" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/image__12_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Transforming border clearance and security</div><div class="isomer-card-description">The Immigration and Checkpoints Authority has introduced passport-less immigration clearance for Singapore residents, and fully automated clearance to all travellers. These have resulted in faster immigration clearance for travellers and enhanced security measures.</div><div class="isomer-card-link">Find out more about passport-less convenience here.</div></div></a>
