@@ -73,31 +73,34 @@ mentioned earlier.</p>
 <p></p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 I will highlight some attributes of this system of governance:</p>
-<p>a.&nbsp;&nbsp;&nbsp; First, we in the Public Service work closely with
-the political leadership with whom we share a common understanding of what
-serves the best interests of Singapore;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.&nbsp;&nbsp;&nbsp;First,
+we in the Public Service work closely with the political leadership with
+whom we share a common understanding of what serves the best interests
+of Singapore;</p>
 <p></p>
-<p>b.&nbsp;&nbsp;&nbsp; Next, we bring in good people who have a strong conviction
-for our purpose, assiduously develop them and spare no effort on leadership
-development;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.&nbsp;&nbsp;&nbsp;Next,
+we bring in good people who have a strong conviction for our purpose, assiduously
+develop them and spare no effort on leadership development;&nbsp;</p>
 <p></p>
-<p>c.&nbsp;&nbsp;&nbsp;&nbsp; We think and act in a Whole of Government manner,
-and not just in the narrow interests of our organisations;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.&nbsp;&nbsp;&nbsp;&nbsp;
+We think and act in a Whole of Government manner, and not just in the narrow
+interests of our organisations;</p>
 <p></p>
-<p>d.&nbsp;&nbsp;&nbsp; We proactively review our thinking and assumptions,
-and reinvent our policies;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.&nbsp;&nbsp;&nbsp;
+We proactively review our thinking and assumptions, and reinvent our policies;</p>
 <p></p>
-<p>e.&nbsp;&nbsp;&nbsp; Finally, we keep a long-term orientation to make
-tomorrow better, even while dealing with today’s challenges.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.&nbsp;&nbsp;&nbsp;
+Finally, we keep a long-term orientation to make tomorrow better, even
+while dealing with today’s challenges.</p>
 <p></p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 This evening, I want to speak about two other themes that are important
 for strengthening our system of governance. They both begin with the letter
 “R” – the first is resilience and the second is renewal. Let me elaborate.</p>
 <p></p>
-<p>a.&nbsp;&nbsp;&nbsp; Firstly, building resilience to better withstand
-shocks and adversity, such as the US “tariff storm” that we are facing
-now.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.&nbsp;&nbsp;&nbsp;
+Firstly, building resilience to better withstand shocks and adversity,
+such as the US “tariff storm” that we are facing now.</p>
 <p></p>
 <p>b.&nbsp;&nbsp;&nbsp; Secondly, renewal, in the context of planning for
 and ensuring leadership renewal, which is integral to sustaining and strengthening
