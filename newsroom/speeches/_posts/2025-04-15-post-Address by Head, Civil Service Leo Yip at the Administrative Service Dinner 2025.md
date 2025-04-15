@@ -8,7 +8,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>ADDRESS BY HEAD, CIVIL SERVICE LEO YIP AT THE ADMINISTRATIVE SERVICE DINNER ON 15 APRIL 2025 AT MARINA BAY SANDS EXPO AND CONVENTION CENTRE</strong>
+<p><strong>ADDRESS BY HEAD, CIVIL SERVICE LEO YIP AT THE</strong>
+<br><strong>ADMINISTRATIVE SERVICE DINNER ON 15 APRIL 2025</strong>
+<br><strong>AT MARINA BAY SANDS EXPO AND CONVENTION CENTRE</strong>
 </p>
 <p></p>
 <p>Deputy Prime Minister Heng Swee Keat,
