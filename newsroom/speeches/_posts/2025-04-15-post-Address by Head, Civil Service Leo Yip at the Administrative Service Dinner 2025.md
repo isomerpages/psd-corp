@@ -102,9 +102,10 @@ for strengthening our system of governance. They both begin with the letter
 Firstly, building resilience to better withstand shocks and adversity,
 such as the US “tariff storm” that we are facing now.</p>
 <p></p>
-<p>b.&nbsp;&nbsp;&nbsp; Secondly, renewal, in the context of planning for
-and ensuring leadership renewal, which is integral to sustaining and strengthening
-our system of governance.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.&nbsp;&nbsp;&nbsp;
+Secondly, renewal, in the context of planning for and ensuring leadership
+renewal, which is integral to sustaining and strengthening our system of
+governance.</p>
 <p></p>
 <p><strong>Strengthening Resilience</strong>
 </p>
@@ -143,29 +144,31 @@ to seize new opportunities only if we can build resilience.</p>
 can we do to strengthen resilience in our Public Service and in our system
 of governance? Let me first offer four quick points.</p>
 <p></p>
-<p>a.&nbsp;&nbsp;&nbsp; Firstly, we need to strengthen our collective ability
-as a Public Service to navigate this uncertain, volatile and even dangerous
-global environment. This includes planning for low probability but high
-impact scenarios; preparing contingency plans and exercising them, and
-stress-testing our systems and processes, such as our food supply chains,
-against shocks and crises.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.&nbsp;&nbsp;&nbsp;
+Firstly, we need to strengthen our collective ability as a Public Service
+to navigate this uncertain, volatile and even dangerous global environment.
+This includes planning for low probability but high impact scenarios; preparing
+contingency plans and exercising them, and stress-testing our systems and
+processes, such as our food supply chains, against shocks and crises.</p>
 <p></p>
-<p>b.&nbsp;&nbsp;&nbsp; Secondly, we must organise ourselves, and build the
-capacity to adapt and respond nimbly to these shocks, because each shock
-will be different. There will be no template and there will be no set piece
-that we can replay every time. This requires us to operate effectively
-across ministry boundaries, and be a well-functioning Whole of Government
-machinery.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.&nbsp;&nbsp;&nbsp;
+Secondly, we must organise ourselves, and build the capacity to adapt and
+respond nimbly to these shocks, because each shock will be different. There
+will be no template and there will be no set piece that we can replay every
+time. This requires us to operate effectively across ministry boundaries,
+and be a well-functioning Whole of Government machinery.</p>
 <p></p>
-<p>c.&nbsp;&nbsp;&nbsp;&nbsp; Thirdly, we must be very clear where our risks
-of over-dependence are, such as food, medical supplies, and others, and
-have plans to mitigate these risks. Because in a crisis, as we have seen
-in COVID, such over-dependence can be crippling.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.&nbsp;&nbsp;&nbsp;&nbsp;
+Thirdly, we must be very clear where our risks of over-dependence are,
+such as food, medical supplies, and others, and have plans to mitigate
+these risks. Because in a crisis, as we have seen in COVID, such over-dependence
+can be crippling.</p>
 <p></p>
-<p>d.&nbsp;&nbsp;&nbsp; Finally, we must build buffers and reserves which
-can be deployed on a rainy day. And the most well understood example is
-our national reserves. But, another example is organising and pre-training
-our public officers for re-deployment to new roles when a crisis hits.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.&nbsp;&nbsp;&nbsp;
+Finally, we must build buffers and reserves which can be deployed on a
+rainy day. And the most well understood example is our national reserves.
+But, another example is organising and pre-training our public officers
+for re-deployment to new roles when a crisis hits.</p>
 <p></p>
 <p>15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In short, we
 have to ready ourselves in a much better way to withstand any shock and
