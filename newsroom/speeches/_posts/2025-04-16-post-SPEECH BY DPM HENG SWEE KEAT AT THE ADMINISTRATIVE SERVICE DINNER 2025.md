@@ -9,12 +9,13 @@ variant: tiptap
 ---
 <p><strong>TRANSCRIPT OF SPEECH BY DPM HENG SWEE KEAT AT THE ADMINISTRATIVE SERVICE DINNER 2025, 15 APRIL 2025<br>“6 LESSONS IN SG60”</strong>
 </p>
-<p>Minister Chan Chun Sing,</p>
-<p>Minister-in-Charge of the Public Service</p>
-<p>Chairman Lee Tzu Yang, and Members of the Public Service Commission,</p>
-<p>Head, Civil Service Leo Yip and Permanent Secretaries,</p>
-<p>Ladies and Gentlemen,</p>
-<h3><strong>Introduction</strong></h3>
+<p>Minister Chan Chun Sing,
+<br>Minister-in-Charge of the Public Service
+<br>Chairman Lee Tzu Yang, and Members of the Public Service Commission,
+<br>Head, Civil Service Leo Yip and Permanent Secretaries,
+<br>Ladies and Gentlemen,</p>
+<p><strong>Introduction</strong>
+</p>
 <p>Good evening. First, my heartiest congratulations to the 13 officers who
 have been appointed to the Administrative Service, and the 60 Administrative
 Officers who have been promoted.</p>
@@ -28,7 +29,8 @@ and Jeffrey Siow, who have served 26 and 24 years respectively, are leaving
 to pursue new challenges. On behalf of my Cabinet colleagues, thank you,
 Ching Yee, Yeng Kit, Foong Pheng, Gabriel, and Jeffrey. We wish you the
 very best in your next pursuits.</p>
-<h3><strong>SG60</strong></h3>
+<p><strong>SG60</strong>
+</p>
 <p>This year Singapore celebrates SG60.</p>
 <p>In these 6 decades, the world and Singapore have gone through significant
 changes, with many anxious moments – wars, financial and economic crises,
@@ -68,7 +70,8 @@ the future.</p>
 <p>So let me take this occasion of the Administrative Service dinner in this
 SG60 year, to share my reflections on six lessons, one for each decade,
 in our nation-building journey.</p>
-<h3><strong>Lesson 1: Execution is policy, and execution happens at the frontline</strong></h3>
+<p><strong>Lesson 1: Execution is policy, and execution happens at the frontline</strong>
+</p>
 <p>When I started work in the Singapore Police Force, my first duty was to
 patrol the streets in a police car, responding to ‘999’ calls. That evening,
 there was a traffic light breakdown at a busy junction. When we arrived,
@@ -100,7 +103,8 @@ rubber hits the road, where execution happens. Execution is policy.</p>
 <p>So do your best, respect and develop the frontline, and spend some time
 at the frontline. Perhaps Chairman PSC may set a new criterion that for
 any Admin Officer to be promoted, you must pass a directing traffic test!</p>
-<h3><strong>Lesson 2: Leadership must have the guts and courage to experiment, to change</strong></h3>
+<p><strong>Lesson 2: Leadership must have the guts and courage to experiment, to change</strong>
+</p>
 <p>One of a leader’s most critical task is in setting strategic direction,
 and to be willing to change direction when the world changes, and the situation
 demands it.</p>
@@ -143,7 +147,8 @@ Use the experiences of the past. When the situation changes, be prepared
 to be bold, to have the courage to experiment, to innovate, and to make
 a paradigm shift. And be prepared to empower your frontline. If they make
 an honest mistake, encourage them to try again. That way, officers learn.</p>
-<h3><strong>Lesson 3: Turn Constraints into Opportunities, Small into Beautiful</strong></h3>
+<p><strong>Lesson 3: Turn Constraints into Opportunities, Small into Beautiful</strong>
+</p>
 <p>Singapore faces significant constraints in many areas – limited size of
 land and population, a small domestic market, and almost no natural resources
 – we even have to import our water. But the Singapore Story is one of turning
@@ -182,7 +187,8 @@ to emerge stronger out of this turbulence.</p>
 Strategic Partnership, in this age of trade and tech-war, let us position
 Singapore as a Global-Asia Node of Technology, Innovation and Enterprise,
 trusted, relevant and useful to the world.</p>
-<h3><strong>Lesson 4: Think Long-term and Embrace Contradictions</strong></h3>
+<p><strong>Lesson 4: Think Long-term and Embrace Contradictions</strong>
+</p>
 <p>We have taken a long-term approach to governing, acting as stewards for
 our future, and embracing apparently contradictory goals.</p>
 <p>In 2020, during the Covid pandemic, as Finance Minister, I had to see
@@ -215,7 +221,8 @@ in sectors where trust and confidence is critical, such as in healthcare,
 food and drugs and finance. As F. Scott Fitzgerald once said, the test
 of a first-rate intelligence is the ability to hold two opposing ideas
 in mind at the same time and still retain the ability to function.</p>
-<h3><strong>Lesson 5: Promoting Active Citizenry</strong></h3>
+<p><strong>Lesson 5: Promoting Active Citizenry</strong>
+</p>
 <p>Let me touch on the next lesson five on promoting Active Citizenry.</p>
 <p>Since I entered politics, I have seen how citizens are better educated,
 better informed, and wanting to take part in decision-making, in making
@@ -246,7 +253,8 @@ the frontline officers whom you work with in their interactions with citizens.</
 not just even Whole of Government, but to the whole of society. If you
 extend that even more broadly, to deepening partnerships with peoples and
 nations around the world.</p>
-<h3><strong>Lesson 6: Deepen the trust between the Public Service and the political leadership</strong></h3>
+<p><strong>Lesson 6: Deepen the trust between the Public Service and the political leadership</strong>
+</p>
 <p>This, in my view, is the most important of the 6 lessons.</p>
 <p>Our Administrative Service, and the broader PSL and officers in the public
 service, play critical complementary roles, working with the political
@@ -303,7 +311,8 @@ have left the public service long ago. And so would many of my fellow permanent
 secretaries. We stayed in service because the political leaders we worked
 with share the same mission of creating a better future for Singapore,
 for Singaporeans, and with clear strategic minds.</p>
-<h3><strong>Closing</strong></h3>
+<p><strong>Closing</strong>
+</p>
 <p>So let me conclude. As we celebrate SG60, let us continue to reflect on
 the reasons for Singapore’s success, and importantly, how we can use the
 principles we have learnt, to continue to forge a better future. The future
