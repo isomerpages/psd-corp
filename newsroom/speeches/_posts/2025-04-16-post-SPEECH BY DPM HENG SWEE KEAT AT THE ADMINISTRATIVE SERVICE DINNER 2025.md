@@ -319,13 +319,13 @@ principles we have learnt, to continue to forge a better future. The future
 will be a turbulent one, but if we learn our lessons well, we can continue
 to be successful.</p>
 <p>I have mentioned 6 lessons, one for each decade of our independence.</p>
-<p>Lesson 1: Execution is policy, and execution happens at the Frontline</p>
-<p>Lesson 2: Leadership must have the guts and courage to experiment, to
-change</p>
-<p>Lesson 3: Turn Constraints into Opportunities, Small into Beautiful</p>
-<p>Lesson 4: Think Long-term and Embrace Contradictions</p>
-<p>Lesson 5: Promote Active Citizenry</p>
-<p>Lesson 6: Deepen the trust between the public service and the political
+<p>Lesson 1: Execution is policy, and execution happens at the Frontline
+<br>Lesson 2: Leadership must have the guts and courage to experiment, to
+change
+<br>Lesson 3: Turn Constraints into Opportunities, Small into Beautiful
+<br>Lesson 4: Think Long-term and Embrace Contradictions
+<br>Lesson 5: Promote Active Citizenry
+<br>Lesson 6: Deepen the trust between the public service and the political
 leadership</p>
 <p>The administrative service must be stewards of this legacy – and champions
 of Singapore’s future. So lead with integrity, serve with heart, think
