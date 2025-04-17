@@ -1,6 +1,6 @@
 ---
 title: Public Sector Transformation
-permalink: /public-sector-transformation/
+permalink: /transformation/
 variant: tiptap
 description: ""
 ---
