@@ -23,16 +23,4 @@ By making workspaces available at various locations, CoWork@Gov supports
 a more mobile and connected Public Service, helping officers make better
 use of their time while fostering opportunities for collaboration across
 agencies.</p>
-<h4>Public Service for Good</h4>
-<p>The Public Service for Good movement empowers public officers to make
-a meaningful difference in society through skills-based volunteering. This
-purposeful initiative enables officers to contribute their expertise across
-four key areas: empowering those in need, supporting seniors to age well,
-investing in sustainability, and building our home together with Singaporeans.
-Beyond just volunteering, PSFG offers officers valuable opportunities to
-strengthen their connection with citizens, deepen their understanding of
-ground realities, and develop new capabilities while serving the community.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lIoH5emx7gA?si=8jtSnV1aGnlj6BuG"></iframe>
-</div>
 <p></p>
