@@ -11,32 +11,43 @@ variant: markdown
 
 
 
-PSD stewards One Trusted Public Service by developing strong leaders and engaged officers, building future-ready organisations and promoting good governance.
+   
+
+PSD stewards one trusted Public Service by developing a flourishing diverse workforce for the future as well as a forward-looking and inspiring leadership community, building future-ready public sector organisations, and driving good governance, values and excellence.
 
 
-### Developing Strong Leaders
+###    Developing a Flourishing Diverse Workforce for the Future
 
-We select and grow leaders. We strengthen leadership abilities, behaviours and values at all levels. We identify, groom and appoint top leaders across the Public Service. We build a strong and united leadership community, bounded by a collective vision, and centered on the right values and ethos.
+
+We partner public agencies to develop public officers to their fullest potential, with the continual growth of skills over their career, to best secure Singapore's future in an evolving environment.
+
+We nurture an effective and committed workforce by creating meaningful careers and supporting our public officers across all life stages.
+
+[**FIND OUT MORE**](/developing-careers)
+
+
+###    Developing a Forward-Looking and Inspiring Leadership Community
+
+We identify talent and develop public sector leaders who are forward-thinking, inspiring, and anchored on our public service values and ethos.
+
+We forge a united and resilient leadership corps that positions Singapore for enduring success.
 
 [**FIND OUT MORE**](/leadership)
 
 
-### Building Future-Ready Organisations
+###    Building Future-Ready Public Sector Organisations
+    
+We steer and support transformation of our organisations and workforce, thereby enabling the Public Service to turn the challenges of today and tomorrow into opportunities.
 
-We build capabilities at individual, team and organisational levels to directly address work challenges that public officers will face, and enable the Public Service to be ready for the future. Examples include putting in place individual development plans and building service delivery capabilities.
+We catalyse innovations that transform organisations to work more effectively, for a future-ready Public Service.
 
 [**FIND OUT MORE**](/transformation)
 
 
-### Promoting Good Governance
-    
-We lead the way in what good government is about, how public organisations ought to run, and how they should act to meet citizens’ needs. We serve as guardians of Public Service values and ethos, and we safeguard and uphold the reputation of the Public Service. We provide sound advice on the structure of government.
+###    Driving Good Governance, Values and excellence
+
+We steward and champion public service values and ethos, safeguard the integrity and reputation of the Public Service, and uphold the trust of citizens.
+
+We exemplify One Public Service, good governance, and excellence in policymaking and delivery.
 
 [**FIND OUT MORE**](/work-practices)
-
-
-### Developing Engaged Officers
-
-We partner public agencies to develop our officers to not only be effective in what they do, but also be engaged to the greater purpose of their work, high in commitment and prepared to go the extra mile.
-
-[**FIND OUT MORE**](/developing-careers)
