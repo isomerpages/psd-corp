@@ -13,7 +13,7 @@ variant: markdown
 
    
 
-PSD stewards one trusted Public Service by developing a flourishing diverse workforce for the future as well as a forward-looking and inspiring leadership community, building future-ready public sector organisations, and driving good governance, values and excellence.
+PSD stewards a trusted Public Service by developing a flourishing diverse workforce for the future as well as a forward-looking and inspiring leadership community, building future-ready public sector organisations, and driving good governance, values and excellence.
 
 
 ###    Developing a Flourishing Diverse Workforce for the Future
