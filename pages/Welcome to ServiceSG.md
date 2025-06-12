@@ -12,9 +12,10 @@ variant: tiptap
 <p>The Public Service Division (PSD) has set up ServiceSG Centres, where
 officers are ready to assist citizens who are less confident of transacting
 digitally with the government.</p>
-<p></p>
 <p>Visit our ServiceSG Centres for guidance on government services that are
-relevant to your needs.&nbsp;
+relevant to your needs.&nbsp; Our officers can help with close to 600 government
+services, and the most frequently transacted service an bherehereher
+<a href="/files/List_of_frequently_transacted_services_at_ServiceSG_Centres__for_website_.pdf" rel="noopener nofollow" target="_blank">here</a>.c
 <br>
 </p>
 <p>Find out how ServiceSG can help you, whether you are a senior, a working
