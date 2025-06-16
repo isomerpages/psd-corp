@@ -7,10 +7,10 @@ description: ""
 image: ""
 variant: markdown
 ---
-<p><strong>Civil servants to receive 0.4-month mid-year bonus; Junior grade officers to get an additional one-time payment of up to $400</strong>
-</p>
-<p><strong><em>This follows close consultation with public sector unions</em></strong>
-</p>
+<p style="text-align:center"><strong>Civil servants to receive 0.4-month mid-year bonus; Junior grade officers to get an additional one-time payment of up to $400</strong></p>
+<p style="text-align:center"><strong><em>This follows close consultation with public sector unions</em></strong></p>
+
+
 <p></p>
 <p>In close consultation with the public sector unions, the Government has
 decided to pay all civil servants a mid-year Annual Variable Component
