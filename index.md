@@ -7,7 +7,9 @@ description: The Public Service Division nurtures, guides and supports the
   government.
 image: /images/isomerhero-darkmode-10s.gif
 permalink: /
-notification: ""
+notification: Government officials would never ask you for money or your bank
+  log-in details over the phone. If you receive such a call, hang up and call
+  ScamShield at 1799.
 sections:
   - hero:
       title: We are the heart of Public Service
