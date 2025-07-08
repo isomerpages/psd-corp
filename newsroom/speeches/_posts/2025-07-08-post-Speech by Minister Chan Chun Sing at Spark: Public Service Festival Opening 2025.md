@@ -319,7 +319,6 @@ we have the capabilities to deliver on our ambitions.</p>
 <p>24.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But strategies do
 not transform organisations — people do. We will require people at every
 level to take action.</p>
-<p>&nbsp;</p>
 <p>25.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leaders must create
 environments where innovation can flourish and teams can thrive. As the
 Coordinating Minister for Public Services, my priority is to help build
@@ -336,7 +335,6 @@ across public agencies, but how much we build a culture of everyone thinking
 of how we can optimise at the Whole-of-Government level beyond our respective
 agency, and how able we are to self-synchronise. The less I need to intervene
 to coordinate, the prouder I am of our Public Service.</p>
-<p>&nbsp;</p>
 <p>26.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For those of you who
 have attended my meetings, you will see the following pattern. First, we
 identify the problem, then we identify all the agencies that have a stake
@@ -351,7 +349,6 @@ we can continue to have a coordinated and integrated Public Service. This
 will keep the Public Service lean so that we can deploy forward to serve
 our people and our country, instead of deploying these resources for internal
 bureaucratic coordination.</p>
-<p>&nbsp;</p>
 <p>27.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But for this to succeed
 is not just about me having this vision. I need your help and participation
 to always remember that you are a leader in your own right, and you have
@@ -366,8 +363,6 @@ part to support whoever is leading, because we will all take turns to be
 the lead for different problems. So, I hope all our leaders and supervisors
 will embrace this spirit, take care of our people and help them grow in
 their roles — individually in their agencies and collectively as a Whole-of-Government.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Conclusion</strong>
 </p>
 <p>28.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Let me end with a
@@ -376,7 +371,6 @@ It is earned — earned by generations of dedicated public officers who came
 before us; earned through countless moments where we put Singapore and
 Singaporeans’ interests first. This trust is both our greatest privilege
 and our heaviest responsibility.</p>
-<p>&nbsp;</p>
 <p>29.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But trust is not static.
 It must be renewed and strengthened. How? This goes beyond improving processes
 or adopting new technologies. Trust is earned every time we dare to do
@@ -384,18 +378,15 @@ something different for a better Singapore. Every barrier we break down,
 every service we improve, every innovation we create — they all serve this
 larger purpose of building trust with not just this generation, but with
 future generations of Singaporeans.</p>
-<p>&nbsp;</p>
 <p>30.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is why your role
 matters more than ever. Whether you are reimagining how we serve citizens
 and businesses, developing tomorrow's leaders, or driving systemic change
 — you are writing Singapore's next chapter.</p>
-<p>&nbsp;</p>
 <p>31.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The qualities that
 guided our pioneers must continue to guide us: (i) boldness in pioneering
 new paths; (ii) relentless pursuit of excellence in execution; and (iii)
 unwavering commitment to values and focus on Singapore's long-term interests.
 These are not just words from our past — these are our compass for tomorrow.</p>
-<p>&nbsp;</p>
 <p>32.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lastly, I want to
 thank you for your service to the nation and encourage you to continue
 to be bold in re-imagining how our Public Service can be. I hope that in
@@ -405,10 +396,8 @@ back and say that this generation has continued to keep the Singaporean
 Spirit alive, defy the odds and chart our own way forward, unshackled by
 the history of the past, undaunted by the challenges, and ever imaginative
 in thinking about what we can achieve.</p>
-<p>&nbsp;</p>
 <p>33.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We may be ordinary
 people, but together as a team, we will achieve extraordinary things for
 Singapore and Singaporeans.</p>
-<p>&nbsp;</p>
 <p>34.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thank you.</p>
 <p>&nbsp;</p>
