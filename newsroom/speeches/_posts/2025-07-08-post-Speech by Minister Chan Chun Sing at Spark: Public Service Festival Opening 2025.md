@@ -91,12 +91,12 @@ as One Public Service.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><u>Tightening Constraints</u></em>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-a.&nbsp;&nbsp;&nbsp; First, tightening constraints <a rel="noopener noreferrer nofollow" target="_blank">— from manpower to budget and carbon.</a> By
-2030, one in four Singaporeans will be over 65, up from one in 40 in 1965.
-This ageing will more than triple our healthcare spending from what we
-spent just 10 years ago in 2015, and this will tighten our fiscal space
-considerably. Then, there is climate change, which has introduced carbon
-budget as a new constraint for us to manage. Many of these constraints
+a.&nbsp;&nbsp;&nbsp; First, tightening constraints — from manpower to budget
+and carbon. By 2030, one in four Singaporeans will be over 65, up from
+one in 40 in 1965. This ageing will more than triple our healthcare spending
+from what we spent just 10 years ago in 2015, and this will tighten our
+fiscal space considerably. Then, there is climate change, which has introduced
+carbon budget as a new constraint for us to manage. Many of these constraints
 are interconnected, and therefore the solutions need to be developed holistically
 and across different silos, achieving different trade-offs across different
 domains.</p>
