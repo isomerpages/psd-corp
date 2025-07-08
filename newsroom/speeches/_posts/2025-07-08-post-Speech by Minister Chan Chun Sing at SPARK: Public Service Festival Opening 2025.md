@@ -82,18 +82,16 @@ agencies as a Public Service, it was not easily achievable. While systems
 and processes can change, what was most important and needed to change
 was the mindset to think as One Public Service rather than just to change
 the systems and processes.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Our New Reality: Navigating Complex Changes</strong>
 </p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 We are now entering a new phase of nation building and fundamental shifts
 have emerged in the world. Let me share three challenges that we are confronting
 as One Public Service.</p>
-<p>&nbsp;</p>
 <p><em><u>Tightening Constraints</u></em>
 </p>
-<p>a.&nbsp;&nbsp;&nbsp; First, tightening constraints <a rel="noopener noreferrer nofollow" target="_blank">— from manpower to budget and carbon.</a> By
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+a.&nbsp;&nbsp;&nbsp; First, tightening constraints <a rel="noopener noreferrer nofollow" target="_blank">— from manpower to budget and carbon.</a> By
 2030, one in four Singaporeans will be over 65, up from one in 40 in 1965.
 This ageing will more than triple our healthcare spending from what we
 spent just 10 years ago in 2015, and this will tighten our fiscal space
@@ -102,10 +100,10 @@ budget as a new constraint for us to manage. Many of these constraints
 are interconnected, and therefore the solutions need to be developed holistically
 and across different silos, achieving different trade-offs across different
 domains.</p>
-<p>&nbsp;</p>
 <p><em><u>Rising Expectations</u></em>
 </p>
-<p>b.&nbsp;&nbsp;&nbsp; Second, public expectations are rising. Today, when
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+b.&nbsp;&nbsp;&nbsp; Second, public expectations are rising. Today, when
 you take out your phone to order a meal via an online delivery platform,
 we are able to do it with a few clicks. This is what Singaporeans have
 become used to. When Singaporeans transact with the Government and use
@@ -117,8 +115,8 @@ This is a good thing as it means there are opportunities for us to leverage
 the capabilities and capacities of Singaporeans in general. However, this
 requires us to rethink and rework our processes so that we can embrace
 such forthcoming contributions. &nbsp;</p>
-<p>&nbsp;</p>
-<p>c.&nbsp;&nbsp;&nbsp; Businesses are similarly restructuring and reinventing
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+c.&nbsp;&nbsp;&nbsp; Businesses are similarly restructuring and reinventing
 their operations more aggressively in the face of major economic disruptions.
 What we need to do for citizens, we will also need to do for businesses
 — making services more integrated and more seamless. These are also areas
@@ -126,10 +124,10 @@ the businesses are looking out for when they transact with the Government.
 The expectations of businesses are similarly high. They will benchmark
 us not just by how well we have done compared to the past. They will also
 benchmark us by how well we are doing compared to many other jurisdictions.</p>
-<p>&nbsp;</p>
 <p><em><u>Intensifying Competition</u></em>
 </p>
-<p>d.&nbsp;&nbsp;&nbsp; Third, Singapore faces intensifying global competition.
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+d.&nbsp;&nbsp;&nbsp; Third, Singapore faces intensifying global competition.
 Today, we can be proud that we are amongst the top in many of the global
 indices such as quality of life, quality of Government services and so
 forth. But we must be honest with ourselves that there are many jurisdictions
@@ -139,14 +137,12 @@ has become the first country to fully digitise its Government services.
 China serves over a billion citizens with artificial intelligence (AI)-powered
 services. Our ASEAN neighbours are also making strides in digital innovation.
 So, for us, standing still is not an option.</p>
-<p>&nbsp;</p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 These are not just challenges that we must overcome — they are calls to
 action for us to continue to hone what we have done well, to keep improving
 so that we can stay ahead of the curve and competition to give Singapore
 and Singaporeans the best chance to attract investments which will create
 good jobs and pay good wages.</p>
-<p>&nbsp;</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 I have often shared that my greatest concern is that we become complacent.
 Success must not become the albatross for our future. We must be keenly
@@ -157,14 +153,12 @@ have adopted mobile services most aggressively and achieved some of the
 best results are paradoxically the same countries that not too many years
 ago were seen as the laggards in the adoption of fixed line telecommunications.
 There is no room for us to be complacent.</p>
-<p>&nbsp;</p>
 <p><strong>Our Path Forward</strong>
 </p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 So, what must we do as we take Singapore towards SG100? I think we need
 to double down on what we have done well, and that is to continue to innovate
 with citizens at the centre of all that we do.</p>
-<p>&nbsp;</p>
 <p><strong><em>(I) Innovating as One Public Service with Citizens</em></strong>
 </p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our first priority
