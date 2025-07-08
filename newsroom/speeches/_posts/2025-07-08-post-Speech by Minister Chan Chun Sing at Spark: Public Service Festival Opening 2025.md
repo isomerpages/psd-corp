@@ -163,14 +163,12 @@ with citizens at the centre of all that we do.</p>
 </p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our first priority
 is to take One Public Service further.</p>
-<p>&nbsp;</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Think about going
 to visit a doctor today and imagine what we will encounter. Nobody enjoys
 going to the doctors and having to be asked the same questions over and
 over again. Everyone expects to tell the doctor once, and the record to
 be shared across different agencies. This is the same standards we expect
 across all agencies.</p>
-<p>&nbsp;</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;We have good
 examples of what we have done. Not too long ago, when you approached the
 social service agencies for help, you probably had to repeat your story
@@ -178,14 +176,12 @@ over and over again. We also had the problem of some Singaporeans being
 over-served and some people being under-served. Today, with the Social
 Service Net (SSNet), we have pulled many of our services together to be
 much more seamless for those who need help.</p>
-<p>&nbsp;</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Likewise, we have
 ServiceSG, including right here at One Punggol. We brought together 600
 services from over 25 agencies under one roof. Today, when a senior citizen
 visits ServiceSG for housing assistance, our officers can help to address
 related needs like healthcare subsidies and social support, eliminating
 multiple trips to different agencies.</p>
-<p>&nbsp;</p>
 <p>14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For businesses,
 we have also established integrated platforms like GoBusiness which serves
 as our one-stop platform for businesses to apply for licenses seamlessly.
@@ -195,19 +191,16 @@ connect with the Small and Medium-Sized Enterprises (SME) Pro-Enterprise
 Office for support on cross-cutting regulatory matters. For residents,
 we formed the Municipal Services Office to coordinate responses to estate
 maintenance issues.</p>
-<p>&nbsp;</p>
 <p>15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All these are
 examples where we have done well, but it also shows that there is scope
 to go even further. For example, I mentioned that around 50 per cent of
 total licenses are on GoBusiness. This means that we can continue to improve
 with another 50 per cent.</p>
-<p>&nbsp;</p>
 <p>16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Working as One Public
 Service is not just about processes and procedures. It is also how we train
 and develop our own service personnel to think One Public Service. The
 mindset is the most important. With the correct mindset, we will be able
 to run the new processes seamlessly.</p>
-<p>&nbsp;</p>
 <p><strong><em>(II) Optimising at the Whole-of-Government Level</em></strong>
 </p>
 <p>17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; With the tightening
@@ -216,7 +209,6 @@ Whole-of-Government level. It is not enough to optimise within our respective
 agencies. We have to constantly look for new opportunities to work together
 and use the resources that we have to achieve the maximum good for our
 people and country.</p>
-<p>&nbsp;</p>
 <p>18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Look at One Punggol
 where we are today. We have a swimming pool, library, ServiceSG and many
 more. But was it easy to build One Punggol or Our Tampines Hub? At the
@@ -230,7 +222,6 @@ our service delivery would be fragmented, and what the public sees and
 enjoys will also be fragmented. Beyond Our Tampines Hub and One Punggol,
 there are many other projects that we can learn from to optimise at the
 Whole-of-Government level.</p>
-<p>&nbsp;</p>
 <p>19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Let me give another
 example. Previously, when it came to land planning, our instincts were
 to have our own project. But increasingly, I am encouraged to see more
@@ -241,14 +232,12 @@ much more seamless and integrated. This is the direction we need to take
 The tighter our resource constraints going forward, the more we need to
 think broader and integrate our work and resource expenditure so that we
 can achieve greater bang for buck.</p>
-<p>&nbsp;</p>
 <p><strong><em>(III) Developing Our Teams for Tomorrow</em></strong>
 </p>
 <p>20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our third priority
 is about people — how we take care of our people and train our people to
 achieve all this. When we take care of our people, our people will take
 care of our mission.</p>
-<p>&nbsp;</p>
 <p>21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our mission is to
 take care of Singapore and Singaporeans for generations to come. Earlier
 this year at the Committee of Supply Debate, I spoke about ramping up efforts
@@ -256,19 +245,19 @@ to help our officers build their career resilience and agility across different
 life stages. Today, I am pleased to share that we are launching a Career
 Fitness Movement to help all officers raise their career health by bringing
 together three pillars.</p>
-<p>&nbsp;</p>
-<p><em><u>Equipping our People and Teams</u></em>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><u>Equipping our People and Teams</u></em>
 </p>
-<p>a.&nbsp;&nbsp;&nbsp; First, we will equip individual officers to be more
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+a.&nbsp;&nbsp;&nbsp; First, we will equip individual officers to be more
 career fit and teams to be more resilient.</p>
-<p>&nbsp;</p>
-<p>b.&nbsp;&nbsp;&nbsp; A new series of Career Fitness training<strong> </strong>programmes
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+b.&nbsp;&nbsp;&nbsp; A new series of Career Fitness training<strong> </strong>programmes
 will be launched from July 2025 to equip all individual officers with the
 skills and mindset to navigate across different career life stages. These
 Career Fitness programmes build on recent efforts to shift towards competencies
 in the Public Service.</p>
-<p>&nbsp;</p>
-<p><em>c.&nbsp;&nbsp;&nbsp; </em>We are also stepping up efforts to build
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+c<em>.&nbsp;&nbsp;&nbsp; </em>We are also stepping up efforts to build
 stronger leadership teams, not just individuals. As we scale the use of
 360 feedback, we are bringing together officers with deep domain expertise
 alongside those with broad policy experience to create diverse teams capable
@@ -276,41 +265,39 @@ of addressing complex challenges. This intentional mixing of perspectives
 helps us spot blind spots and develop more robust solutions. The composition
 of a robust, resilient and diverse team is a leadership responsibility
 that all of us have to undertake.</p>
-<p><em><u>&nbsp;</u></em>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><u>Enabling Coaches and Supervisors</u></em>
 </p>
-<p><em><u>Enabling Coaches and Supervisors</u></em>
-</p>
-<p>d.&nbsp;&nbsp;&nbsp; Second, we are strengthening our support systems
-to ensure officers and teams do not walk this journey alone.</p>
-<p>&nbsp;</p>
-<p>e.&nbsp;&nbsp;&nbsp; Our enhanced network of career coaches – experienced
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+d.&nbsp;&nbsp;&nbsp; Second, we are strengthening our support systems to
+ensure officers and teams do not walk this journey alone.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+e.&nbsp;&nbsp;&nbsp; Our enhanced network of career coaches – experienced
 public officers who understand the challenges of public service – will
 provide personalised guidance at every career stage to fellow public officers.</p>
-<p>&nbsp;</p>
-<p>f.&nbsp;&nbsp;&nbsp;&nbsp; We are also equipping our supervisors and leaders
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+f.&nbsp;&nbsp;&nbsp;&nbsp; We are also equipping our supervisors and leaders
 with foundational career coaching skills and tools to conduct meaningful
 development conversations with their officers.</p>
-<p>&nbsp;</p>
-<p><em><u>Empowering Systems and Processes</u></em>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><u>Empowering Systems and Processes</u></em>
 </p>
-<p>g.&nbsp;&nbsp;&nbsp; Third, we are building systems and processes to better
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+g.&nbsp;&nbsp;&nbsp; Third, we are building systems and processes to better
 empower officers and teams to own their development and careers.</p>
-<p>&nbsp;</p>
-<p>h.&nbsp;&nbsp;&nbsp; A new LEARN platform was launched in May and will
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+h.&nbsp;&nbsp;&nbsp; A new LEARN platform was launched in May and will
 have features progressively added so that it becomes a 24/7 learning hub
 where officers can access a comprehensive suite of digital learning anytime,
 anywhere.</p>
-<p>&nbsp;</p>
-<p>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The One Talent Gateway platform will
-also be scaled to most of the Public Service by the end of this year. This
-will be a 24/7 personal career buddy that helps officers to identify their
-competency gaps and explore an expanded array of career development opportunities
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The One Talent Gateway platform will also
+be scaled to most of the Public Service by the end of this year. This will
+be a 24/7 personal career buddy that helps officers to identify their competency
+gaps and explore an expanded array of career development opportunities
 aligned with their aspirations. This includes Structured Job Rotations
 (SJR) and our Talent Attachment Programme (TAP) beyond the Public Service.
 Last year alone, over 5,000 officers participated in short-term attachments,
 gigs, and job rotations. Another 1,200 officers developed skills while
 doing good through the Public Service For Good movement.</p>
-<p>&nbsp;</p>
 <p>22.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Together, these three
 pillars create a holistic movement to empower our officers to strengthen
 and extend their career longevity. This in turn will build the workforce
@@ -320,8 +307,6 @@ grows as well. This is how we will ensure our Public Service remains dynamic,
 resilient, and ready for tomorrow's challenges. This is also how we can
 continue to attract a fair share of the talent pool to join us in service
 of our nation.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Looking Ahead: Creating Our Shared Future</strong>
 </p>
 <p>23.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Looking ahead, these
@@ -331,7 +316,6 @@ Teams for Tomorrow — form an integrated strategy to tackle the challenges
 of the future. One Public Service provides the foundation. Whole-of-Government
 optimisation maximises our scarce resources. People development ensures
 we have the capabilities to deliver on our ambitions.</p>
-<p>&nbsp;</p>
 <p>24.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But strategies do
 not transform organisations — people do. We will require people at every
 level to take action.</p>
