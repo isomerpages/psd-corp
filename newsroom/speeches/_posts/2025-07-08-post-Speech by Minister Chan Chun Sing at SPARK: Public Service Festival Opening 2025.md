@@ -88,7 +88,7 @@ the systems and processes.</p>
 We are now entering a new phase of nation building and fundamental shifts
 have emerged in the world. Let me share three challenges that we are confronting
 as One Public Service.</p>
-<p><em><u>Tightening Constraints</u></em>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><u>Tightening Constraints</u></em>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 a.&nbsp;&nbsp;&nbsp; First, tightening constraints <a rel="noopener noreferrer nofollow" target="_blank">— from manpower to budget and carbon.</a> By
@@ -100,7 +100,7 @@ budget as a new constraint for us to manage. Many of these constraints
 are interconnected, and therefore the solutions need to be developed holistically
 and across different silos, achieving different trade-offs across different
 domains.</p>
-<p><em><u>Rising Expectations</u></em>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><u>Rising Expectations</u></em>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 b.&nbsp;&nbsp;&nbsp; Second, public expectations are rising. Today, when
@@ -124,7 +124,7 @@ the businesses are looking out for when they transact with the Government.
 The expectations of businesses are similarly high. They will benchmark
 us not just by how well we have done compared to the past. They will also
 benchmark us by how well we are doing compared to many other jurisdictions.</p>
-<p><em><u>Intensifying Competition</u></em>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><u>Intensifying Competition</u></em>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 d.&nbsp;&nbsp;&nbsp; Third, Singapore faces intensifying global competition.
