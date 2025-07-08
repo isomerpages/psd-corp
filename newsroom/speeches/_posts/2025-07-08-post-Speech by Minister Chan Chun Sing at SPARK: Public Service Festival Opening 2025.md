@@ -14,37 +14,32 @@ variant: tiptap
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Good afternoon to all of you here at One Punggol and colleagues online.</p>
-<p>&nbsp;</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 This year is a special occasion for all of us. It is SG60. As with such
 occasions, we always commemorate by looking back at how far we have come,
 to understand why we are here, and chart out what we are going to face
 in the years ahead.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Our Journey Over the Past 60 Years</strong>
 </p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Over the past 60 years, the Public Service has contributed much to Singapore’s
 survival and success. Today, we have a Public Service that we can all be
 proud of. We are highly regarded across the world, and have won many accolades.</p>
-<p>&nbsp;</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Our journey from survival to success has been built on three enduring qualities
 shared by all generations of Public Service officers:</p>
-<p>&nbsp;</p>
-<p>a.&nbsp;&nbsp;&nbsp; First, our boldness in pioneering new paths;</p>
-<p>&nbsp;</p>
-<p>b.&nbsp;&nbsp;&nbsp; Second, our relentless pursuit of excellence in execution;
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+a.&nbsp;&nbsp;&nbsp; First, our boldness in pioneering new paths;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+b.&nbsp;&nbsp;&nbsp; Second, our relentless pursuit of excellence in execution;
 and</p>
-<p>&nbsp;</p>
-<p>c.&nbsp;&nbsp;&nbsp; Third, our unwavering commitment to values and Singapore's
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+c.&nbsp;&nbsp;&nbsp; Third, our unwavering commitment to values and Singapore's
 long-term interests.</p>
-<p>&nbsp;</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 These three qualities have seen us through key moments in our history.</p>
-<p>&nbsp;</p>
-<p>a.&nbsp;&nbsp;&nbsp; Boldness, for example, shaped our nation’s foundations
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+a.&nbsp;&nbsp;&nbsp; Boldness, for example, shaped our nation’s foundations
 in the 1960s and 1970s. Then, the Jurong Town Corporation (JTC) made the
 unprecedented move to turn swampland into industrial parks. The Economic
 Development Board (EDB) ventured overseas to attract multinational corporations
@@ -58,8 +53,8 @@ been done elsewhere? We asked ourselves: What new paths must we chart to
 meet our own needs? This is one question we must continue to ask ourselves
 every day. When there are no solutions, we must be bold enough to develop
 new solutions for ourselves, and have the conviction to see them through.</p>
-<p>&nbsp;</p>
-<p>b.&nbsp;&nbsp;&nbsp; In the pursuit of excellence in the 1980s and 1990s,
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+b.&nbsp;&nbsp;&nbsp; In the pursuit of excellence in the 1980s and 1990s,
 this made the crucial difference between success and failures. Many people
 have good ideas, but good and consistent execution with conviction is not
 so easily achieved. The pursuit of excellence depends on a number of factors:
@@ -68,8 +63,8 @@ and (c) constant fine-tuning to improve things even before they break.
 These attributes were exemplified in how we built our infrastructure —
 from flats to roads, from implementing CPF, to education and defence policies,
 and many others.&nbsp;</p>
-<p>&nbsp;</p>
-<p>c.&nbsp;&nbsp;&nbsp; More recently in 2000s, we shifted and placed greater
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+c.&nbsp;&nbsp;&nbsp; More recently in 2000s, we shifted and placed greater
 emphasis in working together as One Public Service, anchored on the basic
 concept of delivering our services from the citizens’ perspective — citizen-centricity.
 What we saw during COVID-19, where all our agencies were able to work seamlessly
@@ -80,8 +75,8 @@ to do better across conventional Ministry or agency boundaries, to think
 of the bigger picture and how we can optimise at the macro-level, in service
 of our people and nation. This collaborative spirit is not something that
 we should take for granted.</p>
-<p>&nbsp;</p>
-<p>d.&nbsp;&nbsp;&nbsp; When I meet my counterparts from overseas, they often
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+d.&nbsp;&nbsp;&nbsp; When I meet my counterparts from overseas, they often
 share that while they have the same ideas to deliver services across different
 agencies as a Public Service, it was not easily achievable. While systems
 and processes can change, what was most important and needed to change
