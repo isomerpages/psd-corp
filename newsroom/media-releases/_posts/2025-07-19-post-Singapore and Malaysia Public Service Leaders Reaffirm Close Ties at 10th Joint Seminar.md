@@ -14,28 +14,35 @@ Leaders of Singapore and Malaysia was held in Singapore on 19 July 2025,
 reaffirming the excellent relations between the Public Services of both
 countries. The event was last hosted by Malaysia in 2018, and put on hold
 following the COVID-19 pandemic.</p>
-<p>2 Mr Leo Yip, Head of the Singapore Civil Service, along with 48 Permanent
-Secretaries, Deputy Secretaries, and heads of agencies from the Singapore
-Public Service hosted Tan Sri Shamsul Azri Bin Abu Bakar, Chief Secretary
-to the Government of Malaysia and his delegation. Tan Sri Shamsul Azri
-was accompanied by a delegation of 47 Malaysian public sector leaders comprising
-Secretary-Generals, State Secretaries, and other senior officials.</p>
-<p>3 Speaking at the opening of the Joint Seminar, Mr Chan Chun Sing, Coordinating
-Minister for Public Services and Minister-in-charge of the Public Service,
-welcomed its resumption as a platform to deepen longstanding ties between
-Singapore and Malaysia officials, build mutual understanding, and discuss
-the common mission of delivering a better quality of life for citizens.</p>
-<p>4 At the Joint Seminar themed “Leading Change: A Trusted and Effective
-Public Service for the 21st Century”, delegates exchanged views on how
-both countries can build trusted and effective Public Services that are
-able to navigate the challenges and opportunities of today and tomorrow.</p>
-<p>5 In his remarks, Mr Leo Yip reaffirmed that Singapore and Malaysia are
-close neighbours who enjoy a deep friendship. He added that he looked forward
+<p>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr
+Leo Yip, Head of the Singapore Civil Service, along with 48 Permanent Secretaries,
+Deputy Secretaries, and heads of agencies from the Singapore Public Service
+hosted Tan Sri Shamsul Azri Bin Abu Bakar, Chief Secretary to the Government
+of Malaysia and his delegation. Tan Sri Shamsul Azri was accompanied by
+a delegation of 47 Malaysian public sector leaders comprising Secretary-Generals,
+State Secretaries, and other senior officials.</p>
+<p>3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaking
+at the opening of the Joint Seminar, Mr Chan Chun Sing, Coordinating Minister
+for Public Services and Minister-in-charge of the Public Service, welcomed
+its resumption as a platform to deepen longstanding ties between Singapore
+and Malaysia officials, build mutual understanding, and discuss the common
+mission of delivering a better quality of life for citizens.</p>
+<p>4 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At
+the Joint Seminar themed “Leading Change: A Trusted and Effective Public
+Service for the 21st Century”, delegates exchanged views on how both countries
+can build trusted and effective Public Services that are able to navigate
+the challenges and opportunities of today and tomorrow.</p>
+<p>5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In
+his remarks, Mr Leo Yip reaffirmed that Singapore and Malaysia are close
+neighbours who enjoy a deep friendship. He added that he looked forward
 to more collaborations between the public sector leaders of both countries,
 enabling each to serve their citizens and countries better.</p>
-<p>6 Several senior public sector leaders from Singapore also hosted bilateral
-meetings with their Malaysian counterparts on the sidelines of the event.</p>
-<h4>About Singapore-Malaysia Joint Seminar and Public Service Games</h4>
+<p>6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Several
+senior public sector leaders from Singapore also hosted bilateral meetings
+with their Malaysian counterparts on the sidelines of the event.</p>
+<p></p>
+<p><strong><u>About Singapore-Malaysia Joint Seminar and Public Service Games</u></strong>
+</p>
 <p>The Singapore-Malaysia Joint Seminar and Public Service Games is a platform
 for senior public officials from both countries to exchange views on common
 challenges and opportunities, network with one another, and enhance the
