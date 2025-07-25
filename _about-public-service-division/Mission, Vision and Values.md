@@ -13,8 +13,7 @@ variant: markdown
 
    
 
-PSD stewards a trusted Public Service by developing a flourishing diverse workforce for the future as well as a forward-looking and inspiring leadership community, building future-ready public sector organisations, and driving good governance, values and excellence.
-
+The Public Service Division aims to build a first-class Public Service for a vibrant and successful Singapore. We steward a trusted Public Service to deliver excellent public services and enable effective Government by: developing a flourishing diverse workforce for the future and a forward-looking and inspiring leadership community; building future-ready public sector organisations; and driving good governance, values and excellence.
 
 ###    Developing a Flourishing Diverse Workforce for the Future
 
