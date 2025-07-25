@@ -9,12 +9,10 @@ variant: tiptap
 ---
 <p><strong>KEYNOTE ADDRESS BY COORDINATING MINISTER FOR PUBLIC SERVICES, MINISTER FOR DEFENCE AND MINISTER-IN-CHARGE OF THE PUBLIC SERVICE, MR CHAN CHUN SING, AT THE PUBLIC SERVICE COMMISSION SCHOLARSHIPS AWARD CEREMONY ON 25 JULY 2025&nbsp;</strong>
 </p>
-<p>&nbsp;</p>
-<p>Chairman and members of the Public Service Commission,</p>
-<p>Head, Civil Service and colleagues from the Public Service,</p>
-<p>Scholarship recipients,</p>
-<p>Family members, teachers, principals.</p>
-<p>&nbsp;</p>
+<p>Chairman and members of the Public Service Commission,
+<br>Head, Civil Service and colleagues from the Public Service,
+<br>Scholarship recipients,
+<br>Family members, teachers, principals.</p>
 <p>1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A very good afternoon to all
 of you.</p>
 <p>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Every year, when I come to
