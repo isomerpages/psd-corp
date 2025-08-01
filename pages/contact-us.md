@@ -25,5 +25,10 @@ contacts:
       - email: Samantha_Leong@psd.gov.sg
       - other: Ms Samantha Leong
     title: For media queries
+  - content:
+      - phone: ""
+      - email: careers.gov.technicalhelp@psd.gov.sg
+      - other: ""
+    title: For Careers@Gov support
 feedback: /feedback
 ---
