@@ -9,10 +9,10 @@ image: ""
 variant: tiptap
 ---
 <p>Mr Chan Chun Sing, Coordinating Minister for Public Services and Minister-in-charge
-of the Public Service,</p>
-<p>British High Commissioner, Mr Nikesh Mehta,</p>
-<p>Chairman and Members of the Public Service Commission,</p>
-<p>Distinguished Guests</p>
+of the Public Service,
+<br>British High Commissioner, Mr Nikesh Mehta,
+<br>Chairman and Members of the Public Service Commission,
+<br>Distinguished Guests</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My heartiest congratulations to this
 year’s President’s Scholarship recipients. My compliments to your parents,
 school leaders and teachers too, who are here to share this occasion with
