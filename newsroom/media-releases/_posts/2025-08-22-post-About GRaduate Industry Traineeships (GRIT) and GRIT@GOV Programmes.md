@@ -65,6 +65,6 @@ are eligible for the programme as well.</p>
 </p>
 <p>7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applications
 for GRIT and GRIT@Gov programmes will commence from October 2025. Fresh
-graduates are encouraged to register their interest <a href="https://go.gov.sg/grit-trainee-interestform" rel="noopener noreferrer nofollow" target="_blank">here</a> or through the
-QR code below, to be among the first to know when the programme is launched
-and opportunities become available.&nbsp;</p>
+graduates are encouraged to register their interest <a href="https://go.gov.sg/grit-trainee-interestform" rel="noopener noreferrer nofollow" target="_blank">here</a>, to be among
+the first to know when the programme is launched and opportunities become
+available.&nbsp;</p>
